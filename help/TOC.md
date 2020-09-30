@@ -1,0 +1,370 @@
+---
+user-guide-title: Adobe Analytics 자습서
+user-guide-description: A collection of videos and tutorials for Adobe Analytics.
+breadcrumb-title: Analytics Tutorials
+breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
+solution: Analytics
+translation-type: tm+mt
+source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+workflow-type: tm+mt
+source-wordcount: '1835'
+ht-degree: 17%
+
+---
+
+
+# Analytics 자습서 {#tutorials}
+
++ [개요](overview.md)
++ Introduction to Analytics {#intro-to-analytics}
+   + Adobe Analytics이 뭘 해줄 수 있나요? {#what-can-aa-do-for-me}
+      + [Analysis Workspace Adobe의 비즈니스 혁신](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [데이터 그 이상의 고객 인텔리전스](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Adobe Sensei과 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+      + [고객 사용 사례 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+      + [고객 사용 사례 - 강조 그룹](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+      + [고객 활용 사례 - The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+      + [Summit 2019 Super Session - 여행 및 숙박](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Summit 2019 Super Session - 소매](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Summit 2019 Super Session - 첨단 기술](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + Analytics 기본 사항 {#analytics-basics}
+      + [Reports and Analytics의 작업 영역 단추 사용](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [사람 지표](intro-to-analytics/analytics-basics/people-metric.md)
+      + [분석 주기 이해](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [분석 데이터 수집 방법](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+      + [Adobe Analytics 로그인](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
+      + [Analytics UI 소개](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
+      + [보고서 세트 이해 및 만들기](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [Adobe Labs(기술 미리 보기)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+   + UI 사용자 정의 {#customizing-the-ui}
+      + [Dimension 및 지표 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
+      + [Analysis Workspace에서 사용자 정의 색상 팔레트 사용](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
+      + [사용자 정의 팔레트를 정의하기 위한 색상 스포이드 확장](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
+      + [Reports and Analytics의 메뉴 사용자 지정](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Adobe Analytics 보안 강화](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [Analysis Workspace를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
+      + [Analysis Workspace 프로젝트를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
+      + [Analysis Workspace를 위한 다크 모드 확장](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
+   + 도움말 보기 {#getting-help}
+      + [Analysis Workspace 제품 팁](intro-to-analytics/getting-help/in-product-tips.md)
+      + [제품 내 지원 티켓 제출](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
+      + [Adobe Analytics의 도움말](intro-to-analytics/getting-help/getting-help.md)
++ Analysis Workspace {#analysis-workspace}
+   + Analysis Workspace 기본 사항 {#analysis-workspace-basics}
+      + [Analysis Workspace 소개](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace 개요](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [Analysis Workspace에서 첫 프로젝트 시작](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [새 Analysis Workspace 프로젝트 만들기](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+      + [Analysis Workspace에서 사용자 정의 템플릿 만들기 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
+      + [Analysis Workspace의 표준 템플릿](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
+      + [사용자 정의 템플릿을 사용하여 초보 Analysis Workspace 사용자 활성화](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
+      + [Analysis Workspace 프로젝트에 데이터가 포함되는 방법 이해](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Analysis Workspace의 구성 요소 관리](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
+      + [구성 요소 관리자 사용](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
+      + [Analysis Workspace에서 보고서 세트 선택](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+   + 팁과 트릭 {#tips-and-tricks}
+      + [Analysis Workspace을 위한 7 팁 및 기법](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+      + [Analysis Workspace 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
+      + [Adobe Analytics 학습 여정을 지속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+   + 작업 공간 프로젝트 탐색 {#navigating-workspace-projects}
+      + [Analysis Workspace에서 첫 프로젝트 시작](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [Analysis Workspace의 교육 자습서 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Analysis Workspace에 복사 및 삽입](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [목차 만들기](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
+      + [마우스 오른쪽 단추를 클릭하여 작업 영역 효율성 향상하기](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [Analysis Workspace에서 사용자 정의 색상 팔레트 사용](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
+      + [키보드 단축키](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
+      + [메뉴 막대](analysis-workspace/navigating-workspace-projects/menu-bar.md)
+      + [프로젝트 관리](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
+      + [Analysis Workspace의 실행 취소](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [Analysis Workspace의 밀도 보기](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [향상된 제로 상태](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
+      + [왼쪽 레일에 필터(태그) 사용](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + 패널 사용 {#using-panels}
+      + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
+      + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
+      + [Attribution IQ 패널 사용](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
+      + [패널 수준 세그먼트](analysis-workspace/using-panels/panel-level-segments.md)
+      + [패널을 사용하여 Analysis Workspace 프로젝트 구성](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
+      + [향상된 세그먼트 드롭 영역](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+      + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+   + 자유 형식 테이블 작성 {#building-freeform-tables}
+      + [왼쪽 레일을 사용하여 Analysis Workspace에서 자유 형식 테이블 만들기](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [Analysis Workspace에서 자유 형식 테이블 자동 빌드](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [자유 형식 테이블에서 Dimension 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [자유 형식 테이블에서 지표 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [자유 형식 테이블 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Analysis Workspace에서 정적 행 순서 변경](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
+      + [자유 형식 테이블에서 Attribution IQ 사용](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [Analysis Workspace에서 마우스 오른쪽 단추 클릭 메뉴 사용](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
+      + [Analysis Workspace에서 마우스 오른쪽 단추 클릭 메뉴 계속](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
+      + [Analysis Workspace 크로스셀 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+      + [자유 형식 테이블 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [Analysis Workspace의 시간 분할 Dimension](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [Analysis Workspace의 자유 형식 테이블 합계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+   + 시각화 {#visualizations}
+      + [Analysis Workspace의 데이터 시각화](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
+      + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
+      + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
+      + [시각화할 데이터 선택](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [Analysis Workspace의 선 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [글머리 기호 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
+      + [ 히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
+      + [맵 시각화](analysis-workspace/visualizations/map-visualization.md)
+      + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [지표 평활법 적용을 위해 누적 평균 기능 사용](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [유연한 레이아웃](analysis-workspace/visualizations/flexible-layouts.md)
+      + [시각화에서 비율/축 변경](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
+      + [Dimension-그래프 라이브 링크](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [세부기간 전환](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Analysis Workspace의 인사이트 링크](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+      + [긍정-부정 맵 테마](analysis-workspace/visualizations/positive-negative-map-theme.md)
+      + [시각화 재정렬 및 크기 조정](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
+      + [Analysis Workspace의 리치 텍스트 편집기](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [시리즈 레이블 편집](analysis-workspace/visualizations/series-label-editing.md)
+      + [100% 누적 시각화](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
+      + [테이블 데이터 소스 설정](analysis-workspace/visualizations/table-data-source-settings.md)
+      + [시간 분할 히트맵 만들기](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+      + [트리맵 및 산포도 시각화](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [벤 다이어그램 시각화](analysis-workspace/visualizations/venn-diagram-visualization.md)
+      + [시각화 데이터 소스 설정](analysis-workspace/visualizations/visualization-data-source-settings.md)
+   + 세그먼트 적용 {#applying-segments}
+      + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [Analysis Workspace에서 세그먼트 사용](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
+      + [임시 세그먼트](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [세그먼트에서 다른 Attribution IQ 모델 사용](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
+      + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
+      + [패널 수준 세그먼트](analysis-workspace/using-panels/panel-level-segments.md)
+      + [향상된 세그먼트 드롭 영역](analysis-workspace/using-panels/segment-dropzone-improvements.md)
+      + [Analysis Workspace에서 Dimension으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [세그먼트를 사용하여 Analysis Workspace의 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+   + 지표 {#metrics}
+      + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [Analysis Workspace에서 프로젝트에 Dimension 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
+      + [자유 형식 테이블에서 지표 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+   + 차원 {#dimensions}
+      + [Analysis Workspace에서 프로젝트에 Dimension 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [트래픽 변수(Prop) 소개](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [전환 변수(eVar) 소개](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [자유 형식 테이블에서 Dimension 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+   + 달력 및 날짜 범위 {#calendar-and-date-ranges}
+      + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [Analysis Workspace에서 날짜 범위 및 비교 사용](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
+      + [Analysis Workspace에서 날짜 범위 및 달력 사용](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
+      + [사용자 지정 날짜 범위 만들기](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
+      + [Analysis Workspace의 날짜 비교](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
+      + [트렌드에 대한 이전 월 및 연도 비교 추가](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
+   + 고객 여정 분석 {#analyzing-customer-journeys}
+      + [고객 여정 IQ - 디바이스 간 분석](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [폴아웃 시각화](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [폴아웃 시각화 개선 사항](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [다차원 폴아웃](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [폴아웃의 세그먼트 비교](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [플로우 시각화](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [흐름 시각화 확장](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [텍스트 감싸기 및 다차원 흐름](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
+   + Curate and Share Projects {#curate-and-share-projects}
+      + [Analysis Workspace에서 프로젝트 저장, 공유 및 공동 작업하기](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [Analysis Workspace에서 조정 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
+      + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
+      + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
+      + [포함된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
+      + [프로젝트 예약 및 다운로드 가능](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
+      + [Analysis Workspace에서 프로젝트 공유하기](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
+      + [Analysis Workspace의 보기 전용 프로젝트](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+   + 속성 IQ {#attribution-iq}
+      + [크로스탭 분석을 사용하여 기본 마케팅 어트리뷰션 탐색](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
+      + [Attribution IQ 모델의 단계별 비교 추가](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
+      + [계산된 지표의 속성 IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [자유 형식 테이블에서 Attribution IQ 사용](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [Attribution IQ 패널 사용](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [세그먼트에서 다른 Attribution IQ 모델 사용](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
+      + [속성 IQ의 알고리즘 모델](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
+      + [속성 IQ의 사용자 지정 검색 창](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
+   + 집단 분석 {#cohort-analysis}
+      + [Analysis Workspace의 집단 분석](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+      + [집단 테이블 개요](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
+      + [집단 테이블 설정](analysis-workspace/cohort-analysis/cohort-table-settings.md)
+      + [집단 테이블을 사용한 이탈률 분석](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
+      + [Dimension을 사용한 집단 분석](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
+      + [집단 테이블로 지연 분석](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
+      + [집단 테이블의 롤링 유지 계산](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+   + 음성 분석 {#voice-analytics}
+      + [음성 지원 앱 데이터 관리 및 추적 방법](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
+      + [음성 지원 디바이스 간 차이점 이해](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
+      + [음성 앱 참여 향상 기회 찾기](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
+      + [음성 앱에서 오류 비율 감소 및 성공률 향상](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
+      + [음성 도우미의 사용자 동작 이해](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
+      + [사용자의 음성 경로 이해](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
++ Reports and Analytics {#reports-and-analytics}
+   + [Reports and Analytics의 실시간 보고](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
++ 관리 {#administration}
+   + 사용자 관리 {#user-management}
+      + [Adobe Analytics에 관리자 추가](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [Admin Console에서 보고서 세트 액세스 제한](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+   + 보고서 세트 관리 {#manage-report-suites}
+      + [우편 번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
+      + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+   + 데이터 거버넌스 및 GDPR {data-governance-and-gdpr}
+      + [Adobe Analytics의 데이터 거버넌스 및 GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
+      + [Analytics 팀에 적합한 사용자 확보](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
+   + 트래픽 관리 {#traffic-management}
+      + [서버 호출 사용량](administration/traffic-management/server-call-usage.md)
+   + 로그{#logs}
+      + [Analysis Workspace 사용 로그 추적](administration/logs/usage-log-tracking-for-analysis-workspace.md)
++ 구현 {#implementation}
+   + 구현 기본 사항 {#implementation-basics}
+      + [최초 구현](implementation/implementation-basics/first-time-implementation.md)
+      + [처리 규칙을 사용하여 contextData 변수를 Prop 및 Evar에 매핑](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Analytics 추적 서버 및 보고서 세트를 식별하는 방법](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [비즈니스 요구 사항 문서 작성](implementation/implementation-basics/creating-a-business-requirements-document.md)
+      + [SDR 생성 및 유지 관리](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [사이트에서 데이터 레이어 사용](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
+   + Via Experience Platform Launch {#via-adobe-launch}
+      + [ Experience Platform Launch를 사용하여 웹 사이트에서 Experience Cloud 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [Analytics 론치 확장 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Analytics에 대한 라이브러리 관리 구성](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Launch Analytics 확장 기능의 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Launch Analytics 익스텐션에서 전역 변수 구성](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [Launch Analytics Extension에서 쿠키 설정 구성](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+      + [론치 분석 확장 구성 중 사용자 지정 코드 사용](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
+      + [데이터 레이어를 사용하여 Experience Platform Launch을 통해 페이지 이름 및 기타 변수 설정](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Adobe Analytics 익스텐션에서 doPlugins 사용](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [간편한 다운로드 링크 추적 구성](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
+      + [쉬운 종료 링크 추적 구성](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
+      + [Analytics 구현을 위한 Experience Platform Launch 준비](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+      + [Analytics 구현을 위한 Experience Platform Launch에서 데이터 요소 만들기](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+      + [Experience Platform Launch에서 전역 페이지 규칙 만들기](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+      + [Experience Platform Launch에서 전역 페이지 로드 규칙 유효성 확인](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+      + [특수 페이지에 대한 Experience Platform Launch 규칙 만들기](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+      + [성공 이벤트에 대한 Experience Platform Launch 규칙 만들기](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+      + [스테이지 및 프로덕션에 Experience Platform Launch 라이브러리 게시](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+   + JavaScript 사용 {#using-javascript}
+      + [태그 관리자 없이 사용자 지정 링크 추적](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
+      + [Experience Platform Launch을 사용하지 않을 때 AppMeasurement 업데이트](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
+   + 유효성 확인 및 문제 해결 {#validating-and-troubleshooting}
+      + [Adobe Experience Cloud 디버거를 사용한 구현 검사](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
+      + [Experience Cloud Debugger에서 처리된 이후 히트 보기](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
+   + SPA 페이지 {#spa-pages}
+      + [SPA 추적 시 모범 사례 사용](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
++ 구성 요소 {#components}
+   + 세그먼테이션 {#segmentation}
+      + [세그먼트 빌더 개요](components/segmentation/segment-builder-overview.md)
+      + [순차적 세그멘테이션의 시퀀스 전과 후](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
+      + [세그먼트의 롤링 날짜 범위](components/segmentation/rolling-date-ranges-in-segments.md)
+      + [Analysis Workspace의 세그먼트 비교](components/segmentation/segment-comparison-in-analysis-workspace.md)
+      + [세그먼트 컨테이너](components/segmentation/segment-containers.md)
+      + [세그먼트 관리 및 공유](components/segmentation/segment-management-and-sharing.md)
+      + [Analysis Workspace에서 세그먼트 사용](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
+      + [Analysis Workspace에서 Dimension으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [세그먼트를 사용하여 Analysis Workspace의 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [순차적 세그먼테이션](components/segmentation/sequential-segmentation.md)
+      + [개별 Dimension 수에 대한 세그먼테이션](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [세그멘테이션의 Dimension 모델](components/segmentation/dimension-models-in-segmentation.md)
+      + [세그멘테이션의 모든 연산자와 같음](components/segmentation/equals-any-of-operator-in-segmentation.md)
+   + 계산된 지표 {#calculated-metrics}
+      + [계산된 지표의 고유 카운트 함수](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [계산된 지표의 속성 IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [계산된 지표 - 지표 빌더](components/calculated-metrics/calculated-metrics-metric-builder.md)
+      + [계산된 지표 - 함수](components/calculated-metrics/calculated-metrics-functions.md)
+      + [계산된 지표 - 구현 없는 지표](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [계산된 지표 - 세그먼트화된 지표](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [계산된 지표 - 지표 선택기](components/calculated-metrics/calculated-metrics-metric-selector.md)
+      + [Analysis Workspace의 빠른 계산된 지표](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [계산된 지표의 Dimension 사용](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+   + 분류 {#classifications}
+      + [분류 개요](components/classifications/overview-of-classifications.md)
+      + [분류 규칙 빌더 사용](components/classifications/using-the-classification-rule-builder.md)
+   + 가상 보고서 세트 {#virtual-report-suites}
+      + [가상 보고서 세트](components/virtual-report-suites/virtual-report-suites.md)
+      + [가상 보고서 세트의 구성 요소 조정](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [가상 보고서 세트의 컨텍스트 인식 세션](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [가상 보고서 세트의 모든 이벤트에 대해 새 방문 시작](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+   + Activity Map {#activity-map}
+      + [Activity Map 개요](components/activity-map/activity-map-overview.md)
+      + [Adobe Analytics Activity Map 활성화, 디버깅 및 사용자 정의](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
++ 추가 도구 {#additional-tools}
+   + 분석 대시보드 {#analytics-dashboards}
+      + [Adobe Analytics 대시보드 스코어카드 빌더](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [Analytics 대시보드 인앱 경험](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
++ 내보내기 {#exporting}
+   + UI에서 {#from-the-ui}
+      + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
+   + Data Warehouse {#data-warehouse}
+      + [Data Warehouse 소개](exporting/data-warehouse/introduction-to-data-warehouse.md)
+   + 데이터 피드 {#data-feeds}
+      + [데이터 피드 관리 UI](exporting/data-feeds/data-feeds-management-ui.md)
+   + Report Builder {#report-builder}
+      + [Report Builder에서 한 번에 여러 요청에 세그먼트 추가](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
+      + [Report Builder의 예외 항목 탐지](exporting/report-builder/anomaly-detection-in-report-builder.md)
+      + [요청에서 지표 편집](exporting/report-builder/edit-metrics-across-requests.md)
+      + [Report Builder을 사용하여 Adobe Analytics API 학습](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
++ 통합 {#integrations}
+   + Experience Cloud {experience-cloud}
+      + [향상된 Experience Cloud 대상자 게시](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+   + Audience Manager {#audience-manager}
+      + [Experience Platform Launch에서 서버 측 전달 활성화](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
+      + [Audience Analytics - AAM 세그먼트를 Analytics에 통합](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
+   + Target {#target}
+      + [Analysis Workspace의 Analytics for Target(A4T)](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+   + Ad Cloud {#ad-cloud}
+      + [Advertising Analytics 구성](integrations/ad-cloud/configuring-advertising-analytics.md)
+      + [검색 엔진에 추적 템플릿 구현](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
+      + [Advertising Cloud DSP 통합을 위한 분석 소개](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [사전 실행 캠페인 분석 만들기](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Advertising Cloud 마케팅 채널을 사용한 보고](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Analytics 사이트 고객 여정 프로필 만들기](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+      + [활성화 및 보고를 위한 Analytics 세그먼트 만들기](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [Adobe Analytics을 사용하여 Advertising Cloud 경고 만들기](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Advertising Cloud 데이터를 사용하여 Analytics 사용자 지정 지표 만들기](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Advertising Cloud 사이트 항목 보고서 만들기](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Advertising Cloud 대시보드 만들기](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+   + Ad Hoc Analytics {#ad-hoc-analytics}
+      + [프로젝트 변환기를 사용하여 프로젝트를 Ad Hoc Analysis에서 분석 작업 영역으로 이동](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
+   + Power BI {#power-bi}
+      + [Power BI의 Adobe Analytics 커넥터](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
+   + Magento {#magento}
+      + [Magento Analysis Workspace 템플릿](integrations/magento/magento-analysis-workspace-template.md)
++ 데이터 과학 {#data-science}
+   + [중요한 순간에 Adobe Analytics 머신 러닝과 인공 지능(AI) 사용](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
+   + [Analysis Workspace에서의 예외 항목 탐지](data-science/anomaly-detection-in-analysis-workspace.md)
+   + [Analysis Workspace 기여도 분석](data-science/contribution-analysis-workspace.md)
+   + [지능형 경고](data-science/intelligent-alerts.md)
+   + [Adobe Analytics과 Adobe Sensei - ALL을 위한 데이터 과학 통합](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
++ 세로별 {#vertical-specific}
+   + 첨단 기술 {#high-tech}
+      + [Summit 2019 Super Session - 첨단 기술](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 여행 및 숙박 {#travel-and-hospitality}
+      + [Summit 2019 Super Session - 여행 및 숙박](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+   + 소매 {#retail}
+      + [소매 변수 및 이벤트 소개](vertical-specific/retail/intro-to-retail-variables-and-events.md)
+      + [시작 규칙에 기본 소매 변수 및 이벤트 추가](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
+      + [구매 이벤트에 대한 실행 규칙 추가](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
+      + [Summit 2019 Super Session - 소매](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
++ Media Analytics {#media-analytics}
+   + 음성 또는 오디오 측정 {#measuring-voice-or-audio}
+      + [Analysis Workspace에서 오디오 소비 템플릿 사용](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
++ 모바일 앱 분석 {#mobile-app-analytics}
+   + 구현 {#implementation}
+      + [모바일 앱에 대한 관리 설정](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
+      + [Experience Platform SDK로 라이프사이클 지표 초기화 및 보기](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
+      + [추적 작업(AKA 사용자 지정 링크)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
+      + [추적 상태(AKA 페이지 또는 스크린)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
+      + [iOS Swift 앱에서 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [iOS Objective-C 앱에서 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Android 앱에서 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+   + 모바일 분석 측정 {#measuring-mobile-analytics}
+      + [Adobe Mobile Analytics 시작하기](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
+      + [고객 접점이 모바일 경로 전반에 미치는 영향](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [채널 간 사용자 행동 분석](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
+      + [고객 참여도와 유지율을 높이는 방법](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
++ API {#apis}
+   + [Analysis Workspace을 사용하여 API 2.0 요청 작성](apis/using-analysis-workspace-to-build-api-2-requests.md)
+   + [Report Builder을 사용하여 Adobe Analytics API 학습](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+   + [Postman을 사용하여 Adobe Analytics 2.0 API 요청 만들기](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
++ Analysis Use Cases {#analysis-use-cases}
+   + [시장 내 우편 번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
