@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1834'
 ht-degree: 17%
 
 ---
@@ -209,7 +209,7 @@ ht-degree: 17%
    + 보고서 세트 관리 {#manage-report-suites}
       + [우편 번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + 데이터 거버넌스 및 GDPR {data-governance-and-gdpr}
+   + 데이터 거버넌스 및 GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics의 데이터 거버넌스 및 GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [Analytics 팀에 적합한 사용자 확보](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + 트래픽 관리 {#traffic-management}
