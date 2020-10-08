@@ -3,15 +3,16 @@ title: Analysis Workspace에서 자유 형식 테이블 빌더 사용
 description: 자유 형식 테이블 빌더를 사용하면 많은 차원, 분류, 지표 및 세그먼트를 드래그하여 놓음으로써 보다 복잡한 비즈니스 질문에 대한 해답을 만들 수 있습니다. 데이터는 즉시 업데이트되지 않습니다.대신 "빌드"를 클릭하면 테이블이 한 번만 업데이트되므로 시간이 절약됩니다.
 feature: freeform tables
 topics: null
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31318.jpg
 kt: 4217
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
