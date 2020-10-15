@@ -1,14 +1,14 @@
 ---
 user-guide-title: Adobe Analytics 자습서
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-description: Adobe Analytics를 위한 비디오 및 자습서 모음입니다.
+breadcrumb-title: Analytics 자습서
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
-ht-degree: 17%
+source-wordcount: '1857'
+ht-degree: 20%
 
 ---
 
@@ -92,7 +92,7 @@ ht-degree: 17%
    + 자유 형식 테이블 작성 {#building-freeform-tables}
       + [왼쪽 레일을 사용하여 Analysis Workspace에서 자유 형식 테이블 만들기](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Analysis Workspace에서 자유 형식 테이블 자동 빌드](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [자유 형식 테이블에서 Dimension 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [자유 형식 테이블에서 차원 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [자유 형식 테이블에서 지표 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [Analysis Workspace에서 기여도 지표 사용](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
@@ -151,7 +151,7 @@ ht-degree: 17%
       + [Analysis Workspace에서 프로젝트에 Dimension 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [트래픽 변수(Prop) 소개](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [전환 변수(eVar) 소개](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [자유 형식 테이블에서 Dimension 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [자유 형식 테이블에서 차원 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
    + 달력 및 날짜 범위 {#calendar-and-date-ranges}
       + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Analysis Workspace에서 날짜 범위 및 비교 사용](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
