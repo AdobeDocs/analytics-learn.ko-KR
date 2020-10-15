@@ -1,6 +1,6 @@
 ---
 title: 향상된 Experience Cloud 대상자 게시
-description: 퍼블리싱 대상자(세그먼트)를 학습하여 보다 신속하게 이용할 수 있도록 만들 수 있습니다.
+description: 게시 대상(세그먼트)을 학습하고 보다 신속하게 이용할 수 있도록 만들어봅니다.
 seo-description: Experience Cloud 대상자 게시가 개선되었습니다. 이제 대상(세그먼트)을 게시하여 6배 더 빠르게 사용할 수 있도록 할 수 있으므로, 트래픽 및 세그먼트 크기에 따라 현재 대기 시간이 48시간에서 약 8시간으로 단축되고 더 빨라질 수 있습니다.
 feature: integration with experience cloud
 topics: null
@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 56049a25261318663349309164744fbb9bcfc952
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 27%
+ht-degree: 34%
 
 ---
 
