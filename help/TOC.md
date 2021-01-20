@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 자습서
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 21%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 21%
    + 팁과 트릭 {#tips-and-tricks}
       + [Analysis Workspace을 위한 7가지 팁 및 기법](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Analysis Workspace의 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
-      + [Adobe Analytics 학습 여정을 지속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
+      + [Adobe Analytics 학습 여정 지속을 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 작업 공간 프로젝트 탐색 {#navigating-workspace-projects}
       + [Analysis Workspace에서 첫 번째 프로젝트 시작](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspace의 교육 자습서 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
@@ -162,7 +162,7 @@ ht-degree: 21%
       + [Analysis Workspace의 날짜 비교](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [트렌드에 대한 이전 월 및 연도 비교 추가](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 고객 여정 분석 중 {#analyzing-customer-journeys}
-      + [고객 여정 IQ - 디바이스 간 분석](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [여정 IQ - 크로스 디바이스 분석](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [폴아웃 시각화](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [폴아웃 시각화 개선 사항](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
       + [다차원 폴아웃](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
@@ -203,7 +203,7 @@ ht-degree: 21%
       + [음성 앱 참여 향상 기회 찾기](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
       + [음성 앱에서 오류 비율 감소 및 성공률 향상](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [음성 도우미의 사용자 동작 이해](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
-      + [사용자의 음성 경로 이해](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
+      + [사용자의 음성 여정 이해](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics의 실시간 보고](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 관리 {#administration}
@@ -236,7 +236,8 @@ ht-degree: 21%
       + [Launch Analytics 확장 기능에서 전역 변수 구성](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Launch Analytics Extension의 쿠키 설정 구성](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [론치 분석 확장 구성 중 사용자 지정 코드 사용](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [데이터 레이어를 사용하여 Experience Platform Launch을 통해 페이지 이름 및 기타 변수 설정](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [데이터 레이어를 사용하여 론치를 통해 페이지 이름 및 기타 변수 설정](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [Launch에서 구현 플러그인 추가](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Adobe Analytics Extension에서 doPlugins 사용](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [쉬운 다운로드 링크 추적 구성](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [쉬운 종료 링크 추적 구성](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
@@ -363,7 +364,7 @@ ht-degree: 21%
       + [Android 앱에서 구현](https://docs.adobe.com/content/help/ko-KR/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + 모바일 분석 측정 {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 시작하기](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
-      + [모바일 고객 여정 전반에서 접점이 미치는 영향](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
+      + [터치포인트가 모바일 여정 전반에 미치는 영향](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [채널 간 사용자 행동 분석](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [참여도와 유지율을 높이는 방법](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
