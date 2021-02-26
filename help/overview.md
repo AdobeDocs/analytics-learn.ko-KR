@@ -1,40 +1,40 @@
 ---
-title: 분석 비디오 및 Tutorials
-description: Adobe Analytics을 위한 비디오 및 자습서 모음입니다.
+title: Analytics 비디오 및 튜토리얼
+description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 feature: overview
 topics: null
 audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '296'
+ht-degree: 100%
 
 ---
 
 
 # 개요
 
-Tutorials 사이트에 [!DNL Analytics] 오신 것을 환영합니다.  이 자습서와 함께 [설명서를](https://docs.adobe.com/content/help/ko-KR/analytics/landing/home.html) 사용하면 Adobe Analytics을 사용하여 보다 신속하게 고객 통찰력을 얻을 수 있는 방법을 더 잘 이해할 수 있습니다.  시작하려면 다이내믹 태그 관리 계정에서
-* 최신 자료 **를 보려면 아래의 &quot;새로운** 기능&quot; 섹션을 참조하십시오.
-* **직원 선택** 시 Adobe에서 가장 선호하는 컨텐츠 중 일부를 강조 표시
-* 왼쪽 탐색 창에서 주제 및 하위 주제별 컨텐츠 **살펴보기**
-* 원하는 내용을 알고 있는 경우 페이지 맨 위에 있는 **검색** 필드를 사용합니다
+[!DNL Analytics] 튜토리얼 사이트에 오신 것을 환영합니다.  [설명서](https://docs.adobe.com/content/help/ko/analytics/landing/home.html)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다.  시작하려면,
+* 최신 제품에 대한 자세한 내용은 아래의 **“새로운 기능”** 섹션을 참조하십시오.
+* **직원 선택**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
+* **왼쪽 내비게이션**&#x200B;에서 주제 및 하위 항목별로 내용 탐색
+* 찾고 있는 것을 알고 있는 경우에는 페이지 상단에 있는 **검색** 필드를 사용하십시오.
 
 ## 새로운 기능
 
-* **[마우스 오른쪽 버튼을 클릭하여 작업 공간 효율성(비디오)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Workspace 효율성을 위해 마우스 오른쪽 버튼 클릭(비디오)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
-   *자주 사용하는 모든 Analysis Workspace를 마우스 오른쪽 단추로 클릭하고 이를 사용하는 방법을 살펴볼 수 있습니다. From[!UICONTROL Freeform Tables]to[!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in[!DNL Workspace].*
+   *자주 사용하는 모든 Analysis Workspace를 마우스 오른쪽 버튼으로 클릭하고 이를 사용하는 방법을 살펴볼 수 있습니다. [!UICONTROL 자유 양식 표]에서 [!UICONTROL 폴아웃 시각화]까지 마우스 오른쪽 버튼으로 클릭하면 보다 효율적이고 능숙하게 사용할 수 있습니다[!DNL Workspace].*
 
 * **[Analysis Workspace의 빠른 인사이트 패널(비디오)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
 
    <br>
-   *Quick Insights는 Analysis Workspace의 비분석가 및 새 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있도록 지침을 제공합니다.*
+   *빠른 인사이트는 Analysis Workspace의 비분석가 및 새 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있도록 지침을 제공합니다.*
 
 * **[Analysis Workspace의 프로젝트 공유(비디오)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
 
@@ -47,11 +47,11 @@ Tutorials 사이트에 [!DNL Analytics] 오신 것을 환영합니다.  이 자�
 <tr>
   <td>
     <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-      <img alt="속성 IQ의 알고리즘 모델" src="assets/36205.jpg" />
+      <img alt="기여도 IQ의 알고리즘 모델" src="assets/36205.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md">
-    <strong>속성 IQ의 알고리즘 모델</strong>
+    <strong>기여도 IQ의 알고리즘 모델</strong>
     </a>
     </div>
     <p>
@@ -60,20 +60,20 @@ Tutorials 사이트에 [!DNL Analytics] 오신 것을 환영합니다.  이 자�
   </td>
    <td>
     <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-      <img alt="Analysis Workspace의 교육 자습서 템플릿" src="assets/33773.jpg" />
+      <img alt="Analysis Workspace의 교육용 튜토리얼 템플릿" src="assets/33773.jpg" />
     </a>
     <div>
       <a href="analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md">
-    <strong>Analysis Workspace의 교육 자습서 템플릿</strong>
+    <strong>Analysis Workspace의 교육용 튜토리얼 템플릿</strong>
     </a>
     </div>
     <p>
-    <em>Analysis Workspace 교육 자습서에서는 작업 공간에서 첫 번째 분석을 구축하기 위한 일반적인 용어 및 단계를 안내합니다.</em>
+    <em>Analysis Workspace 교육용 튜토리얼은 사용자가 Workspace에서 첫 번째 분석을 구축하기 위한 일반적인 용어와 단계를 안내합니다.</em>
     <p>
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="'Analysis Workspace 개요' 비디오의 축소판 이미지" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="“Analysis Workspace 개요” 비디오의 썸네일 이미지" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
@@ -81,7 +81,7 @@ Tutorials 사이트에 [!DNL Analytics] 오신 것을 환영합니다.  이 자�
     </a>
     </div>
     <p>
-    <em>Analysis Workspace 개요</em>
+    <em>Analysis Workspace의 고급 개요</em>
     <p>
   </td>
 </tr>
