@@ -1,6 +1,6 @@
 ---
-title: Reports and Analytics의 작업 영역 단추 사용
-description: Reports and Analytics의 대부분의 보고서에는 사용자 지정을 위해 Analysis Workspace의 현재 보기를 재현할 수 있는 [작업 공간에서 시도] 단추가 포함되어 있습니다.
+title: 보고서 및 분석의 [Workspace에서 시도] 버튼
+description: 보고서 및 분석의 대부분의 보고서에는 추가 맞춤화를 위해 Analysis Workspace에서 현재 보기를 재현할 수 있도록 [Workspace에서 시도] 버튼이 포함되어 있습니다.
 feature: analytics basics
 topics: null
 audience: all
@@ -8,17 +8,17 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '64'
+ht-degree: 100%
 
 ---
 
 
-# &quot;Try in Workspace&quot; Button in [!DNL Reports & Analytics] {#try-in-workspace-button-in-reports-analytics}
+# [!DNL Reports & Analytics]의 “Workspace에서 시도” 버튼 {#try-in-workspace-button-in-reports-analytics}
 
-Most reports in [!UICONTROL Reports &amp; Analytics] include a **[!UICONTROL Try in Workspace]** button to allow you to reproduce the current view in [!UICONTROL Analysis Workspace] for further customization.
+[!UICONTROL 보고서 및 분석]의 대부분의 보고서에는 추가 맞춤화를 위해 [!UICONTROL Analysis Workspace]에서 현재 보기를 재현할 수 있도록 **[!UICONTROL Workspace에서 시도]** 버튼이 포함되어 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
