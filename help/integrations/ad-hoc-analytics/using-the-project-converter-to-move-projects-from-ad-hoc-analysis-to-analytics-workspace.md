@@ -1,25 +1,27 @@
 ---
-title: 프로젝트 변환기를 사용하여 프로젝트를 Ad Hoc Analysis에서 분석 작업 영역으로 이동
+title: 프로젝트 전환기를 사용하여 Ad Hoc Analysis에서 Analytics Workspace로 프로젝트 이동
 description: Ad Hoc Analysis 프로젝트 변환기는 버튼을 한 번만 눌러 Ad Hoc Analysis(AHA) 프로젝트를 Analysis Workspace 프로젝트로 매끄럽게 변환합니다.
-feature: integration with experience cloud
+feature: Experience Cloud 통합
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
+topic: 통합
+role: 비즈니스 전문가
+level: 중간
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 20%
 
 ---
 
 
-# 프로젝트 변환기를 사용하여 프로젝트 이동 위치 [!DNL Ad Hoc Analysis] 를 [!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
+# 프로젝트 변환기를 사용하여 프로젝트를 [!DNL Ad Hoc Analysis]Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}(으)로 이동[!UICONTROL 
 
-한 번의 클릭으로 [!UICONTROL Ad Hoc Analysis] 프로젝트 변환기는 [!UICONTROL Ad Hoc Analysis] (AHA) 프로젝트를 [!UICONTROL Analysis Workspace] 프로젝트로 매끄럽게 변환합니다.
+[!UICONTROL Ad Hoc Analysis] 프로젝트 변환기는 버튼을 한 번만 클릭하여 [!UICONTROL Ad Hoc Analysis](AHA) 프로젝트를 [!UICONTROL Analysis Workspace] 프로젝트로 원활하게 변환합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
