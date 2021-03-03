@@ -1,24 +1,25 @@
 ---
-title: 계산된 지표 - 함수
+title: 계산된 메트릭 - 함수
 description: Adobe Analytics의 계산된 지표에서 함수를 사용하는 방법 학습
-feature: calculated metrics
+feature: 계산된 지표
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2321
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '33'
+ht-degree: 15%
 
 ---
 
 
 # [!UICONTROL 계산된 지표]: [!UICONTROL 함수] {#calculated-metrics-functions}
 
-Adobe Analytics의 [!UICONTROL 계산된 지표에] 기능을 사용하는 방법  학습
+Adobe Analytics에서 [!UICONTROL 계산된 지표]에서 [!UICONTROL functions]을 사용하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12)
