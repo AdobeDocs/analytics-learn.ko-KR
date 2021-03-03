@@ -2,19 +2,20 @@
 title: 'Analysis Workspace에 대한 간략한 소개 '
 seo-title: 'Analysis Workspace에 대한 간략한 소개 '
 description: 제품이 데이터 초보자 및 전문가를 지원하는 방법을 알아보기 위한 Analysis Workspace의 간략한 개요
-feature: workspace basics
+feature: 작업 영역 기본 사항
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3268
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '43'
-ht-degree: 100%
+role: 비즈니스 전문가
+level: 초급
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 89%
 
 ---
 
