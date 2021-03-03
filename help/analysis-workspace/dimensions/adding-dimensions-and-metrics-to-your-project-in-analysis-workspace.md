@@ -1,26 +1,27 @@
 ---
-title: Analysis Workspace에서 프로젝트에 Dimension 및 지표 추가
-description: 이 비디오에서는 차원과 지표, 차이에 대해 알아보고 Analysis Workspace에서 표와 시각화에 차원을 추가하는 방법을 살펴봅니다. 또한 즉시 사용 가능한 계산된 지표를 추가하는 방법을 알아봅니다.
-feature: dimensions
+title: Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가
+description: 이 비디오에서는 차원과 지표, 차이와 이들을 Analysis Workspace의 표 및 시각화에 추가하는 방법을 살펴봅니다. 즉시 사용 가능한 계산된 지표를 추가하는 방법도 알아보십시오.
+feature: 차원
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '106'
+ht-degree: 25%
 
 ---
 
 
-# Analysis Workspace에서 프로젝트에 [!UICONTROL Dimension] 및 [!UICONTROL 지표] 추가
+# Analysis Workspace의 프로젝트에 [!UICONTROL Dimension] 및 [!UICONTROL 지표]를 추가하는 중
 
-이 비디오에서는 [!UICONTROL 차원] 및 [!UICONTROL 지표], 차원간의 차이점 및 이러한 지표를 Analysis Workspace의 표 및 시각화에 추가하는 방법을 살펴봅니다. 또한 즉시 사용 가능한 계산된 지표를 추가하는 방법을 [!UICONTROL 알아봅니다].
+이 비디오에서는 [!UICONTROL 차원] 및 [!UICONTROL 지표], 지표 간의 차이점 및 이러한 차원을 Analysis Workspace의 테이블 및 시각화에 추가하는 방법에 대해 알아봅니다. 기본 [!UICONTROL 계산된 지표]를 추가하는 방법도 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html).
+자세한 내용은 [설명서](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html)를 참조하십시오.
