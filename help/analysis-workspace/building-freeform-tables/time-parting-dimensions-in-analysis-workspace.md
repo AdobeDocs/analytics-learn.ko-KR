@@ -1,27 +1,28 @@
 ---
-title: Analysis Workspace의 시간 분할 Dimension
-description: 시간 분할은 수집된 히트의 타임스탬프를 가져와 "하루 중 시간" 또는 "요일"과 같은 더 의미 있는 차원으로 구분합니다. 이제 Analysis Workspace에서 이러한 차원이 기본적으로 사용되고 있습니다.
-feature: freeform tables
+title: Analysis Workspace의 시간 분할 치수
+description: 시간 분할은 수집된 히트의 타임스탬프를 가져와 "하루 중 시간" 또는 "요일"과 같이 더 의미 있는 차원으로 구분합니다. 이제 Analysis Workspace에서 이러한 차원이 기본적으로 사용됩니다.
+feature: 자유 형식 테이블
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 4%
+source-wordcount: '93'
+ht-degree: 21%
 
 ---
 
 
 # [!DNL Time-parting] Analysis Workspace의 차원 {#time-parting-dimensions-in-analysis-workspace}
 
-[!DNL Time-parting] 수집된 히트의 타임스탬프를 가져와 &quot;하루 중 시간&quot; 또는 &quot;요일&quot;과 같은 더 의미 있는 차원으로 구분합니다. 이제 Analysis Workspace에서 이러한 차원이 기본적으로 사용되고 있습니다.
+[!DNL Time-parting] 수집된 히트의 타임스탬프를 사용하여 &quot;하루 중 시간&quot; 또는 &quot;요일&quot; 같은 보다 의미 있는 차원으로 구분합니다. 이제 Analysis Workspace에서 이러한 차원이 기본적으로 사용됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12)
 
-이 기능에 대한 자세한 내용은 [설명서를 참조하십시오](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/time-parting-dimensions.html).
+이 기능에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/time-parting-dimensions.html)를 참조하십시오.
