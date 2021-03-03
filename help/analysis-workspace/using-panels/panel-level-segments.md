@@ -1,23 +1,24 @@
 ---
 title: Analysis Workspace의 패널 수준 세그먼트
 description: 패널 수준에서 세그먼트를 적용하는 방법에 대한 간단한 개요
-feature: panels
+feature: 패널
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2106
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '40'
+ht-degree: 2%
 
 ---
 
 
-# Analysis Workspace의 패널 수준 세그먼트 {#panel-level-segments-in-analysis-workspace}
+# Analysis Workspace {#panel-level-segments-in-analysis-workspace}의 패널 수준 세그먼트
 
 패널 수준에서 세그먼트를 적용하는 방법에 대한 간단한 개요
 
