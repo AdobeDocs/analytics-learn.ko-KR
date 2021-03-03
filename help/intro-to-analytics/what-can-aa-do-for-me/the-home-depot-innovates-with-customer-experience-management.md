@@ -1,18 +1,19 @@
 ---
 title: 고객 사용 사례 - 고객 경험 관리를 통해 혁신을 이루는 Home Depot
 description: 1000억 달러 규모의 기업 내에서 70억 달러 규모를 차지하고 있는 전자 상거래 사이트인 HomeDepot.com은 적합한 고객 경험을 보장함으로써 경쟁에서 앞서가고 있습니다. Home Depot이 Adobe 솔루션을 사용하여 개인 맞춤화된 쇼핑 경험으로 브랜드 충성도와 고객 만족도를 창출하는 방법을 알아보십시오.
-feature: use cases
+feature: 사용 사례
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 90%
 
 ---
 
