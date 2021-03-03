@@ -1,26 +1,27 @@
 ---
 title: Analysis Workspace에서 오디오 소비 템플릿 사용
-description: 이 비디오에서는 곧바로 사용할 수 있는 Analysis Workspace의 오디오 소비 템플릿에 대해 간략하게 설명합니다.
-feature: panels
+description: 이 비디오에서는 곧바로 사용할 수 있는 Analysis Workspace의 오디오 사용 템플릿을 간략하게 설명합니다.
+feature: 패널
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 중간
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 7%
 
 ---
 
 
-# Analysis Workspace에서 [!UICONTROL 오디오 소비] 템플릿 사용 {#using-the-audio-consumption-template-in-analysis-workspace}
+# Analysis Workspace {#using-the-audio-consumption-template-in-analysis-workspace}에서 [!UICONTROL 오디오 소비] 템플릿 사용
 
-이 비디오에서는 곧바로 사용할 수 있는 Analysis Workspace의 [!UICONTROL 오디오] 소비 템플릿에 대해 간략하게 설명합니다 [!DNL Audio Analytics].
+이 비디오는 [!DNL Audio Analytics]에 대해 기본적으로 제공되는 Analysis Workspace의 [!UICONTROL 오디오 소비] 템플릿에 대해 간략하게 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
-[!DNL Audio Analytics] 일반적으로 분산된 오디오 마켓플레이스에서 사용자의 행동을 평가하는 사용자의 위치, 시간 및 빈도를 파악하고 사용자의 스트리밍 오디오 참여를 완벽한 디지털 비헤이비어와 연결할 수 있습니다. 이를 통해 기업은 고객의 접근성, 컨텐츠의 인기, 행동 및 유사 모델링을 기반으로 고객의 참여를 유지하는 방법을 측정할 수 있습니다.
+[!DNL Audio Analytics] 일반적으로 분산된 오디오 마켓플레이스에서 사용자 동작을 평가할 위치, 시간 및 빈도를 파악하고 리스너의 스트리밍 오디오 참여를 완벽한 디지털 비헤이비어와 연결할 수 있습니다. 이를 통해 기업은 고객의 접근성, 컨텐츠의 인기도, 행동 및 유사 모델링을 기반으로 고객의 참여를 유도하는 방법을 측정할 수 있습니다.
