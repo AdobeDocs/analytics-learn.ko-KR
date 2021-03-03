@@ -1,17 +1,18 @@
 ---
 title: Analytics 비디오 및 튜토리얼
 description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
-feature: overview
+feature: Analytics 기본 사항
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
-translation-type: ht
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '309'
+ht-degree: 96%
 
 ---
 
