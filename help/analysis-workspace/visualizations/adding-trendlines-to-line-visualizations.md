@@ -1,24 +1,25 @@
 ---
-title: 라인 시각화에 트렌드 라인 추가
+title: 라인 시각화에 추세선 추가
 description: 시각화 설정에서 회귀 또는 평균 트렌드를 라인 시리즈로 이동하도록 선택하여 데이터의 명확한 패턴을 표현하는 데 도움이 될 수 있습니다. 옵션에는 선형, 로그, 지수, 전원, 이차 및 이동 평균이 포함됩니다.
-feature: Visualizations
+feature: 시각화
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 5e90bf84933fcf6b28a205216a2f04484a7b662d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 4%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
 
-# 라인 시각화에 트렌드 라인 추가
+# 라인 시각화에 추세선 추가
 
 [!UICONTROL 시각화 설정]에서 회귀 또는 평균 트렌드를 라인 시리즈로 이동하도록 선택할 수 있습니다. 이 경우 데이터의 명확한 패턴을 표현하는 데 도움이 됩니다. 옵션에는 선형, 로그, 지수, 전원, 이차 및 이동 평균이 포함됩니다.
 
