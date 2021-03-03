@@ -1,27 +1,29 @@
 ---
-title: Analysis Workspace의 Analytics for Target(A4T)
+title: Analysis Workspace의 A4T(Analytics for Target) 패널
 description: Analytics for Target(A4T) 패널을 사용하면 Analysis Workspace에서 자신 있게 Adobe Target 활동 및 경험을 분석할 수 있습니다.
-feature: integration with experience cloud
+feature: Experience Cloud 통합
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
+topic: 통합
+role: 비즈니스 전문가
+level: 중간
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 54%
 
 ---
 
 
-# [!DNL Analytics for Target] (A4T) Analysis Workspace 패널
+# [!DNL Analytics for Target] Analysis Workspace의 (A4T) 패널
 
-The [!DNL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in [!UICONTROL Analysis Workspace].
+[!DNL Analytics for Target] (A4T) 패널에서는 [!UICONTROL Analysis Workspace]에서 향상도 및 신뢰도 등의 Adobe Target 활동과 경험을 분석할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-자세한 내용은 [설명서를 참조하십시오](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/panels/a4t-panel.html).
+[설명서](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/panels/a4t-panel.html)에서 자세한 내용을 알아보십시오.
