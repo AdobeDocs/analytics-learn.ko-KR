@@ -1,19 +1,20 @@
 ---
 title: Analysis Workspace의 보기 전용 프로젝트
 description: 작업 공간 프로젝트는 "볼 수 있음"으로만 사용자에게 공유할 수 있습니다. 보기 수신자가 공유 프로젝트를 열면 왼쪽 레일이 없고 제한된 상호 작용으로 프로젝트 경험이 더 제한적입니다.
-feature: curate and share
+feature: 조정 및 공유
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36206.jpg
 kt: 5556
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 026602e66ec7a08e81ef67b9bf00bd517afe7d31
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 93%
 
 ---
 
