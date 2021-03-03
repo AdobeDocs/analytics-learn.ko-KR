@@ -22,7 +22,7 @@ ht-degree: 100%
 
 # Analysis Workspace의 표준 템플릿 {#standard-templates-in-analysis-workspace}
 
-Analysis Workspace는 [!DNL Standard Templates](이전 명칭: [!DNL Starter Projects])를 통해 분석을 시작할 수 있도록 지원합니다.
+Analysis Workspace는 [!DNL Standard Templates] (이전 명칭: [!DNL Starter Projects])를 통해 분석을 시작할 수 있도록 지원합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23960/?quality=12)
 
