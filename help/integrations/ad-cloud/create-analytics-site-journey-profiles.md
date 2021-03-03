@@ -1,25 +1,27 @@
 ---
-title: Analytics 사이트 고객 여정 프로필 만들기
+title: Analytics 사이트 고객 여정 프로필 생성
 description: Adobe Analytics를 사용하여 Advertising Cloud 리마케팅을 위한 강력한 사이트 리타겟팅 풀을 만드는 방법
-feature: integration with ad cloud
+feature: Advertising Cloud 통합
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
+topic: 통합
+role: 비즈니스 전문가
+level: 중간
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '47'
+ht-degree: 55%
 
 ---
 
 
-# Analytics 사이트 고객 여정 프로필 만들기
+# Analytics 사이트 고객 여정 프로필 생성
 
-Adobe Analytics을 사용하여 Advertising Cloud 리마케팅을 위한 강력한 사이트 리타겟팅 풀을 만드는 방법
+Adobe Analytics을 사용하여 Advertising Cloud 리마케팅에 대한 강력한 사이트 리타겟팅 풀을 만드는 방법
 
 >[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
