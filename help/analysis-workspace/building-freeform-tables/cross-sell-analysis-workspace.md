@@ -1,25 +1,26 @@
 ---
-title: Analysis Workspace 크로스셀 분석
-description: 보고 및 분석의 크로스셀 보고서는 동일한 제품 문자열에 있는 제품 간 관계를 표시하므로 함께 구매한 제품을 분석할 수 있습니다. 이 비디오에서는 Analysis Workspace에서 크로스셀 보고서를 만들고 다중값 차원과 분류까지 확장하는 방법을 소개합니다.
-feature: freeform tables
+title: Analysis Workspace에서 교차 판매 분석
+description: 보고 및 분석의 크로스셀 보고서는 동일한 제품 문자열에 있는 제품 간 관계를 표시하므로 함께 구매하는 제품을 분석할 수 있습니다. 이 비디오에서는 Analysis Workspace에서 크로스셀 보고서를 만들고 다중값 차원 또는 분류까지 확장하는 방법을 보여줍니다.
+feature: 자유 형식 테이블
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25864.jpg
 kt: 2367
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 0%
+source-wordcount: '121'
+ht-degree: 11%
 
 ---
 
 
-# [!UICONTROL Analysis Workspace 크로스셀] 분석 {#cross-sell-analysis-in-analysis-workspace}
+# Analysis Workspace에서 교차 판매 분석 {#cross-sell-analysis-in-analysis-workspace}
 
-의 [!UICONTROL 크로스셀] 보고서는 같은 제품 문자열에 있는 제품 간 관계를 [!DNL Reports & Analytics] 표시하므로 함께 구매한 제품을 분석할 수 있습니다. 이 비디오에서는 Analysis Workspace에서 [!UICONTROL 크로스셀] 보고서를 만들고 다중값 차원과 분류까지 확장하는 방법을 살펴봅니다.
+[!DNL Reports & Analytics]의 [!UICONTROL 크로스셀] 보고서에는 동일한 제품 문자열에 있는 제품 간 관계가 표시되므로 함께 구매하는 제품을 분석할 수 있습니다. 이 비디오에서는 Analysis Workspace에서 [!UICONTROL 크로스셀] 보고서를 만들고 다중값 차원 또는 분류까지 확장하는 방법을 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
