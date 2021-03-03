@@ -1,18 +1,19 @@
 ---
 title: 제품 내 지원 티켓 제출
 description: 이제 UI에서 바로 고객 지원 티켓을 제출하여 해결 절차를 간소화할 수 있습니다.
-feature: analytics basics
+feature: Analytics 기본 사항
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1664
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '55'
+ht-degree: 18%
 
 ---
 
