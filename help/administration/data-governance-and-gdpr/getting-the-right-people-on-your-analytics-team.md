@@ -1,24 +1,25 @@
 ---
-title: Analytics 팀에 적합한 사용자 확보
-description: Adobe Analytics을 구현하고 사이트의 활동을 분석할 때 팀의 적합한 직원을 확보하는 것이 매우 중요합니다. 이 비디오에서는 채우고자 하는 다양한 역할을 빠르게 실행할 수 있습니다.
-feature: analytics basics
+title: 분석 팀에 적합한 사람 확보
+description: Adobe Analytics을 구현하고 사이트에서 활동을 분석할 때 팀에 적합한 사용자를 배치하는 것은 매우 중요합니다. 이 비디오에서는 채우고자 하는 다양한 역할을 빠르게 실행할 수 있습니다.
+feature: Analytics 기본 사항
 topics: null
-audience: administrator
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
+role: 관리자
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 10%
 
 ---
 
 
-# 적합한 팀 [!DNL Analytics] 확보
+# [!DNL Analytics] 팀에 적합한 사용자 가져오기
 
-Adobe Analytics을 구현하고 사이트의 활동을 분석할 때 팀의 적합한 직원을 확보하는 것이 매우 중요합니다. 이 비디오에서는 채우고자 하는 다양한 역할을 빠르게 실행할 수 있습니다.
+Adobe Analytics을 구현하고 사이트에서 활동을 분석할 때 팀에 적합한 사용자를 배치하는 것은 매우 중요합니다. 이 비디오에서는 채우고자 하는 다양한 역할을 빠르게 실행할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)
