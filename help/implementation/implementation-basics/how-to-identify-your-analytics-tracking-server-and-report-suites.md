@@ -1,18 +1,19 @@
 ---
 title: Analytics Tracking Server 및 보고서 세트를 식별하는 방법
 description: Adobe Analytics를 설정하거나 다른 Experience Cloud 솔루션에서 참조할 때 사용 중인 Analytics “Tracking Server” 또는 데이터를 보내는 “보고서 세트”를 아는 것이 도움이 되거나 필요한 경우가 많습니다. 이 비디오에서는 Adobe Analytics를 이미 구현했는지 여부에 관계없이 두 값을 모두 찾는 방법을 보여 줍니다.
-feature: implementation basics
+feature: Implementation 기본 사항
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-translation-type: ht
-source-git-commit: 60f4ce4f563a990576b3331b01cd87c29d424f43
-workflow-type: ht
-source-wordcount: '303'
-ht-degree: 100%
+role: '"개발자, 데이터 엔지니어"'
+level: 초급
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '309'
+ht-degree: 98%
 
 ---
 
