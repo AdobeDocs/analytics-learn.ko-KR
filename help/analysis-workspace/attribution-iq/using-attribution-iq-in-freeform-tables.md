@@ -1,32 +1,33 @@
 ---
-title: 자유 형식 테이블에서 Attribution IQ 사용
+title: 자유 양식 표에서 Attribution 기여도 IQ 사용
 description: Attribution IQ을 사용하면 속성 모델을 즉시 자유 형식 열에 있는 10개의 규칙 기반 모델로 변경할 수 있습니다.
-feature: attribution
+feature: 속성
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
+role: 비즈니스 전문가
+level: 중간
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 11%
+source-wordcount: '98'
+ht-degree: 20%
 
 ---
 
 
-# 사용 [!DNL Attribution IQ] 위치 [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}
+# [!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}에서 [!DNL Attribution IQ] 사용
 
-[!DNL Attribution IQ] 속성 [!UICONTROL 모델] 을 즉시 [!UICONTROL 자유 형식] 열에 있는 10개 규칙 기반 모델로 변경할 수 있습니다.
+[!DNL Attribution IQ] 속성 모델을   Freeform 열에서 규칙 기반 모델 10개 중   하나로 신속하게 변경할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-각 속성 [!UICONTROL 모델] 은 세그멘테이션 및 분류를 완벽하게 지원하며 모든 차원에 대해 무제한 비교를 수행할 수 [!DNL props]있습니다.
+각 속성 [!UICONTROL model]은(는) 세그먼테이션 및 분류를 완전히 지원하며, 모든 차원에 대해 제한 없이 비교할 수 있습니다(심지어 [!DNL props]!).
 
-[!DNL Attribution IQ] 이 패키지는 다음과 같은 패키지를 보유한 고객에게만 제공됩니다.
+[!DNL Attribution IQ] 이 제품은 Analysis Workspace 전용으로 제공되며 고객은 다음 패키지를 사용할 수 있습니다.
 
 * [!DNL Adobe Analytics Foundation]
 * [!DNL Adobe Analytics Select]
