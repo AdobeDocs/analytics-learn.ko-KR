@@ -1,24 +1,25 @@
 ---
 title: Analysis Workspace의 긍정-부정 지도 테마
-description: 새로운 긍정/부정 색상 테마를 사용하면 맵에서 양수와 음수를 명확하게 표현할 수 있습니다. 또한 이 새로운 테마는 이벤트를 설정(관리에서)하거나 계산된 지표로 만들 때 수행하는 극성 변경 사항도 준수합니다.
-feature: visualizations
+description: 새로운 긍정/부정 색상 테마를 사용하면 맵에서 긍정/부정 수를 명확하게 표현할 수 있습니다. 이 새 테마는 이벤트(관리에서)를 설정하거나 계산된 지표로 만들 때 발생하는 모든 극성 변경 사항도 반영합니다.
+feature: 시각화
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 
-# Analysis Workspace의 긍정-부정 지도 테마 {#positive-negative-map-theme-in-analysis-workspace}
+# Analysis Workspace {#positive-negative-map-theme-in-analysis-workspace}의 긍정-부정 맵 테마
 
-새로운 긍정/부정 색상 테마를 사용하면 [!UICONTROL 지도에서 양수와 음수를 명확하게 표현할 수 있습니다]. 또한 이 새로운 테마는 이벤트를 설정(관리에서)하거나 [!UICONTROL 계산된 지표로 만들 때 발생하는 모든 극성 변경 사항에도 적용됩니다].
+새로운 긍정/부정 색상 테마를 사용하면 [!UICONTROL map]에서 양수 및 음수를 명확하게 나타낼 수 있습니다. 이 새 테마는 이벤트(관리에서)를 설정하거나 [!UICONTROL 계산된 지표]에서 만들 때 수행하는 극성 변경도 반영합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23127/?quality=12)
