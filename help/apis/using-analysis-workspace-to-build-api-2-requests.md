@@ -1,18 +1,19 @@
 ---
 title: Analysis Workspace를 사용하여 Adobe Analytics API 2.0 요청 빌드
 description: 이 비디오에서는 Analysis Workspace를 활용하여 API 2.0 요청을 자동으로 빌드하는 방법을 보여 줍니다. UI를 디버깅하면 JSON 요청을 API 클라이언트에 직접 복사하고 붙여넣어 Analytics 데이터를 반환할 수 있습니다.
-feature: api
+feature: API
 topics: null
-audience: implementer, developer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2386
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+role: '"개발자, 데이터 엔지니어"'
+level: 경험
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '124'
+ht-degree: 96%
 
 ---
 
