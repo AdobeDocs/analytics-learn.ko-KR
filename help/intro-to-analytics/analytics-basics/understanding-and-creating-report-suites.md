@@ -1,18 +1,19 @@
 ---
 title: 보고서 세트 이해 및 생성
 description: 이 비디오는 보고서 세트가 무엇인지 이해하는데 도움이 되며, 사이트에 들어오는 사람들을 추적하고 최적화할 수 있도록 인터페이스에서 보고서 세트를 생성하는 방법을 보여 줍니다.
-feature: analytics basics
+feature: Analytics 기본 사항
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3574
-translation-type: ht
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: ht
-source-wordcount: '76'
-ht-degree: 100%
+role: 비즈니스 전문가
+level: 초급
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 96%
 
 ---
 
