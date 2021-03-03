@@ -1,18 +1,19 @@
 ---
 title: Postman을 사용하여 Adobe Analytics 2.0 API 요청 만들기
 description: 이 비디오는 API 클라이언트인 Postman을 설정하여 Adobe Analytics 2.0 API 요청을 전송하는 방법을 안내합니다. 여기에는 Adobe I/O 통합 설정(참고 - 이를 설정하려면 Experience Cloud의 시스템 관리자여야 함), 글로벌 회사 ID를 찾을 수 있는 위치 등이 포함됩니다.
-feature: api
+feature: API
 topics: null
-audience: implementer, developer
 activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+role: '"개발자, 데이터 엔지니어"'
+level: 경험
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 97%
 
 ---
 
