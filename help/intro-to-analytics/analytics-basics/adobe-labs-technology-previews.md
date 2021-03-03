@@ -17,7 +17,7 @@ ht-degree: 100%
 ---
 
 
-# Adobe Analytics를 사용한 [!DNL Adobe Labs](기술 미리보기)
+# Adobe Analytics를 사용한 [!DNL Adobe Labs] (기술 미리보기)
 
 [!DNL Adobe Labs](기술 미리보기)를 사용하면 새로운 기술 개발 활동에 참여하고 가치 있는 통찰력을 발견하고 향후 [!DNL Analytics] 기능 개발 및 우선 순위에 영향을 미칠 수 있습니다.
 
