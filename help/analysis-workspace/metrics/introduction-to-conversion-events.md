@@ -1,24 +1,25 @@
 ---
 title: 전환 이벤트 소개
-description: '이 비디오에서 전환 "이벤트" 또는 사이트에서 전환을 추적하는 데 도움이 되는 변수(예: 주문, 가입, 등록, 양식 완료 등)를 소개합니다.'
-feature: metrics
+description: '이 비디오에서 전환 "이벤트"에 대한 소개나 사이트의 전환을 추적하는 데 도움이 되는 변수(예: 주문, 가입, 등록, 양식 완료 등)에 대한 소개를 받을 수 있습니다.'
+feature: 지표
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 13%
 
 ---
 
 
 # 전환 이벤트 소개
 
-이 비디오에서 전환 &quot;이벤트&quot; 또는 사이트에서 전환을 추적하는 데 도움이 되는 변수(예: 주문, 가입, 등록, 양식 완료 등)를 소개합니다.
+이 비디오에서 전환 &quot;이벤트&quot;에 대한 소개나 사이트의 전환을 추적하는 데 도움이 되는 변수(예: 주문, 가입, 등록, 양식 완료 등)에 대한 소개를 받을 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12)
