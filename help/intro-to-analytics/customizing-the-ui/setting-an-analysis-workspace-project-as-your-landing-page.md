@@ -1,18 +1,19 @@
 ---
 title: Analysis Workspace 프로젝트를 랜딩 페이지로 설정
 description: 이 비디오에서는 프로젝트를 랜딩 페이지로 설정하는 방법을 살펴봅니다.
-feature: workspace basics
+feature: 작업 영역 기본 사항
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2364
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 35%
 
 ---
 
