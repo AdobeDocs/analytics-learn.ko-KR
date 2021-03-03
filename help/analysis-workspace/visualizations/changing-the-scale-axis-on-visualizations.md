@@ -1,24 +1,25 @@
 ---
 title: Analysis Workspace의 시각화에 대한 비율/축 변경
-description: 이 비디오에서는 Analysis Workspace의 선 그래프에 있는 Y축에 대한 비율(또는 축 제한)을 쉽게 변경하여 데이터를 잘못 해석하기 더 어렵게 만드는 방법을 보여 줍니다.
-feature: visualizations
+description: 이 비디오에서는 Analysis Workspace의 선 그래프에서 Y축에 대한 비율(또는 축 제한)을 쉽게 변경하여 데이터를 잘못 해석하기 더 어렵게 만드는 방법을 보여 줍니다.
+feature: 시각화
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
 
-# Analysis Workspace의 시각화 [!UICONTROL 에서 비율/축] 변경 {#changing-the-scale-axis-on-visualizations-in-analysis-workspace}
+# Analysis Workspace {#changing-the-scale-axis-on-visualizations-in-analysis-workspace}의 [!UICONTROL 시각화]에서 비율/축 변경
 
-이 비디오에서는 Analysis Workspace의 [!UICONTROL 선] 그래프에 있는 Y축에 대한 비율(또는 축 제한)을 쉽게 변경하여 데이터를 잘못 해석하기 더 어렵게 만드는 방법을 보여 줍니다.
+이 비디오에서는 Analysis Workspace의 [!UICONTROL line] 그래프에서 Y축에 대한 비율(또는 축 제한)을 쉽게 변경하여 데이터를 잘못 해석하기 더 어렵게 만드는 방법을 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
