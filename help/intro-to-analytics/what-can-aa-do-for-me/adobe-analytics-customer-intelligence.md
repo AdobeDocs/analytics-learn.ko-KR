@@ -1,18 +1,19 @@
 ---
 title: Adobe Analytics - 데이터 그 이상입니다. 고객 인텔리전스입니다.
 description: 경험 비즈니스가 되기 위해서는 데이터 기반 마케팅이 핵심입니다. 데이터에서 통찰력을 얻고 이를 실제로 활용하기까지 분석 성숙도를 새로운 수준으로 끌어올립니다.
-feature: analytics basics
+feature: Analytics 기본 사항
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '82'
-ht-degree: 100%
+role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+level: 초급
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 88%
 
 ---
 
