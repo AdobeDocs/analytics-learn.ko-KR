@@ -1,26 +1,27 @@
 ---
 title: Analysis Workspace의 키보드 단축키
-description: '이 비디오는 Analysis Workspace의 키보드 단축키 옵션을 통해 보다 빠르고 효율적으로 이동하는 방법을 보여줍니다. '
-feature: workspace basics
+description: 'Analysis Workspace의 키보드 단축키 옵션을 통해 보다 빠르고 효율적으로 이동하는 방법을 살펴볼 수 있습니다. '
+feature: 작업 영역 기본 사항
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
+role: 비즈니스 전문가
+level: 초급
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 
-# Analysis Workspace의 키보드 단축키 {#keyboard-shortcuts-in-analysis-workspace}
+# Analysis Workspace {#keyboard-shortcuts-in-analysis-workspace}의 키보드 단축키
 
-이 비디오는 Analysis Workspace의 키보드 단축키 옵션을 통해 보다 빠르고 효율적으로 이동하는 방법을 보여줍니다.
+Analysis Workspace의 키보드 단축키 옵션을 통해 보다 빠르고 효율적으로 이동하는 방법을 살펴볼 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
 
-이 기능에 대한 자세한 내용은 [설명서를 참조하십시오](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/fa_shortcut_keys.html).
+이 기능에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/fa_shortcut_keys.html)를 참조하십시오.
