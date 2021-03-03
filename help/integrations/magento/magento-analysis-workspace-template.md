@@ -1,19 +1,21 @@
 ---
 title: Magento Analysis Workspace 템플릿
 description: Analysis Workspace용 Magento 마케팅 및 상거래 템플릿을 소개합니다.
-feature: integration with experience cloud
+feature: Experience Cloud 통합
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
-translation-type: ht
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: ht
-source-wordcount: '52'
-ht-degree: 100%
+topic: 통합
+role: 비즈니스 전문가
+level: 중간
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '59'
+ht-degree: 89%
 
 ---
 
