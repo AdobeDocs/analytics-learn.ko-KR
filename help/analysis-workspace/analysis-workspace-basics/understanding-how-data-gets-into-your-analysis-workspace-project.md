@@ -1,6 +1,6 @@
 ---
 title: 데이터를 Analysis Workspace 프로젝트에 포함시키는 방법 이해
-description: 이 비디오는 Chrome에서 Adobe Experience Cloud Debugger 확장을 사용하여 페이지에서 Analysis Workspace의 표 및 시각화로의 데이터 흐름을 확인하는 방법을 보여 줍니다.
+description: 이 비디오는 Chrome에서 Adobe Experience Cloud Debugger 확장 기능을 사용하여 페이지에서 Analysis Workspace의 표 및 시각화로의 데이터 흐름을 확인하는 방법을 보여 줍니다.
 feature: 작업 영역 기본 사항
 topics: null
 activity: use
@@ -20,7 +20,7 @@ ht-degree: 94%
 
 # 데이터를 Analysis Workspace 프로젝트에 포함시키는 방법 이해
 
-이 비디오는 Chrome에서 [!DNL Adobe Experience Cloud Debugger] 확장을 사용하여 페이지에서 Analysis Workspace의 표 및 시각화로의 데이터 흐름을 확인하는 방법을 보여 줍니다.
+이 비디오는 Chrome에서 [!DNL Adobe Experience Cloud Debugger] 확장 기능을 사용하여 페이지에서 Analysis Workspace의 표 및 시각화로의 데이터 흐름을 확인하는 방법을 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12)
 
