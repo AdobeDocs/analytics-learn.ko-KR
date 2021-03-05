@@ -26,7 +26,7 @@ Adobe Analytics를 설정하거나 다른 Experience Cloud 솔루션에서 참�
 
 사이트에서 [!DNL Analytics]를 구현한 후 추적 비콘에서 [!DNL tracking server]와 [!DNL report suite ID]을 찾을 수 있습니다. [!DNL tracking server]는 비콘의 호스트 이름이므로 쉽게 찾을 수 있습니다. [!UICONTROL 보고서 세트] ID는 비컨의 경로 이름에서 “/b/ss/” 바로 뒤에 쉼표로 구분된 목록입니다.
 
-비콘뿐만 아니라 [!DNL Analytics] 및 기타 Experience Cloud 솔루션에 제공되는 기타 모든 정보를 보려면 [“Experience Cloud Debugger” Chrome 확장](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=en)을 설치하십시오.
+비콘뿐만 아니라 [!DNL Analytics] 및 기타 Experience Cloud 솔루션에 제공되는 기타 모든 정보를 보려면 [“Experience Cloud Debugger” Chrome 확장 기능](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=en)을 설치하십시오.
 
 ## 구현 전 {#before-implementation}
 
