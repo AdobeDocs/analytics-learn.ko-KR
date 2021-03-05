@@ -3,7 +3,7 @@ title: Analysis Workspace에 대한 사용 로그 추적 사용
 seo-title: Analysis Workspace에 대한 사용 로그 추적 사용
 description: 이 비디오는 사용자의 Adobe Analytics를 사용을 더 잘 이해하는 데 도움이 되는 Workspace 프로젝트에서 사용 로그 추적 프로젝트를 사용하는 방법을 보여 줍니다.
 seo-description: 이 비디오는 사용자의 Adobe Analytics를 사용을 더 잘 이해하는 데 도움이 되는 Workspace 프로젝트에서 사용 로그 추적 프로젝트를 사용하는 방법을 보여 줍니다.
-feature: data configuration and collection
+feature: 데이터 구성 및 수집
 topics: null
 audience: analyst, marketer
 activity: use
@@ -14,7 +14,7 @@ kt: 1597
 translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
 workflow-type: ht
-source-wordcount: '184'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
