@@ -6,20 +6,20 @@ topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
+role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
 level: 초급
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '309'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
 # 개요
 
-[!DNL Analytics] 튜토리얼 사이트에 오신 것을 환영합니다.  [설명서](https://docs.adobe.com/content/help/ko/analytics/landing/home.html)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다.  시작하려면,
+[!DNL Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://docs.adobe.com/content/help/ko/analytics/landing/home.html)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면,
 * 최신 제품에 대한 자세한 내용은 아래의 **“새로운 기능”** 섹션을 참조하십시오.
 * **직원 선택**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * **왼쪽 내비게이션**&#x200B;에서 주제 및 하위 항목별로 내용 탐색
