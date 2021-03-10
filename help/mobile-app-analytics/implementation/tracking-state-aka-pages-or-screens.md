@@ -8,13 +8,13 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2562
 topic: 모바일
-role: '"개발자, 데이터 엔지니어"'
-level: 경험
-translation-type: tm+mt
+role: “개발자, 데이터 엔지니어”
+level: 고급
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
