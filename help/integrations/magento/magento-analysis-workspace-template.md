@@ -10,12 +10,12 @@ team: TM
 kt: 3269
 topic: 통합
 role: 비즈니스 전문가
-level: 중간
-translation-type: tm+mt
+level: 중급
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
