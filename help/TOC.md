@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1871'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 + Analytics 소개 {#intro-to-analytics}
    + Adobe Analytics를 통해 얻을 수 있는 이점은 무엇입니까? {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace가 비즈니스를 변경시키는 방법](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [데이터 그 이상입니다. 고객 인텔리전스입니다.](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [데이터 그 이상. 고객 인텔리전스](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei 및 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [고객 사용 사례 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [고객 사용 사례 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
@@ -225,7 +225,7 @@ ht-degree: 100%
       + [최초 구현](implementation/implementation-basics/first-time-implementation.md)
       + [처리 규칙을 사용하여 contextData 변수를 속성 및 eVar에 매핑](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Analytics Tracking Server 및 보고서 세트를 식별하는 방법](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
-      + [비즈니스 요구사항 문서 생성](implementation/implementation-basics/creating-a-business-requirements-document.md)
+      + [비즈니스 요구 사항 문서 생성](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR 제작 및 유지 관리](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [사이트에서 데이터 레이어 사용](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Experience Platform Launch를 통해 {#via-adobe-launch}
