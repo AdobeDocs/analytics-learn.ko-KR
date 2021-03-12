@@ -10,11 +10,11 @@ team: Technical Marketing
 kt: 2362
 role: 비즈니스 전문가
 level: 초급
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
