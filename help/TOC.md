@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 666d453c392119ed6bffdd8bb9c074a9570c1c99
+source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '1885'
 ht-degree: 99%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 99%
       + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [시각화할 데이터 선택](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [시각화에 데이터 가져오기](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Analysis Workspace의 라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [불릿 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
