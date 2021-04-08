@@ -51,7 +51,7 @@ ht-degree: 99%
       + [Adobe Analytics에서 도움말 받기](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 기본 사항 {#analysis-workspace-basics}
-      + [Analysis Workspace 소개 ](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace 소개](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 개요](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [Analysis Workspace에서 첫 번째 프로젝트 시작하기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [새 Analysis Workspace 프로젝트 제작](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
@@ -212,7 +212,7 @@ ht-degree: 99%
       + [Adobe Analytics에 관리자 추가](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Admin Console에서 보고서 세트 액세스 제한](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + 보고서 세트 관리 {#manage-report-suites}
-      + [일반 계정 설정을 구성하는 방법](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [일반 계정 설정 구성 방법](administration/manage-report-suites/configuring-general-account-settings.md)
       + [주소 및 우편번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 데이터 거버넌스 및 GDPR {#data-governance-and-gdpr}
