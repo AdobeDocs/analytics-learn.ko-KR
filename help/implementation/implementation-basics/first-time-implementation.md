@@ -8,16 +8,16 @@ activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 2362
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
+exl-id: 110d2962-cbcf-4574-bd39-308f2ad33c5e
 translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
-
 
 # 최초 Adobe Analytics 구현 {#first-time-adobe-analytics-implementation}
 
