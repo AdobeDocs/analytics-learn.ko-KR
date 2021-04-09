@@ -8,16 +8,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4382
-role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
 translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '164'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Analysis Workspace가 비즈니스를 변경시키는 방법
 
