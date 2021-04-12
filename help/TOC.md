@@ -5,10 +5,10 @@ breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
+source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
 workflow-type: tm+mt
-source-wordcount: '1885'
-ht-degree: 100%
+source-wordcount: '1970'
+ht-degree: 93%
 
 ---
 
@@ -53,7 +53,6 @@ ht-degree: 100%
    + Analysis Workspace 기본 사항 {#analysis-workspace-basics}
       + [Analysis Workspace 소개](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 개요](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [Analysis Workspace에서 첫 번째 프로젝트 시작하기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [새 Analysis Workspace 프로젝트 제작](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [Analysis Workspace에서 맞춤형 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace의 표준 템플릿](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
@@ -72,7 +71,6 @@ ht-degree: 100%
       + [Analysis Workspace에 복사 및 삽입](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [목차 생성](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Workspace 효율성을 위해 마우스 오른쪽 버튼 클릭](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
-      + [Analysis Workspace에서 맞춤형 색상 팔레트 사용](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [키보드 단축키](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [메뉴 바](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [프로젝트 관리](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
@@ -83,10 +81,9 @@ ht-degree: 100%
    + 패널 사용 {#using-panels}
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [기여도 IQ 패널 사용](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [기여도 IQ 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Analysis Workspace의 미디어 동시 뷰어 패널](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
-      + [패널 레벨 세그먼트](analysis-workspace/using-panels/panel-level-segments.md)
       + [패널을 사용하여 Analysis Workspace 프로젝트 구성](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [세그먼트 드롭 영역 개선](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
@@ -95,11 +92,10 @@ ht-degree: 100%
       + [Analysis Workspace에서 자유 양식 표 자동 빌드](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [자유 양식 표에서 치수 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [자유 양식 표에서 메트릭 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Analysis Workspace에서 참여 메트릭 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [자유 양식 표의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [자유 양식 표 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Analysis Workspace에서 정적 행 재정렬](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [자유 양식 표에서 Attribution 기여도 IQ 사용](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [자유 양식 표에서 Attribution 기여도 IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html)
       + [Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴 사용](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
       + [계속 Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analysis Workspace에서 교차 판매 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -109,7 +105,6 @@ ht-degree: 100%
    + 시각화 {#visualizations}
       + [Analysis Workspace의 데이터 시각화](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
-      + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [시각화할 데이터 선택](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [데이터를 시각화하기](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Analysis Workspace의 라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
@@ -138,23 +133,21 @@ ht-degree: 100%
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace에서 세그먼트 사용](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
       + [Ad Hoc(임시) 세그먼트](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [세그먼트를 포함하는 다양한 기여도 IQ 모델 사용](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
-      + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
+      + [세그먼트를 포함하는 다양한 기여도 IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html)
       + [패널 레벨 세그먼트](analysis-workspace/using-panels/panel-level-segments.md)
-      + [세그먼트 드롭 영역 개선](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace에서 치수로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + 메트릭 {#metrics}
       + [기본 방문자 메트릭 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [자유 양식 표에서 메트릭 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [자유 양식 표에서 메트릭 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html)
       + [Analysis Workspace에서 참여 메트릭 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + 치수 {#dimensions}
       + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [트래픽 변수 소개(속성)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [전환 변수 소개(eVars)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [자유 양식 표에서 치수 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [자유 양식 표에서 치수 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html)
    + 일정 및 기간 {#calendar-and-date-ranges}
       + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Analysis Workspace에서 기간 및 비교 사용](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -176,7 +169,7 @@ ht-degree: 100%
       + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
+      + [Analysis Workspace에서 CSV로 내보내기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [예약 및 다운로드 가능한 프로젝트](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace에서 프로젝트 공유하기](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
@@ -266,16 +259,16 @@ ht-degree: 100%
       + [Analysis Workspace의 세그먼트 비교](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [세그먼트 컨테이너](components/segmentation/segment-containers.md)
       + [세그먼트 관리 및 공유](components/segmentation/segment-management-and-sharing.md)
-      + [Analysis Workspace에서 세그먼트 사용](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Analysis Workspace에서 치수로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Analysis Workspace에서 세그먼트 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html)
+      + [Analysis Workspace에서 치수로 세그먼트 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html)
+      + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html)
       + [순차적인 세분화](components/segmentation/sequential-segmentation.md)
       + [개별 Dimension 카운트에 대한 세분화](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [세분화에서의 Dimension 모델](components/segmentation/dimension-models-in-segmentation.md)
       + [세분화에서의 모든 연산자 동일](components/segmentation/equals-any-of-operator-in-segmentation.md)
    + 계산된 메트릭 {#calculated-metrics}
       + [계산된 메트릭의 근사 카운트 개별 함수](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [계산된 메트릭의 기여도 IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [계산된 메트릭의 기여도 IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html)
       + [계산된 메트릭 - 메트릭 빌더](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [계산된 메트릭 - 함수](components/calculated-metrics/calculated-metrics-functions.md)
       + [계산된 메트릭 - 구현 불가 메트릭](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
@@ -345,14 +338,14 @@ ht-degree: 100%
    + [Adobe Analytics 및 Adobe Sensei - 모두를 위한 데이터 과학 민주화](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Vertical-Specific {#vertical-specific}
    + 하이 테크 {#high-tech}
-      + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+      + [Summit 2019 슈퍼 세션 - 하이 테크](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html)
    + 여행 및 접대 {#travel-and-hospitality}
-      + [Summit 2019 슈퍼 세션 - 여행 및 접대](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Summit 2019 슈퍼 세션 - 여행 및 접대](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + 소매 {#retail}
       + [소매 변수 및 이벤트 소개](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Launch 규칙에 기본 소매 변수 및 이벤트 추가](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [구매 이벤트에 대한 Launch 규칙 추가](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Adobe Summit 2019 슈퍼 세션 - 소매](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Adobe Summit 2019 슈퍼 세션 - 소매](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
 + Media Analytics {#media-analytics}
    + 음성 또는 오디오 측정 {#measuring-voice-or-audio}
       + [Analysis Workspace에서 오디오 소비 템플릿 사용](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
@@ -372,7 +365,7 @@ ht-degree: 100%
       + [참여 및 유지율을 높이는 방법](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
    + [Analysis Workspace를 사용하여 API 2.0 요청 빌드](apis/using-analysis-workspace-to-build-api-2-requests.md)
-   + [Report Builder를 사용하여 Adobe Analytics API 학습](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+   + [Report Builder를 사용하여 Adobe Analytics API 학습](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html)
    + [Postman을 사용하여 Adobe Analytics 2.0 API 요청 만들기](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis 사용 사례 {#analysis-use-cases}
    + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
