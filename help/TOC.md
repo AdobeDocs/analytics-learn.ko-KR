@@ -5,10 +5,10 @@ breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
+source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
 workflow-type: tm+mt
 source-wordcount: '1885'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -95,7 +95,7 @@ ht-degree: 99%
       + [Analysis Workspace에서 자유 양식 표 자동 빌드](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [자유 양식 표에서 치수 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [자유 양식 표에서 메트릭 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Analysis Workspace에서 참여 메트릭 사용](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace에서 참여 메트릭 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [자유 양식 표의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [자유 양식 표 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Analysis Workspace에서 정적 행 재정렬](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -111,7 +111,7 @@ ht-degree: 99%
       + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [시각화할 데이터 선택](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [시각화에 데이터 가져오기](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [데이터를 시각화하기](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Analysis Workspace의 라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [불릿 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -149,7 +149,7 @@ ht-degree: 99%
       + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [자유 양식 표에서 메트릭 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [Analysis Workspace에서 참여 메트릭 사용](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace에서 참여 메트릭 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + 치수 {#dimensions}
       + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [트래픽 변수 소개(속성)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
