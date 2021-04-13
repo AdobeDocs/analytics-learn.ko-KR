@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4387
-role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '111'
+source-wordcount: '100'
 ht-degree: 100%
 
 ---
-
 
 # 고객 사용 사례: 고객 경험 관리를 통해 혁신을 이루는 [!DNL The Home Depot]
 
