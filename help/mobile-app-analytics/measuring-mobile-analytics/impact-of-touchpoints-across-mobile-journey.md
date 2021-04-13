@@ -8,16 +8,16 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 3052
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
+exl-id: 6ed070ff-cd13-45be-968f-067f0436eab8
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 100%
 
 ---
-
 
 # 모바일 여정에서 터치 포인트의 영향 {#impact-of-touchpoints-across-mobile-journey}
 
