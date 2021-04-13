@@ -7,16 +7,16 @@ activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3581
-role: “개발자, 데이터 엔지니어”
-level: 초급
+role: Developer, Data Engineer
+level: Beginner
+exl-id: c942e819-0763-4907-adcc-747ec753c407
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '168'
+source-wordcount: '164'
 ht-degree: 100%
 
 ---
-
 
 # SDR(Solution Design Reference) 문서 제작 및 유지 관리
 
