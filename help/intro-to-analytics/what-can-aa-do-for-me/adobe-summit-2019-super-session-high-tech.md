@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4404
-role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 8153f04c-d1a5-4dd8-8ed6-24205467e285,e3a09a0d-81f1-412e-90b2-89161f8dd9e3,e3a09a0d-81f1-412e-90b2-89161f8dd9e3,8153f04c-d1a5-4dd8-8ed6-24205467e285
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 00d58427dcbd2d2a20119933693fcf264fb86080
 workflow-type: ht
-source-wordcount: '44'
+source-wordcount: '33'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Summit] 2019 슈퍼 세션 - 하이 테크
 
