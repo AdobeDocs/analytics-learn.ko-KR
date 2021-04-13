@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '112'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Sensei]및 Adobe Analytics
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
 
-[!DNL Adobe Sensei]에 대한 자세한 내용은 [여기](https://www.adobe.com/sensei.html)를 참조하십시오.
+[!DNL Adobe Sensei]에 대한 자세한 내용은 [여기](https://www.adobe.com/kr/sensei.html)를 참조하십시오.
