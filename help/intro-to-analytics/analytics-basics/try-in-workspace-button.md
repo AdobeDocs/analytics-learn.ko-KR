@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1965
-role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '77'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Reports & Analytics]의 “Workspace에서 시도” 버튼 {#try-in-workspace-button-in-reports-analytics}
 
