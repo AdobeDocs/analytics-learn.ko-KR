@@ -25,4 +25,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
-Adobe Analysis Workspace에 대한 자세한 내용은 [여기](https://www.adobe.com/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)를 참조하십시오.
+Adobe Analysis Workspace에 대한 자세한 내용은 [여기](https://www.adobe.com/kr/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)를 참조하십시오.
