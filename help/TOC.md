@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
+source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '1980'
 ht-degree: 93%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 93%
       + [보고서 세트 이해 및 생성](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs(기술 미리보기)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + UI 맞춤화 {#customizing-the-ui}
+      + [Adobe Analytics의 사용자 환경 설정](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Dimension 및 메트릭 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Analysis Workspace에서 맞춤형 색상 팔레트 사용](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [맞춤형 팔레트를 정의하기 위한 색상 스포이드 확장](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -107,6 +108,7 @@ ht-degree: 93%
       + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
       + [시각화할 데이터 선택](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [데이터를 시각화하기](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [작업 공간에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Analysis Workspace의 라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [불릿 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
