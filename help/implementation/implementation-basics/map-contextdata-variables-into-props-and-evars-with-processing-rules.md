@@ -7,16 +7,16 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
-role: 비즈니스 전문가
-level: 중급
+role: Business Practitioner
+level: Intermediate
+exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL 처리 규칙]을 사용하여 [!DNL contextData] 변수를 [!DNL Props] 및 [!DNL Evars]에 매핑 {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
