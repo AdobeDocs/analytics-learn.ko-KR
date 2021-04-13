@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: “비즈니스 전문가, 개발자, 데이터 엔지니어, 아키텍트, 데이터 아키텍트, 관리자, 리더”
-level: 초급
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '108'
+source-wordcount: '97'
 ht-degree: 100%
 
 ---
-
 
 # 고객 사용 사례: [!DNL ServiceNow]를 통해 잠재고객과 연결할 수 있는 적합한 통찰력 확보
 
