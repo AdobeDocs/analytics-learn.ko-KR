@@ -1,23 +1,22 @@
 ---
-title: 시각화에 데이터 가져오기
+title: 데이터를 시각화하기
 description: Analysis Workspace에서 시각화를 추가할 때 시각화 유형에 따라 데이터를 추가하는 방법은 몇 가지가 있습니다. 이 비디오에서는 이러한 메서드를 보여 줍니다.
 feature: 시각화
-topic: null
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 thumbnail: 332507.jpg
 kt: 7441
+exl-id: 61d00599-c719-4bd7-8e74-ef0c2c89a55c
 translation-type: tm+mt
-source-git-commit: 9810808ed06219c1192d0781f5c71f0483c24a59
+source-git-commit: 7382a3461ab73264dd5b585c576c9f9275b17567
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '63'
+ht-degree: 14%
 
 ---
 
-
-# 시각화에 데이터 가져오기
+# 데이터를 시각화하기
 
 Analysis Workspace에서 시각화를 추가할 때 시각화 유형에 따라 데이터를 추가하는 방법은 몇 가지가 있습니다. 이 비디오에서는 이러한 메서드를 보여 줍니다.
 
