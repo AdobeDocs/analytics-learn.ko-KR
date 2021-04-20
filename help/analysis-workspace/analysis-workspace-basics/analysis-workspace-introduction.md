@@ -2,7 +2,7 @@
 title: 'Analysis Workspace에 대한 간략한 소개 '
 seo-title: 'Analysis Workspace에 대한 간략한 소개 '
 description: 제품이 데이터 초보자 및 전문가를 지원하는 방법을 알아보기 위한 Analysis Workspace의 간략한 개요
-feature: Workspace 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가
 description: 이 비디오에서는 차원과 지표, 차이와 이들을 Analysis Workspace의 표 및 시각화에 추가하는 방법을 살펴봅니다. 즉시 사용 가능한 계산된 지표를 추가하는 방법도 알아보십시오.
-feature: 차원
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

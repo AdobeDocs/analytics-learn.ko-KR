@@ -1,14 +1,14 @@
 ---
 title: 데이터 레이어를 사용하여 론치를 통해 Adobe Analytics의 페이지 이름 및 기타 변수 설정
 description: Analytics 및 기타 Experience Cloud 솔루션에 데이터 레이어를 사용하는 것이 가장 좋습니다. 이 비디오에서는 값을 데이터 레이어에서 끌어내어 Launch에서 사용하여 Adobe Analytics의 변수를 채우는 방법을 살펴봅니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

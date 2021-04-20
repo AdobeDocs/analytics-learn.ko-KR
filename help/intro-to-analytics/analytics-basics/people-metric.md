@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics의 사용자 메트릭
 description: 이제 Adobe Analytics가 Adobe Experience Cloud Device Co-op을 기반으로 중복되는 방문자를 제거하는 사용자 메트릭을 제공합니다. 이 비디오는 자세한 정보를 제공하며 시작하는 방법을 보여 줍니다.
-feature: 지표
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
 translation-type: ht

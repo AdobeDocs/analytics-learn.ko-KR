@@ -1,14 +1,14 @@
 ---
 title: Analytics 구현을 위해 Launch에서 데이터 요소 생성
 description: 이 비디오는 SDR(솔루션 디자인 참조) 문서에 결정 및 문서화된 변수 및 이벤트를 기반으로 Launch에서 Analytics 구현을 위한 데이터 요소를 만드는 방법을 보여줍니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

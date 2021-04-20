@@ -1,15 +1,15 @@
 ---
 title: 라인 시각화에 추세선 추가
 description: 시각화 설정에서 회귀 또는 평균 트렌드를 라인 시리즈로 이동하도록 선택하여 데이터의 명확한 패턴을 표현하는 데 도움이 될 수 있습니다. 옵션에는 선형, 로그, 지수, 전원, 이차 및 이동 평균이 포함됩니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

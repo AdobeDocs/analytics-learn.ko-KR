@@ -1,15 +1,15 @@
 ---
 title: Adobe Analytics에서 Advertising Analytics 구성
 description: '이 비디오에서는 Advertising Analytics을 활용할 보고서 세트를 구성하는 방법, Advertising Analytics에 대한 유료 검색 계정을 설정하는 방법 및 보고 세부 사항을 자세히 살펴봅니다. '
-feature: Advertising Cloud 통합
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: 통합
-role: 관리자
-level: 중간
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

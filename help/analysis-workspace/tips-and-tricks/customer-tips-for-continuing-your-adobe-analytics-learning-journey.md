@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 학습 여정을 계속하기 위한 고객 팁
 description: 이 문서에서는 Adobe Analytics을 최대한 활용할 수 있는 방법에 대한 팁과 기법을 제공하는 3명의 Adobe 고객을 소개합니다.
-feature: 작업 영역 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

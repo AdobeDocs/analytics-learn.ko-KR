@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace의 구성요소 관리
 description: Analysis Workspace에서 치수, 세그먼트, 메트릭 및 기간을 직접 관리할 수 있습니다. 공유할 세그먼트를 찾는 동안 프로젝트에서 나갈 필요가 없습니다.
-feature: Workspace 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

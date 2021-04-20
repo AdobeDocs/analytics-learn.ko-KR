@@ -1,15 +1,15 @@
 ---
 title: 자유 양식 표에서 치수 작업
 description: 자유 형식 테이블의 차원 추가, 정렬, 필터링, 다른 차원별로 분류 등을 포함하여 차원 작업에 대해 알아봅니다.
-feature: 차원
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 참여 메트릭 사용
 description: 이 간단한 트릭을 사용하여 Analysis Workspace에서 언제든지 참가 지표를 얻을 수 있습니다.
-feature: 지표
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

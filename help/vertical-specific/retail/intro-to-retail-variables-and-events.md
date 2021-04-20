@@ -1,14 +1,14 @@
 ---
 title: 소매 변수 및 이벤트 소개
 description: 소매 사이트가 있는 경우 사용자를 위해 만들어진 몇 가지 변수와 이벤트가 있습니다(특별한 사용자가 아님). 이 비디오에서는 소매별 변수 및 이벤트를 이해하는 데 대한 간단한 지침을 제공합니다.
-feature: 사용 사례
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3579
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics의 순차적 세그먼테이션
 description: 이 비디오에서는 Adobe Analytics의 행동 시퀀스를 세그먼트화하는 방법과 이 시퀀스를 사용하여 마케팅 채널 및 폴아웃을 비교하는 방법을 설명합니다.
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2302
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

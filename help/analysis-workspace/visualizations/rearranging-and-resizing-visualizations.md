@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 시각화 다시 정렬 및 크기 조정
 description: 이 비디오에서는 Analysis Workspace에서 시각화 및 표의 크기 조정, 재배치 및 재구성하여 사용자 지정된 레이아웃을 만드는 방법을 보여줍니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2138
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

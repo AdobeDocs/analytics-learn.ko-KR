@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 시간 분할 치수
 description: 시간 분할은 수집된 히트의 타임스탬프를 가져와 "하루 중 시간" 또는 "요일"과 같이 더 의미 있는 차원으로 구분합니다. 이제 Analysis Workspace에서 이러한 차원이 기본적으로 사용됩니다.
-feature: 자유 형식 테이블
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

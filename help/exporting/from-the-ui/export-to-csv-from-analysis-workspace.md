@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 CSV로 내보내기
 description: 자유 형식 프로젝트를 Excel 및 기타 BI 도구에서 분석을 위해 CSV로 내보내는 방법을 알아봅니다.
-feature: 조정 및 공유
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2297
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

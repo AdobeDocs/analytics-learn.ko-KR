@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 맞춤형 템플릿 제작 및 관리
 description: 이 비디오에서는 사용자와 팀이 특정 보고서 세트에서 시작할 수 있도록 Analysis Workspace에서 맞춤형 템플릿을 제작하는 방법에 대해 알아봅니다.
-feature: 프로젝트
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

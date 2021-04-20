@@ -3,16 +3,16 @@ title: Adobe Analytics의 서버 호출 사용
 seo-title: Adobe Analytics의 서버 호출 사용
 description: 서버 호출 사용량 보고를 사용하면 특정 시간에 사용한 서버 호출 헌정의 양을 정확하게 추적할 수 있으며, 총 약정 규모에 도달하는 경우 사전 경고할 수 있습니다.
 seo-description: 서버 호출 사용량 보고를 사용하면 특정 시간에 사용한 서버 호출 헌정의 양을 정확하게 추적할 수 있으며, 총 약정 규모에 도달하는 경우 사전 경고할 수 있습니다.
-feature: 데이터 구성 및 수집
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: 관리
-role: '"관리자, 아키텍트"'
-level: 초급
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

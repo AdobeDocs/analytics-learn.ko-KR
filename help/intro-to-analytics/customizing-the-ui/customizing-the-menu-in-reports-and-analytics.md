@@ -1,14 +1,14 @@
 ---
 title: 보고서 및 분석에서 메뉴 맞춤화
 description: 이 비디오에서는 비즈니스에 맞게 Analytics의 메뉴를 사용자 지정하는 방법을 살펴봅니다.
-feature: Analytics 기본 사항
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2365
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

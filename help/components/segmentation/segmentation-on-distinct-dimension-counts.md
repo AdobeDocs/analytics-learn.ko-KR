@@ -1,14 +1,14 @@
 ---
 title: 개별 Dimension 카운트에 대한 세분화
 description: '세그먼트 빌더의 새로운 고유 카운트 연산자를 사용하면 차원 내의 고유 항목 수를 기준으로 세그먼트를 만들 수 있습니다. 5개 이상의 페이지를 본 방문 또는 5개 이상의 제품을 구매한 히트(예: 단일 주문 내)를 필터링합니다.'
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

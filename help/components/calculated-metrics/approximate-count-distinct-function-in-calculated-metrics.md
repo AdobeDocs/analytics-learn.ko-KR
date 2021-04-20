@@ -1,14 +1,14 @@
 ---
 title: 계산된 메트릭의 근사 카운트 개별 함수
 description: 대략적인 고유 카운트 고유 함수가 계산된 지표 빌더에 추가되었습니다. 선택한 차원에 대한 차원 항목의 대략적인 고유 카운트를 반환하는 오래 지연된 함수입니다.
-feature: 계산된 지표
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1910
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

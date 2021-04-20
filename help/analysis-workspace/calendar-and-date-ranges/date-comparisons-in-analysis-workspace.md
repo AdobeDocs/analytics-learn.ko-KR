@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 날짜 비교
 description: 이 비디오에서는 자유 형식 테이블에서 '기간 열 추가' 및 '기간 비교' 두 가지 날짜 비교 기능을 활용하는 방법을 보여 줍니다.
-feature: 달력
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

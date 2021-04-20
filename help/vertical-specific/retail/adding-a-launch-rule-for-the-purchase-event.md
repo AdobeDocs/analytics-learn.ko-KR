@@ -1,14 +1,14 @@
 ---
 title: 구매 이벤트에 대한 Launch 규칙 추가
 description: 이 비디오에서는 Launch의 제품 문자열 확장을 사용하여 사이트에서 구매를 추적하여 분석에 매출, 주문 및 판매량 지표를 만드는 방법을 보여줍니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

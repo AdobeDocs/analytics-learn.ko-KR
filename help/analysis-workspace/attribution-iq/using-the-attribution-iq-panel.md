@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 Attribution IQ 패널 사용
 description: 이 비디오에서는 기여도 분석 Analysis Workspace 프로젝트를 제작할 때 시작할 수 있는 좋은 곳인 Attribution IQ 패널을 볼 수 있습니다.
-feature: 속성
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

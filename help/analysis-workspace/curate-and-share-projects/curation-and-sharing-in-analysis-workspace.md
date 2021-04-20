@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 선별 및 공유
 description: Analysis Workspace에서 프로젝트를 빌드하면 프로젝트를 조정(단순화)하고 조직의 다른 팀 및 개인과 공유하여 프로젝트를 살펴보고 데이터를 직접 제공할 수 있습니다. 이 비디오에서는 조정 및 공유를 사용하여 작업하는 방법을 보여 줍니다.
-feature: 조정 및 공유
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

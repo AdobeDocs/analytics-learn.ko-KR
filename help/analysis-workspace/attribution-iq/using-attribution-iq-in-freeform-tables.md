@@ -1,15 +1,15 @@
 ---
 title: 자유 양식 표에서 Attribution 기여도 IQ 사용
 description: Attribution IQ을 사용하면 속성 모델을 즉시 자유 형식 열에 있는 10개의 규칙 기반 모델로 변경할 수 있습니다.
-feature: 속성
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

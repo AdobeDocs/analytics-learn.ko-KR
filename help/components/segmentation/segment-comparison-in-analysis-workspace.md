@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 세그먼트 비교
 description: 마케팅 세그먼트 간의 진정한 차이점을 이해하기란 항상 어렵고 시간이 많이 소모되는 과정이었습니다. Adobe Analytics의 Analysis Workspace에 포함된 세그먼트 IQ는 모든 차원과 지표에 있는 2개의 Analytics 세그먼트를 검사하여 통계적으로 가장 중요한 차이점을 자동으로 검색합니다.
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

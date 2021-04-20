@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 기간 및 일정 사용
 description: Analysis Workspace 프로젝트의 달력에서 사용자 지정 날짜 범위를 사전 설정으로 사용할 수 있습니다. 또한 캘린더를 달력에 드래그하여 가져와 프로젝트에서 날짜 범위로 신속하게 적용할 수 있습니다. 이 비디오에서는 Adobe Analytics의 Analysis Workspace에서 이러한 두 가지 작업을 모두 수행하는 방법을 보여 줍니다.
-feature: 달력
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2013
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

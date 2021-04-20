@@ -1,15 +1,15 @@
 ---
 title: 크로스 탭 분석을 사용하여 Analysis Workspace에서 기본 마케팅 어트리뷰션을 탐색합니다.
 description: Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수 있는 방법은 여러 가지가 있습니다. 이 비디오에서는 작업 영역에서 교차 탭 분석을 사용하여 마케팅 채널 보고서에서 보다 세부적인 통찰력을 도출하는 방법을 강조표시합니다.
-feature: 마케팅 채널
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

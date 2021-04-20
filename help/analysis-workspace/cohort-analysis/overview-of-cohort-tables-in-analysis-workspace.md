@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 집단 테이블 개요
 description: 집단 테이블 내의 롤링 계산 설정을 사용하여 기간 동안의 집단 분석을 분석하여 일정 기간 동안 동일한 사용자가 유지되거나 이탈되는 방식을 이해할 수 있습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25965.jpg
 kt: 2477
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

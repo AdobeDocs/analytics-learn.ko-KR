@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 글머리 기호 그래프 시각화
 description: 글머리 기호 그래프는 분석의 목표에 대한 진행(또는 초과)을 보여주는 유용한 방법입니다. 조직의 성공을 시각화할 수 있는 다른 방법을 제공합니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2116
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

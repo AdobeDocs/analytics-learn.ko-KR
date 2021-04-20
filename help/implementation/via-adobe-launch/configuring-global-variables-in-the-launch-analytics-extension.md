@@ -1,14 +1,14 @@
 ---
 title: Launch Analytics 확장에서 전역 변수 구성
 description: Launch, By Adobe 및 Adobe Analytics 익스텐션을 시작하는 경우 이 비디오를 통해 전역 변수를 설정할 시기 및 위치(즉, 모든 페이지 또는 클릭에서 설정할 값)를 이해할 수 있습니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2855
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

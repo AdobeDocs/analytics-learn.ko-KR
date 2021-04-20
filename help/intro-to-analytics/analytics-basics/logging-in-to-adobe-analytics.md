@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics에 로그인
 description: 이 비디오에서는 Analytics에 로그인 및 관리하고 분석을 시작하는 방법에 대해 알아봅니다.
-feature: Analytics 기본 사항
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video

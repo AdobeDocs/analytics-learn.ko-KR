@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics의 분류 개요
 description: 분류는 제품, 캠페인, 페이지, 고객 등에 메타데이터(설명 특성)를 추가하는 강력한 방법입니다. 이러한 속성을 사용하면 유사한 요소를 그룹화하고 데이터를 분류하여 효과적인 요소와 효과적이지 않은 요소를 깊이 연구함으로써 마케팅 및 경험 활동을 보다 잘 이해할 수 있습니다.
-feature: 분류
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

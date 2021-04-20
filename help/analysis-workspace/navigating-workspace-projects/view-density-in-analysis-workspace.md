@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 밀도 보기
 description: '[프로젝트] > [정보 및 설정] 아래의 [밀도 보기] 설정을 사용하면 왼쪽 레일과 표에 적용되는 세로 패딩(자유 형식 및 집단)을 제어할 수 있습니다. [확장](기본값), [편안한] 또는 [축소] 중에서 선택할 수 있습니다.'
-feature: 프로젝트
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 대시보드 앱 내 경험
 description: 이 비디오에서는 Adobe Analytics 대시보드(모바일 앱)를 사용하여 사용자가 작성하거나 공유한 "스코어카드"에 액세스하고 보는 방법을 알아봅니다.
-feature: 분석 대시보드
+feature: Analytics Dashboards
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

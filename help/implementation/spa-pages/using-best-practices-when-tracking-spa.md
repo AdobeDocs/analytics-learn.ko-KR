@@ -1,15 +1,15 @@
 ---
 title: 'Adobe Analytics에서 단일 페이지 애플리케이션(SPA)을 추적할 때의 우수 사례 사용 '
 description: 이 문서에서는 Adobe Analytics을 사용하여 SPA(Single Page Applications)를 추적하는 동안 따라야 하는 몇 가지 우수 사례에 대해 설명합니다. 이 문서에서는 권장 구현 방법인 Experience Platform Launch 사용에 중점을 둡니다.
-feature: Implementation 기본 사항
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1389
 topic: SPA
-role: '"개발자, 데이터 엔지니어"'
-level: 중간
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

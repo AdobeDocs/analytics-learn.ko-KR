@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 흐름 시각화 기능 확장
 description: 이 비디오는 Analysis Workspace의 흐름 시각화에서 사용할 수 있는 다양한 마우스 오른쪽 단추 클릭 옵션을 보여줍니다. 옵션에는 패스에서 세그먼트 만들기, 열 축소 등이 있습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

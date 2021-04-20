@@ -1,14 +1,14 @@
 ---
 title: 'Adobe Analytics에서 분류 규칙 빌더 사용 '
 description: '분류 규칙 빌더를 사용하여 Adobe Analytics에서 규칙 기반 분류를 자동으로 적용하는 방법을 알아봅니다. '
-feature: 분류
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

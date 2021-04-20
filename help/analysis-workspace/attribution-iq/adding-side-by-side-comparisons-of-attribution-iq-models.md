@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace에서 Attribution IQ 모델의 단계별 비교 추가
 description: 이 비디오에서는 두 모델의 번호 사이의 백분율을 보여주는 자동 생성 열을 포함하여 Attribution IQ 모델을 빠르게 비교하는 방법을 알아봅니다.
-feature: 속성
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23651.jpg
 kt: 1705
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

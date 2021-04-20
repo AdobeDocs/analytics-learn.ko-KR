@@ -3,7 +3,7 @@ title: Analysis Workspace에서 보고서 세트 선택
 seo-title: Analysis Workspace에서 보고서 세트 선택 - Adobe Analytics
 description: 이 비디오는 보고서 세트 선택기에 대한 내용을 소개합니다.
 seo-description: 이 비디오는 보고서 세트 선택기에 대한 내용을 소개합니다. - Adobe Analytics
-feature: Workspace 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

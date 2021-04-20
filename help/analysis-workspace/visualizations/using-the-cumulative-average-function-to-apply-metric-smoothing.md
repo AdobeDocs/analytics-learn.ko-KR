@@ -1,15 +1,15 @@
 ---
 title: 누적 평균 함수를 사용하여 메트릭 스무딩 적용
 description: 지표가 트렌드 기간보다 길수록 지표에 대한 방향 트렌드를 알기는 더 어렵습니다. 이를 해결하기 위해 계산된 지표의 누적 평균 함수를 사용하여 Analysis Workspace의 지표에 평활법을 적용할 수 있습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 맞춤형 색상 팔레트 사용
 description: Analysis Workspace에 사용되는 색상 팔레트를 변경하여 브랜드나 고객의 색상 팔레트에 맞게 보다 적절하게 조정할 수 있습니다.
-feature: 작업 영역 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

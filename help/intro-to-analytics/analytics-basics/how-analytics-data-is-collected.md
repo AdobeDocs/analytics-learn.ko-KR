@@ -1,7 +1,7 @@
 ---
 title: Analytics 데이터 수집 방법
 description: 페이지에서 Adobe Analytics의 보고서로 데이터를 가져오는 방법은 무엇입니까? 이 비디오는 방법을 보여 줍니다.
-feature: Analytics 기본 사항
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video

@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 자유 형식 테이블 필터
 description: 필터는 자유 형식 테이블에서 공유되는 데이터 행을 보다 세밀하게 제어할 수 있습니다.
-feature: 자유 형식 테이블
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23232.jpg
 kt: 1699
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

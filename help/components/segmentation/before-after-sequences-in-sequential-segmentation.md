@@ -1,14 +1,14 @@
 ---
 title: 순차적인 세분화 전/후 시퀀스
 description: 이 비디오에서는 특정 사용자 경로 이전 또는 이후의 데이터만 가져올 수 있도록 Adobe Analytics에서 세그먼트화하는 방법을 설명합니다.
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2303
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

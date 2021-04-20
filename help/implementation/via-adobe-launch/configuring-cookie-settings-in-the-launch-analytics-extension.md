@@ -1,14 +1,14 @@
 ---
 title: Launch Analytics 확장에서 쿠키 설정 구성
 description: Launch, By Adobe 및 Adobe Analytics 익스텐션을 시작하는 경우 이 비디오를 통해 Analytics 확장 기능에서 쿠키 설정 여부와 설정 방법을 이해할 수 있습니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

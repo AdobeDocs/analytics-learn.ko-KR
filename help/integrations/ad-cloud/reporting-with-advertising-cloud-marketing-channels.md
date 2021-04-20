@@ -1,16 +1,16 @@
 ---
 title: Advertising Cloud 마케팅 채널을 사용한 보고하기
 description: Advertising Cloud 뷰스루 및 클릭스루 입력 데이터가 Adobe Analytics 마케팅 채널과 작동하는 방식
-feature: Advertising Cloud 통합
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35115.jpg
 kt: 5472
-topic: 통합
-role: 비즈니스 전문가
-level: 중간
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

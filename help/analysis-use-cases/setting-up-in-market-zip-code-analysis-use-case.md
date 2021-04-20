@@ -3,15 +3,15 @@ title: 시장 내 우편 번호 분석 설정 - 사용 사례
 seo-title: 시장 내 우편 번호 분석 설정 - 사용 사례
 description: 이 사용 사례에서는 우편번호를 가져오고, 해당 코드를 시장 내 또는 시장 외 지역으로 분류한 다음, Analysis Workspace에서 이 데이터를 사용하여 지리적 타게팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
 seo-description: 이 사용 사례에서는 우편번호를 가져오고, 해당 코드를 시장 내 또는 시장 외 지역으로 분류한 다음, Analysis Workspace에서 이 데이터를 사용하여 지리적 타게팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
-feature: 사용 사례
+feature: Use Cases
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

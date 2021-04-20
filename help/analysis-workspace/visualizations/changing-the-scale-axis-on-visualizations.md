@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 시각화에 대한 비율/축 변경
 description: 이 비디오에서는 Analysis Workspace의 선 그래프에서 Y축에 대한 비율(또는 축 제한)을 쉽게 변경하여 데이터를 잘못 해석하기 더 어렵게 만드는 방법을 보여 줍니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

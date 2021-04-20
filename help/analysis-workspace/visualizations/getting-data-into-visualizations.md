@@ -1,7 +1,7 @@
 ---
 title: 데이터를 시각화하기
 description: Analysis Workspace에서 시각화를 추가할 때 시각화 유형에 따라 데이터를 추가하는 방법은 몇 가지가 있습니다. 이 비디오에서는 이러한 메서드를 보여 줍니다.
-feature: 시각화
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

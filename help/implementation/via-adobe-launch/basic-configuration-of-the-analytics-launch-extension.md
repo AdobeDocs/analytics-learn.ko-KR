@@ -1,14 +1,14 @@
 ---
 title: Analytics Launch 확장의 기본 구성
 description: 이 비디오는 기본 사이트에 대한 Launch에서 Analytics 확장을 구성하는 빠른 방법을 보여줍니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

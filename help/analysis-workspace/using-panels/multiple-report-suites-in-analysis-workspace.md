@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 여러 보고서 세트
 description: 패널 수준에서 세트를 선택하여 단일 Workspace 프로젝트에서 여러 보고서 세트를 분석할 수 있습니다. 이렇게 하면 여러 데이터 세트에서 나란히 패널 분석을 수행할 수 있습니다.
-feature: 패널
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

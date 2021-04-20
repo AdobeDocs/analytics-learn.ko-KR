@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 맵 시각화
 description: 이 비디오는 Analysis Workspace에서 새 맵 시각화를 사용하는 방법을 보여줍니다. 맵 보기를 사용하면 다이내믹 맵에 대해 모바일(위도/긴) 또는 웹(IP 주소) 데이터를 볼 수 있으므로 위치 컨텍스트에서 고객 사용에 대한 아이디어를 얻을 수 있습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 자유 양식 표 합계
 description: 이 비디오에서는 합계를 제거하는 기능을 비롯하여 자유 형식 테이블 합계에 대한 몇 가지 업데이트를 볼 수 있습니다.
-feature: 자유 형식 테이블
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

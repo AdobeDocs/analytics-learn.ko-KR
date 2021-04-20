@@ -1,14 +1,14 @@
 ---
 title: 태그 관리자 없이 맞춤형 링크 추적
 description: '페이지에 있는 많은 작업의 경우, 추적은 페이지 보기로 취급되어서는 안 됩니다. 이 비디오에서는 태그 관리자(예: Experience Platform Launch)을 사용하지 않는 경우, Analytics에 링크 추적 비콘을 코딩하는 방법을 알아봅니다. 코드를 확인하고 중요한 팁을 학습합니다.'
-feature: Appmeasurement 구현
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: '"개발자, 데이터 엔지니어"'
-level: 중간
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

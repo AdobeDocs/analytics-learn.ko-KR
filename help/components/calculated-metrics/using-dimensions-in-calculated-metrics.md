@@ -1,14 +1,14 @@
 ---
 title: 계산된 메트릭에서 치수 사용
 description: 이제 계산된 지표 빌더에서 Dimension을 사용할 수 있습니다. 계산된 지표 공식에 추가하여 즉시 내부 세그먼트를 만들 수 있습니다.
-feature: 계산된 지표
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

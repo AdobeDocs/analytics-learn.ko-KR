@@ -3,7 +3,7 @@ title: 맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 �
 seo-title: 맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화
 description: 이 비디오는 조직의 신규 사용자에게 더 나은 서비스를 제공하기 위해 복사 + 붙여넣기/삽입 기능을 갖춘 맞춤형 템플릿을 결합하는 방법을 보여 줍니다.
 seo-description: 이 비디오는 조직의 신규 사용자에게 더 나은 서비스를 제공하기 위해 복사 + 붙여넣기/삽입 기능을 갖춘 맞춤형 템플릿을 결합하는 방법을 보여 줍니다.
-feature: 프로젝트
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

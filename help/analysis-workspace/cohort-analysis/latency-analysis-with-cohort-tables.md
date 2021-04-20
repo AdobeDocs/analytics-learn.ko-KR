@@ -1,15 +1,15 @@
 ---
 title: 코호트 테이블을 이용한 대기 시간 분석
 description: 집단 테이블의 지연 테이블 설정을 사용하면 포함 이벤트 전후에 집단 행동을 분석할 수 있습니다(표준 집단 묘사와 같이 뒤에 오는 것은 아님). 이 설정은 예를 들어 새 제품 또는 캠페인 실행의 영향을 분석하는 데 유용합니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

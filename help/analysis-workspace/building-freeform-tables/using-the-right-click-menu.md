@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴 사용
 description: Analysis Workspace에서 마우스 오른쪽 단추 클릭 메뉴를 사용하여 분류를 더욱 빠르게 수행하는 방법을 알아보십시오.
-feature: 자유 형식 테이블
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

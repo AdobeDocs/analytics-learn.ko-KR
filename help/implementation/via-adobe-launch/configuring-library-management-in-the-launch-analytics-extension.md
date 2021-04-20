@@ -1,14 +1,14 @@
 ---
 title: Analytics용 라이브러리 관리 구성
 description: Adobe Analytics용 Experience Platform Launch 익스텐션을 지금 시작하는 경우 이 비디오를 통해 데이터를 전송할 보고서 세트 선택을 비롯하여 구성의 라이브러리 관리 부분을 처리할 수 있습니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

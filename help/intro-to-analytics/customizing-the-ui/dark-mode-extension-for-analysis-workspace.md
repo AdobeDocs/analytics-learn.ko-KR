@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 다크 모드 확장
 description: Dark Reader Chrome 확장 기능을 활성화하여 Analysis Workspace이 어둡게 표시됩니다.
-feature: 작업 영역 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Experience Platform Launch에서 쉬운 다운로드 링크 추적 구성
 description: Experience Platform Launch의 Adobe Analytics Extension을 몇 번의 클릭만으로 사이트에서 다운로드 링크(컴퓨터에 브라우저가 아닌 파일을 다운로드하는 링크)를 추적할 수 있습니다. 이 비디오에서는 설정하는 방법을 보여 줍니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,7 +3,7 @@ title: Analysis Workspace의 표준 템플릿
 seo-title: Analysis Workspace의 표준 템플릿
 description: 'Analysis Workspace는 표준 템플릿(이전 명칭: 스타터 프로젝트)를 통해 분석을 시작할 수 있도록 지원합니다.'
 seo-description: 'Analysis Workspace는 표준 템플릿(이전 명칭: 스타터 프로젝트)를 통해 분석을 시작할 수 있도록 지원합니다.'
-feature: 프로젝트
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

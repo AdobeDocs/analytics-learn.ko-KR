@@ -1,15 +1,15 @@
 ---
 title: 프로젝트 전환기를 사용하여 Ad Hoc Analysis에서 Analytics Workspace로 프로젝트 이동
 description: Ad Hoc Analysis 프로젝트 변환기는 버튼을 한 번만 눌러 Ad Hoc Analysis(AHA) 프로젝트를 Analysis Workspace 프로젝트로 매끄럽게 변환합니다.
-feature: Experience Cloud 통합
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: 통합
-role: 비즈니스 전문가
-level: 중간
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

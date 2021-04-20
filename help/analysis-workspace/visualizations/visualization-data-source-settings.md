@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 시각화 데이터 소스 설정
 description: 데이터 소스 모달은 기본 테이블 아키텍처뿐만 아니라 간소화되었습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1905
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

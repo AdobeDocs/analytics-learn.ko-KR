@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 흐름 시각화
 description: 이 비디오에서는 Analysis Workspace의 흐름 시각화를 안내합니다. 흐름을 사용하여 사용자 행동을 표시하고 탐색하여 고객 여정을 보다 심층적으로 파악할 수 있습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

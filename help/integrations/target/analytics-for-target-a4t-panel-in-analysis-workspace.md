@@ -1,16 +1,16 @@
 ---
 title: Analysis Workspace의 A4T(Analytics for Target) 패널
 description: Analytics for Target(A4T) 패널을 사용하면 Analysis Workspace에서 자신 있게 Adobe Target 활동 및 경험을 분석할 수 있습니다.
-feature: Experience Cloud 통합
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37247.jpg
 kt: 5837
-topic: 통합
-role: 비즈니스 전문가
-level: 중간
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

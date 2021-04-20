@@ -1,13 +1,13 @@
 ---
 title: 비즈니스 요구 사항 문서 생성
 description: '이 비디오에서는 Adobe Analytics로 추적할 항목을 정의하는 중요한 단계에 대해 설명합니다. 귀하의 사이트에 대해 알고 싶은 것은 무엇입니까? 이를 기록하고 추적하는 방식에 대해 결정하는 단계를 시작해 보도록 하겠습니다. '
-feature: 구현 기본 사항
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 translation-type: ht

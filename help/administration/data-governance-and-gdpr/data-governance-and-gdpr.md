@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics의 데이터 거버넌스 및 GDPR
 description: 이 비디오에서는 데이터 거버넌스 및 데이터 레이블이 GDPR에 어떻게 적합한지 설명합니다. 데이터 거버넌스를 사용한 데이터 레이블의 실제 예를 제공합니다.
-feature: 개인 정보 보호
+feature: Privacy
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
-role: '"관리자, 아키텍트"'
-level: 중간
+role: "Administrator, Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

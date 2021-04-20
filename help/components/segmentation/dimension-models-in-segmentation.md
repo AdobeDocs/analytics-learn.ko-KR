@@ -1,14 +1,14 @@
 ---
 title: 세분화에서의 Dimension 모델
 description: Dimension 모델은 세그멘테이션의 모든 차원에 대해 톱니바퀴를 통해 사용할 수 있습니다. 이러한 모델은 주로 순차적 세그먼테이션에 유용하며 차원의 지속적인 값(기본값), 인스턴스 또는 반복되지 않는 차원의 인스턴스를 세그먼트화할 수 있습니다.
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 계산된 메트릭 - 함수
 description: Adobe Analytics의 계산된 지표에서 함수를 사용하는 방법 학습
-feature: 계산된 지표
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2321
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

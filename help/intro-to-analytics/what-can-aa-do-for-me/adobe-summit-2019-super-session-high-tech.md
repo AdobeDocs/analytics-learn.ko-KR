@@ -1,13 +1,13 @@
 ---
 title: Adobe Summit 2019 슈퍼 세션 - 하이 테크
 description: Summit 2019의 하이 테크 "슈퍼 세션"에서 선별된 클립 보기
-feature: 사용 사례
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4404
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 8153f04c-d1a5-4dd8-8ed6-24205467e285,e3a09a0d-81f1-412e-90b2-89161f8dd9e3,e3a09a0d-81f1-412e-90b2-89161f8dd9e3,8153f04c-d1a5-4dd8-8ed6-24205467e285
 translation-type: ht

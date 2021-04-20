@@ -1,15 +1,15 @@
 ---
 title: 모든 Dimension을 사용한 집단 분석
 description: 사용자 지정 집단 Dimension 옵션을 사용하면 시간 이외의 차원을 사용하여 집단을 분석할 수 있습니다. 마케팅 채널, 캠페인 지역, 제품 페이지 등별로 집단 비교 를 클릭하여 차원 항목별로 보존(또는 이탈)이 변경되는 방법을 보다 잘 이해할 수 있습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

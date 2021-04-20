@@ -1,12 +1,12 @@
 ---
 title: Analytics 비디오 및 튜토리얼
 description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
-feature: Analytics 기본 사항
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 translation-type: ht

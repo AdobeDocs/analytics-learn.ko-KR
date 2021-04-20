@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace의 임시 세그먼트
 description: 저장된 세그먼트 목록을 채우지 않도록 간단한 세그먼트를 신속하게 만들어 특정 질문에 답변한 다음 세그먼트를 버리시겠습니까? 이제!
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

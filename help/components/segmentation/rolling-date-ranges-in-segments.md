@@ -1,14 +1,14 @@
 ---
 title: 세그먼트의 롤링 기간
 description: Adobe Analytics을 통해 다음과 같은 질문에 답변할 수 있습니다. 매출액은 60일 동안 평균 수치입니까? 또는 - 지난 주 동안 앱의 컨텐츠를 5회 이상 본 방문자 수는 몇 명입니까? 롤링 날짜 범위를 세그먼트에 포함합니다. 이 비디오에서는 방법을 보여 줍니다.
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2304
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

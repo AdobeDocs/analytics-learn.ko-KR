@@ -1,14 +1,14 @@
 ---
 title: 전환 이벤트 소개
 description: '이 비디오에서 전환 "이벤트"에 대한 소개나 사이트의 전환을 추적하는 데 도움이 되는 변수(예: 주문, 가입, 등록, 양식 완료 등)에 대한 소개를 받을 수 있습니다.'
-feature: 지표
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3578
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

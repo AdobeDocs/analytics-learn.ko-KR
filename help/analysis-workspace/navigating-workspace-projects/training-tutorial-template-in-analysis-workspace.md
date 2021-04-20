@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 교육용 튜토리얼 템플릿
 description: 'Analysis Workspace 교육용 튜토리얼은 사용자가 Workspace에서 첫 번째 분석을 구축하기 위한 일반적인 용어와 단계를 안내합니다. '
-feature: 패널
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 코호트 테이블 설정
 description: '보존 또는 이탈 뷰를 사용자 정의할 수 있도록 해주는 여러 가지 집단 테이블 설정이 있습니다. 이 비디오에서 강조 표시된 항목을 봅니다. '
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

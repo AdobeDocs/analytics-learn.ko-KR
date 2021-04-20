@@ -1,16 +1,16 @@
 ---
 title: Adobe Analytics를 사용하여 사전 실행 캠페인 분석 만들기
 description: Adobe Analytics를 사용하여 Advertising Cloud 유료 미디어 캠페인을 시작하는 기반을 설정하는 방법
-feature: Advertising Cloud 통합
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35114.jpg
 kt: 5471
-topic: 통합
-role: 관리자
-level: 중간
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

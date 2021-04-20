@@ -1,14 +1,14 @@
 ---
 title: Adobe Experience Cloud Debugger를 사용하여 구현 검사
 description: Experience Cloud 디버거는 사용자가 Experience Cloud 태그를 검사 및 디버그할 수 있는 도구입니다. 이 비디오에서는 Experience Cloud Debugger을 사용하여 Analytics 구현을 검사하는 방법을 다룹니다.
-feature: 유효성 검사
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

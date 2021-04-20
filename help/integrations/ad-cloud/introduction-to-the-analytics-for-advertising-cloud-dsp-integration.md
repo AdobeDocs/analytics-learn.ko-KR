@@ -1,15 +1,15 @@
 ---
 title: Advertising Cloud DSP 통합을 위한 Analytics 소개
 description: Advertising Cloud DSP용 Analytics 통합은 Adobe Analytics과 Adobe Advertising Cloud 간의 기본 양방향 통합입니다. 이 통합을 통해 고객은 Advertising Cloud 광고 노출에서 Analytics로 뷰스루를 캡처할 수 있습니다. 그러면 Analytics는 뷰스루를 모든 다운스트림 사이트 활동(클릭스루처럼)에 연결할 수 있습니다. 그런 다음 Analytics에서 지표를 다시 Advertising Cloud으로 전달하여 고급 알고리즘 입찰 모델에 사용할 수 있습니다. 이 비디오에서는 뷰스루 기능, 통합의 이점, Analysis Workspace에서 새 Dimension/지표 사용에 대한 몇 가지 기본적인 예를 다룹니다.
-feature: Advertising Cloud 통합
+feature: Advertising Cloud Integration
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: 통합
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

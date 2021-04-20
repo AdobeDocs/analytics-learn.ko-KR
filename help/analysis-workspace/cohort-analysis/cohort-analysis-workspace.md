@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 집단 분석
 description: Analysis Workspace에서 집단 분석 테이블을 만드는 방법입니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2135
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

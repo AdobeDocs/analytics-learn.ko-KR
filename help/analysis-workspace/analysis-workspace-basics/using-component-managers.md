@@ -3,7 +3,7 @@ title: Adobe Analytics에서 구성 요소 관리자 사용
 seo-title: Adobe Analytics에서 구성 요소 관리자 사용
 description: '이 비디오는 몇 가지 추가 기능과 함께 Adobe Analytics에서 알림 및 예약된 프로젝트 구성 요소 관리자를 사용하는 방법을 보여 줍니다. 원하는 알림 또는 예약된 프로젝트를 쉽게 찾을 수 있는 방법과 알림을 활성화/비활성화하는 방법에 대해 살펴보십시오. '
 seo-description: '이 비디오는 몇 가지 추가 기능과 함께 Adobe Analytics에서 알림 및 예약된 프로젝트 구성 요소 관리자를 사용하는 방법을 보여 줍니다. 원하는 알림 또는 예약된 프로젝트를 쉽게 찾을 수 있는 방법과 알림을 활성화/비활성화하는 방법에 대해 살펴보십시오. '
-feature: Workspace 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

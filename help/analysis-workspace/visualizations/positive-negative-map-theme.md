@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 긍정-부정 지도 테마
 description: 새로운 긍정/부정 색상 테마를 사용하면 맵에서 긍정/부정 수를 명확하게 표현할 수 있습니다. 이 새 테마는 이벤트(관리에서)를 설정하거나 계산된 지표로 만들 때 발생하는 모든 극성 변경 사항도 반영합니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1662
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

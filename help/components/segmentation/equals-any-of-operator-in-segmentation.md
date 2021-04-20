@@ -1,14 +1,14 @@
 ---
 title: 세그멘테이션에서 같음 연산자 사용
 description: 세그먼트 빌더에 추가된 세그먼트 연산자 중 하나와 같음 및 같지 않음 연산자가 없습니다. 여러 OR 문 또는 Contains any of를 사용하는 대신 이러한 연산자를 사용하여 특정 항목 목록으로 필터링합니다. 다음 연산자 대신 이러한 연산자를 사용하면 쿼리 속도도 향상시키는 데 도움이 됩니다.
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

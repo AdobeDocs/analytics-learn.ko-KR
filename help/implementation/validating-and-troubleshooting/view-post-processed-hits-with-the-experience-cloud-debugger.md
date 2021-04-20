@@ -1,14 +1,14 @@
 ---
 title: Experience Cloud Debugger를 사용하여 후처리된 히트 보기
 description: 이제 Experience Cloud Debugger에서 사후 처리된 데이터를 사용할 수 있습니다. Experience Cloud을 통해 로그인하고 "사후 처리된 히트 검색"을 켜면 VISTA 및 처리 규칙이 적용된 후 히트를 볼 수 있습니다. 예를 들어 조직에서 처리 규칙에서 컨텍스트 데이터를 매핑하는 데 크게 의존하는 경우 이제 각 컨텍스트 데이터 변수가 디버거에 직접 저장되는 위치를 볼 수 있습니다.
-feature: 유효성 검사
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4843
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

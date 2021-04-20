@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 막대 그래프 시각화
 description: 히스토그램을 사용하면 방문자, 방문 및 현재 히트 수에 대한 지표의 배포를 시각화하여 고부가가치 세그먼트와 저부가가치 세그먼트를 찾을 수 있습니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

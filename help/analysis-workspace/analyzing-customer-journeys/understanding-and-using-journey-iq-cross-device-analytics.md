@@ -7,8 +7,8 @@ activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4138
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

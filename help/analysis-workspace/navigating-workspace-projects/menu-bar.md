@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 메뉴 막대
 description: Analysis Workspace은 프로젝트 관리 및 익숙한 카테고리에 대한 분석을 위한 다양한 옵션을 구성하는 업데이트된 메뉴를 통해 보다 손쉽게 제어하고 탐색할 수 있습니다.
-feature: 프로젝트
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2025
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analytics 시작 확장 구성 중 사용자 지정 코드 사용
 description: Launch, Adobe 및 Adobe Analytics 익스텐션을 사용하여 시작하는 경우 이 비디오를 통해 사용자 정의 코드 창 옵션, 코드 실행 시간 등을 이해할 수 있습니다.
-feature: 실행 시작
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: '"개발자, 데이터 엔지니어"'
-level: 초급
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

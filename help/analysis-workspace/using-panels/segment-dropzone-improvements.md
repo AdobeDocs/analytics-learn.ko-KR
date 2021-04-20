@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 세그먼트 드롭 영역 개선 사항
 description: 세그먼트 드롭 영역이 개선되어 프로젝트의 아무 곳에나 놓을 수 있습니다.
-feature: 패널
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

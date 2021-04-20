@@ -1,16 +1,16 @@
 ---
 title: Experience Platform Launch에서 서버측 전달 활성화
 description: 'Experience Platform Launch을 사용하여 서버 측 전달을 통해 Adobe Analytics 히트를 Adobe Audience Manager으로 자동으로 전송하는 방법을 알아봅니다. '
-feature: Experience Cloud 통합
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-topic: 통합
-role: '"비즈니스 전문가, 개발자, 데이터 엔지니어, 건축가, 데이터 아키텍트, 관리자, 리더"'
-level: 중간
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

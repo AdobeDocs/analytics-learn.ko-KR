@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 벤 다이어그램 시각화
 description: 벤 다이어그램 시각화를 사용하여 Analysis Workspace에서 세그먼트의 겹치기 및 교차 영역을 시각적으로 표시할 수 있습니다. 매력적이고 통찰력 있는 벤 다이어그램을 신속하게 제작할 수 있습니다. 이 비디오에서는 방법을 보여 줍니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

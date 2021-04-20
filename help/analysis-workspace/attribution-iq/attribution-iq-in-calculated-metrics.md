@@ -1,15 +1,15 @@
 ---
 title: 계산된 메트릭의 기여도 IQ
 description: 이 비디오는 계산된 지표에 Attribution IQ을 사용하는 방법을 보여줍니다.
-feature: 속성
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23140.jpg
 kt: 1668
-role: 비즈니스 전문가
-level: 중간
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 전환 변수 소개(eVars)
 description: 이 비디오에서는 "eVars"라고도 하는 전환 변수에 대해 소개합니다. 트래픽 및 전환 변수 간의 차이와 전환 이벤트와 관련된 방법에 대해서도 알아보십시오.
-feature: 차원
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

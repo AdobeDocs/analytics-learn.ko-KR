@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace의 트리맵 및 산포도 시각화
 description: Adobe Analytics의 Analysis Workspace에는 트리 맵과 스캐터플롯 등 인기 있는 2가지 시각화 유형이 있습니다. 이 비디오에서는 분석에 두 가지 시각화 유형을 사용하는 방법을 설명합니다.
-feature: 시각화
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

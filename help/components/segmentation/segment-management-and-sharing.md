@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics의 세그먼트 관리 및 공유
 description: 이 비디오에서는 Adobe Analytics에서 세그먼트를 공유하고 관리하는 방법을 보여줍니다.
-feature: 세그멘테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -3,16 +3,16 @@ title: Adobe Analytics에서 우편 번호 설정 구성
 seo-title: Adobe Analytics에서 우편 번호 설정 구성
 description: 이 비디오에서는 이 지역 데이터를 기반으로 분석을 수행할 수 있도록 우편 번호 설정을 구성하는 방법을 알아봅니다.
 seo-description: 이 비디오에서는 이 지역 데이터를 기반으로 분석을 수행할 수 있도록 우편 번호 설정을 구성하는 방법을 알아봅니다.
-feature: 데이터 구성 및 수집
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: 관리
-role: '"관리자, 아키텍트"'
-level: 초급
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

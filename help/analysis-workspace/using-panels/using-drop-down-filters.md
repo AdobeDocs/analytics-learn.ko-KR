@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace에서 드롭다운 필터 사용
 description: 이 비디오에서는 Analysis Workspace의 드롭다운 필터를 사용하여 패널 내용을 동적으로 변경하는 방법을 살펴봅니다.
-feature: 패널
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
-role: 비즈니스 전문가
-level: 초급
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

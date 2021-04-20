@@ -1,16 +1,16 @@
 ---
 title: Analytics 사이트 고객 여정 프로필 생성
 description: Adobe Analytics를 사용하여 Advertising Cloud 리마케팅을 위한 강력한 사이트 리타겟팅 풀을 만드는 방법
-feature: Advertising Cloud 통합
+feature: Advertising Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
-topic: 통합
-role: 비즈니스 전문가
-level: 중간
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

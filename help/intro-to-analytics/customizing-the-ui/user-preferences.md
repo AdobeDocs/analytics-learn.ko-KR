@@ -1,8 +1,8 @@
 ---
 title: Adobe Analytics의 사용자 환경 설정
 description: 구성 요소 - 사용자 환경 설정 페이지에서 사용자 수준에서 Analysis Workspace 및 관련 구성 요소에 대한 설정을 관리할 수 있습니다. 예를 들어 기본 보고서 세트와 색상 팔레트를 선택할 수 있습니다. 사용자 환경 설정은 모든 새 프로젝트와 새 패널에 적용됩니다.
-feature: Workspace 기본 사항
-topic: 개인화
+feature: Workspace Basics
+topic: Personalization
 role: Business Practitioner, Administrator
 level: Beginner
 doc-type: feature video
