@@ -2,13 +2,13 @@
 title: 향상된 Experience Cloud 대상자 게시
 landing-page-description: 게시 대상(세그먼트)을 학습하고 보다 신속하게 이용할 수 있도록 만들어봅니다.
 description: Experience Cloud 대상 게시가 개선되었습니다. 이제 대상(세그먼트)을 게시하여 6배 더 빠르게 사용할 수 있도록 할 수 있으므로, 현재 대기 시간이 48시간에서 약 8시간으로 단축되었으며 트래픽 및 세그먼트 크기에 따라 더 빨라질 수 있습니다.
-feature: Experience Cloud Integration
+feature: Experience Cloud 통합
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
-topic: Integrations
+topic: 통합
 role: Business Practitioner
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
