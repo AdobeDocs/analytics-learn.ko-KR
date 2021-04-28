@@ -4,11 +4,11 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: ht
-source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
-workflow-type: ht
-source-wordcount: '1980'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+workflow-type: tm+mt
+source-wordcount: '1986'
+ht-degree: 99%
 
 ---
 
@@ -208,6 +208,7 @@ ht-degree: 100%
       + [Admin Console에서 보고서 세트 액세스 제한](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + 보고서 세트 관리 {#manage-report-suites}
       + [일반 계정 설정 구성 방법](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [달력 설정 사용자 지정](administration/manage-report-suites/customize-calendar-settings.md)
       + [주소 및 우편번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 데이터 거버넌스 및 GDPR {#data-governance-and-gdpr}
@@ -371,3 +372,4 @@ ht-degree: 100%
    + [Postman을 사용하여 Adobe Analytics 2.0 API 요청 만들기](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis 사용 사례 {#analysis-use-cases}
    + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
++ [Analytics University 커리큘럼](analytics-university/curriculum.md)
