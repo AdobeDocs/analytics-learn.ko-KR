@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '1986'
+source-wordcount: '1998'
 ht-degree: 99%
 
 ---
@@ -208,7 +208,10 @@ ht-degree: 99%
       + [Admin Console에서 보고서 세트 액세스 제한](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + 보고서 세트 관리 {#manage-report-suites}
       + [일반 계정 설정 구성 방법](administration/manage-report-suites/configuring-general-account-settings.md)
-      + [달력 설정 사용자 지정](administration/manage-report-suites/customize-calendar-settings.md)
+      + [캘린더 설정 맞춤화](administration/manage-report-suites/customize-calendar-settings.md)
+      + [보고 및 분석의 메뉴 사용자 지정](administration/manage-report-suites/customize-menus.md)
+      + [검색 방법 구성](administration/manage-report-suites/configure-finding-methods.md)
+      + [내부 URL 필터 설정](administration/manage-report-suites/set-internal-url-filters.md)
       + [주소 및 우편번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 데이터 거버넌스 및 GDPR {#data-governance-and-gdpr}
@@ -372,4 +375,4 @@ ht-degree: 99%
    + [Postman을 사용하여 Adobe Analytics 2.0 API 요청 만들기](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis 사용 사례 {#analysis-use-cases}
    + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics University 커리큘럼](analytics-university/curriculum.md)
++ [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
