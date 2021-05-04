@@ -1,39 +1,39 @@
 ---
-title: Adobe Analytics University 커리큘럼
-description: Adobe은 이 Analytics 기초 컨텐츠를 해당 대학에 제공할 것을 자랑스럽게 생각합니다. 이 커리큘럼에서는 Adobe Analytics 수집 및 보고를 소개하는 4개의 개별 모듈을 확인할 수 있으며 이러한 모듈은 디지털 분석 또는 마케팅 교육 과정으로 나뉘어 질 수 있습니다. 이번 소개 매뉴얼은 교수 및 학생들이 가을에 Adobe Analytics 글로벌 과제를 하는 데 필요한 지식을 얻을 수 있도록 해 준다.
+title: Adobe Analytics 대학 커리큘럼
+description: Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 귀 대학에 제시해 드립니다. 커리큘럼 내에서 Adobe Analytics 수집 및 보고를 소개하는 4개의 고유한 모듈을 찾을 수 있습니다. 이 모듈은 디지털 분석 또는 마케팅 과정으로 분류할 수 있습니다. 이 소개 매뉴얼을 통해 교수와 학생은 매년 가을 Adobe Analytics 글로벌 과제에 참여하는 데 필요한 지식을 습득할 수 있습니다.
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 95%
 
 ---
 
 
 
-# Adobe Analytics University
+# Adobe Analytics 대학
 
-## 분석 강좌 콘텐트
+## Analytics 교육 과정 콘텐츠
 
-Adobe은 이 Analytics 기초 컨텐츠를 해당 대학에 제공할 것을 자랑스럽게 생각합니다. 이 커리큘럼에서는 Adobe Analytics 수집 및 보고를 소개하는 4개의 개별 모듈을 확인할 수 있으며 이러한 모듈은 디지털 분석 또는 마케팅 교육 과정으로 나뉘어 질 수 있습니다. 이번 소개 매뉴얼은 교수 및 학생들이 가을에 Adobe Analytics 글로벌 과제를 하는 데 필요한 지식을 얻을 수 있도록 해 준다.
+Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 귀 대학에 제시해 드립니다. 커리큘럼 내에서 Adobe Analytics 수집 및 보고를 소개하는 4개의 고유한 모듈을 찾을 수 있습니다. 이 모듈은 디지털 분석 또는 마케팅 과정으로 분류할 수 있습니다. 이 소개 매뉴얼을 통해 교수와 학생은 매년 가을 Adobe Analytics 글로벌 과제에 참여하는 데 필요한 지식을 습득할 수 있습니다.
 
 ### 학습 내용은 다음과 같습니다.
 
-*DATA로 시작합니다.*
+*데이터로 시작:*
 
-* 데이터 수집 모듈(1) 데이터 구현, 수집, 보고 및 유효성 검사의 프레임워크
-* 데이터 변수, 전략 및 아키텍처에 대한 기본 사항(2)
+* 데이터 수집 모듈 (1) 데이터 구현, 수집, 보고 및 유효성 검사에 대한 프레임워크
+* 데이터 전략 및 아키텍처 모듈 (2) 데이터 변수, 전략 및 아키텍처에 대한 기본 사항
 
-*그런 다음 해당 데이터와 인사이트를 결합합니다.*
+*해당 데이터를 통찰력과 결합:*
 
-* 주요 분석 KPI 지표 및 보고서에 액세스하고 보는 방법(표준 Adobe 지표 및 기능 모듈)
-* Analysis Workspace Fundamentals Module (4) 분석 보고 시각화 기능 강화
+* 표준 Adobe 메트릭 및 기능 모듈 (3) 중요 분석 KPI 메트릭 및 보고서에 액세스하고 조회하는 방법
+* Analysis Workspace 기본 모듈 (4) 분석 보고 시각화를 통한 고급화
 
-각 섹션의 끝에서 특정 목적을 위해 작성된 활동을 포함하는 이 커리큘럼은 Adobe Analytics University 샌드박스 환경과 결합할 수 있습니다.
+각 섹션의 끝부분에 특별히 빌드된 활동을 포함하고 있는 이 커리큘럼은 Adobe Analytics 대학 샌드박스 환경과 결합할 수 있습니다.
 
-액세스하려면 여기에 등록하십시오.https://experienceleague.adobe.com/AnalyticsUniversity
+액세스하려면 여기에 등록하십시오.[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
-[교육 과정 PDF 다운로드](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[커리큘럼 PDF 다운로드](assets/Adobe-Analytics-Curriculum_2021.pdf)
