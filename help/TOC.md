@@ -4,11 +4,10 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: ht
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: ht
-source-wordcount: '1998'
-ht-degree: 100%
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+workflow-type: tm+mt
+source-wordcount: '2007'
+ht-degree: 99%
 
 ---
 
@@ -68,7 +67,7 @@ ht-degree: 100%
       + [Adobe Analytics 학습 여정을 계속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 새 Analysis Workspace 프로젝트 탐색 {#navigating-workspace-projects}
       + [Analysis Workspace에서 첫 번째 프로젝트 시작하기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Analysis Workspace의 교육 튜토리얼 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [Analysis Workspace의 교육용 튜토리얼 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace에 복사 및 삽입](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [목차 생성](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [Workspace 효율성을 위해 마우스 오른쪽 버튼 클릭](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
@@ -153,7 +152,7 @@ ht-degree: 100%
    + 일정 및 기간 {#calendar-and-date-ranges}
       + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [Analysis Workspace에서 기간 및 비교 사용](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
-      + [Analysis Workspace에서 기간 및 일정 사용](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
+      + [Analysis Workspace에서 날짜 범위 및 달력 사용](analysis-workspace/calendar-and-date-ranges/date-ranges-and-calendar-in-analysis-workspace.md)
       + [맞춤형 기간 생성](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace의 날짜 비교](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [트렌드에 대한 이전 월 및 연도 비교 추가](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
@@ -218,7 +217,7 @@ ht-degree: 100%
       + [Adobe Analytics의 데이터 거버넌스 및 GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [분석 팀에 적합한 사람 확보](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + 트래픽 관리 {#traffic-management}
-      + [서버 호출 사용](administration/traffic-management/server-call-usage.md)
+      + [서버 호출 사용량](administration/traffic-management/server-call-usage.md)
    + 로그{#logs}
       + [Analysis Workspace에 대한 사용 로그 추적](administration/logs/usage-log-tracking-for-analysis-workspace.md)
 + 구현 {#implementation}
@@ -318,6 +317,7 @@ ht-degree: 100%
       + [Audience Analytics - AAM 세그먼트를 Analytics에 통합](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Analysis Workspace의 A4T(Analytics for Target) 패널](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [A4T 패널을 사용하여 자동 Target 활동 분석](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Advertising Analytics 구성](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [검색 엔진에 추적 템플릿 구현](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
