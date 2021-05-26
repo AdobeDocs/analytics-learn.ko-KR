@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
-workflow-type: ht
-source-wordcount: '2007'
-ht-degree: 100%
+source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+workflow-type: tm+mt
+source-wordcount: '2017'
+ht-degree: 99%
 
 ---
 
@@ -374,5 +374,7 @@ ht-degree: 100%
    + [Report Builder를 사용하여 Adobe Analytics API 학습](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=ko-KR)
    + [Postman을 사용하여 Adobe Analytics 2.0 API 요청 만들기](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis 사용 사례 {#analysis-use-cases}
+   + 내부 사이트 검색 {#internal-site-search}
+      + [내부 사이트 검색 비즈니스 요구 사항 정의](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
    + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
