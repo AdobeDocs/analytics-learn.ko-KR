@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace에 대한 사용 로그 추적
-description: 관리 - 로그 - 사용 및 액세스 아래에서 사용자의 Adobe Analytics 사용을 더 잘 이해할 수 있습니다. 이 비디오에서는 작업 공간 프로젝트 사용 측정에 특히 중점을 둡니다.
-feature: Data Configuration and Collection
+description: 관리자 - 로그 - 사용 및 액세스 아래에서 사용자의 Adobe Analytics 사용을 더 잘 이해할 수 있습니다. 이 비디오에서는 특히 Workspace 프로젝트 사용 측정에 중점을 둡니다.
+feature: 데이터 구성 및 수집
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: Administration
+topic: 관리
 role: Administrator
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
+source-git-commit: c23845ae2fc6bef5721f04283b9be039d076f631
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 21%
+source-wordcount: '102'
+ht-degree: 18%
 
 ---
 
-
 # Analysis Workspace에 대한 사용 로그 추적
 
-[!UICONTROL 관리] - [!UICONTROL 로그] - [!UICONTROL 사용 및 액세스] 아래에서 사용자의 Adobe Analytics 사용을 더 잘 이해할 수 있습니다. 이 비디오에서는 [!DNL Workspace] 프로젝트 사용 측정에 특히 중점을 둡니다. 이 비디오에 사용된 Excel 파일은 https://adobe.ly/2ygP5ws에서 다운로드할 수 있습니다.
+[!UICONTROL Admin] - [!UICONTROL 로그] - [!UICONTROL 사용 및 액세스]에서 사용자의 Adobe Analytics 사용을 더 잘 이해할 수 있습니다. 이 비디오에서는 특히 [!DNL Workspace] 프로젝트 사용 측정에 중점을 둡니다. 참고:이 비디오가 릴리스된 후 Analysis Workspace에서 강력한 사용 분석 방법을 설명하는 제품 팁이 adobe.ly/aausage에 게시되었습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
