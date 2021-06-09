@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2042'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -377,8 +377,8 @@ ht-degree: 98%
    + 내부 사이트 검색 {#internal-site-search}
       + [내부 사이트 검색 비즈니스 요구 사항 정의](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
       + [AppMeasurement를 사용하여 내부 검색 변수 구현](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
-      + [웹 SDK를 사용하여 내부 검색 변수 구현](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
-      + [웹 SDK 변수를 Adobe Analytics에 매핑](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [Web SDK를 사용하여 내부 검색 변수 구현](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [Web SDK 변수를 Adobe Analytics에 매핑](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [내부 사이트 검색 보고서 구성](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
