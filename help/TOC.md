@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
 workflow-type: tm+mt
-source-wordcount: '2067'
+source-wordcount: '2071'
 ht-degree: 98%
 
 ---
@@ -113,6 +113,7 @@ ht-degree: 98%
       + [Workspace에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Analysis Workspace의 라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [영역 및 스택 영역](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [불릿 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
       + [맵 시각화](analysis-workspace/visualizations/map-visualization.md)
