@@ -7,13 +7,13 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 333511.jpg
 kt: 7987
-source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
+exl-id: a6d26b85-3e04-4444-bbd7-89a476bfea07
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
-
 
 # 내부 사이트 검색 비즈니스 요구 사항 정의
 
