@@ -1,23 +1,23 @@
 ---
 title: 시각화 사용 사례
-description: 어떤 제품이 가장 잘 판매되는지 알고 싶습니까? 폴아웃, 흐름, 집단 등과 같은 시각화에 대한 몇 가지 기본 사용 사례를 알아봅니다.
+description: 베스트셀러 제품을 알아보려면 폴아웃, 플로우, 집단 등 시각화 기능의 주요 사용 사례를 참조하십시오.
 feature: 시각화
 role: Business Practitioner
 level: Beginner
 doc-type: feature video
 thumbnail: 334096.jpg
 kt: 8062
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 67%
 
 ---
 
-
 # 시각화 사용 사례
 
-어떤 제품이 가장 잘 판매되는지 알고 싶습니까? 폴아웃, 흐름, 집단 등과 같은 시각화에 대한 몇 가지 기본 사용 사례를 알아봅니다.
+베스트셀러 제품을 알아보려면 폴아웃, 플로우, 집단 등 시각화 기능의 주요 사용 사례를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
