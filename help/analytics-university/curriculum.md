@@ -3,15 +3,13 @@ title: Adobe Analytics 대학 커리큘럼
 description: Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 귀 대학에 제시해 드립니다. 커리큘럼 내에서 Adobe Analytics 수집 및 보고를 소개하는 4개의 고유한 모듈을 찾을 수 있습니다. 이 모듈은 디지털 분석 또는 마케팅 과정으로 분류할 수 있습니다. 이 소개 매뉴얼을 통해 교수와 학생은 매년 가을 Adobe Analytics 글로벌 과제에 참여하는 데 필요한 지식을 습득할 수 있습니다.
 hide: true
 hidefromtoc: true
-translation-type: ht
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: ht
+exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 100%
 
 ---
-
-
 
 # Adobe Analytics 대학
 
