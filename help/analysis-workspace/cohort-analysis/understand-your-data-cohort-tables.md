@@ -1,23 +1,23 @@
 ---
 title: 데이터 이해—집단 테이블
-description: 시간 경과에 따른 사용자 유지에 대한 이해를 돕기 위해 집단 테이블을 분석하는 방법을 알아봅니다.
+description: 시간에 따른 사용자 유지에 대해 이해할 수 있도록 집단 테이블을 분석하는 방법에 대해 알아봅니다.
 feature: 집단 분석
 role: Business Practitioner
 level: Beginner
 doc-type: feature video
 thumbnail: 334094.jpg
 kt: 8060
-source-git-commit: 0f0584cc6f5d5143d82f32e03cd92bce468a688c
+exl-id: 55c47805-578e-46a9-8d8c-90a9a109630e
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 3%
+ht-degree: 53%
 
 ---
 
-
 # 데이터 이해—집단 테이블
 
-시간 경과에 따른 사용자 유지에 대한 이해를 돕기 위해 집단 테이블을 분석하는 방법을 알아봅니다.
+시간에 따른 사용자 유지에 대해 이해할 수 있도록 집단 테이블을 분석하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
 
