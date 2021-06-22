@@ -1,23 +1,23 @@
 ---
 title: 데이터 이해 - 자유 형식 테이블
-description: 자유 형식 테이블(피벗 테이블)을 사용하여 데이터를 이해하고 해석하여 중요한 통찰력을 찾을 수 있습니다.
+description: 자유 형식 테이블(피벗 테이블)을 통해 중요 인사이트 검색을 위해 데이터를 이해하고 해석합니다.
 feature: 자유 형식 테이블
 role: Business Practitioner
 level: Beginner
 doc-type: feature video
 thumbnail: 334093.jpg
 kt: 8059
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+exl-id: a074d503-94f2-449f-8d3e-8bb599752981
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 3%
+ht-degree: 56%
 
 ---
 
-
 # 데이터 이해 - 자유 형식 테이블
 
-자유 형식 테이블(피벗 테이블)을 사용하여 데이터를 이해하고 해석하여 중요한 통찰력을 찾을 수 있습니다.
+자유 형식 테이블(피벗 테이블)을 통해 중요 인사이트 검색을 위해 데이터를 이해하고 해석합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
 
