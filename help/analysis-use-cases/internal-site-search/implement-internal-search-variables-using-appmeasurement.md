@@ -7,13 +7,13 @@ level: Intermediate
 doc-type: feature video
 thumbnail: 333604.jpg
 kt: 7996
-source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
+exl-id: 379c1a3d-2fd0-40d9-8736-05bd0f0c29c8
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 2%
+ht-degree: 19%
 
 ---
-
 
 # AppMeasurement를 사용하여 내부 검색 변수 구현
 
