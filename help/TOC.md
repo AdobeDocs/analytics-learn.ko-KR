@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
+source-git-commit: 4b5c50466a899ff84a628d0efe43765586d01216
 workflow-type: tm+mt
-source-wordcount: '2071'
+source-wordcount: '2063'
 ht-degree: 100%
 
 ---
@@ -259,7 +259,6 @@ ht-degree: 100%
       + [Experience Platform Launch를 사용하지 않을 때 AppMeasurement 업데이트](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + 확인 및 문제 해결 {#validating-and-troubleshooting}
       + [Adobe Experience Cloud Debugger를 사용하여 구현 검사](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-      + [Experience Cloud Debugger를 사용하여 후처리된 히트 보기](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
    + SPA 페이지 {#spa-pages}
       + [SPA 추적 시 모범 사례 사용](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + 구성 요소 {#components}
