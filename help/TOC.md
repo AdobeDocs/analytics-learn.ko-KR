@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
 workflow-type: tm+mt
 source-wordcount: '2071'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 98%
       + [Analysis Workspace 소개](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 개요](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [새 Analysis Workspace 프로젝트 제작](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [처음부터 작업 공간 프로젝트 만들기](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [처음부터 새로 Workspace 프로젝트 빌드](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace에서 맞춤형 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace의 표준 템플릿](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -89,7 +89,7 @@ ht-degree: 98%
       + [세그먼트 드롭 영역 개선](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + 자유 양식 표 구축 {#building-freeform-tables}
-      + [데이터 이해 - 자유 형식 테이블](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [데이터 이해하기 - 자유 양식 표](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 Analysis Workspace에서 자유 양식 표 구축](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [Analysis Workspace에서 자유 양식 표 자동 빌드](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [자유 양식 표에서 치수 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -161,7 +161,7 @@ ht-degree: 98%
       + [Analysis Workspace의 날짜 비교](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [트렌드에 대한 이전 월 및 연도 비교 추가](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 고객 여정 분석 {#analyzing-customer-journeys}
-      + [데이터 이해—폴아웃 및 흐름](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [데이터 이해하기 - 폴아웃 및 플로우](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [여정 IQ - 크로스 디바이스 분석](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [폴아웃 시각화](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [폴아웃 시각화 개선 사항](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -191,7 +191,7 @@ ht-degree: 98%
       + [Attribution IQ의 맞춤형 룩백 윈도우](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + 집단 분석 {#cohort-analysis}
       + [Analysis Workspace의 집단 분석](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
-      + [데이터 이해—집단 테이블](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
+      + [데이터 이해하기 - 집단 테이블](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [코호트 테이블 개요](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [코호트 테이블 설정](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [코호트 표를 이용한 이탈 분석](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
