@@ -1,6 +1,6 @@
 ---
-title: 처음부터 작업 공간 프로젝트 만들기
-description: 직접 프로젝트 작성을 시작할 준비가 되었습니까? 표 구성, 시각화 첨부 방법 등 처음부터 Analytics Workspace 프로젝트를 만드는 방법을 알아봅니다.
+title: 처음부터 새로 Workspace 프로젝트 빌드
+description: 나만의 프로젝트를 빌드할 준비가 되셨나요? 표를 구성하는 방법, 시각화를 첨부하는 방법 등을 포함하여 Analytics Workspace 프로젝트를 처음부터 새로 빌드하는 방법에 대해 알아봅니다.
 feature: Workspace 기본 사항
 role: Business Practitioner
 level: Beginner
@@ -11,13 +11,13 @@ exl-id: 8bbc1632-e5da-4cba-9852-e7c63521c345
 source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# 처음부터 작업 공간 프로젝트 만들기
+# 처음부터 새로 Workspace 프로젝트 빌드
 
-직접 프로젝트 작성을 시작할 준비가 되었습니까? 표 구성, 시각화 첨부 방법 등 처음부터 Analytics Workspace 프로젝트를 만드는 방법을 알아봅니다.
+나만의 프로젝트를 빌드할 준비가 되셨나요? 표를 구성하는 방법, 시각화를 첨부하는 방법 등을 포함하여 Analytics Workspace 프로젝트를 처음부터 새로 빌드하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
 
