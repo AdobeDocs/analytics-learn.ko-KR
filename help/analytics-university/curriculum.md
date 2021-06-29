@@ -4,10 +4,10 @@ description: Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 �
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 95%
+source-wordcount: '244'
+ht-degree: 91%
 
 ---
 
@@ -33,7 +33,6 @@ Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 귀 대학에 
 
 각 섹션의 끝부분에 특별히 빌드된 활동을 포함하고 있는 이 커리큘럼은 Adobe Analytics 대학 샌드박스 환경과 결합할 수 있습니다.
 
-여기에서 액세스 등록: [https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
-
+여기에 액세스하여 액세스:[Analytics 교육 과정 등록](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [커리큘럼 PDF 다운로드](assets/Adobe-Analytics-Curriculum_2021.pdf)
