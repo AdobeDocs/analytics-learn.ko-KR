@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2066'
 ht-degree: 99%
 
 ---
@@ -111,15 +111,18 @@ ht-degree: 99%
       + [시각화할 데이터 선택](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [데이터를 시각화하기](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Workspace에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Analysis Workspace의 라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [영역 및 스택 영역](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [막대 및 스택 막대 시각화](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [불릿 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [도넛 시각화 사용](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [도넛 시각화](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Analysis Workspace의 라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [맵 시각화](analysis-workspace/visualizations/map-visualization.md)
       + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [텍스트 시각화](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [트리맵 및 산점도 시각화](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [벤 다이어그램 시각화](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [누적 평균 함수를 사용하여 메트릭 스무딩 적용](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [유연한 레이아웃](analysis-workspace/visualizations/flexible-layouts.md)
       + [시각화에서 크기/축 변경](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -128,13 +131,10 @@ ht-degree: 99%
       + [Analysis Workspace에서 내부 연결](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [양수-음수 맵 테마](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [시각화 재정렬 및 크기 조정](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Analysis Workspace의 리치 텍스트 편집기](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [시리즈 라벨 편집](analysis-workspace/visualizations/series-label-editing.md)
       + [100% 누적 시각화](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [표 데이터 소스 설정](analysis-workspace/visualizations/table-data-source-settings.md)
       + [시간 분할 히트맵 빌드](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [트리맵 및 산점도 시각화](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
-      + [벤 다이어그램 시각화](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [시각화 데이터 소스 설정](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + 세그먼트 적용 {#applying-segments}
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
