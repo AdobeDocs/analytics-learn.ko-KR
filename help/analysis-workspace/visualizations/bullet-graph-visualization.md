@@ -1,25 +1,24 @@
 ---
 title: Analysis Workspace의 글머리 기호 그래프 시각화
-description: 글머리 기호 그래프는 분석의 목표에 대한 진행(또는 초과)을 보여주는 유용한 방법입니다. 조직의 성공을 시각화할 수 있는 다른 방법을 제공합니다.
-feature: Visualizations
-topics: null
+description: 글머리 기호 그래프는 분석에서 목표를 향해(또는 초과) 진행 상황을 표시하는 유용한 방법입니다. 조직의 성공을 시각화하는 다른 방법을 제공합니다.
+feature: 시각화
 activity: use
 doc-type: feature video
-team: Technical Marketing
 kt: 2116
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 8%
 
 ---
 
+#  Analysis Workspace  의 글머리 기호 그래프 시각화 {#bullet-graph-visualization-in-analysis-workspace}
 
-# [!UICONTROL Analysis Workspace] 의   BulletGraph 시각화  {#bullet-graph-visualization-in-analysis-workspace}
-
-[!UICONTROL 글머리 기호 ] 그래프는 분석의 목표에 대한 진행(또는 초과)을 보여주는 유용한 방법입니다. 조직의 성공을 시각화할 수 있는 다른 방법을 제공합니다.
+ 글머리 기호 그래프는 분석에서 목표를 향해 또는 그 이상을 진행하는 데 유용한 방법입니다. 조직의 성공을 시각화하는 다른 방법을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en)를 참조하십시오.
