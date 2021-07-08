@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
 source-wordcount: '2065'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -112,12 +112,12 @@ ht-degree: 99%
       + [데이터를 시각화하기](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Workspace에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [영역 및 스택 영역 시각화](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [막대 및 스택 시각화](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [막대 및 스택 막대 시각화](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [불릿 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [도넛 시각화](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
       + [라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [선 시각화에 트렌드 라인 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [맵 시각화](analysis-workspace/visualizations/map-visualization.md)
       + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [텍스트 시각화](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
