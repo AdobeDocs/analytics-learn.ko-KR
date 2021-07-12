@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace의 미디어 동시 뷰어 패널
-description: Media Analytics 고객의 경우 미디어 동시 뷰어 패널을 사용하면 동시 시청 횟수가 가장 많은 곳 또는 드롭오프가 발생한 위치를 파악하여 컨텐츠 및 뷰어 참여의 품질에 대한 중요한 통찰력을 제공하고 볼륨/규모에 대한 문제 해결 또는 계획을 세울 수 있습니다.
-feature: Panels
+description: Media Analytics 고객의 경우 미디어 동시 뷰어 패널을 사용하면 최대 동시 시청 시간 발생 위치 또는 드롭오프가 발생한 위치를 파악하여 컨텐츠 및 뷰어 참여의 품질에 대한 중요한 통찰력을 제공하고 볼륨/규모에 대한 문제 해결 또는 계획에 도움을 줄 수 있습니다.
+feature: 패널
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 17%
 
 ---
 
-
 # Analysis Workspace의 미디어 동시 뷰어 패널
 
-Media Analytics 고객의 경우 미디어 동시 뷰어 패널을 사용하면 동시 시청 횟수가 가장 많은 곳 또는 드롭오프가 발생한 위치를 파악하여 컨텐츠 및 뷰어 참여의 품질에 대한 중요한 통찰력을 제공하고 볼륨/규모에 대한 문제 해결 또는 계획을 세울 수 있습니다.
+Media Analytics 고객의 경우 미디어 동시 뷰어 패널을 사용하면 최대 동시 시청 시간 발생 위치 또는 드롭오프가 발생한 위치를 파악하여 컨텐츠 및 뷰어 참여의 품질에 대한 중요한 통찰력을 제공하고 볼륨/규모에 대한 문제 해결 또는 계획에 도움을 줄 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
