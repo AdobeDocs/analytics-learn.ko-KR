@@ -1,27 +1,26 @@
 ---
 title: Experience Platform Launch에서 서버측 전달 활성화
-description: 'Experience Platform Launch을 사용하여 서버 측 전달을 통해 Adobe Analytics 히트를 Adobe Audience Manager으로 자동으로 전송하는 방법을 알아봅니다. '
-feature: Experience Cloud Integration
+description: '서버측 전달을 통해 Adobe Analytics 히트를 자동으로 Adobe Audience Manager에 전송하도록 Experience Platform Launch을 사용하는 방법을 알아봅니다. '
+feature: Experience Cloud 통합
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-topic: Integrations
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+topic: 통합
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 12%
+source-wordcount: '59'
+ht-degree: 20%
 
 ---
 
+# [!DNL Launch]에서 서버 측 전달 활성화 {#enable-server-side-forwarding-in-adobe-launch}
 
-# [!DNL Launch] {#enable-server-side-forwarding-in-adobe-launch}에서 서버 측 전달 활성화
-
-Adobe [!DNL Experience Platform Launch]을 사용하여 서버 측 전달을 통해 Adobe Analytics 히트를 Adobe Audience Manager으로 자동 전송하는 방법을 알아봅니다.
+Adobe [!DNL Experience Platform Launch]을 사용하여 서버측 전달을 통해 Adobe Analytics 히트를 자동으로 Adobe Audience Manager으로 전송하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12)
