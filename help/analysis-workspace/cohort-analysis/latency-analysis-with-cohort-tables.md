@@ -1,27 +1,26 @@
 ---
 title: 코호트 테이블을 이용한 대기 시간 분석
-description: 집단 테이블의 지연 테이블 설정을 사용하면 포함 이벤트 전후에 집단 행동을 분석할 수 있습니다(표준 집단 묘사와 같이 뒤에 오는 것은 아님). 이 설정은 예를 들어 새 제품 또는 캠페인 실행의 영향을 분석하는 데 유용합니다.
-feature: Visualizations
+description: 집단 테이블의 지연 테이블 설정을 사용하면 표준 집단 설명처럼 포함 이벤트 전후의 집단 행동을 분석할 수 있습니다. 이 설정은 예를 들어 새 제품이나 캠페인 실행이 미치는 영향을 분석하는 데 유용합니다.
+feature: 시각화
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 18%
+source-wordcount: '120'
+ht-degree: 19%
 
 ---
 
+# [!UICONTROL 집단 테이블]을 사용한 지연 분석 {#latency-analysis-with-cohort-tables}
 
-# [!UICONTROL 집단 테이블] {#latency-analysis-with-cohort-tables}을(를) 사용한 지연 분석
-
-[!UICONTROL 집단 테이블]에 있는 [!UICONTROL 지연 테이블] 설정을 사용하면 포함 이벤트 전후에([!UICONTROL 집단])의 행동을 분석할 수 있습니다(표준 [!UICONTROL 집단]과 같은 후에만 해당). 이 설정은 예를 들어 새 제품 또는 캠페인 실행의 영향을 분석하는 데 유용합니다.
+[!UICONTROL 집단 테이블]의 [!UICONTROL 지연 테이블] 설정을 사용하면 포함 이벤트 전후의 [!UICONTROL 집단]의 동작을 분석할 수 있습니다( 표준 [!UICONTROL Cohort]이 묘사하는 후뿐만 아니라). 이 설정은 예를 들어 새 제품이나 캠페인 실행이 미치는 영향을 분석하는 데 유용합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
