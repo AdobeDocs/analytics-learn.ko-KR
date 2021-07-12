@@ -1,25 +1,24 @@
 ---
-title: 계산된 메트릭 - 메트릭 선택기
+title: 계산된 지표 - 메트릭 선택기
 description: Adobe Analytics의 지표 선택기 개요
-feature: Calculated Metrics
+feature: 계산된 지표
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2317
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2bd83c8d-c2a8-4279-8402-aeb052e8d18f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 20%
+source-wordcount: '26'
+ht-degree: 23%
 
 ---
 
+# [!UICONTROL 계산된 지표]: 지표 선택기 {#calculated-metrics-metric-selector}
 
-# [!UICONTROL 계산된 지표]:지표 선택기  {#calculated-metrics-metric-selector}
-
-보고 및 분석의 지표 선택기 개요
+Reports &amp; Analytics의 지표 선택기 개요
 
 >[!VIDEO](https://video.tv.adobe.com/v/25410/?quality=12)
