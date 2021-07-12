@@ -1,26 +1,25 @@
 ---
 title: Analysis Workspace에서 표, 시각화 및 패널 사용
-description: 이 비디오에서는 패널, 표 및 시각화 등 Analysis Workspace 프로젝트의 구성 요소를 사용하는 방법을 살펴봅니다. 이러한 요소는 데이터가 페인트되는 캔버스입니다.
-feature: Panels
+description: 이 비디오에서는 패널, 표 및 시각화 등 Analysis Workspace 프로젝트의 빌딩 블록을 사용하는 방법을 알아봅니다. 이러한 요소는 데이터가 페인트되는 캔버스입니다.
+feature: 패널
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717,a273d1a8-3b58-4bf2-b683-638d26a1cc4e,a273d1a8-3b58-4bf2-b683-638d26a1cc4e,38b360d2-ce4a-4442-8a19-366c090eb717
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 31%
+source-wordcount: '113'
+ht-degree: 32%
 
 ---
 
-
 # Analysis Workspace에서 표, 시각화 및 패널 사용
 
-이 비디오에서는 패널, 표 및 시각화 등 Analysis Workspace 프로젝트의 구성 요소를 사용하는 방법을 살펴봅니다. 이러한 요소는 데이터가 페인트되는 캔버스입니다.
+이 비디오에서는 패널, 표 및 시각화 등 Analysis Workspace 프로젝트의 빌딩 블록을 사용하는 방법을 알아봅니다. 이러한 요소는 데이터가 페인트되는 캔버스입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12)
 
