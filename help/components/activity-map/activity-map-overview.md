@@ -1,26 +1,25 @@
 ---
 title: Adobe Analytics의 Activity Map 개요
-description: Activity Map은 Adobe Analytics 사용자가 웹 사이트에서 직접 사용자 활동 데이터를 시각화하는 데 도움이 되는 도구입니다. 페이지 링크에서 직접 클릭 수(또는 기타 지표)를 볼 수 있습니다.
+description: Activity Map은 Adobe Analytics 사용자가 웹 사이트에서 사용자 활동 데이터를 직접 시각화하는 데 도움이 되는 도구입니다. 페이지 링크에서 직접 클릭 수(또는 기타 지표)를 확인합니다.
 feature: Activity Map
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2349
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 17%
+source-wordcount: '104'
+ht-degree: 18%
 
 ---
 
+# [!UICONTROL Adobe Analytics] 에서 활동 매핑 {#activity-map-in-adobe-analytics}
 
-# [!UICONTROL 활동 ] 맵인 Adobe Analytics  {#activity-map-in-adobe-analytics}
-
-[!UICONTROL 활동 ] 맵은 Adobe Analytics 사용자가 웹 사이트에서 직접 사용자 활동 데이터를 시각화하는 데 도움이 되는 도구입니다. 페이지 링크에서 직접 클릭 수(또는 기타 [!UICONTROL 지표])를 참조하십시오.
+[!UICONTROL 활동 ] 맵은 Adobe Analytics 사용자가 웹 사이트에서 사용자 활동 데이터를 직접 시각화하는 데 도움이 되는 도구입니다. 페이지의 링크에서 직접 클릭 수(또는 기타 [!UICONTROL 지표])를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
 
