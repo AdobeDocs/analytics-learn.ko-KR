@@ -1,22 +1,21 @@
 ---
 title: 가상 보고서 세트의 컨텍스트 인식 세션
-description: 이제 가상 보고서 세트를 사용하여 비파괴적인 방식으로 Adobe Analytics에서 방문 정의를 변경할 수 있습니다. 사용 가능한 다양한 옵션과 그 방법을 소개합니다.
+description: 이제 가상 보고서 세트를 사용하여 비파괴적인 방식으로 Adobe Analytics에서 방문 정의를 변경할 수 있습니다. 사용 가능한 다양한 옵션과 그 방법을 보여줍니다.
 feature: VRS
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1775
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eccd24d8-ed55-49db-894c-ef31de891728
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 7%
 
 ---
-
 
 # [!UICONTROL 가상 보고서 세트의 컨텍스트 인식 세션] {#context-aware-sessions-in-virtual-report-suites}
 
