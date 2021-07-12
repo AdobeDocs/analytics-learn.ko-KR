@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace의 시간 분할 치수
-description: 시간 분할은 수집된 히트의 타임스탬프를 가져와 "하루 중 시간" 또는 "요일"과 같이 더 의미 있는 차원으로 구분합니다. 이제 Analysis Workspace에서 이러한 차원이 기본적으로 사용됩니다.
-feature: Freeform Tables
+description: 시간 분할은 수집한 히트의 타임스탬프를 가져와서 "시간" 또는 "요일"과 같은 더 의미 있는 차원으로 나눕니다. 이제 Analysis Workspace에서 이러한 차원을 바로 사용할 수 있습니다.
+feature: 자유 형식 테이블
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 21%
+source-wordcount: '90'
+ht-degree: 22%
 
 ---
 
-
 # [!DNL Time-parting] Analysis Workspace의 차원 {#time-parting-dimensions-in-analysis-workspace}
 
-[!DNL Time-parting] 수집된 히트의 타임스탬프를 사용하여 &quot;하루 중 시간&quot; 또는 &quot;요일&quot; 같은 보다 의미 있는 차원으로 구분합니다. 이제 Analysis Workspace에서 이러한 차원이 기본적으로 사용됩니다.
+[!DNL Time-parting] 수집된 히트의 타임스탬프를 가져와서 &quot;시간&quot; 또는 &quot;요일&quot;과 같은 더 의미 있는 차원으로 나눕니다. 이제 Analysis Workspace에서 이러한 차원을 바로 사용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12)
 
