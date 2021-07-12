@@ -1,33 +1,32 @@
 ---
-title: 시장 내 우편 번호 분석 설정 - 사용 사례
-seo-title: 시장 내 우편 번호 분석 설정 - 사용 사례
-description: 이 사용 사례에서는 우편번호를 가져오고, 해당 코드를 시장 내 또는 시장 외 지역으로 분류한 다음, Analysis Workspace에서 이 데이터를 사용하여 지리적 타게팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
-seo-description: 이 사용 사례에서는 우편번호를 가져오고, 해당 코드를 시장 내 또는 시장 외 지역으로 분류한 다음, Analysis Workspace에서 이 데이터를 사용하여 지리적 타게팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
-feature: Use Cases
+title: 시장 내 Zip 코드 분석 설정 - 사용 사례
+seo-title: 시장 내 Zip 코드 분석 설정 - 사용 사례
+description: 이 사용 사례에서는 우편 번호를 가져오고, 이를 시장 또는 시장 외로 분류한 다음 Analysis Workspace에서 이 데이터를 사용하여 지리적 타깃팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
+seo-description: 이 사용 사례에서는 우편 번호를 가져오고, 이를 시장 또는 시장 외로 분류한 다음 Analysis Workspace에서 이 데이터를 사용하여 지리적 타깃팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
+feature: 사용 사례
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2846
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 10%
+source-wordcount: '198'
+ht-degree: 11%
 
 ---
 
+# 시장 내 Zip 코드 분석 설정 - 사용 사례 {#setting-up-in-market-zip-code-analysis-a-use-case}
 
-# 시장 내 우편 번호 분석 설정 - 사용 사례 {#setting-up-in-market-zip-code-analysis-a-use-case}
-
-이 사용 사례에서는 우편번호를 가져오고, 해당 코드를 시장 내 또는 시장 외 지역으로 분류한 다음, Analysis Workspace에서 이 데이터를 사용하여 지리적 타게팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
+이 사용 사례에서는 우편 번호를 가져오고, 이를 시장 또는 시장 외로 분류한 다음 Analysis Workspace에서 이 데이터를 사용하여 지리적 타깃팅된 마케팅 캠페인의 효과를 확인할 수 있도록 시스템을 구성합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
 
-이 사용 사례의 측면과 관련된 추가 정보는 다음 문서 항목을 참조하십시오.
+이 사용 사례의 측면과 관련된 자세한 내용은 다음 설명서 항목을 참조하십시오.
 
 [우편 번호](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)
 
