@@ -1,23 +1,22 @@
 ---
 title: Analysis Workspace에서 프로젝트 공유하기
 description: 프로젝트 공유는 조직의 사용자에게 Analysis Workspace의 데이터와 통찰력을 자유롭게 제공하는 한 가지 방법입니다. 이제 제공하려는 프로젝트 경험에 따라 수신자를 세 개의 프로젝트 역할 중 하나로 배치할 수 있습니다(편집, 복제 및 보기).
-feature: Curate and Share
+feature: 선별 및 공유
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: edba5887-bb72-49d5-a5b2-0065591e7c1b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 94%
+source-wordcount: '113'
+ht-degree: 100%
 
 ---
-
 
 # Analysis Workspace에서 프로젝트 공유하기
 
