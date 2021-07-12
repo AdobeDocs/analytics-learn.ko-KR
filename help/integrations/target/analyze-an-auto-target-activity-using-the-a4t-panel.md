@@ -3,13 +3,13 @@ title: A4T 패널을 사용하여 자동 타겟 활동 분석
 description: Analytics for Target(A4T) 패널을 사용하면 Adobe Target 활동 및 경험을 분석할 수 있습니다. 이 비디오에서는 Analytics for Target 패널을 사용하여 자동 Target 테스트의 결과를 시각화하는 방법을 알아봅니다.
 feature: Experience Cloud 통합
 topic: 통합
-role: Business Practitioner
+role: User
 level: Intermediate
 doc-type: feature video
 thumbnail: 333270.jpg
 kt: 7861
 exl-id: abbe0c31-dadc-44ee-a859-328a128b77be
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 20%
