@@ -1,18 +1,17 @@
 ---
 title: 고객 사용 사례 - ServiceNow를 통해 잠재고객과 연결할 수 있는 적합한 통찰력 확보
 description: ServiceNow가 마케팅 채널에서 실행 가능한 데이터를 얻고 Adobe Advertising Cloud 및 Adobe Analytics를 사용하여 유료 검색 광고에 대한 ROI를 높이는 방법을 알아보십시오.
-feature: Use Cases
+feature: 사용 사례
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
