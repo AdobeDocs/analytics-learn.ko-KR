@@ -1,27 +1,26 @@
 ---
 title: 코호트 표를 이용한 이탈 분석
-description: 집단 테이블은 유지와 이탈이라는 두 가지 분석 유형을 제공합니다. [보존]은 시간이 지남에 따라 유지되는 사용자 수를 보여주지만, [가입] 옵션은 손실된 사용자 수(1 - 보존)를 나타냅니다.
-feature: Visualizations
+description: 집단 테이블은 유지 및 이탈이라는 두 가지 분석 유형을 제공합니다. 보존 은 시간이 지남에 따라 유지되는 사용자 수를 표시하지만 이탈 옵션은 손실된 사용자 수(1 - 보존)를 나타냅니다.
+feature: 시각화
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25966.jpg
 kt: 2479
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 30%
+source-wordcount: '88'
+ht-degree: 31%
 
 ---
 
+# 코호트 표를 이용한 이탈 분석 {#churn-analysis-with-cohort-tables}
 
-# [!UICONTROL 코호트 표를 이용한 이탈 분석] {#churn-analysis-with-cohort-tables}
-
-[!UICONTROL 집단 테이블] 은 2가지 분석 유형(  재보존 및 가입  [!UICONTROL 전환)을 제공합니다]. [!UICONTROL 유지]에 시간이 지남에 따라 유지되는 사용자 수가 표시되지만 [!UICONTROL 가입] 옵션은 손실된 사용자 수(1 - 유지)를 나타냅니다.
+[!UICONTROL 집단 테이블] 은 유지 및   이탈의 두 가지 분석 유형 [!UICONTROL 을 제공합니다]. [!UICONTROL 유지]는 시간에 따라 유지되는 사용자 수를 표시하지만 [!UICONTROL 이탈] 옵션은 손실된 사용자 수를 나타냅니다(1 - 유지).
 
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
 
