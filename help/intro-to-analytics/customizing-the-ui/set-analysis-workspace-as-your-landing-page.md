@@ -1,25 +1,24 @@
 ---
 title: Adobe Analytics에서 Analysis Workspace을 랜딩 페이지로 설정
-description: 이 비디오에서는 Analysis Workspace의 다양한 측면을 Adobe Analytics의 랜딩 페이지로 설정하여 워크플로우를 간소화하는 방법을 보여줍니다.
-feature: Workspace Basics
+description: 이 비디오에서는 Analysis Workspace의 다양한 측면을 Adobe Analytics에서 랜딩 페이지로 설정하여 워크플로우를 간소화하는 방법을 보여줍니다.
+feature: Workspace 기본 사항
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: dc3adde2-be62-4c78-a047-849dd50a118a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 2%
 
 ---
 
+# Adobe Analytics에서 Analysis Workspace을 랜딩 페이지로 설정 {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
 
-# Adobe Analytics {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}에서 Analysis Workspace을 랜딩 페이지로 설정
-
-이 비디오에서는 워크플로우를 간소화하기 위해 Adobe Analytics에서 [!UICONTROL Analysis Workspace]의 다양한 측면을 랜딩 페이지로 설정할 수 있는 방법을 보여줍니다.
+이 비디오에서는 [!UICONTROL Analysis Workspace]의 다양한 측면을 Adobe Analytics에서 랜딩 페이지로 설정하여 워크플로우를 간소화하는 방법을 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
