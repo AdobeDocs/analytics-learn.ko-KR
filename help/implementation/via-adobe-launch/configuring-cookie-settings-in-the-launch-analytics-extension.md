@@ -1,26 +1,25 @@
 ---
 title: Launch Analytics 확장에서 쿠키 설정 구성
-description: Launch, By Adobe 및 Adobe Analytics 익스텐션을 시작하는 경우 이 비디오를 통해 Analytics 확장 기능에서 쿠키 설정 여부와 설정 방법을 이해할 수 있습니다.
-feature: Launch Implementation
+description: Launch, by Launch 및 Adobe Analytics 확장을 시작하는 경우 이 비디오를 통해 Analytics 확장에서 쿠키 설정을 설정하는지 및 설정하는 방법을 이해할 수 있습니다.
+feature: Launch 구현
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
+# [!DNL Launch] [!DNL Analytics] 확장에서 쿠키 설정 구성 {#configuring-cookie-settings-in-the-launch-analytics-extension}
 
-# [!DNL Launch] [!DNL Analytics] 확장 {#configuring-cookie-settings-in-the-launch-analytics-extension}에서 쿠키 설정 구성
-
-Experience Platform Launch을 시작하고 Adobe Analytics 익스텐션을 사용하는 경우 이 비디오를 통해 [!DNL Analytics] 확장에서 쿠키 설정을 설정할 것인지 여부와 방법을 이해할 수 있습니다.
+Experience Platform Launch을 시작하고 Adobe Analytics 확장을 시작하는 경우 이 비디오를 통해 [!DNL Analytics] 확장에서 쿠키 설정을 지정하는 시기와 방법을 이해할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
 
