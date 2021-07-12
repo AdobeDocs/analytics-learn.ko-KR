@@ -3,19 +3,18 @@ title: 맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 �
 seo-title: 맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화
 description: 이 비디오는 조직의 신규 사용자에게 더 나은 서비스를 제공하기 위해 복사 + 붙여넣기/삽입 기능을 갖춘 맞춤형 템플릿을 결합하는 방법을 보여 줍니다.
 seo-description: 이 비디오는 조직의 신규 사용자에게 더 나은 서비스를 제공하기 위해 복사 + 붙여넣기/삽입 기능을 갖춘 맞춤형 템플릿을 결합하는 방법을 보여 줍니다.
-feature: Projects
+feature: 프로젝트
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
