@@ -1,27 +1,26 @@
 ---
-title: Analysis Workspace의 100% 누적 시각화
+title: Analysis Workspace에서 100% 누적 시각화
 description: 이 비디오에서는 누적 시각화를 원시 값만 사용하는 대신 백분율로 설정하는 방법을 알아봅니다.
-feature: Visualizations
+feature: 시각화
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
-# 100% 누적 [!UICONTROL 시각화] Analysis Workspace {#stacked-visualizations-in-analysis-workspace}의
+# Analysis Workspace의 100% 누적 [!UICONTROL 시각화] {#stacked-visualizations-in-analysis-workspace}
 
 이 비디오에서는 누적 시각화를 원시 값만 사용하는 대신 백분율로 설정하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12)
 
-스택형 그래프는 전체 부분을 트렌드에 표시하는 데 유용합니다. 새로운 100% 스택된 viz 설정은 각 부분이 원값 대신 % 값에 대해 전체 값에 기여하는 정도를 신속하게 확인할 수 있도록 해줍니다. 이 새 설정은 [!UICONTROL 스택형 영역], [!UICONTROL 스택형 막대 스택형 막대] 및 [!UICONTROL 스택형 가로 막대 스택형] 방문의 맨 위에 있는 [!UICONTROL 시각화] 설정 톱니바퀴에서 사용할 수 있습니다.
+누적 그래프는 트렌드에서 전체 부분을 나타내는 데 유용합니다. 새로운 100% 스택 viz 설정은 각 부분이 원시 값 대신 % 값으로 전체 부분에 어떻게 기여하는지 빠르게 확인하는 데 도움이 됩니다. 이 새 설정은 [!UICONTROL 스택 영역], [!UICONTROL 스택 막대] 및 [!UICONTROL 스택 가로 막대] 비디오의 오른쪽 상단에 있는 [!UICONTROL 시각화] 설정 톱니바퀴에서 사용할 수 있습니다.
