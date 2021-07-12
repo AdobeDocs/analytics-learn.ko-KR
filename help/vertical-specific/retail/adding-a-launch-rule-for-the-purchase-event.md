@@ -1,25 +1,24 @@
 ---
 title: 구매 이벤트에 대한 Launch 규칙 추가
 description: 이 비디오에서는 Launch의 제품 문자열 확장을 사용하여 사이트에서 구매를 추적하여 분석에 매출, 주문 및 판매량 지표를 만드는 방법을 보여줍니다.
-feature: Launch Implementation
+feature: Launch 구현
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 10%
 
 ---
 
+# [!DNL Purchase] 이벤트에 대한 [!DNL Launch] [!UICONTROL 규칙] 추가
 
-# [!DNL Purchase] 이벤트에 대한 [!DNL Launch] [!UICONTROL 규칙]을 추가하는 중
-
-이 비디오에서는 [!DNL Experience Platform Launch]의 제품 문자열 [!UICONTROL extension]을 사용하여 사이트에서 구입을 추적하는 방법을 보여 줍니다. 이로 인해 [!UICONTROL 매출], [!UICONTROL 주문] 및 [!UICONTROL 판매량지표]이 분석됩니다.
+이 비디오에서는 [!DNL Experience Platform Launch]에서 제품 문자열 [!UICONTROL 확장]을 사용하여 사이트에서 구매를 추적하는 방법을 보여주며, 분석에 [!UICONTROL 수입], [!UICONTROL 주문] 및 [!UICONTROL 판매량] [!UICONTROL 지표]이 발생합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)
