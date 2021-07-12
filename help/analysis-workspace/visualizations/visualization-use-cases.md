@@ -2,16 +2,16 @@
 title: 시각화 사용 사례
 description: 베스트셀러 제품을 알아보려면 폴아웃, 플로우, 집단 등 시각화 기능의 주요 사용 사례를 참조하십시오.
 feature: 시각화
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
-source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 67%
+ht-degree: 76%
 
 ---
 
