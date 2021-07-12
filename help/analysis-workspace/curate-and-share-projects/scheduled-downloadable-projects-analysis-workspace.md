@@ -1,25 +1,24 @@
 ---
-title: Analysis Workspace에서 예약된 프로젝트 및 다운로드 가능 프로젝트
-description: Analysis Workspace을 사용하면 프로젝트를 PDF 및 CSV로 예약하고 다운로드할 수 있습니다. 이 비디오에서는 작업 중인 프로젝트의 PDF를 다운로드할 수 있는 방법뿐만 아니라 자신 또는 동료에게 향후 프로젝트를 전달할 수 있도록 프로젝트를 예약할 수 있는 방법을 보여 줍니다.
-feature: Curate and Share
+title: Analysis Workspace의 예약된 및 다운로드 가능한 프로젝트
+description: Analysis Workspace에서 프로젝트를 예약하고 PDF 및 CSV로 다운로드할 수 있습니다. 이 비디오에서는 본인 또는 동료에게 향후 전달을 위한 프로젝트를 예약하는 방법과 작업 중인 프로젝트의 PDF를 다운로드하는 방법을 보여 줍니다.
+feature: 선별 및 공유
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2298
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 742d81be-9fa1-47bc-8afe-a4ce0b4763e9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 3%
 
 ---
 
+# Analysis Workspace의 예약된 및 다운로드 가능한 프로젝트{#scheduled-and-downloadable-projects-in-analysis-workspace}
 
-# Analysis Workspace{#scheduled-and-downloadable-projects-in-analysis-workspace}에서 예약된 프로젝트 및 다운로드 가능 프로젝트
-
-Analysis Workspace을 사용하면 프로젝트를 PDF 및 CSV로 예약하고 다운로드할 수 있습니다. 이 비디오에서는 작업 중인 프로젝트의 PDF를 다운로드할 수 있는 방법뿐만 아니라 자신 또는 동료에게 향후 프로젝트를 전달할 수 있도록 프로젝트를 예약할 수 있는 방법을 보여 줍니다.
+Analysis Workspace에서 프로젝트를 예약하고 PDF 및 CSV로 다운로드할 수 있습니다. 이 비디오에서는 본인 또는 동료에게 향후 전달을 위한 프로젝트를 예약하는 방법과 작업 중인 프로젝트의 PDF를 다운로드하는 방법을 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12)
