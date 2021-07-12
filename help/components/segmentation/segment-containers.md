@@ -1,24 +1,23 @@
 ---
 title: Adobe Analytics의 세그먼트 컨테이너
-description: 이 비디오는 Adobe Analytics의 세그먼트 빌더에서 3개의 서로 다른 세그먼트 컨테이너 유형으로 작업하는 방법을 보여줍니다.
-feature: Segmentation
+description: 이 비디오에서는 Adobe Analytics의 세그먼트 빌더에서 세 개의 서로 다른 세그먼트 컨테이너 유형으로 작업하는 방법을 보여줍니다.
+feature: 세그먼테이션
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '73'
 ht-degree: 13%
 
 ---
 
-
-# [!UICONTROL Adobe Analytics]  의 세그먼트 컨테이너  {#segment-containers-in-adobe-analytics}
+#   Adobe Analytics의 세그멘테이너 {#segment-containers-in-adobe-analytics}
 
 이 비디오에서는 Adobe Analytics의 [!UICONTROL 세그먼트 빌더]에 있는 세 가지 다른 [!UICONTROL 세그먼트] [!UICONTROL 컨테이너] 유형으로 작업하는 방법을 보여줍니다.
 
