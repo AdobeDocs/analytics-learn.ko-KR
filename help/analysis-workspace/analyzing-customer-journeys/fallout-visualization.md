@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace의 폴아웃 시각화
-description: 이 비디오에서는 Adobe Analytics의 Analysis Workspace에서 사용할 수 있는 폴아웃 시각화를 안내합니다. 폴아웃을 사용하여 주요 앱/사이트 워크플로우에서 단계를 만들거나 사용자 흐름을 표시할 수 있습니다.
-feature: Visualizations
+description: 이 비디오에서는 Adobe Analytics의 Analysis Workspace에서 사용할 수 있는 폴아웃 시각화를 안내합니다. 폴아웃을 사용하여 주요 앱/사이트 워크플로우에서 사용자 흐름을 만들거나 사용자 흐름을 표시할 수 있습니다.
+feature: 시각화
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24042.jpg
 kt: 2275
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 23%
+source-wordcount: '83'
+ht-degree: 24%
 
 ---
 
+# [!DNL Fallout Visualization] Analysis Workspace {#fallout-visualization-in-analysis-workspace}
 
-# [!DNL Fallout Visualization] Analysis Workspace  {#fallout-visualization-in-analysis-workspace}
-
-이 비디오에서는 Adobe Analytics의 Analysis Workspace에서 사용할 수 있는 [!DNL Fallout visualization]을 안내합니다. [!DNL Fallout]을 사용하여 주요 앱/사이트 워크플로우에서 채널을 만들거나 사용자 흐름을 표시합니다.
+이 비디오에서는 Adobe Analytics의 Analysis Workspace에서 사용할 수 있는 [!DNL Fallout visualization]을 소개합니다. 주요 앱/사이트 워크플로우에서 전환 단계를 만들거나 사용자 흐름을 표시하려면 [!DNL Fallout] 을 사용하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
 
