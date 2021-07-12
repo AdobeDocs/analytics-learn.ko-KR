@@ -1,25 +1,24 @@
 ---
-title: 일반 계정 설정을 구성하는 방법
-description: Adobe Analytics을 설정할 때 설정을 구성하면 데이터가 수집 및 저장되는 방식에 영향을 줄 수 있습니다. 이 비디오는 일반 설정 중 일부를 살펴봅니다. 또한 데이터를 보다 정확하게 만드는 데 늦지 않으므로 구현 후 변경할 수도 있습니다.
-feature: Report Suite Settings
-topic: Administration
-role: Administrator
+title: 일반 계정 설정 구성 방법
+description: Adobe Analytics가 설정되면 설정 구성이 데이터를 수집 및 저장하는 방법에 영향을 미칠 수 있습니다. 이 비디오에서는 몇 가지 일반 설정을 다루고 있습니다. 바로 보다 정확한 데이터를 만들 수 있기 때문에 설정은 구현 후 변경할 수도 있습니다.
+feature: 보고서 세트 설정
+topic: 관리
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399
-translation-type: tm+mt
-source-git-commit: 646380f871927120f3f59ba4ee0ac84d8c6782aa
+exl-id: 83797aa3-afda-40ae-b74a-2cd6d5c39597
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 4%
+source-wordcount: '125'
+ht-degree: 92%
 
 ---
 
+# 일반 계정 설정 구성 방법
 
-# 일반 계정 설정을 구성하는 방법
-
-Adobe Analytics을 설정할 때 설정을 구성하면 데이터가 수집 및 저장되는 방식에 영향을 줄 수 있습니다. 이 비디오는 일반 설정 중 일부를 살펴봅니다. 또한 데이터를 보다 정확하게 만드는 데 늦지 않으므로 구현 후 변경할 수도 있습니다.
+Adobe Analytics가 설정되면 설정 구성이 데이터를 수집 및 저장하는 방법에 영향을 미칠 수 있습니다. 이 비디오에서는 몇 가지 일반 설정을 다루고 있습니다. 바로 보다 정확한 데이터를 만들 수 있기 때문에 설정은 구현 후 변경할 수도 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
 
