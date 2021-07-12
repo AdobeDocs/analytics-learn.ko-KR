@@ -1,25 +1,24 @@
 ---
 title: 'Adobe Analytics에서 분류 규칙 빌더 사용 '
 description: '분류 규칙 빌더를 사용하여 Adobe Analytics에서 규칙 기반 분류를 자동으로 적용하는 방법을 알아봅니다. '
-feature: Classifications
+feature: 분류
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 066d0ebf-1921-48be-8531-bdd766330825
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '47'
 ht-degree: 2%
 
 ---
 
+# Adobe Analytics에서 [!UICONTROL 분류 규칙 빌더] 사용 {#using-the-classification-rule-builder-in-adobe-analytics}
 
-# Adobe Analytics {#using-the-classification-rule-builder-in-adobe-analytics}에서 [!UICONTROL 분류 규칙 빌더] 사용
-
-[!UICONTROL 분류 규칙 빌더]를 사용하여 Adobe Analytics에서 규칙 기반 [!UICONTROL 분류]를 자동으로 적용하는 방법을 학습합니다.
+[!UICONTROL 분류 규칙 빌더]를 사용하여 Adobe Analytics에서 규칙 기반 [!UICONTROL 분류]를 자동으로 적용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12)
