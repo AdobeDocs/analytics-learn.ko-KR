@@ -1,26 +1,25 @@
 ---
 title: Adobe Analytics의 순차적 세그먼테이션
-description: 이 비디오에서는 Adobe Analytics의 행동 시퀀스를 세그먼트화하는 방법과 이 시퀀스를 사용하여 마케팅 채널 및 폴아웃을 비교하는 방법을 설명합니다.
-feature: Segmentation
+description: 이 비디오에서는 Adobe Analytics의 동작 시퀀스를 세그먼트화하는 방법 및 이를 사용하여 마케팅 채널 및 폴아웃을 비교하는 방법을 안내합니다.
+feature: 세그먼테이션
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2302
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: be1610a0-dbec-46d0-8cad-b4726333b8f9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '85'
 ht-degree: 11%
 
 ---
 
+# Adobe Analytics의 순차적 세그먼테이션 {#sequential-segmentation-in-adobe-analytics}
 
-# Adobe Analytics {#sequential-segmentation-in-adobe-analytics}의 순차적 세그먼테이션
-
-이 비디오에서는 Adobe Analytics의 행동 시퀀스를 세그먼트화하는 방법과 이 방법을 사용하여 [!UICONTROL 마케팅 채널] 및 [!UICONTROL 폴아웃]을 비교하는 방법에 대해 설명합니다.
+이 비디오에서는 Adobe Analytics의 동작 시퀀스를 세그먼트화하는 방법 및 이를 사용하여 [!UICONTROL 마케팅 채널] 및 [!UICONTROL 폴아웃]을 비교하는 방법을 안내합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25405/?quality=12)
 
