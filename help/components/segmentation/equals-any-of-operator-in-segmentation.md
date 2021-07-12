@@ -1,26 +1,25 @@
 ---
-title: 세그멘테이션에서 같음 연산자 사용
-description: 세그먼트 빌더에 추가된 세그먼트 연산자 중 하나와 같음 및 같지 않음 연산자가 없습니다. 여러 OR 문 또는 Contains any of를 사용하는 대신 이러한 연산자를 사용하여 특정 항목 목록으로 필터링합니다. 다음 연산자 대신 이러한 연산자를 사용하면 쿼리 속도도 향상시키는 데 도움이 됩니다.
-feature: Segmentation
+title: 세그먼테이션에서 다음 중 1개 이상의 같음 연산자 사용
+description: 다음 중 1개 이상의 항목과 같음 및 다음 중 같은 항목 없음 연산자가 세그먼트 빌더에 추가되었습니다. 이러한 연산자를 사용하여 여러 OR 문 또는 다음 중 하나를 포함하는 대신 특정 항목 목록으로 필터링합니다. 다음 연산자 대신 를 사용하면 쿼리 속도도 향상됩니다.
+feature: 세그먼테이션
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 4%
 
 ---
 
+# 세그먼테이션에서 &#39;다음 중 1개 이상의 항목과 같음&#39; 연산자 사용
 
-# 세그멘테이션에서 &#39;Equals Any Of&#39; 연산자 사용
-
-&#39;같음&#39; 및 &#39;같지 않음&#39; 세그먼트 연산자가 세그먼트 빌더에 추가되었습니다. 여러 OR 문 또는 &#39;Contains any of&#39;를 사용하는 대신 이러한 연산자를 사용하여 특정 항목 목록으로 필터링합니다. &#39;contains any of&#39; 대신 이러한 연산자를 사용하면 쿼리 속도도 향상시키는 데 도움이 됩니다.
+다음 중 1개 이상의 항목과 같음 및 다음 중 같은 항목 없음 세그먼트 연산자가 세그먼트 빌더에 추가되었습니다. 여러 OR 문 또는 &#39;다음 중 1개 이상의 항목 포함&#39;을 사용하는 대신 이 연산자를 사용하여 특정 항목 목록으로 필터링합니다. &#39;다음 중 1개 이상의 항목 포함&#39; 대신 이러한 연산자를 사용하면 쿼리 속도도 향상됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
