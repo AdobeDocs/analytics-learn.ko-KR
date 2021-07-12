@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace의 흐름 시각화
-description: 이 비디오에서는 Analysis Workspace의 흐름 시각화를 안내합니다. 흐름을 사용하여 사용자 행동을 표시하고 탐색하여 고객 여정을 보다 심층적으로 파악할 수 있습니다.
-feature: Visualizations
+description: 이 비디오에서는 Analysis Workspace의 흐름 시각화를 안내합니다. 플로우를 사용하여 사용자 이동을 표시하고 탐색하며 고객 여정을 더 잘 이해할 수 있습니다.
+feature: 시각화
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 30%
+source-wordcount: '76'
+ht-degree: 31%
 
 ---
 
+# [!DNL Flow Visualization] Analysis Workspace {#flow-visualization-in-analysis-workspace}
 
-# [!DNL Flow Visualization] Analysis Workspace  {#flow-visualization-in-analysis-workspace}
-
-이 비디오는 Analysis Workspace의 [!DNL Flow visualization]을 안내합니다. [!DNL Flow]을(를) 사용하여 사용자 이동을 표시하고 탐색할 수 있으며 [!DNL customer journey]을(를) 더 잘 이해할 수 있습니다.
+이 비디오에서는 Analysis Workspace의 [!DNL Flow visualization]을 소개합니다. [!DNL Flow] 을 사용하여 사용자 이동을 표시하고 탐색할 수 있습니다. [!DNL customer journey]
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 
