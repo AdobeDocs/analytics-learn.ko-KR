@@ -1,26 +1,25 @@
 ---
 title: Analysis Workspace의 세그먼트 비교
-description: 마케팅 세그먼트 간의 진정한 차이점을 이해하기란 항상 어렵고 시간이 많이 소모되는 과정이었습니다. Adobe Analytics의 Analysis Workspace에 포함된 세그먼트 IQ는 모든 차원과 지표에 있는 2개의 Analytics 세그먼트를 검사하여 통계적으로 가장 중요한 차이점을 자동으로 검색합니다.
-feature: Segmentation
+description: 마케팅 세그먼트 간의 진정한 차이점을 이해하는 것은 항상 어렵고 시간이 많이 소요되는 프로세스입니다. Adobe Analytics에 있는 Analysis Workspace의 일부인 세그먼트 IQ는 모든 차원 및 지표에서 두 Analytics 세그먼트를 검사하여 통계적으로 가장 중요한 차이를 자동으로 발견하여 이 분석을 단순화합니다.
+feature: 세그먼테이션
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '122'
 ht-degree: 16%
 
 ---
 
+# [!UICONTROL Analysis Workspace의 세그먼트 비교] {#segment-comparison-in-analysis-workspace}
 
-# Analysis Workspace의 세그먼트 비교 {#segment-comparison-in-analysis-workspace}
-
-마케팅 세그먼트 간의 진정한 차이점을 이해하기란 항상 어렵고 시간이 많이 소모되는 과정이었습니다. [!DNL Segment IQ]Analysis Workspace에 포함되어 있는 Adobe Analytics은 모든 차원과 지표에 있는 두  [!DNL Analytics]  세그먼트를 조사하여 통계적으로 가장 중요한   차이점을   자동으로 밝혀 이러한 분석을 간소화합니다.
+마케팅 세그먼트 간의 진정한 차이점을 이해하는 것은 항상 어렵고 시간이 많이 소요되는 프로세스입니다. [!DNL Segment IQ]Adobe Analytics에 있는 Analysis Workspace의 일부인 경우 모든 차원 및 지표에서 두  [!DNL Analytics]  세그먼트를 검사하여 통계적으로 가장 중요한   차이를   자동으로 발견하여 이 분석을 단순화합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
 
