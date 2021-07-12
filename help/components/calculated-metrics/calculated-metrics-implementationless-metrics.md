@@ -1,24 +1,23 @@
 ---
-title: 계산된 메트릭 - 구현 불가 메트릭
+title: 계산된 지표 - 구현 불가 메트릭
 description: 구현을 변경하지 않고 Adobe Analytics에서 새 지표를 만드는 방법을 알아봅니다.
-feature: Calculated Metrics
+feature: 계산된 지표
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2320
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: b0053a5b-cb95-4bad-a032-c6e810c38c56
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 15%
+source-wordcount: '36'
+ht-degree: 16%
 
 ---
 
-
-# [!UICONTROL 계산된 지표]:구현 없는 지표  {#calculated-metrics-implementation-less-metrics}
+# [!UICONTROL 계산된 지표]: 구현이 없는 지표 {#calculated-metrics-implementation-less-metrics}
 
 구현을 변경하지 않고 Adobe Analytics에서 새 [!UICONTROL 지표]를 만드는 방법을 알아봅니다.
 
