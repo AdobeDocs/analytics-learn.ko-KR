@@ -1,29 +1,28 @@
 ---
-title: Report Builder의 요청 간 지표 편집
-description: 이제 옵션을 추가, 교체 및 제거하여 여러 Report Builder 데이터 요청에서 지표를 한 번에 편집할 수 있습니다.
+title: Report Builder의 요청에 대한 지표 편집
+description: 이제 추가, 바꾸기 및 제거 옵션을 사용하여 여러 Report Builder 데이터 요청에 대한 지표를 한 번에 편집할 수 있습니다.
 feature: Report Builder
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1769
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
 
+# [!UICONTROL Report Builder]의 요청에 대한 [!UICONTROL 지표]를 편집합니다 {#edit-metrics-across-requests-in-report-builder}
 
-# [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}의 요청에서 [!UICONTROL 지표]를 편집합니다.
-
-이제 추가, 교체 및 제거 옵션을 사용하여 여러 [!UICONTROL Report Builder] 데이터 요청에 대해 [!UICONTROL 지표]를 한 번에 편집할 수 있습니다.
+이제 추가, 바꾸기 및 제거 옵션을 사용하여 여러 [!UICONTROL Report Builder]데이터 요청에서 [!UICONTROL 지표]을 한 번에 편집할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
 
-이 기능은 요청에서 [!UICONTROL 보고서 세트], [!UICONTROL 날짜 범위], [!UICONTROL 세부기간] 및 [!UICONTROL 세그먼트]을 편집하기 위한 기존 기능에 추가되는 것입니다. 일괄 편집 요청은 오른쪽 클릭 메뉴 또는 관리 창의 &quot;[!UICONTROL 여러 항목 편집]&quot;에서 수행할 수 있습니다.
+이 기능은 [!UICONTROL 보고서 세트], [!UICONTROL 날짜 범위], [!UICONTROL 세부기간] 및 [!UICONTROL 세그먼트]를 요청에서 편집하는 기존 기능 외에 있습니다. 요청을 일괄적으로 편집하는 작업은 마우스 오른쪽 단추 클릭 메뉴 또는 관리 창의 &quot;[!UICONTROL 복수 편집]&quot;에서 수행할 수 있습니다.
 
 이 기능에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html)를 참조하십시오.
