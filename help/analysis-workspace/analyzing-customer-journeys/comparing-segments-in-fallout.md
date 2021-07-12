@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace에서 폴아웃의 세그먼트 비교
-description: 이 비디오에서는 Analysis Workspace의 다양한 세그먼트에서 주요 워크플로우를 비교하는 방법을 보여줍니다.
-feature: Visualizations
+description: 이 비디오에서는 Analysis Workspace의 다양한 세그먼트 간에 주요 워크플로우를 비교하는 방법을 보여줍니다.
+feature: 시각화
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 29%
+source-wordcount: '61'
+ht-degree: 31%
 
 ---
 
+# Analysis Workspace의 [!UICONTROL 폴아웃]에 있는 세그먼트 비교 {#comparing-segments-in-fallout-in-analysis-workspace}
 
-# Analysis Workspace {#comparing-segments-in-fallout-in-analysis-workspace}의 [!UICONTROL 폴아웃]에 있는 세그먼트 비교
-
-이 비디오에서는 Analysis Workspace의 다양한 세그먼트에서 주요 워크플로우를 비교하는 방법을 보여줍니다.
+이 비디오에서는 Analysis Workspace의 다양한 세그먼트 간에 주요 워크플로우를 비교하는 방법을 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
