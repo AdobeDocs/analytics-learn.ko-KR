@@ -3,19 +3,18 @@ title: Analysis Workspace의 표준 템플릿
 seo-title: Analysis Workspace의 표준 템플릿
 description: 'Analysis Workspace는 표준 템플릿(이전 명칭: 스타터 프로젝트)를 통해 분석을 시작할 수 있도록 지원합니다.'
 seo-description: 'Analysis Workspace는 표준 템플릿(이전 명칭: 스타터 프로젝트)를 통해 분석을 시작할 수 있도록 지원합니다.'
-feature: Projects
+feature: 프로젝트
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 1234f64e-f5e5-4bb1-a553-da438bde46e0
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
