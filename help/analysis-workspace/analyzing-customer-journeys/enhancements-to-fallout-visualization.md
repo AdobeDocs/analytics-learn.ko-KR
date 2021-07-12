@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace의 폴아웃 시각화 개선 사항
-description: 이 비디오에서는 직접 단계와 최종 단계 비교, 터치포인트 이름 바꾸기, 무제한 세그먼트 비교, 시간에 따른 트렌드 터치포인트 전환 비율 등 고객의 요청에 따라 폴아웃 시각화 기능이 업데이트되었습니다.
-feature: Visualizations
+description: 이 비디오에서는 직접 단계와 최종 단계, 터치 포인트 이름 변경, 무제한 세그먼트 비교, 시간 경과에 따른 트렌드 터치 포인트 전환 비율 등 고객이 많이 요청한 폴아웃 시각화에 대한 업데이트를 보여줍니다.
+feature: 시각화
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 20%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 
+# Analysis Workspace의 [!DNL Fallout Visualization] 개선 사항 {#enhancements-to-fallout-visualization-in-analysis-workspace}
 
-# Analysis Workspace {#enhancements-to-fallout-visualization-in-analysis-workspace}의 [!DNL Fallout Visualization]에 대한 개선 사항
-
-이 비디오에서는 직접 단계와 최종 단계, 터치포인트 이름 바꾸기, 무제한 세그먼트 비교, 시간에 따른 터치포인트 전환 비율 트렌드 분석 등 고객이 요청한 [!DNL Fallout Visualization]에 대한 업데이트를 보여줍니다.
+이 비디오에서는 직접 및 최종 단계, 터치포인트 이름 변경, 무제한 세그먼트 비교, 시간 경과에 따른 트렌드 터치 포인트 전환 비율 등 고객이 많이 요청한 [!DNL Fallout Visualization] 에 대한 업데이트를 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
 
