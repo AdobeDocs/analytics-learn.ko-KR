@@ -7,13 +7,12 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-topic: Mobile
-role: "Developer, Data Engineer"
+topic: 모바일
+role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 
