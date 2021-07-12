@@ -1,24 +1,23 @@
 ---
 title: 세그먼트 빌더 개요
-description: Adobe Analytics의 세그먼트 빌더에 대한 빠른 개요 및 방향.
-feature: Segmentation
+description: Adobe Analytics의 세그먼트 빌더에 대한 빠른 개요 및 방향입니다.
+feature: 세그먼테이션
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2300
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 763c9504-0692-4d56-ba5e-a3af7e2e607a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 22%
+source-wordcount: '55'
+ht-degree: 23%
 
 ---
 
-
-# [!UICONTROL Adobe Analytics] 의 세그먼트 빌더  {#segment-builder-in-adobe-analytics}
+# [!UICONTROL Adobe Analytics] 의 세그먼트 빌더 {#segment-builder-in-adobe-analytics}
 
 Adobe Analytics의 [!UICONTROL 세그먼트 빌더]에 대한 빠른 개요 및 방향입니다.
 
