@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
+source-git-commit: aa1627c6f13274e35fcf10f25d709fec484007b2
 workflow-type: tm+mt
-source-wordcount: '2065'
+source-wordcount: '2068'
 ht-degree: 99%
 
 ---
@@ -391,3 +391,4 @@ ht-degree: 99%
       + [내부 사이트 검색 보고서 구성](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
++ [Experience League 라이브](exl-live/exl-live-overview.md)
