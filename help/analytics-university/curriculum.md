@@ -4,10 +4,10 @@ description: Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 �
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
-workflow-type: ht
-source-wordcount: '244'
-ht-degree: 100%
+source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 76%
 
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 100%
 ## Analytics 교육 과정 콘텐츠
 
 Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 귀 대학에 제시해 드립니다. 커리큘럼 내에서 Adobe Analytics 수집 및 보고를 소개하는 4개의 고유한 모듈을 찾을 수 있습니다. 이 모듈은 디지털 분석 또는 마케팅 과정으로 분류할 수 있습니다. 이 소개 매뉴얼을 통해 교수와 학생은 매년 가을 Adobe Analytics 글로벌 과제에 참여하는 데 필요한 지식을 습득할 수 있습니다.
+
+### 준비를 돕는 새로운 과정
+
+Adobe는 분석 교육 과정을 학습하고 교육하기 위해 아래에 설명된 모든 핵심 개념을 학습하는 방법을 배울 수 있는 Adobe Education Exchange에 대한 완전히 새로운 교육 과정을 시작했습니다. 학생들에게 4가지 핵심 모듈 이외의 핵심 모듈을 교육할 준비가 되어 있도록 이 교육 과정을 시작하는 것이 좋습니다.
+
+교육 과정에 등록하려면 다음을 수행하십시오. [https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### 학습 내용은 다음과 같습니다.
 
