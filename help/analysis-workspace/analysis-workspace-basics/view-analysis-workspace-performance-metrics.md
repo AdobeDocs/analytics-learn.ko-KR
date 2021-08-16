@@ -3,12 +3,12 @@ title: Analysis Workspace 성능 지표 보기
 description: 다양한 요소가 Analysis Workspace 내에 있는 프로젝트의 성능에 영향을 줄 수 있습니다. 성능 옵션을 사용하면 네트워크, 브라우저, 프로젝트 요소 등 프로젝트의 성능에 영향을 주는 요소를 볼 수 있습니다.
 feature: Analysis Workspace
 topic: '관리 '
-role: Business User, Admin
+role: User, Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 335737.jpg
 kt: KT-8456
-source-git-commit: 824efaa2f806a578839caaaed0c5c5dda8173b9a
+source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 36%
