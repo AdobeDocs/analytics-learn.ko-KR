@@ -34,7 +34,7 @@ ht-degree: 96%
       + [Adobe Analytics에 로그인](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI 소개](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [보고서 세트 이해 및 생성](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Adobe Labs(기술 미리보기)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [Adobe Labs (기술 미리보기)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + UI 맞춤화 {#customizing-the-ui}
       + [Adobe Analytics의 사용자 환경 설정](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Dimension 및 메트릭 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -382,8 +382,8 @@ ht-degree: 96%
    + 구현 {#implementation}
       + [모바일 앱 관리 설정](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Experience Platform SDK를 사용하여 라이프사이클 지표 초기화 및 보기](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
-      + [추적 작업(예: 맞춤형 링크)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
-      + [추적 상태(예: 페이지 또는 화면)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
+      + [추적 작업 (예: 맞춤형 링크)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
+      + [추적 상태 (예: 페이지 또는 화면)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [iOS Swift 앱에서 구현](https://docs.adobe.com/content/help/ko/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [iOS Objective-C 앱에서 구현](https://docs.adobe.com/content/help/ko/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [Android 앱에서 구현](https://docs.adobe.com/content/help/ko/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
