@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 96%
       + [Analysis Workspace의 표준 템플릿](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [데이터를 Analysis Workspace 프로젝트에 포함시키는 방법 이해](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Analysis Workspace의 구성요소 관리](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
+      + [Analysis Workspace의 구성 요소 관리](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [구성 요소 관리자 사용](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Analysis Workspace에서 보고서 세트 선택](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Analysis Workspace 성능 지표 보기](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
@@ -217,8 +217,8 @@ ht-degree: 96%
    + 사용자 관리 {#user-management}
       + [Adobe Analytics에 관리자 추가](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Admin Console에서 보고서 세트 액세스 제한](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [다른 사용자에게 사용자 자산 전송](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [로그인 문제를 방지하려면 연결된 IMS ID 를 확인하십시오](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [사용자 에셋을 다른 사용자에게 전송](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [로그인 문제를 방지하기 위해 연결된 IMS ID 확인](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 보고서 세트 관리 {#manage-report-suites}
       + [일반 계정 설정 구성 방법](administration/manage-report-suites/configuring-general-account-settings.md)
       + [캘린더 설정 맞춤화](administration/manage-report-suites/customize-calendar-settings.md)
@@ -227,14 +227,14 @@ ht-degree: 96%
       + [내부 URL 필터 설정](administration/manage-report-suites/set-internal-url-filters.md)
       + [주소 및 우편번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [타임스탬프 선택 사항 설정 활성화](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [타임스탬프 옵션 설정 활성화](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Analytics에서 보트 규칙 구성](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + 데이터 거버넌스 및 GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics의 데이터 거버넌스 및 GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [분석 팀에 적합한 사람 확보](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + 트래픽 관리 {#traffic-management}
       + [서버 호출 사용량](administration/traffic-management/server-call-usage.md)
-      + [예정된 트래픽 스파이크 관리](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
+      + [다가오는 트래픽 스파이크 관리](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + 로그{#logs}
       + [Analysis Workspace에 대한 사용 로그 추적](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 관리 로그 개요](administration/logs/overview-of-analytics-admin-logs.md)
@@ -320,12 +320,12 @@ ht-degree: 96%
       + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 소개](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [SFTP를 통해 Data Warehouse 요청 보내기](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [SFTP를 통해 Data Warehouse 요청 전송](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + 데이터 피드 {#data-feeds}
       + [데이터 피드 관리 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [데이터 피드 인증 키 다운로드](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [데이터 피드 ID 찾기](exporting/data-feeds/find-your-data-feed-id.md)
-      + [데이터 피드 작업 재실행](exporting/data-feeds/rerun-a-data-feed-job.md)
+      + [데이터 피드 작업 다시 실행](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [Report Builder에서 여러 요청에 세그먼트를 한 번에 추가](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder의 예외 항목 탐지](exporting/report-builder/anomaly-detection-in-report-builder.md)
