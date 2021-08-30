@@ -1,7 +1,7 @@
 ---
 title: 교차 탭 분석을 사용하여 Analysis Workspace의 기본 마케팅 기여도 분석하기
 description: Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수 있는 방법은 여러 가지가 있습니다. 이 비디오에서는 작업 영역에서 교차 탭 분석을 사용하여 마케팅 채널 보고서에서 보다 세부적인 통찰력을 도출하는 방법을 강조표시합니다.
-feature: 마케팅 채널
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 38%
+source-wordcount: '288'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수
 * 4:30 - 이제 열 설정을 1씩 하지 않고 일괄적으로 업데이트할 수 있습니다. 자세한 내용은 비디오 8:45에서 알아보십시오. [자유 형식 테이블의 행 및 열 설정](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-이 항목에 대한 자세한 내용은 [설명서](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/attribution/models.html)를 참조하십시오.
+이 항목에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ko-KR)를 참조하십시오.

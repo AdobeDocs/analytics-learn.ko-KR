@@ -1,7 +1,7 @@
 ---
 title: 태그 관리자 없이 맞춤형 링크 추적
 description: '페이지에 있는 많은 작업의 경우 추적을 페이지 보기로 처리해서는 안 됩니다. 이 비디오에서는 태그 관리자(예: Experience Platform Launch)을 사용하지 않는 경우, Analytics에 링크 추적 비콘을 코딩하는 방법을 알아봅니다. 코드를 확인하고 중요한 팁을 학습합니다.'
-feature: Appmeasurement 구현
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 8%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -49,5 +49,3 @@ Adobe Analytics으로 데이터를 전송하는 함수는 두 가지가 있습�
     Click here to share on FaceBook
 </a>
 ```
-
-사용자 지정 링크에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/ko_KR/sc/implement/function_tl.html)를 참조하십시오.

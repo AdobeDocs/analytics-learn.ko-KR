@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 맞춤형 색상 팔레트 사용
 description: Analysis Workspace에 사용된 색상 팔레트를 변경하여 브랜드나 고객 팔레트에 더 잘 맞게 할 수 있습니다.
-feature: Workspace 기본 사항
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 1943
 role: User
 level: Beginner
 exl-id: 03cb00ce-42c1-481b-8dc2-bf90d8a98acc
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 21%
+source-wordcount: '115'
+ht-degree: 11%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 21%
 
 5개의 OOTB 팔레트와 고유한 색상 문자열을 지정할 수 있는 기능을 제공합니다. 색상은 [!UICONTROL Analysis Workspace]의 모든 카테고리적 시각화에 영향을 줍니다. 유일하게 제외된 [!UICONTROL 시각화]는 [!UICONTROL 요약 변경], [!UICONTROL 자유 형식 테이블의 조건부 서식], [!UICONTROL 흐름]의 시작/종료 및 [!UICONTROL 맵]입니다.
 
-자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/ko-KR/analytics/analysis-workspace/color_palettes.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/color-palettes.html?lang=en)를 참조하십시오.

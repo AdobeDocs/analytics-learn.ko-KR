@@ -1,22 +1,22 @@
 ---
 title: Adobe Analytics에서 우편 번호 설정 구성
-seo-title: Adobe Analytics에서 우편 번호 설정 구성
+seo-title: Configuring Zip and Postal Code Settings in Adobe Analytics
 description: 이 비디오에서는 이 지역 데이터를 기반으로 분석할 수 있도록 우편 번호 설정을 구성하는 방법을 알아봅니다.
-seo-description: 이 비디오에서는 이 지역 데이터를 기반으로 분석할 수 있도록 우편 번호 설정을 구성하는 방법을 알아봅니다.
-feature: 데이터 구성 및 수집
+seo-description: In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: 관리
+topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-[!UICONTROL 우편 번호] 설정에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)를 참조하십시오.
+[!UICONTROL 우편 번호] 설정에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)를 참조하십시오.

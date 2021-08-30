@@ -1,7 +1,7 @@
 ---
 title: Launch Analytics 확장에서 일반 설정 구성
 description: Launch, by Adobe 및 Adobe Analytics 확장을 시작하는 경우에는 이 비디오를 통해 추적 서버 설정을 포함하여 구성의 일반 설정 부분을 이해할 수 있습니다.
-feature: Launch 구현
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 21%
+source-wordcount: '126'
+ht-degree: 14%
 
 ---
 
@@ -27,6 +27,6 @@ Experience Platform Launch을 시작하고 Adobe Analytics [!UICONTROL 확장]�
 
 [우편 번호](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
-[분류](https://docs.adobe.com/content/help/ko-KR/analytics/components/classifications/c-classifications.html)
+[분류](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ko-KR)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

@@ -1,7 +1,7 @@
 ---
 title: 데이터 계층을 사용하여 Launch를 통해 Adobe Analytics에서 페이지 이름 및 기타 변수 설정
 description: Analytics 및 기타 Experience Cloud 솔루션에 데이터 레이어를 사용하는 것이 가장 좋습니다. 이 비디오에서는 데이터 계층에서 값을 가져와서 Launch에서 사용하여 Adobe Analytics의 변수를 채우는 방법을 알아봅니다.
-feature: Launch 구현
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '365'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 4%
 
 ## 데이터 레이어 {#data-layers}
 
-특히 Adobe Analytics에서 사이트 및 Adobe Experience Cloud 솔루션에서 데이터를 사용하여 작업할 때 데이터 계층을 사용하는 것이 좋습니다. _데이터 계층_&#x200B;은 개발자가 페이지에 삽입하는 JavaScript 개체의 프레임워크입니다. 데이터 계층은 보고서를 채우기 위해 추적 도구( [!DNL Experience Platform Launch]과 같은 태그 관리 시스템 포함)에서 사용할 수 있습니다. [Experience Cloud 설명서](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html) 또는 [W3C 사이트](https://www.w3.org/)에서 데이터 계층에 대한 추가 정보를 찾습니다.
+특히 Adobe Analytics에서 사이트 및 Adobe Experience Cloud 솔루션에서 데이터를 사용하여 작업할 때 데이터 계층을 사용하는 것이 좋습니다. _데이터 계층_&#x200B;은 개발자가 페이지에 삽입하는 JavaScript 개체의 프레임워크입니다. 데이터 계층은 보고서를 채우기 위해 추적 도구( [!DNL Experience Platform Launch]과 같은 태그 관리 시스템 포함)에서 사용할 수 있습니다. [Experience Cloud 설명서](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en) 또는 [W3C 사이트](https://www.w3.org/)에서 데이터 계층에 대한 추가 정보를 찾습니다.
 
 또한 블로그 [데이터 레이어: Buzzword에서 Best Practice에 이르기까지 두 가지 예와 데이터 계층에 대한 유용한 정보를 제공합니다.](https://theblog.adobe.com/data-layers-buzzword-best-practice/)
 

@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '2139'
-ht-degree: 99%
+source-wordcount: '2131'
+ht-degree: 98%
 
 ---
 
@@ -247,7 +247,7 @@ ht-degree: 99%
       + [SDR 제작 및 유지 관리](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [사이트에서 데이터 레이어 사용](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Experience Platform Launch를 통해 {#via-adobe-launch}
-      + [Experience Platform Launch를 사용하여 웹 사이트에서 Experience Cloud 구현](https://docs.adobe.com/content/help/ko/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [Experience Platform Launch를 사용하여 웹 사이트에서 Experience Cloud 구현](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Analytics Launch 확장의 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Analytics용 라이브러리 관리 구성](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -383,9 +383,9 @@ ht-degree: 99%
       + [Experience Platform SDK를 사용하여 라이프사이클 지표 초기화 및 보기](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [추적 작업 (예: 맞춤형 링크)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [추적 상태 (예: 페이지 또는 화면)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [iOS Swift 앱에서 구현](https://docs.adobe.com/content/help/ko/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [iOS Objective-C 앱에서 구현](https://docs.adobe.com/content/help/ko/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-      + [Android 앱에서 구현](https://docs.adobe.com/content/help/ko/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+      + [iOS Swift 앱에서 구현](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [iOS Objective-C 앱에서 구현](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Android 앱에서 구현](https://experienceleague.adobe.com/docs/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + Mobile Analytics 측정 {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 시작하기](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [모바일 여정에서 터치 포인트의 영향](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)

@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 프로젝트 공유하기
 description: 프로젝트 공유는 조직의 사용자에게 Analysis Workspace의 데이터와 통찰력을 자유롭게 제공하는 한 가지 방법입니다. 이제 제공하려는 프로젝트 경험에 따라 수신자를 세 개의 프로젝트 역할 중 하나로 배치할 수 있습니다(편집, 복제 및 보기).
-feature: 선별 및 공유
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 5555
 role: User
 level: Beginner
 exl-id: edba5887-bb72-49d5-a5b2-0065591e7c1b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36207/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/curate-share/share-projects.html)를 참조하십시오
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=ko-KR)를 참조하십시오

@@ -10,10 +10,10 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '1664'
-ht-degree: 6%
+source-wordcount: '1641'
+ht-degree: 4%
 
 ---
 
@@ -55,11 +55,11 @@ ht-degree: 6%
 
 ## [!DNL Cross-Device Analytics] 작동 방식
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] 장치 [!DNL Adobe Experience Platform Identity Service]가 사람 [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/ko-KR/device-co-op/using/home.html) 에게 매핑되는 방법을 식별하기 위해 또는 를  [!DNL Private Graph] 사용하여 와 통합됩니다. 그런 다음 이 인텔리전스를 활용하여 사용자 동작에 대한 교차 장치 보기를 만듭니다. CDA에는 기업이 브랜드와의 상호 작용에서 다중 장치 사용과 해당 장치의 고객 경험을 이해하는 데 도움이 되는 탁월한 기능과 도구가 포함되어 있습니다. 이 디자이너는 Analysis Workspace 아래의 레이어로 사용하여 [!UICONTROL 폴아웃], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] 및 [!DNL Attribution IQ]와 같은 강력한 도구를 사용하여 개인 기반 대상 분석 및 교차 장치 속성, 세그먼테이션 및 여정 분석에 대한 심층적인 통찰력을 제공합니다.
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] 장치 [!DNL Adobe Experience Platform Identity Service]가 사람 [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=ko-KR) 에게 매핑되는 방법을 식별하기 위해 또는 를  [!DNL Private Graph] 사용하여 와 통합됩니다. 그런 다음 이 인텔리전스를 활용하여 사용자 동작에 대한 교차 장치 보기를 만듭니다. CDA에는 기업이 브랜드와의 상호 작용에서 다중 장치 사용과 해당 장치의 고객 경험을 이해하는 데 도움이 되는 탁월한 기능과 도구가 포함되어 있습니다. 이 디자이너는 Analysis Workspace 아래의 레이어로 사용하여 [!UICONTROL 폴아웃], [!DNL Flow], [!DNL Cohort], [!DNL Segment IQ] 및 [!DNL Attribution IQ]와 같은 강력한 도구를 사용하여 개인 기반 대상 분석 및 교차 장치 속성, 세그먼테이션 및 여정 분석에 대한 심층적인 통찰력을 제공합니다.
 
 ### 다음 [!DNL Cross-Device Virtual Report Suite]
 
-CDA는 특별한 종류의 교차 장치 [[!UICONTROL 가상 보고서 세트]](https://docs.adobe.com/content/help/ko-KR/analytics/components/virtual-report-suites/vrs-about.html)를 통해 제공됩니다. 이렇게 하면 조직에 교차 장치 분석을 도입하면서 원래 장치 기반 보고서 세트를 계속 사용할 수 있습니다. CDA VRS를 설정하는 것은 쉽습니다.
+CDA는 특별한 종류의 교차 장치 [[!UICONTROL 가상 보고서 세트]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html)를 통해 제공됩니다. 이렇게 하면 조직에 교차 장치 분석을 도입하면서 원래 장치 기반 보고서 세트를 계속 사용할 수 있습니다. CDA VRS를 설정하는 것은 쉽습니다.
 
 VRS 빌더의 1단계에서 Adobe이 CDA를 사용하도록 구성한 [!UICONTROL 보고서 세트]를 선택합니다.
 
@@ -98,8 +98,8 @@ VRS 설정을 완료하고 저장합니다. CDA VRS는 아래에 표시된 대�
 
 CDA는 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html)에 포함되어 있습니다. 2019년 9월부터 아래 나열된 사전 요구 사항을 충족하는 [!DNL Analytics Ultimate] 고객은 CDA를 사용할 수 있습니다. CDA를 위한 사전 요구 사항은 다음과 같습니다.
 
-* 회사가 [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)의 구성원이거나 [!DNL Adobe Experience Platform Identity Service Private Graph]을 사용해야 합니다.
-* 그래프와 함께 [Experience Cloud ID(ECID)](https://docs.adobe.com/content/help/ko-KR/id-service/using/home.html) 및 ID 동기화를 포함하여 [!DNL Co-op Graph] 또는 [!DNL Private Graph]에 필요한 모든 것을 구현해야 합니다. [!DNL Co-op Graph] 에는 기술 요구 사항 외에 다른 법적 및 계약 요구 사항이 있습니다.
+* 회사가 [!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html)의 구성원이거나 [!DNL Adobe Experience Platform Identity Service Private Graph]을 사용해야 합니다.
+* 그래프와 함께 [Experience Cloud ID(ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=ko-KR) 및 ID 동기화를 포함하여 [!DNL Co-op Graph] 또는 [!DNL Private Graph]에 필요한 모든 것을 구현해야 합니다. [!DNL Co-op Graph] 에는 기술 요구 사항 외에 다른 법적 및 계약 요구 사항이 있습니다.
 * 현재 단일 [!DNL Private Graph] 로 두 개의 IMS 조직을 사용할 수 없으므로 단일 IMS 조직을 표준화해야 합니다. 경우에 따라 여러 IMS 조직이 있는 고객이 CDA와 함께 [!DNL Co-op Graph]을 사용할 수 있습니다.
 * CDA의 특정 구성 요소와 [!DNL Co-op graph] 및 [!DNL Private Graph] 는 [!DNL Microsoft Azure]에서 호스팅됩니다. 즉, [!DNL Analytics] 데이터는 Adobe의 데이터 처리 센터와 [!DNL Microsoft Azure]에 있는 Adobe 간에 서로 복사됩니다. 일부 [!DNL Analytics] 데이터는 [!DNL Azure]에 저장됩니다. 귀사는 이 계약에 동의해야 한다.
 * CDA에는 &quot;교차 장치&quot; [!UICONTROL 보고서 세트]가 필요합니다. 즉, CDA에 사용하는 [!UICONTROL 보고서 세트]에는 데스크톱 웹, 모바일 웹 및 모바일 앱과 같은 여러 가지 다른 장치 유형 또는 &quot;표면&quot;의 데이터가 포함되어야 합니다. 2019년 9월부터 이 [!UICONTROL 보고서 세트]에 대한 서버 호출 볼륨은 100MM 서버 호출/일 이하여야 합니다. (서버 호출 볼륨 제한은 앞으로 몇 개월 동안 증가합니다.)
@@ -114,7 +114,7 @@ CDA [!UICONTROL 가상 보고서 세트] 내에서 몇 가지 변경 사항이 �
 *사람 및 고유*
 ![장치CDA  [!UICONTROL 사람 지표]](assets/cda-people-metric.png)
 
-[[!UICONTROL 세그먼트 빌더]](https://docs.adobe.com/content/help/ko-KR/analytics/components/segmentation/segmentation-workflow/seg-build.html)에서 [!UICONTROL 방문자] 세그먼트 컨테이너가 [!UICONTROL Person] 세그먼트 컨테이너로 대체되었습니다. CDA VRS를 사용하여 다음과 같은 교차 장치 세그먼트를 만들 수 있습니다.
+[[!UICONTROL 세그먼트 빌더]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ko-KR)에서 [!UICONTROL 방문자] 세그먼트 컨테이너가 [!UICONTROL Person] 세그먼트 컨테이너로 대체되었습니다. CDA VRS를 사용하여 다음과 같은 교차 장치 세그먼트를 만들 수 있습니다.
 
 * 두 개 이상의 장치를 사용하는 사람
 * 모바일 장치에서 여정을 시작한 다음 나중에 데스크탑 장치에서 구매하는 사람
@@ -136,21 +136,21 @@ CDA VRS 내에서 [!DNL eVars] 와 같은 차원은 이제 장치 간에 자동�
 
 ### 개인 기반 대상 분석
 
-얼마나 많은 사람들이 브랜드와 상호 작용하고 있는지 궁금해한 적이 있습니까? 얼마나 많은 장치와 어떤 유형의 장치를 사용하고 있는지 알고 싶습니까? 사용량은 어떻게 중첩됩니까? CDA VRS를 사용하여 교차 장치 [벤 다이어그램](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/visualizations/venn.html) 및 장치-per-person [히스토그램](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/visualizations/histogram.html)을 만들 수 있습니다.
+얼마나 많은 사람들이 브랜드와 상호 작용하고 있는지 궁금해한 적이 있습니까? 얼마나 많은 장치와 어떤 유형의 장치를 사용하고 있는지 알고 싶습니까? 사용량은 어떻게 중첩됩니까? CDA VRS를 사용하여 교차 장치 [벤 다이어그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ko-KR) 및 장치-per-person [히스토그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ko-KR)을 만들 수 있습니다.
 
 *개인 기반 대상*
 ![분석 벤 및 히스토그램](assets/cda-venn-and-histogram.png)
 
 ### 교차 장치 [!DNL Flow]
 
-CDA 및 Analysis Workspace을 사용하면 [[!DNL Flow visualization]](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/visualizations/flow/flow.html)에서 시간이 지남에 따라 사람들이 한 장치에서 다른 장치로 이동하는 방식을 시각화할 수 있습니다. 여러분은 여정에서 어디에서 어디에서 중단되고 어디에서 실행되는지 볼 수 있습니다.
+CDA 및 Analysis Workspace을 사용하면 [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html)에서 시간이 지남에 따라 사람들이 한 장치에서 다른 장치로 이동하는 방식을 시각화할 수 있습니다. 여러분은 여정에서 어디에서 어디에서 중단되고 어디에서 실행되는지 볼 수 있습니다.
 
 *[!DNL Flow]CDA 사용*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### 교차 장치 [!DNL Fallout]
 
-몇 개의 [[!DNL Fallout visualizations]](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html)을 사용하여 사용자가 성공을 달성하기 전에 일련의 단계를 통해 얼마나 잘 수행하고 있는지를 분석할 수 있습니다. 기존 장치 기반 분석을 사용할 때 이러한 [!DNL Fallout visualizations]에 대한 보기가 제한된다는 사실을 알고 있습니까? &quot;폴스루&quot;를 성공적으로 수행하려면 다음 단계가 이전 단계와 동일한 브라우저 또는 앱에서 발생해야 합니다. 장치 기반 분석에서는 다른 장치에서 다음 단계를 성공적으로 완료한 사람을 볼 수 없습니다.
+몇 개의 [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ko-KR)을 사용하여 사용자가 성공을 달성하기 전에 일련의 단계를 통해 얼마나 잘 수행하고 있는지를 분석할 수 있습니다. 기존 장치 기반 분석을 사용할 때 이러한 [!DNL Fallout visualizations]에 대한 보기가 제한된다는 사실을 알고 있습니까? &quot;폴스루&quot;를 성공적으로 수행하려면 다음 단계가 이전 단계와 동일한 브라우저 또는 앱에서 발생해야 합니다. 장치 기반 분석에서는 다른 장치에서 다음 단계를 성공적으로 완료한 사람을 볼 수 없습니다.
 
 걱정 마세요, CDA는 당신이 담당했습니다. CDA는 [!DNL Fallout visualizations]을 훨씬 더 유용한 교차 장치 보기를 만듭니다. 결국 진짜 중요한 것은 어디에 가서 성공한 사람인가.
 
@@ -159,11 +159,11 @@ CDA 및 Analysis Workspace을 사용하면 [[!DNL Flow visualization]](https://d
 
 ### [!DNL Cross-Device Attribution IQ]
 
-CDA는 Analysis Workspace 아래에 교차 장치 데이터의 레이어를 만들기 때문에 모든 분석은 교차 장치 관점에서 변형됩니다. 한 가지 강력한 예는 [[!DNL Attribution IQ]](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/panels/attribution/attribution.html)을 통해 입니다. [!DNL Attribution IQ] Analysis Workspace에서 여러 속성 모델을 나란히 비교할 수 있습니다. 이제 CDA에서 이 기능을 사용하여 다양한 장치가 성공에 기여하는 방식을 비교할 수 있습니다.
+CDA는 Analysis Workspace 아래에 교차 장치 데이터의 레이어를 만들기 때문에 모든 분석은 교차 장치 관점에서 변형됩니다. 한 가지 강력한 예는 [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=ko-KR)을 통해 입니다. [!DNL Attribution IQ] Analysis Workspace에서 여러 속성 모델을 나란히 비교할 수 있습니다. 이제 CDA에서 이 기능을 사용하여 다양한 장치가 성공에 기여하는 방식을 비교할 수 있습니다.
 
 예를 들어, 궁극적으로 성공으로 이어지는 상호 작용에서 휴대 전화기가 사용되는 첫 번째 장치의 빈도를 이해하려 한다고 가정합니다. 이것은 휴대폰의 &quot;획득율&quot;을 나타냅니다. CDA + [!DNL Attribution IQ]을(를) 사용하여 이 분석을 수행할 수 있습니다.
 
 *[!DNL Attribution IQ]CDA 사용*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-자세한 내용은 [[!DNL Cross-Device Analytics] 도움말 설명서](https://docs.adobe.com/content/help/ko-KR/analytics/components/cda/cda-home.html)를 참조하십시오.
+자세한 내용은 [[!DNL Cross-Device Analytics] 도움말 설명서](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=ko-KR)를 참조하십시오.

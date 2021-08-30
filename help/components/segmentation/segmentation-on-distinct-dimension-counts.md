@@ -1,7 +1,7 @@
 ---
 title: 개별 Dimension 카운트에 대한 세분화
 description: 세그먼트 빌더의 새 고유 카운트 연산자를 사용하여 차원 내의 고유 항목 수를 기준으로 세그먼트화할 수 있습니다. 5개 이상의 페이지를 본 방문 또는 5개 이상의 제품을 구매한 히트(즉, 단일 주문 내에서)를 필터링합니다.
-feature: 세그먼테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '122'
 ht-degree: 13%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 13%
 
 이 기능이 더 멋질 수 있습니까? :)
 
-자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en)를 참조하십시오.

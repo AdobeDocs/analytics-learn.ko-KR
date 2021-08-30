@@ -10,10 +10,10 @@ kt: 2337
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: fd939c04-f28c-4b84-9768-2e9644945afb
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 31%
+source-wordcount: '99'
+ht-degree: 19%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 31%
 
 [!UICONTROL Adobe Analytics Premium ] 고객이 기여도 분석을 Analysis Workspace에서 사용할 수 있습니다.
 
-이 기능에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/ko_KR/analytics/analysis-workspace/anomaly_detection.html)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en)를 참조하십시오.

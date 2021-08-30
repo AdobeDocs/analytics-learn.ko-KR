@@ -10,10 +10,10 @@ kt: 1768
 role: User
 level: Intermediate
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 32%
+ht-degree: 30%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 32%
 
 [!UICONTROL Report Builder]에서는 [!UICONTROL 지표] 실제 값과 예상 값 및 상한 및 하위 경계를 함께 반환하여 분석 및 공유하는 데이터에 더 많은 깊이를 추가할 수 있습니다.
 
-이 기능에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en)를 참조하십시오.

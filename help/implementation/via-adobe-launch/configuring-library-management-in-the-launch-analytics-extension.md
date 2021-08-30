@@ -1,7 +1,7 @@
 ---
 title: Analytics용 라이브러리 관리 구성
 description: Adobe Analytics용 Experience Platform Launch 확장을 막 시작하는 경우 이 비디오를 통해 데이터를 전송할 보고서 세트 선택을 포함하여 구성의 라이브러리 관리 부분을 지원할 수 있습니다.
-feature: Launch 구현
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 19%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
@@ -27,6 +27,6 @@ Experience Platform Launch을 시작하고 Adobe Analytics [!UICONTROL 확장]�
 
 [우편 번호](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
-[분류](https://docs.adobe.com/content/help/ko-KR/analytics/components/classifications/c-classifications.html)
+[분류](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ko-KR)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/ko-KR/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

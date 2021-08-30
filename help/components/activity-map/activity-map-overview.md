@@ -10,10 +10,10 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 18%
+source-wordcount: '103'
+ht-degree: 8%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
 
-이 기능에 대한 자세한 내용은 [설명서](https://marketing.adobe.com/resources/help/ko_KR/analytics/activitymap/)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=en)를 참조하십시오.

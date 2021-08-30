@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 Attribution IQ 패널 사용
 description: 이 비디오에서는 기여도 분석 Analysis Workspace 프로젝트를 빌드할 때 시작할 수 있는 멋진 곳인 Attribution IQ 패널이 표시됩니다.
-feature: 속성
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -12,10 +12,10 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 4%
+source-wordcount: '103'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,3 @@ ht-degree: 4%
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
 Analysis Workspace의 [!DNL Attribution IQ] [!UICONTROL 패널]은 시각적인 방식으로 10개의 규칙 기반 [!DNL attribution models] 중 하나를 빠르게 비교하는 방법입니다. 각 모델이 [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] 및 [!DNL Flow Diagram]를 사용하여 어떤 차원에서든 어떤 영향을 주는지 확인하십시오. [!DNL Attribution] [!UICONTROL 패널]은 보다 정교한 속성 분석을 위한 좋은 시작점입니다.
-
-## 추가 리소스 {#additional-resources}
-
-* [기능 설명서](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/use_attribution_iq.html)

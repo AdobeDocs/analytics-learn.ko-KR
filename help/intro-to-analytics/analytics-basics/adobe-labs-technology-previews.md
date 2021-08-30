@@ -10,10 +10,9 @@ kt: 4818
 role: Architect
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
-source-wordcount: '93'
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -26,4 +25,4 @@ ht-degree: 100%
 
 [!DNL Labs] 프로토타입을 사용하면 비즈니스 사용 사례 및 데이터의 컨텍스트에서 기능을 평가할 수 있습니다.
 
-자세한 내용은 [설명서](https://docs.adobe.com/content/help/ko/analytics/analyze/tech-previews/overview.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=ko-KR)를 참조하십시오.
