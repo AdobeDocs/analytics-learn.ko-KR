@@ -1,19 +1,19 @@
 ---
 title: Analysis Workspace에 대한 사용 로그 추적
 description: 관리자 - 로그 - 사용 및 액세스 아래에서 사용자의 Adobe Analytics 사용을 더 잘 이해할 수 있습니다. 이 비디오에서는 특히 Workspace 프로젝트 사용 측정에 중점을 둡니다.
-feature: 데이터 구성 및 수집
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: 관리
+topic: Administration
 role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 18%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-자세한 내용은 [설명서](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)를 참조하십시오.
