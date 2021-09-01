@@ -1,19 +1,17 @@
 ---
 title: Analysis Workspace에서 시간 분할 Heatmap 구축
 description: 동작에 대한 Heatmap 시각화를 만들어 시간 분할 분석을 다음 수준으로 가져오는 방법을 알아봅니다.
-feature: 시각화
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 26991.jpg
 kt: 2813
 role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 1%
+source-wordcount: '50'
+ht-degree: 0%
 
 ---
 

@@ -1,18 +1,16 @@
 ---
 title: Analysis Workspace에서 100% 누적 시각화
 description: 이 비디오에서는 누적 시각화를 원시 값만 사용하는 대신 백분율로 설정하는 방법을 알아봅니다.
-feature: 시각화
-topics: null
-activity: use
+feature: Visualizations
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23131.jpg
 kt: 1670
 role: User
 level: Beginner
 exl-id: 7b775e43-2495-4851-8e16-ab6d93c75dd1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
