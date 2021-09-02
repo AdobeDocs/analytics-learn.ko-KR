@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
 workflow-type: tm+mt
-source-wordcount: '2131'
-ht-degree: 98%
+source-wordcount: '2192'
+ht-degree: 96%
 
 ---
 
@@ -28,13 +28,15 @@ ht-degree: 98%
       + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Analytics 기본 사항 {#analytics-basics}
       + [Reports and Analytics의 [Workspace에서 시도] 버튼](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [사용자 메트릭](intro-to-analytics/analytics-basics/people-metric.md)
       + [Analytics 주기 이해](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics 데이터 수집 방법](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics에 로그인](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI 소개](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [보고서 세트 이해 및 생성](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [Adobe Labs (기술 미리보기)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
+      + [기본 방문자 메트릭 이해](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [트래픽 변수 소개(속성)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
+      + [전환 변수 소개(eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
+      + [전환 이벤트 소개](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + UI 맞춤화 {#customizing-the-ui}
       + [Adobe Analytics의 사용자 환경 설정](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [Dimension 및 메트릭 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
@@ -147,7 +149,7 @@ ht-degree: 98%
       + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + 메트릭 {#metrics}
       + [기본 방문자 메트릭 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko-KR)
+      + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [자유 양식 표에서 메트릭 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko-KR)
       + [Analysis Workspace에서 참여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
@@ -241,6 +243,7 @@ ht-degree: 98%
 + 구현 {#implementation}
    + Implementation 기본 사항 {#implementation-basics}
       + [최초 구현](implementation/implementation-basics/first-time-implementation.md)
+      + [보고서 세트 이해 및 생성](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html)
       + [처리 규칙을 사용하여 contextData 변수를 속성 및 eVar에 매핑](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [Analytics Tracking Server 및 보고서 세트를 식별하는 방법](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [비즈니스 요구 사항 문서 생성](implementation/implementation-basics/creating-a-business-requirements-document.md)
@@ -311,6 +314,7 @@ ht-degree: 98%
       + [Activity Map 개요](components/activity-map/activity-map-overview.md)
       + [Adobe Analytics Activity Map 활성화, 디버깅 및 맞춤화](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 추가 도구 {#additional-tools}
+   + [Adobe Labs (기술 미리보기)](additional-tools/adobe-labs-technology-previews.md)
    + Analytics 대시보드 {#analytics-dashboards}
       + [Adobe Analytics 대시보드 스코어카드 빌더](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [사용자 지정 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
