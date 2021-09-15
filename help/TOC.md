@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: 54cc440067743e6e198f131a26566ffb32ac5d60
 workflow-type: tm+mt
 source-wordcount: '2197'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 96%
       + [Adobe Analytics에 로그인](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI 소개](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [보고서 세트 이해 및 생성](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [기본 방문자 메트릭 이해](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
+      + [기본 방문자 지표 이해](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)
       + [트래픽 변수 소개(속성)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html)
       + [전환 변수 소개(eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [전환 이벤트 소개](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
@@ -150,7 +150,7 @@ ht-degree: 96%
       + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
    + 메트릭 {#metrics}
       + [기본 방문자 메트릭 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
+      + [Analysis Workspace에서 프로젝트에 치수 및 메트릭 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko-KR)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [자유 양식 표에서 메트릭 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko-KR)
       + [Analysis Workspace에서 참여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
