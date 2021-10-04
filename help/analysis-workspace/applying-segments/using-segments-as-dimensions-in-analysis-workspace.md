@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 치수로 세그먼트 사용
 description: 이 비디오에서는 Analysis Workspace에서 세그먼트를 차원으로 사용하여 세그먼트를 비교하고 시각화하는 방법을 보여줍니다.
-feature: 세그먼테이션
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
@@ -10,11 +10,11 @@ team: Technical Marketing
 kt: 2009
 role: User
 level: Beginner
-exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac7,69901e9c-42e6-423e-bb89-8b8b0763bac7,36b564bd-30ae-4474-8b05-9607397e02b8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac7
+source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 28%
+source-wordcount: '52'
+ht-degree: 26%
 
 ---
 
