@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
-workflow-type: ht
-source-wordcount: '2197'
-ht-degree: 100%
+source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
+workflow-type: tm+mt
+source-wordcount: '2201'
+ht-degree: 99%
 
 ---
 
@@ -317,6 +317,7 @@ ht-degree: 100%
    + [Adobe Labs (기술 미리보기)](additional-tools/adobe-labs-technology-previews.md)
    + Analytics 대시보드 {#analytics-dashboards}
       + [Adobe Analytics 대시보드 스코어카드 빌더](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [모바일 스코어카드에 대한 시각화](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [사용자 지정 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 대시보드 인앱 경험](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + 내보내기 {#exporting}
