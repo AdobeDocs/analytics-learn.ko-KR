@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
+source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
 workflow-type: tm+mt
-source-wordcount: '2201'
+source-wordcount: '2209'
 ht-degree: 99%
 
 ---
@@ -410,3 +410,4 @@ ht-degree: 99%
    + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
++ [비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다](retired-courses/retire-fundamentals-for-business-users-course.md)
