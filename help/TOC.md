@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
 source-wordcount: '2209'
 ht-degree: 99%
@@ -280,7 +280,6 @@ ht-degree: 99%
    + 세분화 {#segmentation}
       + [세그먼트 빌더 개요](components/segmentation/segment-builder-overview.md)
       + [세그먼트 찾기 및 만들기](components/segmentation/finding-and-creating-segments.md)
-      + [순차적인 세분화 전/후 시퀀스](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [세그먼트의 롤링 기간](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Analysis Workspace의 세그먼트 비교](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [세그먼트 컨테이너](components/segmentation/segment-containers.md)
@@ -289,6 +288,7 @@ ht-degree: 99%
       + [Analysis Workspace에서 치수로 세그먼트 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ko-KR)
       + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ko-KR)
       + [순차적인 세분화](components/segmentation/sequential-segmentation.md)
+      + [순차적인 세분화 전/후 시퀀스](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [개별 Dimension 카운트에 대한 세분화](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [세분화에서의 Dimension 모델](components/segmentation/dimension-models-in-segmentation.md)
       + [세분화에서의 모든 연산자 동일](components/segmentation/equals-any-of-operator-in-segmentation.md)
