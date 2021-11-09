@@ -9,16 +9,16 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 47061b035847e42d72dec3b83d7a8322f0276e6b
-workflow-type: ht
-source-wordcount: '294'
+source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
+workflow-type: tm+mt
+source-wordcount: '292'
 ht-degree: 100%
 
 ---
 
 # 개요
 
-[!DNL Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/analytics/landing/home.html)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면,
+[!DNL Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/analytics.html)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면,
 * 최신 제품에 대한 자세한 내용은 아래의 **“새로운 기능”** 섹션을 참조하십시오.
 * **직원 선택**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * **왼쪽 내비게이션**&#x200B;에서 주제 및 하위 항목별로 내용 탐색
