@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
-workflow-type: ht
-source-wordcount: '2208'
-ht-degree: 100%
+source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
+workflow-type: tm+mt
+source-wordcount: '2225'
+ht-degree: 99%
 
 ---
 
@@ -87,6 +87,7 @@ ht-degree: 100%
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ko-KR)
       + [Analysis Workspace의 미디어 동시 뷰어 패널](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
+      + [미디어 재생 시간 패널](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [패널을 사용하여 Analysis Workspace 프로젝트 구성](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [세그먼트 드롭 영역 개선](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -380,8 +381,9 @@ ht-degree: 100%
       + [구매 이벤트에 대한 Launch 규칙 추가](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Adobe Summit 2019 슈퍼 세션 - 소매](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=ko-KR)
 + Media Analytics {#media-analytics}
-   + 음성 또는 오디오 측정 {#measuring-voice-or-audio}
-      + [Analysis Workspace에서 오디오 소비 템플릿 사용](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
+   + Media Analytics 측정 {#measuring-media-analytics}
+      + [미디어 재생 시간 패널](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [Analysis Workspace에서 오디오 소비 템플릿 사용](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 모바일 앱 분석 {#mobile-app-analytics}
    + 구현 {#implementation}
       + [모바일 앱 관리 설정](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
