@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2225'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -85,9 +85,9 @@ ht-degree: 99%
    + 패널 사용 {#using-panels}
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
-      + [Attribution IQ 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ko-KR)
+      + [Attribution IQ 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html)
       + [Analysis Workspace의 미디어 동시 뷰어 패널](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [미디어 재생 시간 패널](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
+      + [미디어 재생 소요 시간 패널](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [패널을 사용하여 Analysis Workspace 프로젝트 구성](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [세그먼트 드롭 영역 개선](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -382,7 +382,7 @@ ht-degree: 99%
       + [Adobe Summit 2019 슈퍼 세션 - 소매](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=ko-KR)
 + Media Analytics {#media-analytics}
    + Media Analytics 측정 {#measuring-media-analytics}
-      + [미디어 재생 시간 패널](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+      + [미디어 재생 소요 시간 패널](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Analysis Workspace에서 오디오 소비 템플릿 사용](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 모바일 앱 분석 {#mobile-app-analytics}
    + 구현 {#implementation}
