@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
-workflow-type: ht
-source-wordcount: '2225'
-ht-degree: 100%
+source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
+workflow-type: tm+mt
+source-wordcount: '2231'
+ht-degree: 99%
 
 ---
 
@@ -293,6 +293,7 @@ ht-degree: 100%
       + [개별 Dimension 카운트에 대한 세분화](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [세분화에서의 Dimension 모델](components/segmentation/dimension-models-in-segmentation.md)
       + [세분화에서의 모든 연산자 동일](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Analytics Insider 웨비나 - 고객 세그멘테이션 전략](components/segmentation/customer-segmentation-strategies.md)
    + 계산된 지표 {#calculated-metrics}
       + [계산된 지표의 근사 카운트 개별 함수](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [계산된 지표의 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ko-KR)
