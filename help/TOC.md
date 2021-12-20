@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2235'
 ht-degree: 100%
 
@@ -225,7 +225,7 @@ ht-degree: 100%
    + 보고서 세트 관리 {#manage-report-suites}
       + [일반 계정 설정 구성 방법](administration/manage-report-suites/configuring-general-account-settings.md)
       + [캘린더 설정 맞춤화](administration/manage-report-suites/customize-calendar-settings.md)
-      + [유료 검색 감지 구성](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [유료 검색 탐지 구성](administration/manage-report-suites/configure-paid-search-detection.md)
       + [Reports &amp; Analytics의 메뉴 맞춤화](administration/manage-report-suites/customize-menus.md)
       + [검색 방법 구성](administration/manage-report-suites/configure-finding-methods.md)
       + [내부 URL 필터 설정](administration/manage-report-suites/set-internal-url-filters.md)
