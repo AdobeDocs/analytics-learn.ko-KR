@@ -2,27 +2,25 @@
 title: 개별 Dimension 카운트에 대한 세분화
 description: 세그먼트 빌더의 새 고유 카운트 연산자를 사용하여 차원 내의 고유 항목 수를 기준으로 세그먼트화할 수 있습니다. 5개 이상의 페이지를 본 방문 또는 5개 이상의 제품을 구매한 히트(즉, 단일 주문 내에서)를 필터링합니다.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
 team: Technical Marketing
+thumbnail: 27257.jpg
 kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 13%
+ht-degree: 21%
 
 ---
 
 # 개별 Dimension 카운트에 대한 세분화 {#segmentation-on-distinct-dimension-counts}
 
-[!UICONTROL 세그먼트 빌더]의 새 [!UICONTROL 고유 개수] 연산자를 사용하면 [!UICONTROL 차원] 내의 고유한 항목 수를 기준으로 세그먼트화할 수 있습니다. 5개 이상의 페이지를 본 방문 또는 5개 이상의 제품을 구매한 히트(즉, 단일 주문 내에서)를 필터링합니다.
+새로운 [!UICONTROL 고유 개수] 의 연산자 [!UICONTROL 세그먼트 빌더] 임의의 [!UICONTROL 차원]. 5개 이상의 페이지를 본 방문 또는 5개 이상의 제품을 구매한 히트(즉, 단일 주문 내에서)를 필터링합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
 
 이 기능이 더 멋질 수 있습니까? :)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=en)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=ko-KR)를 참조하십시오.

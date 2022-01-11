@@ -2,18 +2,16 @@
 title: 세그먼테이션에서 다음 중 1개 이상의 같음 연산자 사용
 description: 다음 중 1개 이상의 항목과 같음 및 다음 중 같은 항목 없음 연산자가 세그먼트 빌더에 추가되었습니다. 이러한 연산자를 사용하여 여러 OR 문 또는 다음 중 하나를 포함하는 대신 특정 항목 목록으로 필터링합니다. 다음 연산자 대신 를 사용하면 쿼리 속도도 향상됩니다.
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
+thumbnail: 32960.jpg
 team: Technical Marketing
 kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
