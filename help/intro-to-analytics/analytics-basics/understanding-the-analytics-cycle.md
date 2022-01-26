@@ -1,7 +1,7 @@
 ---
 title: Analytics 주기 이해
 description: 간단하지만 중요한 이 비디오에서 사이트 데이터 분석과 관련된 단계에 대해 알아봅니다. 이 프로세스를 이해하는 데 약간의 시간을 투자하면 Analytics 프로그램의 성공에 큰 영향을 미칠 수 있습니다.
-feature: Analytics 기본 사항
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: e106c36b-f636-4194-af4f-8c260f91fc93
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 100%
 
 ---
