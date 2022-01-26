@@ -1,7 +1,7 @@
 ---
 title: SDR 제작 및 유지 관리
 description: SDR(Solution Design Reference) 문서는 기본적으로 사이트의 청사진입니다. 이 비디오는 비즈니스 요구 사항 문서와 함께 Adobe Analytics를 구현하고 향후 언제든지 참조할 수 있는 유용한 소스를 만드는 방법을 보여 줍니다.
-feature: 구현 기본 사항
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '164'
+source-wordcount: '162'
 ht-degree: 100%
 
 ---
