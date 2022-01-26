@@ -1,7 +1,7 @@
 ---
 title: Power BI의 Adobe Analytics 커넥터
 description: 이 비디오에서는 요청을 생성 및 로드하고, 데이터 형식을 변경하고, 시각화를 구축하고, 온라인 서비스에 게시하여 Adobe Analytics 커넥터를 살펴봅니다.
-feature: “서드 파티 통합”
+feature: Third-party Integration
 topics: null
 activity: use
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Intermediate
 exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
