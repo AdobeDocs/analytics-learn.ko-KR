@@ -1,9 +1,9 @@
 ---
 title: 맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화
-seo-title: 맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화
+seo-title: Using custom templates to enable novice Analysis Workspace users
 description: 이 비디오는 조직의 신규 사용자에게 더 나은 서비스를 제공하기 위해 복사 + 붙여넣기/삽입 기능을 갖춘 맞춤형 템플릿을 결합하는 방법을 보여 줍니다.
-seo-description: 이 비디오는 조직의 신규 사용자에게 더 나은 서비스를 제공하기 위해 복사 + 붙여넣기/삽입 기능을 갖춘 맞춤형 템플릿을 결합하는 방법을 보여 줍니다.
-feature: 프로젝트
+seo-description: This video demonstrates how to bring together custom templates with copy + paste/insert capabilities to better serve novice users in your organization.
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
@@ -15,7 +15,7 @@ level: Intermediate
 exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '146'
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
