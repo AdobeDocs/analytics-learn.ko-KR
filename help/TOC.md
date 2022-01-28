@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 376accf865e72799c0238250ac1e17f000c8d5b5
+source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
-source-wordcount: '2251'
+source-wordcount: '2254'
 ht-degree: 99%
 
 ---
@@ -230,11 +230,12 @@ ht-degree: 99%
       + [처리 규칙을 사용하여 수신 데이터 조작](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [트래픽 변수 구성(Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [트래픽 분류 구성](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [전환 분류 구성](administration/manage-report-suites/configure-conversion-classifications.md)
       + [목록 변수 구성](administration/manage-report-suites/configuring-list-variables.md)
       + [검색 방법 구성](administration/manage-report-suites/configure-finding-methods.md)
       + [내부 URL 필터 설정](administration/manage-report-suites/set-internal-url-filters.md)
       + [주소 및 우편번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
-      + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [타임스탬프 옵션 설정 활성화](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Analytics에서 보트 규칙 구성](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + 데이터 거버넌스 및 GDPR {#data-governance-and-gdpr}
