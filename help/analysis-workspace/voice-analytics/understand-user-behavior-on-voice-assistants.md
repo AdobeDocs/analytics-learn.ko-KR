@@ -1,7 +1,7 @@
 ---
-title: Voice Assistant의 사용자 비헤이비어 이해
-description: 주요 의도, 매개 변수 및 사용자 인증과 같은 주요 지표를 확인하여 사용자 행동을 이해하고 통찰력을 얻는 방법을 알아봅니다.
-feature: 시각화
+title: 음성 지원 디바이스에서의 사용자 비헤이비어 이해
+description: 상위 목적, 매개 변수 및 사용자 인증과 같은 주요 지표를 확인하여 사용자 비헤이비어를 이해하고 통찰력을 얻는 방법에 대해 알아봅니다.
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Intermediate
 exl-id: 7a69541c-8cea-4454-847c-4f0b10aa2788
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 22%
+workflow-type: ht
+source-wordcount: '56'
+ht-degree: 100%
 
 ---
 
-# Voice Assistant의 사용자 비헤이비어 이해 {#understand-user-behavior-on-voice-assistants}
+# 음성 지원 디바이스에서의 사용자 비헤이비어 이해 {#understand-user-behavior-on-voice-assistants}
 
-주요 의도, 매개 변수 및 사용자 인증과 같은 키 [!UICONTROL 지표]를 보고 사용자 동작을 이해하고 통찰력을 얻는 방법을 알아봅니다.
+상위 목적, 매개 변수 및 사용자 인증과 같은 주요 [!UICONTROL 지표]를 확인하여 사용자 비헤이비어를 이해하고 통찰력을 얻는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=9)
