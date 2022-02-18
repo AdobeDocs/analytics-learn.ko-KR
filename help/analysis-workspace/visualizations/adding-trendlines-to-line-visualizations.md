@@ -1,7 +1,7 @@
 ---
-title: 라인 시각화에 추세선 추가
-description: 시각화 설정 아래에서 회귀 또는 평균 트렌드 라인을 라인 시리즈에 추가하도록 선택할 수 있으므로 데이터의 명확한 패턴을 표현하는 데 도움이 됩니다. 옵션에는 선형, 로그, 지수, 기능, 이차 및 이동 평균이 포함됩니다.
-feature: 시각화
+title: 선 시각화에 추세선 추가
+description: '[시각화 설정]에서 회귀 또는 이동 평균 추세선을 라인 시리즈에 추가하도록 선택하여 데이터에 더 명확한 패턴을 표시할 수 있습니다. 옵션에는 선형, 로그, 지수, 기능, 이차 및 이동 평균이 포함됩니다.'
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,18 +12,18 @@ role: User
 level: Beginner
 exl-id: cef228e1-945f-44e2-80cd-d22842fd05a4
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 11%
+workflow-type: ht
+source-wordcount: '144'
+ht-degree: 100%
 
 ---
 
-# 라인 시각화에 추세선 추가
+# 선 시각화에 추세선 추가
 
-[!UICONTROL 시각화 설정] 아래에서 회귀 또는 평균 트렌드 라인을 라인 시리즈에 추가하도록 선택할 수 있으므로 데이터의 명확한 패턴을 표현하는 데 도움이 될 수 있습니다. 옵션에는 선형, 로그, 지수, 기능, 이차 및 이동 평균이 포함됩니다.
+[!UICONTROL 시각화 설정]에서 회귀 또는 이동 평균 추세선을 라인 시리즈에 추가하도록 선택하여 데이터에 더 명확한 패턴을 표시할 수 있습니다. 옵션에는 선형, 로그, 지수, 기능, 이차 및 이동 평균이 포함됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=en#analysis-workspace)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=ko#analysis-workspace)를 참조하십시오.
 
-이동 평균을 내보내거나 한 번에 많은 평균을 테이블에 추가하려면 대신 계산된 지표를 만들 수 있습니다. 자세한 내용은 [이 비디오](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace)를 참조하십시오.
+이동 평균을 내보내거나 한 번에 많은 평균을 표에 추가하려면 계산된 지표를 대신 생성할 수 있습니다. [이 비디오](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace)에서 자세히 알아보십시오.
