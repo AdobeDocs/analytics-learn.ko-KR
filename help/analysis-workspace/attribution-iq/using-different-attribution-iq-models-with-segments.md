@@ -1,7 +1,7 @@
 ---
-title: Analysis Workspace에서 세그먼트가 있는 다양한 Attribution IQ 모델 사용
-description: 이 비디오에서는 사이트의 Adobe Analytics 세그먼트와 함께 Attribution IQ 모델을 사용하는 방법을 알아봅니다.
-feature: 속성
+title: Analysis Workspace에서 세그먼트와 함께 다양한 Attribution IQ 모델 사용
+description: 이 비디오에서는 사이트에서 Adobe Analytics 세그먼트와 함께 Attribution IQ 모델을 사용하는 방법에 대해 알아봅니다.
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -13,16 +13,16 @@ role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '108'
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace에서 세그먼트와 함께 다른 [!DNL Attribution IQ] [!UICONTROL 모델] 사용 {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
+# Analysis Workspace에서 세그먼트와 함께 다양한 [!DNL Attribution IQ] [!UICONTROL 모델] 사용 {#using-different-attribution-iq-models-with-segments-in-analysis-workspace}
 
-이 비디오에서는 사이트의 Adobe Analytics 세그먼트와 함께 [!DNL Attribution IQ] [!UICONTROL models]를 사용하는 방법을 알아봅니다.
+이 비디오에서는 사이트에서 Adobe Analytics 세그먼트와 함께 [!DNL Attribution IQ] [!UICONTROL 모델]을 사용하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
 
-사이트에서 분석을 수행하는 경우 세그먼트를 사용하여 특정 방문자 그룹, 방문 또는 히트 수에 중점을 둡니다. 이렇게 할 때 세그먼트, 지표 및 전체 보고서와 함께 가장 잘 작동하는 속성 모델을 고려하는 단계를 추가해야 합니다.
+사이트에서 분석을 수행할 때, 특정 그룹의 방문자, 방문 또는 히트에 초점을 맞추어 세그먼트를 사용할 수 있습니다. 이러한 작업을 수행할 때, 이제 어떤 속성 모델이 세그먼트, 지표 및 전체 보고와 함께 가장 잘 작동하는지 고려하는 단계를 추가해야 합니다.
