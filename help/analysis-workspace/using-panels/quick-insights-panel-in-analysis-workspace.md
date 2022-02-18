@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace의 빠른 인사이트 패널
-description: Quick Insights는 Analysis Workspace의 비분석가 및 새 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있도록 지침을 제공합니다.
+description: 빠른 인사이트는 Analysis Workspace의 비분석가 및 신규 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있는 지침을 제공합니다.
 feature: Panels
 topics: null
 activity: use
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Analysis Workspace의 빠른 인사이트 패널]
+# Analysis Workspace의 [!UICONTROL 빠른 인사이트] 패널
 
-빠른 인사이트는 Analysis Workspace의 비분석가 및 새 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있도록 지침을 제공합니다.
+[!UICONTROL 빠른 인사이트]는 Analysis Workspace의 비분석가 및 신규 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있는 지침을 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
