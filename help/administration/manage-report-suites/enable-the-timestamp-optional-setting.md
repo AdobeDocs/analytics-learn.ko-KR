@@ -1,24 +1,24 @@
 ---
-title: 타임스탬프 선택 사항 설정 활성화
-description: 타임스탬프 옵션을 사용하면 타임스탬프가 지정된 데이터와 지정되지 않은 데이터를 동일한 글로벌 보고서 세트에서 혼합하고, 타임스탬프가 지정된 데이터를 모바일 앱에서 전역 보고서 세트에 보내고, 새 보고서 세트를 만들지 않고도 오프라인 추적을 사용하도록 앱을 업그레이드할 수 있습니다.
-feature: 데이터 구성 및 수집, 보고서 세트 설정
-topic: '관리 '
+title: 타임스탬프 옵션 설정 활성화
+description: '[타임스탬프 옵션] 기능을 사용하면 새 보고서 세트를 생성하지 않고도 동일한 전역 보고서 세트에서 타임스탬프가 지정된 기능과 타임스탬프가 지정되지 않은 데이터를 혼합하고, 모바일 앱에서 전역 보고서 세트로 타임스탬프가 지정된 데이터를 전송하고, 오프라인 추적을 사용하도록 앱을 업그레이드할 수 있습니다.'
+feature: Data Configuration and Collection, Report Suite Settings
+topic: Administration
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335740.jpg
 kt: KT-8455
-source-git-commit: e5b9693a941d72ba7d610dcc8472dff40c05d407
-workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '96'
+ht-degree: 100%
 
 ---
 
+# 타임스탬프 옵션 설정 활성화
 
-# 타임스탬프 선택 사항 설정 활성화
-
-타임스탬프 옵션을 사용하면 타임스탬프가 지정된 데이터와 지정되지 않은 데이터를 동일한 글로벌 보고서 세트에서 혼합하고, 타임스탬프가 지정된 데이터를 모바일 앱에서 전역 보고서 세트에 보내고, 새 보고서 세트를 만들지 않고도 오프라인 추적을 사용하도록 앱을 업그레이드할 수 있습니다.
+[타임스탬프 옵션] 기능을 사용하면 새 보고서 세트를 생성하지 않고도 동일한 전역 보고서 세트에서 타임스탬프가 지정된 기능과 타임스탬프가 지정되지 않은 데이터를 혼합하고, 모바일 앱에서 전역 보고서 세트로 타임스탬프가 지정된 데이터를 전송하고, 오프라인 추적을 사용하도록 앱을 업그레이드할 수 있습니다.
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335740/?quality=12&learn=on)
