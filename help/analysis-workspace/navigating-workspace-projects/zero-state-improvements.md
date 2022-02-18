@@ -1,7 +1,7 @@
 ---
-title: Analysis Workspace의 제로 상태 개선
-description: 제로 상태는 Analysis Workspace의 열기 레이아웃입니다. 초보 사용자와 노련한 사용자 모두가 Analysis Workspace을 활용할 수 있도록 왼쪽 레일, 빈 패널, 자유 형식 테이블 및 놓기 영역을 개선하여 사용자에게 더 직관적으로 제공할 수 있습니다.
-feature: 프로젝트
+title: Analysis Workspace의 Zero 상태 개선
+description: Zero 상태는 Analysis Workspace의 초기 레이아웃입니다. 초보 사용자와 숙련된 사용자 모두 Analysis Workspace를 가치 있게 사용할 수 있도록 왼쪽 레일, 빈 패널, 자유 형식 테이블 및 드롭 영역을 보다 직관적으로 개선했습니다.
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: dc37b2e5-bb00-40bc-a620-ef7d6a4e8fdf
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
-# [!DNL Zero State] Analysis Workspace 개선 사항 {#zero-state-improvements-in-analysis-workspace}
+# Analysis Workspace의 [!DNL Zero State] 개선 {#zero-state-improvements-in-analysis-workspace}
 
-&quot;[!DNL Zero State]&quot;은 Analysis Workspace의 열기 레이아웃입니다. 초보 사용자와 노련한 사용자 모두가 Analysis Workspace을 활용할 수 있도록 왼쪽 레일, 빈 패널, [!UICONTROL 자유 형식 테이블] 및 놓기 영역을 개선하여 사용자에게 더 직관적으로 제공할 수 있습니다.
+“[!DNL Zero State]”는 Analysis Workspace의 초기 레이아웃입니다. 초보 사용자와 숙련된 사용자 모두 Analysis Workspace를 가치 있게 사용할 수 있도록 왼쪽 레일, 빈 패널, [!UICONTROL 자유 형식 테이블] 및 드롭 영역을 보다 직관적으로 개선했습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23560/?quality=12)
