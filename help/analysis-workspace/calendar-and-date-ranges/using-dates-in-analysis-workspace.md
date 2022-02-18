@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace에서 날짜 사용
-description: '"이 비디오에서는 자유 형식 분석에서 날짜를 사용하는 세 가지 다른 방법을 설명합니다. 달력, 날짜 범위 요소 및 세부기간 요소를 참조하십시오. 표시되지 않았으며, 다소 당황스럽습니다. 일자를 사용하여 라인 차트를 활성화하는 방법 "'
-feature: 달력
+description: “이 비디오는 자유 형식 분석에서 날짜를 사용하여 작업하는 3가지 방법인 캘린더, 날짜 범위 요소 및 세부 기간 요소에 대해 소개합니다. 날짜를 사용하여 선 차트를 활성화하는 방법도 살펴봅니다. ”
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 13%
+workflow-type: ht
+source-wordcount: '79'
+ht-degree: 100%
 
 ---
 
 # Analysis Workspace에서 날짜 사용 {#using-dates-in-analysis-workspace}
 
-이 비디오에서는 [!DNL Freeform] 분석에서 날짜를 사용하는 세 가지 방법을 설명합니다. 달력, [!UICONTROL 날짜 범위] 요소 및 세부기간 요소. 표시되지 않았으며, 다소 당황스럽습니다. 일자를 사용하여 라인 차트를 활성화하는 방법
+이 비디오는 [!DNL Freeform] 분석에서 날짜를 사용하여 작업하는 3가지 방법인 캘린더, [!UICONTROL 날짜 범위] 요소 및 세부 기간 요소에 대해 소개합니다. 날짜를 사용하여 선 차트를 활성화하는 방법도 살펴봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12)
