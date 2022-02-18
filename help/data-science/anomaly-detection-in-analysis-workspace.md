@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace에서 예외 항목 탐지
-description: Analysis Workspace은 모든 시계열 시각화 또는 데이터 표에 대해 데이터에서 예외 항목을 자동으로 감지합니다. 부하가 없이 "알 수 없는 것"을 포착하십시오!
+title: Analysis Workspace의 예외 항목 탐지
+description: Analysis Workspace는 모든 시계열 시각화 또는 데이터 테이블에 대한 데이터에서 자동으로 예외 항목을 탐지합니다. 추가적인 노력 없이 “알 수 없는 항목”을 확인할 수 있습니다.
 feature: Data Science
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Analysis Workspace에서 예외 항목 탐지] {#anomaly-detection-in-analysis-workspace}
+# Analysis Workspace의 [!UICONTROL 예외 항목 탐지] {#anomaly-detection-in-analysis-workspace}
 
-Analysis Workspace은 모든 시계열 [!UICONTROL 시각화] 또는 데이터 테이블에 대해 데이터의 예외 항목을 자동으로 감지합니다. 부하가 없이 &quot;알 수 없는 것&quot;을 포착하십시오!
+Analysis Workspace는 모든 시계열 [!UICONTROL 시각화] 또는 데이터 테이블에 대한 데이터에서 자동으로 예외 항목을 탐지합니다. 추가적인 노력 없이 “알 수 없는 항목”을 확인할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=ko)를 참조하십시오.
