@@ -1,6 +1,6 @@
 ---
 title: 50,000개의 항목을 CSV로 다운로드
-description: 항목을 CSV로 다운로드 옵션을 사용하면 세그먼트와 필터가 적용된 자유 형식 테이블의 차원에 대해 최대 50,000개의 항목을 다운로드할 수 있습니다. UI는 페이지 매김 전에 최대 400개의 항목을 계속 표시하지만 이 옵션을 사용하면 Analysis Workspace 외부에 있는 더 많은 데이터 행에 액세스할 수 있습니다.
+description: '[항목을 CSV로 다운로드] 옵션을 사용하면 세그먼트 및 필터가 적용된 자유 형식 테이블의 단일 차원에 대해 최대 50,000개의 항목을 다운로드할 수 있습니다. 페이지 매김 전 UI에 최대 400개의 항목이 계속 표시되지만, 이 옵션을 사용하면 Analysis Workspace 외부에 있는 더 많은 데이터 행에 액세스할 수 있습니다.'
 feature: Curate and Share
 topics: null
 activity: use
@@ -12,16 +12,16 @@ role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '121'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
 # 50,000개의 항목을 CSV로 다운로드
 
-항목을 CSV로 다운로드 옵션을 사용하면 세그먼트와 필터가 적용된 자유 형식 테이블의 차원에 대해 최대 50,000개의 항목을 다운로드할 수 있습니다. UI는 페이지 매김 전에 최대 400개의 항목을 계속 표시하지만 이 옵션을 사용하면 Analysis Workspace 외부에 있는 더 많은 데이터 행에 액세스할 수 있습니다.
+[항목을 CSV로 다운로드] 옵션을 사용하면 세그먼트 및 필터가 적용된 자유 형식 테이블의 단일 차원에 대해 최대 50,000개의 항목을 다운로드할 수 있습니다. 페이지 매김 전 UI에 최대 400개의 항목이 계속 표시되지만, 이 옵션을 사용하면 Analysis Workspace 외부에 있는 더 많은 데이터 행에 액세스할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=ko-KR)를 참조하십시오
+[설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)에서 자세히 알아보십시오.
