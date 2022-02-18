@@ -1,7 +1,7 @@
 ---
-title: Analysis Workspace에서 목차 만들기
-description: Workspace 프로젝트 컨텐츠 테이블을 구성하고 Adobe Analytics에서 필요한 데이터 및 인사이트를 신속하게 찾을 수 있도록 사용자의 랜딩 페이지로 설정하는 방법을 알아봅니다.
-feature: 패널
+title: Analysis Workspace에서 콘텐츠 표 작성
+description: 콘텐츠 작업 영역 프로젝트 표를 구성하고, 이를 사용자의 랜딩 페이지로 설정하여 Adobe Analytics에서 필요한 데이터 및 통찰력을 빠르게 발견할 수 있도록 하는 방법에 대해 알아봅니다.
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: b2315794-8910-4b7f-920f-7f1c3da29ace
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '80'
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace에서 목차 만들기 {#create-a-table-of-contents-in-analysis-workspace}
+# Analysis Workspace에서 콘텐츠 표 작성 {#create-a-table-of-contents-in-analysis-workspace}
 
-Workspace 프로젝트 컨텐츠 테이블을 구성하고 Adobe Analytics에서 필요한 데이터 및 인사이트를 신속하게 찾을 수 있도록 사용자의 랜딩 페이지로 설정하는 방법을 알아봅니다.
+콘텐츠 작업 영역 프로젝트 표를 구성하고, 이를 사용자의 랜딩 페이지로 설정하여 Adobe Analytics에서 필요한 데이터 및 통찰력을 빠르게 발견할 수 있도록 하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12)
