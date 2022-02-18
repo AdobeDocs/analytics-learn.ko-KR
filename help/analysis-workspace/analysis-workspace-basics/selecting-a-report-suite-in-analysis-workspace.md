@@ -1,9 +1,9 @@
 ---
 title: Analysis Workspace에서 보고서 세트 선택
-seo-title: Analysis Workspace에서 보고서 세트 선택 - Adobe Analytics
+seo-title: Selecting a Report Suite in Analysis Workspace - Adobe Analytics
 description: 이 비디오는 보고서 세트 선택기에 대한 내용을 소개합니다.
-seo-description: 이 비디오는 보고서 세트 선택기에 대한 내용을 소개합니다. - Adobe Analytics
-feature: Workspace 기본 사항
+seo-description: This video takes you through the report suite selector. - Adobe Analytics
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -15,7 +15,7 @@ level: Beginner
 exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '54'
+source-wordcount: '32'
 ht-degree: 100%
 
 ---
