@@ -1,6 +1,6 @@
 ---
-title: 태그 관리자 없이 맞춤형 링크 추적
-description: '페이지에 있는 많은 작업의 경우 추적을 페이지 보기로 처리해서는 안 됩니다. 이 비디오에서는 태그 관리자(예: Experience Platform Launch)을 사용하지 않는 경우, Analytics에 링크 추적 비콘을 코딩하는 방법을 알아봅니다. 코드를 확인하고 중요한 팁을 학습합니다.'
+title: 태그 관리자 없이 사용자 정의 링크 추적
+description: 페이지의 많은 작업에서 추적은 페이지 조회수처럼 취급되지 않습니다. 이 비디오에서는 Experience Platform Launch와 같은 태그 관리자를 사용하지 않는 경우 Analytics에 링크 추적 비콘을 코딩하는 방법에 대해 알아봅니다. 코드를 확인하고 중요한 팁을 알아보십시오.
 feature: Appmeasurement Implementation
 topics: null
 activity: implement
@@ -11,32 +11,32 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
-# 태그 관리자 없이 맞춤형 링크 추적 {#custom-link-tracking-without-a-tag-manager}
+# 태그 관리자 없이 사용자 정의 링크 추적 {#custom-link-tracking-without-a-tag-manager}
 
-페이지에 있는 많은 작업의 경우 추적을 페이지 보기로 처리해서는 안 됩니다. 이 비디오에서는 태그 관리자(예: [!DNL Experience Platform Launch])를 사용하지 않는 경우 Analytics에 링크 추적 비콘을 코딩하는 방법을 알아봅니다. 코드를 확인하고 중요한 팁을 학습합니다.
+페이지의 많은 작업에서 추적은 페이지 조회수처럼 취급되지 않습니다. 이 비디오에서는 Adobe [!DNL Experience Platform Launch]와 같은 태그 관리자를 사용하지 않는 경우 Analytics에 링크 추적 비콘을 코딩하는 방법에 대해 알아봅니다. 코드를 확인하고 중요한 팁을 알아보십시오.
 
-## s.tl() 비콘 보내기 {#sending-an-s-tl-beacon}
+## s.tl() 비콘 전송 {#sending-an-s-tl-beacon}
 
-Adobe Analytics으로 데이터를 전송하는 함수는 두 가지가 있습니다.
+Adobe Analytics로 데이터를 전송하는 함수에는 두 가지가 있습니다.
 
-1. s.t() - 페이지 보기 히트인 &quot;track&quot; 비콘으로서, 지정된 페이지 이름에 대한 페이지 보기를 증가시키고 다른 변수를 설정합니다
-1. s.tl() - 페이지 보기를 증가시키지 않는 &quot;사용자 지정 링크&quot; 히트/비콘이라고도 하며 pageName 변수를 무시합니다. 일반적으로 새 페이지/화면을 로드하지 않는 페이지의 작은 작업 또는 새 페이지 로드를 발생시키지 않는 기타 작업을 추적하는 데 사용됩니다.
+1. s.t() - 지정된 페이지 이름에 대한 페이지 조회수를 증가시키며 기타 변수를 설정하는 페이지 조회수 히트인 “추적” 비콘입니다.
+1. s.tl() - “사용자 정의 링크” 히트/비콘이라고도 하며, 페이지 조회수를 증가시키지 않고 pageName 변수를 무시하는 “추적 링크” 비콘입니다. 일반적으로 새 페이지/화면을 로드하지 않는 페이지에서의 소규모 작업 또는 새 페이지를 로드하지 않는 기타 작업을 추적하는 데 사용합니다.
 
 >[!NOTE]
 >
->이 비디오에서는 Adobe [!DNL Experience Platform Launch] 과 같은 태그 관리자를 사용하지 않을 때 사용자 지정 링크 히트를 코딩하는 방법을 보여줍니다. 구현을 위한 우수 사례 추천인 [!DNL Experience Platform Launch]을 사용하는 것이 좋습니다. 그러나 `s.tl()`에서 코드를 작성해야 하는 경우에는 다음 방법을 참조하십시오.
+>이 비디오에서는 Adobe [!DNL Experience Platform Launch]와 같은 태그 관리자를 사용하지 않는 경우 사용자 정의 링크 히트를 코딩하는 방법에 대해 알아봅니다. 구현을 위해 모범 사례 권장 사항인 [!DNL Experience Platform Launch]를 사용하는 것이 좋습니다. 그러나 `s.tl()`에서 코딩해야 하는 경우 방법은 다음과 같습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
 ## 샘플 코드 {#sample-code}
 
-다음은 비디오의 사용자 지정 링크에 사용되는 샘플 코드입니다.
+다음은 이 비디오에서 사용자 정의 링크에 사용되는 샘플 코드입니다.
 
 ```JavaScript
 <a href="#" onclick="
