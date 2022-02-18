@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 프로젝트에 세그먼트 적용
-description: 이 비디오에서는 데이터에 세그먼트를 적용하여 테이블 및 시각화의 데이터를 제한하는 방법을 알아봅니다.
+description: 이 비디오에서는 데이터에 세그먼트를 적용하여 표 및 시각화에서 데이터를 제한하는 방법에 대해 알아봅니다.
 feature: Segmentation
 topics: null
 activity: use
@@ -12,15 +12,15 @@ role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '68'
+ht-degree: 100%
 
 ---
 
 # Analysis Workspace 프로젝트에 세그먼트 적용
 
-이 비디오에서는 데이터에 세그먼트를 적용하여 테이블 및 시각화의 데이터를 제한하는 방법을 알아봅니다.
+이 비디오에서는 데이터에 세그먼트를 적용하여 표 및 시각화에서 데이터를 제한하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
 
