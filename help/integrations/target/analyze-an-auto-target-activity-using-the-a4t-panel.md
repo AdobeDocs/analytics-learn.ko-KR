@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # A4T 패널을 사용하여 자동 Target 활동 분석
 
-[!DNL Analytics for Target](A4T) 패널을 사용하면 Adobe Target 활동 및 경험을 분석할 수 있습니다. 이 비디오에서는 [!DNL Analytics for Target] 패널을 사용하여 자동 Target 테스트의 결과를 시각화하는 방법에 대해 알아봅니다.
+[!DNL Analytics for Target] (A4T) 패널을 사용하면 Adobe Target 활동 및 경험을 분석할 수 있습니다. 이 비디오에서는 [!DNL Analytics for Target] 패널을 사용하여 자동 Target 테스트의 결과를 시각화하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 # [!DNL Analytics] 구현을 위해 [!DNL Launch]에서 [!UICONTROL 데이터 요소] 생성
 
-이 비디오는 [!DNL Solution Design Reference](SDR) 문서에 기술된 변수 및 이벤트를 기반으로 [!DNL Experience Platform Launch]에서의 [!DNL Analytics] 구현을 위해 [!UICONTROL 데이터 요소]를 생성하는 방법을 보여 줍니다.
+이 비디오는 [!DNL Solution Design Reference] (SDR) 문서에 기술된 변수 및 이벤트를 기반으로 [!DNL Experience Platform Launch]에서의 [!DNL Analytics] 구현을 위해 [!UICONTROL 데이터 요소]를 생성하는 방법을 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)

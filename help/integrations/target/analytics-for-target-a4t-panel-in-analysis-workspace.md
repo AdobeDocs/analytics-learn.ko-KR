@@ -19,9 +19,9 @@ ht-degree: 100%
 
 ---
 
-# Analysis Workspace의 [!DNL Analytics for Target](A4T) 패널
+# Analysis Workspace의 [!DNL Analytics for Target] (A4T) 패널
 
-[!DNL Analytics for Target](A4T) 패널을 사용하면 [!UICONTROL Analysis Workspace]에서 자신 있게 Adobe Target 활동 및 경험을 분석할 수 있습니다.
+[!DNL Analytics for Target] (A4T) 패널을 사용하면 [!UICONTROL Analysis Workspace]에서 자신 있게 Adobe Target 활동 및 경험을 분석할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 

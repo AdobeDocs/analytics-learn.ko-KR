@@ -17,6 +17,6 @@ ht-degree: 100%
 
 # Analysis Workspace의 리치 텍스트 편집기 {#rich-text-editor-in-analysis-workspace}
 
-볼드체, 이탤릭체, 제목, 하이퍼링크 등 분석가 및 마케터가 Analysis Workspace에서 [!UICONTROL 텍스트] [!UICONTROL 시각화](또는 설명)에 편집을 적용할 수 있는 몇 가지 새로운 기능에 대해 소개합니다.
+볼드체, 이탤릭체, 제목, 하이퍼링크 등 분석가 및 마케터가 Analysis Workspace에서 [!UICONTROL 텍스트] [!UICONTROL 시각화] (또는 설명)에 편집을 적용할 수 있는 몇 가지 새로운 기능에 대해 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12)

@@ -80,7 +80,7 @@ SPA 페이지에 새 콘텐츠가 로드될 때 또는 SPA 페이지에서 작�
 * [!UICONTROL 직접 호출] [!UICONTROL 규칙]: [!DNL Experience Platform Launch]에서는 페이지에서 직접 호출 시 실행되는 [!UICONTROL 직접 호출] [!UICONTROL 규칙]을 설정할 수 있습니다. 사이트에서의 페이지 로드 또는 작업이 매우 간단한 경우 또는 고유하고 항상 특정 지침 세트를 실행(항상 [!DNL eVar4]를 “X”로 설정하고 [!DNL event2]를 트리거)할 수 있는 경우, [!UICONTROL 직접 호출] [!UICONTROL 규칙]을 사용할 수 있습니다. [!UICONTROL 직접 호출] [!UICONTROL 규칙] 생성과 관련된 [!DNL Experience Platform Launch] 설명서를 참조하십시오.
 * 사용자 정의 이벤트: 페이로드에 다양한 값을 동적으로 첨부하려면 페이로드를 사용하여 변수를 설정하고 Adobe Analytics에 데이터를 전송할 수 있는 [!DNL Experience Platform Launch]에서 사용자 정의 JavaScript 이벤트를 설정하고 수신해야 합니다. 이 기능을 사용해야 할 가능성이 높으므로 이 옵션은 모범 사례로 간주됩니다. 그러나 사이트의 각 기능은 가장 적합한 방식이 무엇인지 결정할 수 있습니다. 여기서는 이 사용자 정의 이벤트 방식을 사용해야 한다고 가정하고 이 문서를 진행하겠습니다.
 
-**예:** [이](https://helpx.adobe.com/kr/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html) 도움말 문서에는 [!DNL Analytics](및 기타 Experience Cloud 솔루션)가 구현된 샘플 SPA 사이트로의 링크 및 구현 항목을 설명하는 문서가 있습니다. 이 SPA 예에는 다음과 같은 사용자 정의 이벤트가 사용되었습니다.
+**예:** [이](https://helpx.adobe.com/kr/experience-manager/kt/integration/using/launch-reference-architecture-SPA-tutorial-implement.html) 도움말 문서에는 [!DNL Analytics] (및 기타 Experience Cloud 솔루션)가 구현된 샘플 SPA 사이트로의 링크 및 구현 항목을 설명하는 문서가 있습니다. 이 SPA 예에는 다음과 같은 사용자 정의 이벤트가 사용되었습니다.
 
 * [!DNL event-view-start]: 이 이벤트는 로드 중인 보기/상태의 보기 시작 시 실행해야 합니다.
 * [!DNL event-view-end]: 이 이벤트는 보기/상태가 변경되었거나 페이지의 모든 SPA 구성 요소의 로드가 완료되어도 실행해야 합니다. 일반적으로 Adobe Analytics로의 호출을 트리거하는 이벤트입니다.

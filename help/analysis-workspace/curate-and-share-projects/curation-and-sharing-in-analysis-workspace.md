@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Analysis Workspace에서 [!UICONTROL 선별] 및 공유 {#curation-and-sharing-in-analysis-workspace}
 
-Analysis Workspace에서 프로젝트를 제작했다면 이를 [!UICONTROL 선별](간소화)하여 조직의 다른 팀 및 개인에게 해당 프로젝트를 탐색하고 데이터를 자체 관리하도록 공유할 수 있습니다. 이 비디오를 통해 [!UICONTROL 선별] 및 공유 방법을 알아볼 수 있습니다.
+Analysis Workspace에서 프로젝트를 제작했다면 이를 [!UICONTROL 선별] (간소화)하여 조직의 다른 팀 및 개인에게 해당 프로젝트를 탐색하고 데이터를 자체 관리하도록 공유할 수 있습니다. 이 비디오를 통해 [!UICONTROL 선별] 및 공유 방법을 알아볼 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24711/?quality=12)
 
