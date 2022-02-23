@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
+source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
 workflow-type: tm+mt
-source-wordcount: '2254'
-ht-degree: 100%
+source-wordcount: '2268'
+ht-degree: 99%
 
 ---
 
@@ -214,6 +214,9 @@ ht-degree: 100%
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics의 실시간 보고](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 관리 {#administration}
+   + 주요 관리자 기술 {#key-admin-skills}
+      + [권한 있는 커뮤니티 만들기](administration/key-admin-skills/empowered-community.md)
+      + [교육 사용자 단순화 및 비용 절감](administration/key-admin-skills/simplify-training-users.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
