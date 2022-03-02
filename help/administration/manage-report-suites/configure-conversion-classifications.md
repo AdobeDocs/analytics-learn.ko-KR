@@ -1,6 +1,6 @@
 ---
 title: 전환 분류 구성
-description: 이 비디오에서는 eVar라고도 하는 전환 변수에 대한 분류 구성을 살펴봅니다. 제품 및 목록 변수에도 적용됩니다.
+description: 이 비디오에서는 “eVar”라고도 하는 전환 변수 분류의 구성에 대해 알아봅니다. 이 구성은 제품 및 목록 변수에도 적용됩니다.
 feature: Classifications
 topic: Administration
 role: Admin
@@ -8,17 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340078.jpg
 kt: 9576
-source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
-workflow-type: tm+mt
+exl-id: ae7760e6-5ec3-4e2a-a717-cf63b760bba0
+source-git-commit: 099b919c0c2060d727b65888644ed3ce3642e66f
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
-
 # 전환 분류 구성
 
-이 비디오에서는 &quot;eVar&quot;라고도 하는 전환 변수에 대한 분류 구성을 살펴봅니다. 제품 및 목록 변수에도 적용됩니다.
+이 비디오에서는 “eVar”라고도 하는 전환 변수 분류의 구성에 대해 알아봅니다. 이 구성은 제품 및 목록 변수에도 적용됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
 
