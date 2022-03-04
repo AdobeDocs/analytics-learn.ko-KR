@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
+source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
 workflow-type: tm+mt
-source-wordcount: '2280'
-ht-degree: 99%
+source-wordcount: '2288'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 99%
       + [Summit 2019 슈퍼 세션 - 여행 및 접대](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Adobe Summit 2019 슈퍼 세션 - 소매](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 다른 플랫폼에서 전환 {#transitioning-from-other-platforms}
+      + [Google Analytics에서 전환](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 기본 사항 {#analytics-basics}
       + [Reports and Analytics의 [Workspace에서 시도] 버튼](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analytics 주기 이해](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
