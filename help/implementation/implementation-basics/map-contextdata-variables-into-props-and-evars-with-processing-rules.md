@@ -2,16 +2,13 @@
 title: 처리 규칙을 사용하여 contextData 변수를 속성 및 eVar에 매핑
 description: Adobe Analytics 구현에서 contextData 변수를 사용할 때 데이터가 실제 보고서에 표시되도록 하려면 contextData 변수를 처리 규칙 인터페이스에서 속성/eVar에 매핑해야 합니다. 이 비디오는 이러한 작업을 수행하는 방법을 보여 줍니다.
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 1850
 role: User
 level: Intermediate
+thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: 8ec6674966e2d60f4604dfbd7f9969fc62b9f307
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
