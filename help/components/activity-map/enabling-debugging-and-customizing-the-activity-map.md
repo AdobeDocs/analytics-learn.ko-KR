@@ -2,18 +2,16 @@
 title: Adobe Analytics Activity Map 활성화, 디버깅 및 맞춤화
 description: Activity Map이 Adobe Analytics 확장 기능에 배포되는 방식을 활성화하고, 디버깅하고, 맞춤화하는 방법에 대해 알아봅니다.
 feature: Activity Map
-topics: null
-activity: use
-doc-type: feature video
 team: Technical Marketing
+thumbnail: 25878.jpg
 kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: d087d830c6ddf03eb5c620fa0a9484ff6c817e7f
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
