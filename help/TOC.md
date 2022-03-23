@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
+source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
 workflow-type: tm+mt
-source-wordcount: '2292'
+source-wordcount: '2286'
 ht-degree: 99%
 
 ---
@@ -184,7 +184,7 @@ ht-degree: 99%
       + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Analysis Workspace에서 CSV로 내보내기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=ko-KR)
+      + [Analysis Workspace에서 CSV로 내보내기 및 PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [예약 및 다운로드 가능한 프로젝트](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace에서 프로젝트 공유하기](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
