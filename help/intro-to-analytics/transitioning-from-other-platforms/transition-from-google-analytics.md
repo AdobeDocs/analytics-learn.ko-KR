@@ -9,9 +9,9 @@ thumbnail: 34749.jpg
 kt: 9830
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3690'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -268,19 +268,19 @@ Google Analytics에서 확장된 방식으로 데이터를 가져와야 할 때 
 
 이 안내서 외에도 전략을 개선하는 데 도움이 될 수 있는 많은 리소스가 있습니다.
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) - 자습서, 비디오, 설명서 및 커뮤니티 포럼 포함
-* [Adobe 사용자 그룹](https://analytics-augs.adobe.com/) - 사용자가 서로 연결되고 구현을 개선하는 데 도움이 되는 커뮤니티 실행 이벤트의 허브입니다. 이 이벤트는 특정 시간대에 기반을 두고 있으므로 다른 영역도 실행 중인지 확인하는 것이 가장 좋습니다.
-* [Adobe Analytics 사용자 그룹 YouTube 채널](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Adobe Analytics 사용자 그룹 세션을 만들 수 없습니까? 전 세계에서 이전 사용자 그룹 세션을 다시 보고 피어에서 도구를 사용하는 방법에 대해 자세히 알아보십시오.
-* [채팅 Slack 채널 측정](https://www.measure.chat/) - 전 세계 Adobe Analytics 사용자와 연결하여 업계 지식을 공유하고 동료에게 질문을 하며 측정 중심 관심사에 참여합니다.
-* 등!
+* [Adobe Experience League](https://experienceleague.adobe.com/#home) - 튜토리얼, 비디오, 설명서 및 커뮤니티 포럼 포함
+* [Adobe 사용자 그룹](https://analytics-augs.adobe.com/) - 사용자가 서로 연결하고 구현을 개선하는 데 도움이 되는 커뮤니티 실행 이벤트의 허브입니다. 특정 시간대를 기반으로 하기 때문에 다른 지역에서도 실행되고 있는지 확인하는 것이 좋습니다.
+* [Adobe Analytics 사용자 그룹 YouTube 채널](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Adobe Analytics 사용자 그룹 세션을 만들 수 없습니까? 전 세계의 이전 사용자 그룹 세션을 다시 시청하여 동료들이 도구를 사용하는 방법에 대해 자세히 알아보십시오.
+* [채팅 Slack 측정 채널](https://www.measure.chat/) - 전 세계 Adobe Analytics 사용자와 연결하여 업계의 학습 내용을 공유하고, 동료들에게 질문하고, 측정 중심의 관심 그룹에 참여하십시오.
+* 이 외에도 다양한 내용이 있습니다!
 
 ## 작성자
 
 이 문서는 다음 사용자가 작성했습니다.
 
-![제니퍼 둔간](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Torstar에서 최적화 관리자 Jennifer Dungan, Analytics
+Jennifer Dungan, Torstar의 최적화 관리자 분석
 
 Adobe Analytics 챔피언
 
