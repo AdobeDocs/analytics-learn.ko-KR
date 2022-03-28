@@ -1,23 +1,23 @@
 ---
 title: Analysis Workspace의 주석
-description: Workspace의 주석을 사용하면 조직 내의 사용자에게 컨텍스트 데이터 미묘한 뉘앙스와 통찰력을 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등으로 날짜 또는 날짜 범위에 주석을 달 수 있습니다. 사용자에게 라인 차트, 표 등에서 표시되는 내용을 표시하는 이유를 더 잘 알려줍니다.
+description: 작업 영역의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등으로 날짜 또는 날짜 범위에 주석을 달아 선 차트, 표 등에서 표시되는 내용을 사용자에게 보다 명확하게 알릴 수 있습니다.
 feature: Annotations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 341266.jpg
 kt: 9978
-source-git-commit: d0ea66f585fbe2d4e54495ada024f8f39cdc8472
-workflow-type: tm+mt
+exl-id: 9b67b953-80c0-4a0c-bc57-8183338691c5
+source-git-commit: 6997a3939f53de32605d814f0a788288f9d6cb90
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
-
 # Analysis Workspace의 주석
 
-Workspace의 주석을 사용하면 조직 내의 사용자에게 컨텍스트 데이터 미묘한 뉘앙스와 통찰력을 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등으로 날짜 또는 날짜 범위에 주석을 달 수 있습니다. 사용자에게 라인 차트, 표 등에서 표시되는 내용을 표시하는 이유를 더 잘 알려줍니다.
+작업 영역의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등으로 날짜 또는 날짜 범위에 주석을 달아 선 차트, 표 등에서 표시되는 내용을 사용자에게 보다 명확하게 알릴 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 
