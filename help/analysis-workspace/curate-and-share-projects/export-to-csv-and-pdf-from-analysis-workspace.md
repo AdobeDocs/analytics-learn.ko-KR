@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace에서 CSV로 내보내기 및 PDF
-description: 확장된 유연성을 위해 Workspace Analysis 프로젝트를 CSV 및 PDF으로 내보내는 방법을 알아봅니다.
+title: Analysis Workspace에서 CSV 및 PDF로 내보내기
+description: 유연성을 높이기 위해 Workspace Analysis 프로젝트를 CSV 및 PDF로 내보내는 방법을 알아봅니다.
 feature: Curate and Share
 topic: Collaboration
 role: User
@@ -8,16 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341276.jpg
 kt: 2297
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
-workflow-type: tm+mt
+exl-id: 862bdb87-d317-4f49-81bb-58a278569aca
+source-git-commit: d8feccaf8220b5ef4b3223020046ec01b464ac09
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace에서 CSV로 내보내기 및 PDF
+# Analysis Workspace에서 CSV 및 PDF로 내보내기
 
-확장된 유연성을 위해 Workspace Analysis 프로젝트를 CSV 및 PDF으로 내보내는 방법을 알아봅니다.
+유연성을 높이기 위해 Workspace Analysis 프로젝트를 CSV 및 PDF로 내보내는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
 
