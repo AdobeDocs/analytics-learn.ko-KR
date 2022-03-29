@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
-workflow-type: ht
-source-wordcount: '2286'
-ht-degree: 100%
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+workflow-type: tm+mt
+source-wordcount: '2294'
+ht-degree: 99%
 
 ---
 
@@ -343,6 +343,7 @@ ht-degree: 100%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 소개](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [SFTP를 통해 Data Warehouse 요청 전송](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [타블로 데이터 추출로 Data Warehouse 보고서 보내기](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 데이터 피드 {#data-feeds}
       + [데이터 피드 관리 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [데이터 피드 인증 키 다운로드](exporting/data-feeds/download-the-data-feed-authentication-key.md)
