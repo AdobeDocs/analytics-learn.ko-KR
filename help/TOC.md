@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
 workflow-type: tm+mt
-source-wordcount: '2294'
+source-wordcount: '2299'
 ht-degree: 99%
 
 ---
@@ -151,6 +151,7 @@ ht-degree: 99%
       + [패널 레벨 세그먼트](analysis-workspace/using-panels/panel-level-segments.md)
       + [Analysis Workspace에서 치수로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 지표 {#metrics}
       + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis Workspace에서 프로젝트에 치수 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko)
