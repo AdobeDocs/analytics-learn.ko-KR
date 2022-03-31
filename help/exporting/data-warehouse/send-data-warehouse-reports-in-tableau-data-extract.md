@@ -1,6 +1,6 @@
 ---
-title: 타블로 데이터 추출로 Data Warehouse 보고서 보내기
-description: 'Data Warehouse은 Adobe Analytics 외부의 데이터를 자유롭게 표시하고 결합할 수 있는 TDE(타블로 데이터 추출) 파일 형식으로 보고서를 제공할 수 있습니다. '
+title: Tableau Data Extract의 Data Warehouse 보고서 전송
+description: 'Data Warehouse는 외부 Adobe Analytics의 데이터를 대중화하고 결합할 수 있도록 해 주는 TDE(Tableau Data Extract) 파일 형식의 보고서를 제공합니다. '
 feature: Data Warehouse
 topic: Collaboration
 role: User
@@ -9,16 +9,16 @@ doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
 source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# 타블로 데이터 추출로 Data Warehouse 보고서 보내기
+# Tableau Data Extract의 Data Warehouse 보고서 전송
 
-Data Warehouse은 Adobe Analytics 외부의 데이터를 자유롭게 표시하고 결합할 수 있는 TDE(타블로 데이터 추출) 파일 형식으로 보고서를 제공할 수 있습니다.
+Data Warehouse는 외부 Adobe Analytics의 데이터를 대중화하고 결합할 수 있도록 해 주는 TDE(Tableau Data Extract) 파일 형식의 보고서를 제공합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=en)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=ko)를 참조하십시오.
