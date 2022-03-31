@@ -10,9 +10,9 @@ thumbnail: 340792.jpg
 kt: 9624
 exl-id: fc07dd0f-76dd-40a6-b8f2-e777eac2473b
 source-git-commit: 9836913129127648ffda01fec5b60240f5de5870
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->Attribution IQ 및 Customer Journey Analytics에 대한 마케팅 채널의 효과를 극대화하기 위해 몇 가지 페이지를 게시했습니다 [수정된 우수 사례](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=ko).
+>Attribution IQ 및 Customer Journey Analytics에 대한 마케팅 채널의 효과를 극대화하기 위해 [개정된 모범 사례](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/mchannel-best-practices.html?lang=ko)를 게시했습니다.
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-rules.html?lang=ko)를 참조하십시오.
