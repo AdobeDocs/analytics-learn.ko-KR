@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: f9e9a8e194305d382c8090c212656d3019fb0a2b
+source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
 workflow-type: tm+mt
-source-wordcount: '2299'
-ht-degree: 99%
+source-wordcount: '2321'
+ht-degree: 98%
 
 ---
 
@@ -222,6 +222,10 @@ ht-degree: 99%
       + [자율 커뮤니티를 만들기](administration/key-admin-skills/empowered-community.md)
       + [단순화 및 사용자 교육 시간 단축](administration/key-admin-skills/simplify-training-users.md)
       + [분석 팀에 적합한 인원 확보](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
+      + [식탁에 앉다](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [데이터를 사용하여 효과적인 스토리 전달](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [비기술 방식으로 Adobe Analytics 기술 언어 번역](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [기능적으로 작업](administration/key-admin-skills/working-cross-functionally.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
