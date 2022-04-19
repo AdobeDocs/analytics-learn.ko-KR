@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
 workflow-type: tm+mt
-source-wordcount: '2327'
-ht-degree: 99%
+source-wordcount: '2346'
+ht-degree: 98%
 
 ---
 
@@ -360,6 +360,9 @@ ht-degree: 99%
       + [Report Builder의 예외 항목 탐지](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [요청 간 지표 편집](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder를 사용하여 Adobe Analytics API 학습](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
+      + [Report Builder 시작](exporting/report-builder/get-started-with-report-builder.md)
+      + [Report Builder 요청 예약](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Power BI에 Report Builder 고급 배달 옵션 사용](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 통합 {#integrations}
    + Experience Cloud {#experience-cloud}
       + [향상된 Experience Cloud 대상자 게시](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
