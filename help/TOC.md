@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
+source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2364'
 ht-degree: 98%
 
 ---
@@ -56,6 +56,8 @@ ht-degree: 98%
    + Analysis Workspace 기본 사항 {#analysis-workspace-basics}
       + [Analysis Workspace 소개](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 개요](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [새 랜딩 페이지 탐색](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Analysis Workspace 랜딩 페이지 업데이트](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [새 Analysis Workspace 프로젝트 제작](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [처음부터 새로 작업 영역 프로젝트 빌드](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace에서 맞춤형 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -95,6 +97,7 @@ ht-degree: 98%
       + [패널을 사용하여 Analysis Workspace 프로젝트 구성](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [세그먼트 드롭 영역 개선](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
+      + [다음/이전 및 페이지 요약 작업 공간 패널 및 보고서](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 자유 양식 표 구축 {#building-freeform-tables}
       + [데이터 이해하기 - 자유 양식 표](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 Analysis Workspace에서 자유 양식 표 구축](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
