@@ -1,19 +1,17 @@
 ---
 title: Adobe Analytics 대시보드 스코어카드 빌더
-description: 이 비디오에서는 Adobe Analytics 대시보드(모바일 앱)에서 볼 수 있도록 Analysis Workspace에서 “스코어카드”를 만들고 공유하는 방법에 대해 알아봅니다.
+description: 이 비디오에서는 Adobe Analytics 대시보드(모바일 앱)에서 보기 위해 Analysis Workspace에서 "스코어카드"를 만들고 공유하는 방법을 알아봅니다.
 feature: Analytics Dashboards
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-kt: 5286
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 34544.jpg
+kt: 5286
 exl-id: 05bc39ad-b45c-4393-8cfb-47b215228377
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 100%
+ht-degree: 68%
 
 ---
 

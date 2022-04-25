@@ -1,23 +1,21 @@
 ---
-title: Analysis Workspace에서 맞춤형 템플릿 제작 및 관리
+title: Analysis Workspace에서 사용자 지정 템플릿 만들기 및 관리
 description: 이 비디오에서는 사용자와 팀이 특정 보고서 세트에서 시작할 수 있도록 Analysis Workspace에서 맞춤형 템플릿을 제작하는 방법에 대해 알아봅니다.
 feature: Projects
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1695
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 23231.jpg
+kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
-# Analysis Workspace에서 맞춤형 템플릿 제작 및 관리 {#create-and-manage-custom-templates-in-analysis-workspace}
+# Analysis Workspace에서 사용자 지정 템플릿 만들기 및 관리 {#create-and-manage-custom-templates-in-analysis-workspace}
 
 이 비디오에서는 사용자와 팀이 특정 보고서 세트에서 시작할 수 있도록 Analysis Workspace에서 맞춤형 템플릿을 제작하는 방법에 대해 알아봅니다.
 

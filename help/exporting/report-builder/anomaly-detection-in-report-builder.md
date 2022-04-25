@@ -1,23 +1,21 @@
 ---
-title: Report Builder의 예외 항목 탐지
+title: Report Builder에서 예외 항목 탐지
 description: 데이터 요청에 예외 항목 탐지 지표를 추가하는 방법과 더불어 창의적인 방법으로 데이터에 그래프를 추가하는 방법에 대해 알아봅니다.
 feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1768
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 25444.jpg
+kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# [!UICONTROL Report Builder]의 [!UICONTROL 예외 항목 탐지] {#anomaly-detection-in-report-builder}
+# [!UICONTROL 예외 항목 탐지] in [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
 
 데이터 요청에 [!UICONTROL 예외 항목 탐지] [!UICONTROL 지표]를 추가하는 방법과 더불어 창의적인 방법으로 데이터에 그래프를 추가하는 방법에 대해 알아봅니다.
 
