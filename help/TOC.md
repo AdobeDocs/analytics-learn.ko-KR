@@ -3,17 +3,17 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
+source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
-source-wordcount: '2364'
-ht-degree: 98%
+source-wordcount: '2365'
+ht-degree: 99%
 
 ---
 
 
 # Analytics 튜토리얼 {#tutorials}
 
-+ [개요](overview.md)
++ [Analytics 자습서](overview.md)
 + Analytics 소개 {#intro-to-analytics}
    + Adobe Analytics를 통해 얻을 수 있는 이점은 무엇입니까? {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace가 비즈니스를 변경시키는 방법](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -229,7 +229,7 @@ ht-degree: 98%
       + [데이터를 통해 깊은 인상을 주는 스토리 전달](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [Adobe Analytics 기술 언어를 비기술 언어로 번역](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [다양한 분야의 사람들과 일하기](administration/key-admin-skills/working-cross-functionally.md)
-      + [올바른 질문을 하는 건가요?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+      + [올바른 질문을 하고 있습니까?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
@@ -363,9 +363,9 @@ ht-degree: 98%
       + [Report Builder의 예외 항목 탐지](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [요청 간 지표 편집](exporting/report-builder/edit-metrics-across-requests.md)
       + [Report Builder를 사용하여 Adobe Analytics API 학습](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [Report Builder 시작](exporting/report-builder/get-started-with-report-builder.md)
-      + [Report Builder 요청 예약](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [Power BI에 Report Builder 고급 배달 옵션 사용](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [Report Builder 시작하기](exporting/report-builder/get-started-with-report-builder.md)
+      + [Report Builder 데이터 요청 예약](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [Power BI용 Report Builder 고급 배달 옵션 사용](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 통합 {#integrations}
    + Experience Cloud {#experience-cloud}
       + [향상된 Experience Cloud 대상자 게시](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)

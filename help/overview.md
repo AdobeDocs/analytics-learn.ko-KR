@@ -1,45 +1,44 @@
 ---
 title: Analytics 비디오 및 튜토리얼
-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
+description: 'Adobe Analytics을 최대한 활용하십시오.  이 자습서를 통해 Analytics의 기능을 학습하고 비즈니스 이점을 누릴 수 있습니다. 이 콘텐츠는 관리자, 데이터 분석가, 마케터, 개발자 및 설계자에게 적합합니다. '
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: overview
-team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+doc-type: overview
+thumbnail: null
+kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: c6cb1238e3e2da656976154445992e34bfa011ae
-workflow-type: ht
-source-wordcount: '292'
-ht-degree: 100%
+source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 34%
 
 ---
 
-# 개요
 
-[!DNL Analytics] 튜토리얼 사이트에 오신 것을 환영합니다. [설명서](https://experienceleague.adobe.com/docs/analytics.html)와 함께 이 튜토리얼을 사용하면 Adobe Analytics를 사용하여 고객의 통찰력을 그 어느 때보다 빠르게 얻을 수 있는 방법을 더 잘 이해할 수 있습니다. 시작하려면,
-* 최신 제품에 대한 자세한 내용은 아래의 **“새로운 기능”** 섹션을 참조하십시오.
+
+# Analytics 자습서
+
+최대한 활용 [!DNL Adobe Analytics].  이 자습서를 통해 Analytics의 기능을 학습하고 비즈니스 이점을 누릴 수 있습니다. 이 콘텐츠는 관리자, 데이터 분석가, 마케터, 개발자 및 설계자에게 적합합니다.
+
+시작하려면:
+* 자세한 내용은 **&quot;새로운 기능&quot;** 최신 업데이트 및 기능을 살펴보려면 아래 섹션을 참조하십시오.
 * **직원 선택**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * **왼쪽 내비게이션**&#x200B;에서 주제 및 하위 항목별로 내용 탐색
-* 찾고 있는 것을 알고 있는 경우에는 페이지 상단에 있는 **검색** 필드를 사용하십시오.
+* 를 사용하십시오 **검색** 확인할 내용을 알고 있는 경우 페이지 상단에 있는 필드
+
+역할 및 기술 수준별로 조정된 학습 경험도 교육 과정 섹션에서 제공됩니다. Adobe ID으로 로그인하고 **학습 > 권장 교육 과정** 를 클릭합니다.
 
 ## 새로운 기능
 
-* **[Workspace 효율성을 위해 마우스 오른쪽 버튼 클릭(비디오)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[Adobe Analytics 모바일 스코어카드 빌더(비디오)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *에서 만든 모바일 스코어카드를 만들고 공유하는 방법에 대해 알아봅니다 [!DNL Analysis Workspace] 를 사용하십시오.*
 
-   <br>
-   *자주 사용하는 모든 Analysis Workspace를 마우스 오른쪽 버튼으로 클릭하고 이를 사용하는 방법을 살펴볼 수 있습니다. [!UICONTROL 자유 양식 표]에서 [!UICONTROL 폴아웃 시각화]까지 마우스 오른쪽 버튼으로 클릭하면 보다 효율적이고 능숙하게 사용할 수 있습니다[!DNL Workspace].*
+* **[Adobe Analytics 모바일 스코어카드 앱](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *모바일 스코어카드 애플리케이션을 다운로드하고 에서 만든 모바일 스코어카드를 보는 방법을 알아봅니다. [!DNL Analysis Workspace].*
 
-* **[Analysis Workspace의 빠른 인사이트 패널(비디오)](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)**
-
-   <br>
-   *빠른 인사이트는 Analysis Workspace의 비분석가 및 새 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있도록 지침을 제공합니다.*
-
-* **[Analysis Workspace의 프로젝트 공유(비디오)](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)**
-
-   <br>
-   *프로젝트 공유는 조직의 사용자에게 Analysis Workspace의 데이터와 통찰력을 자유롭게 제공하는 한 가지 방법입니다. 이제 제공하려는 프로젝트 경험에 따라 수신자를 세 개의 프로젝트 역할 중 하나로 배치할 수 있습니다(편집, 복제 및 보기).*
+* **[작업 공간의 주석(비디오)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+   *의 주석 [!DNL Analysis Workspace] 조직의 사용자에게 컨텍스트 기반의 데이터 뉘앙스와 통찰력을 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등을 사용하여 날짜 또는 날짜 범위에 주석을 달면 라인 차트, 표 등에서 표시되는 내용을 사용자에게 더 잘 알 수 있습니다.*
 
 ## 직원 선택
 
@@ -86,3 +85,7 @@ ht-degree: 100%
   </td>
 </tr>
 </table>
+
+## 추가 리소스
+
+[Adobe Analytics 설명서](https://experienceleague.adobe.com/docs/analytics.html)
