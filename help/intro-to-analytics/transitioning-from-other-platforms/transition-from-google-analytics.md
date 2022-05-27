@@ -276,7 +276,7 @@ Google Analytics에서 확장된 방식으로 데이터를 가져와야 할 때 
 
 ## 작성자
 
-이 문서는 다음 사용자가 작성했습니다.
+이 문서의 작성자:
 
 ![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
