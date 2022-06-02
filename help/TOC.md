@@ -23,7 +23,7 @@ ht-degree: 99%
       + [고객 사용 사례 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
       + [고객 사용 사례 - Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
       + [Summit 2019 슈퍼 세션 - 여행 및 접대](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-      + [Adobe Summit 2019 슈퍼 세션 - 소매](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Adobe Summit 2019 슈퍼 세션 - 리테일](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + 다른 플랫폼에서 전환 {#transitioning-from-other-platforms}
       + [Google Analytics에서 전환](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
@@ -97,7 +97,7 @@ ht-degree: 99%
       + [패널을 사용하여 Analysis Workspace 프로젝트 구성](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [세그먼트 드롭 영역 개선](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [다음/이전 및 페이지 요약 작업 공간 패널 및 보고서](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [다음/이전 및 페이지 요약 작업 영역 패널 및 보고서](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 자유 양식 표 구축 {#building-freeform-tables}
       + [데이터 이해하기 - 자유 양식 표](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 Analysis Workspace에서 자유 양식 표 구축](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -111,7 +111,7 @@ ht-degree: 99%
       + [Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴 사용](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
       + [계속 Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analysis Workspace에서 교차 판매 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
-      + [자유 양식 표 구축](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [자유 양식 표 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Analysis Workspace의 시간 분할 차원](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace의 자유 양식 표 합계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + 시각화 {#visualizations}
@@ -404,11 +404,11 @@ ht-degree: 99%
       + [Summit 2019 슈퍼 세션 - 하이 테크](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=ko)
    + 여행 및 접대 {#travel-and-hospitality}
       + [Summit 2019 슈퍼 세션 - 여행 및 접대](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=ko)
-   + 소매 {#retail}
-      + [소매 변수 및 이벤트 소개](vertical-specific/retail/intro-to-retail-variables-and-events.md)
-      + [Launch 규칙에 기본 소매 변수 및 이벤트 추가](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
+   + 리테일 {#retail}
+      + [리테일 변수 및 이벤트 소개](vertical-specific/retail/intro-to-retail-variables-and-events.md)
+      + [Launch 규칙에 기본 리테일 변수 및 이벤트 추가](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [구매 이벤트에 대한 Launch 규칙 추가](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
-      + [Adobe Summit 2019 슈퍼 세션 - 소매](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=ko)
+      + [Adobe Summit 2019 슈퍼 세션 - 리테일](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=ko)
 + Media Analytics {#media-analytics}
    + Media Analytics 측정 {#measuring-media-analytics}
       + [미디어 재생 소요 시간 패널](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
