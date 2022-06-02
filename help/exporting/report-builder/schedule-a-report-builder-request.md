@@ -1,24 +1,24 @@
 ---
-title: Report Builder 요청 예약
-description: 이 비디오에서는 Report Builder 통합 문서에 대한 기본 일정을 설정하는 방법을 배웁니다.
+title: Report Builder 데이터 요청 예약
+description: 이 비디오를 통해 Report Builder 통합 문서의 기본 예약을 설정하는 방법에 대해 알아보십시오.
 feature: Report Builder
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 342376.jpg
 kt: 9873
-source-git-commit: 73dfeab6c698d2637e54d9b7e0a280d51e155e7e
-workflow-type: tm+mt
+exl-id: 087565b7-6f73-4667-ae29-446e9a0a6fab
+source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
+# [!DNL Report Builder] 요청 예약
 
-# 예약 a [!DNL Report Builder] 요청
-
-이 비디오에서는 의 기본 일정을 설정하는 방법을 알아봅니다. [!DNL Report Builder] 통합 문서.
+이 비디오를 통해 [!DNL Report Builder] 통합 문서의 기본 예약을 설정하는 방법에 대해 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=en)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=ko)를 참조하십시오.
