@@ -1,5 +1,5 @@
 ---
-title: Report Builder의 요청에 대한 지표 편집
+title: Report Builder에서 요청 간 지표 편집
 description: 이제 추가, 바꾸기 또는 제거 옵션을 사용하여 여러 Report Builder 데이터 요청에 대한 지표를 한 번에 편집할 수 있습니다.
 feature: Report Builder
 role: User
@@ -9,13 +9,13 @@ thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
 source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# 편집 [!UICONTROL 지표] 의 [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
+# [!UICONTROL Report Builder]에서 요청 간 [!UICONTROL 지표] 편집 {#edit-metrics-across-requests-in-report-builder}
 
 이제 추가, 바꾸기 또는 제거 옵션을 사용하여 여러 [!UICONTROL Report Builder] 데이터 요청에 대한 [!UICONTROL 지표]를 한 번에 편집할 수 있습니다.
 
