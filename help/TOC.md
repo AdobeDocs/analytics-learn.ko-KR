@@ -3,17 +3,17 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
+source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
 workflow-type: tm+mt
-source-wordcount: '2365'
-ht-degree: 99%
+source-wordcount: '2392'
+ht-degree: 98%
 
 ---
 
 
 # Analytics 튜토리얼 {#tutorials}
 
-+ [Analytics 자습서](overview.md)
++ [Analytics 튜토리얼](overview.md)
 + Analytics 소개 {#intro-to-analytics}
    + Adobe Analytics를 통해 얻을 수 있는 이점은 무엇입니까? {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace가 비즈니스를 변경시키는 방법](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -25,6 +25,10 @@ ht-degree: 99%
       + [Summit 2019 슈퍼 세션 - 여행 및 접대](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [Adobe Summit 2019 슈퍼 세션 - 리테일](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 전략 및 사고 리더십{#strategy}
+      + [1부 - 간단한 힌트를 통해 효율성 향상](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [2부 - 간단한 힌트를 통해 효율성 향상](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Adobe Analytics의 Virtual Analyst 및 세그먼트 IQ를 사용하여 고객 인텔리전스 관리](strategy/customer-intelligence-with-virtual-analyst.md)
    + 다른 플랫폼에서 전환 {#transitioning-from-other-platforms}
       + [Google Analytics에서 전환](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 기본 사항 {#analytics-basics}
@@ -442,3 +446,4 @@ ht-degree: 99%
 + [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다](retired-courses/retire-fundamentals-for-business-users-course.md)
+
