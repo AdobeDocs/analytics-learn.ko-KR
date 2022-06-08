@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 98%
+source-wordcount: '2430'
+ht-degree: 97%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 98%
       + [Adobe Analytics 기술 언어를 비기술 언어로 번역](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [다양한 분야의 사람들과 일하기](administration/key-admin-skills/working-cross-functionally.md)
       + [올바른 질문을 하고 있습니까?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + 관리 팁 및 우수 사례 {#admin-tips}
+      + [구현 Playbook 다운로드](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [표준화된 이름 지정 규칙 만들기](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [표준화된 코드 템플릿 만들기](administration/admin-tips/create-standardized-code-templates.md)
+      + [기본 비디오 및 교육 만들기](administration/admin-tips/create-basic-videos-and-training.md)
+      + [내부 Adobe Analytics 사이트 만들기](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [글로벌 보고서 세트 사용](administration/admin-tips/use-a-global-report-suite.md)
+      + [뉴스 및 공지 프로젝트 만들기](administration/admin-tips/create-a-news-and-announcements-project.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
