@@ -1,28 +1,26 @@
 ---
 title: SDR 제작 및 유지 관리
-description: SDR(Solution Design Reference) 문서는 기본적으로 사이트의 청사진입니다. 이 비디오는 비즈니스 요구 사항 문서와 함께 Adobe Analytics를 구현하고 향후 언제든지 참조할 수 있는 유용한 소스를 만드는 방법을 보여 줍니다.
+description: SDR(Solution Design Reference) 문서는 디지털 속성에 대한 Analytics의 비즈니스 요구 사항 및 데이터 수집 디자인을 위한 블루프린트입니다. 이 문서를 Analysis Workspace 솔루션의 진실의 소스로 만들고 유지 관리하는 방법을 알아봅니다.
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
 team: Technical Marketing
 kt: 3581
+thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 11%
 
 ---
 
 # SDR(Solution Design Reference) 문서 제작 및 유지 관리
 
-SDR(Solution Design Reference) 문서는 기본적으로 사이트의 청사진입니다. 이 비디오는 비즈니스 요구 사항 문서와 함께 Adobe Analytics를 구현하고 향후 언제든지 참조할 수 있는 유용한 소스를 만드는 방법을 보여 줍니다.
+SDR(Solution Design Reference) 문서는 디지털 속성에 대한 Analytics의 비즈니스 요구 사항 및 데이터 수집 디자인을 위한 블루프린트입니다. 이 문서를 Analysis Workspace 솔루션의 진실의 소스로 만들고 유지 관리하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
 
-사이트를 정의하는 데 사용할 수 있는 샘플 BRD/SDR을 [다운로드](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx)하십시오.
+[다운로드](assets/aa-implementation-playbook.xlsx) 디지털 속성에 대한 요구 사항 및 데이터 수집 디자인을 문서화하는 샘플 Excel 템플릿.
 
-이 비디오(및 [BRD 비디오](creating-a-business-requirements-document.md))에서 BRD/SDR을 [다운로드](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx)하십시오.
+[다운로드](assets/geometrixx-clothiers-brd-sdr.xlsx) 이 비디오에 표시된 Excel 문서 및/또는 관련 보기 [비즈니스 요구 사항 문서 비디오](creating-a-business-requirements-document.md)).
