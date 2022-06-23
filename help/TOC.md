@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2430'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 97%
       + [Adobe Summit 2019 슈퍼 세션 - 리테일](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + 전략 및 사고 리더십{#strategy}
-      + [1부 - 간단한 힌트를 통해 효율성 향상](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [2부 - 간단한 힌트를 통해 효율성 향상](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [Adobe Analytics의 Virtual Analyst 및 세그먼트 IQ를 사용하여 고객 인텔리전스 관리](strategy/customer-intelligence-with-virtual-analyst.md)
+      + [1부 - 효율성 향상을 위한 간단한 방법](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [2부 - 효율성 향상을 위한 간단한 방법](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [Adobe Analytics의 Virtual Analytics 및 Segment IQ를 통해 고객 인텔리전스 마스터하기](strategy/customer-intelligence-with-virtual-analyst.md)
    + 다른 플랫폼에서 전환 {#transitioning-from-other-platforms}
       + [Google Analytics에서 전환](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 기본 사항 {#analytics-basics}
@@ -39,7 +39,7 @@ ht-degree: 97%
       + [Analytics UI 소개](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [보고서 세트 이해 및 생성](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [기본 방문자 지표 이해](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ko)
-      + [트래픽 변수 소개(속성)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ko)
+      + [트래픽 변수 소개 (속성)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ko)
       + [전환 변수 소개 (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ko)
       + [전환 이벤트 소개](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ko)
    + UI 맞춤화 {#customizing-the-ui}
@@ -153,7 +153,7 @@ ht-degree: 97%
    + 세그먼트 적용 {#applying-segments}
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace에서 세그먼트 사용](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Ad Hoc(임시) 세그먼트](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [Ad Hoc (임시) 세그먼트](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ko)
       + [패널 레벨 세그먼트](analysis-workspace/using-panels/panel-level-segments.md)
       + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
@@ -234,14 +234,14 @@ ht-degree: 97%
       + [Adobe Analytics 기술 언어를 비기술 언어로 번역](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [다양한 분야의 사람들과 일하기](administration/key-admin-skills/working-cross-functionally.md)
       + [올바른 질문을 하고 있습니까?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + 관리 팁 및 우수 사례 {#admin-tips}
-      + [구현 Playbook 다운로드](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+   + 관리자 팁 및 모범 사례 {#admin-tips}
+      + [구현 플레이북 다운로드](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [표준화된 이름 지정 규칙 만들기](administration/admin-tips/create-standardized-naming-conventions.md)
       + [표준화된 코드 템플릿 만들기](administration/admin-tips/create-standardized-code-templates.md)
       + [기본 비디오 및 교육 만들기](administration/admin-tips/create-basic-videos-and-training.md)
       + [내부 Adobe Analytics 사이트 만들기](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [글로벌 보고서 세트 사용](administration/admin-tips/use-a-global-report-suite.md)
-      + [뉴스 및 공지 프로젝트 만들기](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [뉴스 및 공지 사항 프로젝트 만들기](administration/admin-tips/create-a-news-and-announcements-project.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
@@ -258,7 +258,7 @@ ht-degree: 97%
       + [마케팅 채널 처리 규칙 만들기](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [Reports &amp; Analytics의 메뉴 맞춤화](administration/manage-report-suites/customize-menus.md)
       + [처리 규칙을 사용하여 수신 데이터 조작](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [트래픽 변수 구성(Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [트래픽 변수 구성 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [트래픽 분류 구성](administration/manage-report-suites/configure-traffic-classifications.md)
       + [계층 변수 구성](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
@@ -356,7 +356,7 @@ ht-degree: 97%
    + Analytics 대시보드 {#analytics-dashboards}
       + [Adobe Analytics 대시보드 스코어카드 빌더](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [모바일 스코어카드에 대한 시각화](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
-      + [사용자 지정 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
+      + [사용자 정의 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 대시보드 인앱 경험](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + 내보내기 {#exporting}
    + UI에서 {#from-the-ui}
