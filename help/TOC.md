@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
-workflow-type: ht
-source-wordcount: '2430'
-ht-degree: 100%
+source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
+workflow-type: tm+mt
+source-wordcount: '2432'
+ht-degree: 99%
 
 ---
 
@@ -150,6 +150,17 @@ ht-degree: 100%
       + [100% 누적 시각화](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [테이블 및 시각화 데이터 소스 설정](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [시간 분할 히트맵 빌드](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+   + 고객 여정 분석 {#analyzing-customer-journeys}
+      + [데이터 이해하기 - 폴아웃 및 플로우](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [여정 IQ - 크로스 디바이스 분석](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [폴아웃 시각화](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [폴아웃 시각화 개선 사항](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [다차원 폴아웃](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [폴아웃의 세그먼트 비교](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [플로우 시각화](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [플로우 시각화 확장](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [2022년 플로우 개선 사항](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [텍스트 흐름 및 다차원 플로우](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 세그먼트 적용 {#applying-segments}
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [Analysis Workspace에서 세그먼트 사용](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -177,16 +188,6 @@ ht-degree: 100%
       + [맞춤형 기간 생성](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace의 날짜 비교](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [트렌드에 대한 이전 월 및 연도 비교 추가](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + 고객 여정 분석 {#analyzing-customer-journeys}
-      + [데이터 이해하기 - 폴아웃 및 플로우](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [여정 IQ - 크로스 디바이스 분석](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [폴아웃 시각화](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [폴아웃 시각화 개선 사항](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [다차원 폴아웃](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [폴아웃의 세그먼트 비교](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [플로우 시각화](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [플로우 시각화 확장](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [텍스트 흐름 및 다차원 플로우](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 프로젝트 선별 및 공유 {#curate-and-share-projects}
       + [Analysis Workspace에서 프로젝트 저장, 공유 및 공동 작업 수행](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
