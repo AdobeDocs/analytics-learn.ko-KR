@@ -4,9 +4,9 @@ description: 분석 팀이 현재 직면한 주요 문제와 Adobe Analytics UI 
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: dad200fdb5c5d15c00254d693fb47bbcec80afaf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '712'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -86,4 +86,4 @@ ht-degree: 97%
    * 릴리스 및 성공의 소셜화를 지원함으로써 존재감을 구축하십시오.
    * 정규 근무 시간을 사용하여 강사를 교육하고 임시 작업을 줄입니다.
 
-Adobe Analytics Mobile Apps에서 전략 및 사고 리더십에 대해 자세히 알아보십시오 [고객 성공](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 허브.
+[고객 성공](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
