@@ -4,9 +4,9 @@ description: 인공 지능과 머신 러닝(AI/ML) 사용의 중요성에 대해
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1104'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -123,4 +123,4 @@ Adobe AI 도구는 고객을 대체하기 위한 것이 아니라 고객이 노�
 
 자세한 내용은 [웨비나](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)를 시청하십시오.
 
-Adobe Analytics Mobile Apps에서 전략 및 사고 리더십에 대해 자세히 알아보십시오 [고객 성공](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 허브.
+[고객 성공](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
