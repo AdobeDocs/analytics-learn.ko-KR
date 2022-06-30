@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2432'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -159,7 +159,7 @@ ht-degree: 99%
       + [폴아웃의 세그먼트 비교](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
       + [플로우 시각화](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [플로우 시각화 확장](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [2022년 플로우 개선 사항](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [2022 플로우 개선 사항](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
       + [텍스트 흐름 및 다차원 플로우](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 세그먼트 적용 {#applying-segments}
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
