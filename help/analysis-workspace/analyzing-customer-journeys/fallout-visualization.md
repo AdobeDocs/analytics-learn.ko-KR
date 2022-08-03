@@ -1,27 +1,24 @@
 ---
-title: Analysis Workspace의 폴아웃 시각화
-description: 이 비디오에서는 Adobe Analytics의 Analysis Workspace에서 사용할 수 있는 폴아웃 시각화에 대해 설명합니다. 폴아웃을 사용하여 단계를 생성하거나 주요 앱/사이트 워크플로에서의 사용자 흐름을 보여 줄 수 있습니다.
+title: 폴아웃 시각화 보고서 만들기
+description: 폴아웃 보고서 사용 사례 및 Analysis Workspace에서 이 보고서를 구성하는 방법에 대해 알아봅니다. 여러 유형의 터치포인트를 추가하는 방법과 이 구성 요소에서 세그먼트를 만들고 사용하는 방법을 이해합니다.
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 21%
 
 ---
 
-# Analysis Workspace의 [!DNL Fallout Visualization] {#fallout-visualization-in-analysis-workspace}
+# 폴아웃 시각화 보고서 만들기
 
-이 비디오에서는 Adobe Analytics의 Analysis Workspace에서 사용할 수 있는 [!DNL Fallout visualization]에 대해 설명합니다. [!DNL Fallout]을 사용하여 단계를 생성하거나 주요 앱/사이트 워크플로에서의 사용자 흐름을 보여 줄 수 있습니다.
+폴아웃 보고서 사용 사례 및 에서 이 보고서를 구성하는 방법에 대해 알아봅니다. [!DNL Analysis Workspace]. 여러 유형의 터치포인트를 추가하는 방법과 이 구성 요소에서 세그먼트를 만들고 사용하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ko)를 참조하십시오.
