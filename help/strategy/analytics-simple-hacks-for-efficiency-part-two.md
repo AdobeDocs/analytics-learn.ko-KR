@@ -3,10 +3,10 @@ title: 효율성과 셀프서비스 향상을 위한 간단한 방법 - 2부
 description: 분석 팀이 현재 직면한 주요 문제와 기본 제공 전략을 사용하여 이를 극복하기 위한 권장 사항에 대해 설명합니다.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '802'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -96,4 +96,4 @@ Adobe Analytics 플랫폼 외부의 효과적인 솔루션에 대한 자세한 �
 
 도구 내 전략에 대한 이 문서가 도움이 되었기를 바랍니다. Adobe Analytics 플랫폼 외부에서 효율성을 높이는 효과적인 솔루션에 대한 자세한 내용을 보려면 [여기](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)를 클릭하십시오.
 
-[고객 성공](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

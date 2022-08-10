@@ -3,10 +3,10 @@ title: Virtual Analytics 및 Segment IQ를 통해 고객 인텔리전스 마스�
 description: 인공 지능과 머신 러닝(AI/ML) 사용의 중요성에 대해 알아봅니다. Virtual Analyst 및 Segment IQ를 사용하여 예외 항목을 감지하고 이상치를 방지하며 ROI를 극대화하는 글로벌 고객의 실제 성공 사례를 확인하고 이점에 대해 알아보십시오.
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: ht
+source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+workflow-type: tm+mt
 source-wordcount: '1104'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -123,4 +123,4 @@ Adobe AI 도구는 고객을 대체하기 위한 것이 아니라 고객이 노�
 
 자세한 내용은 [웨비나](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)를 시청하십시오.
 
-[고객 성공](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
