@@ -1,6 +1,6 @@
 ---
 title: 폴아웃 시각화 만들기
-description: Analysis Workspace의 폴아웃 시각화 는 고객이 디지털 속성에서 주요 흐름을 따르거나 폴아웃하는 위치를 탐색하는 데 사용됩니다. 여러 유형의 터치 포인트를 추가하는 방법과 이 구성 요소에서 세그먼트를 만들고 사용하는 방법을 이해합니다.
+description: Analysis Workspace에서의 폴아웃 시각화는 디지털 속성에서 고객이 주요 흐름에 빠지거나 빠지는 지점을 탐색하는 데 사용됩니다. 여러 유형의 접점을 추가하는 방법과 이 구성 요소에서 세그먼트를 만들고 사용하는 방법을 이해합니다.
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
 # 폴아웃 시각화 만들기
 
-의 폴아웃 시각화 [!DNL Analysis Workspace] 고객이 디지털 속성에서 키 흐름을 따르거나 실패할 위치를 탐색하는 데 사용됩니다. 여러 유형의 터치 포인트를 추가하는 방법과 이 구성 요소에서 세그먼트를 만들고 사용하는 방법을 이해합니다.
+[!DNL Analysis Workspace]에서의 폴아웃 시각화는 디지털 속성에서 고객이 주요 흐름에 빠지거나 빠지는 지점을 탐색하는 데 사용됩니다. 여러 유형의 접점을 추가하는 방법과 이 구성 요소에서 세그먼트를 만들고 사용하는 방법을 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
