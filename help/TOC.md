@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: ht
-source-wordcount: '2416'
-ht-degree: 100%
+source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
+workflow-type: tm+mt
+source-wordcount: '2418'
+ht-degree: 99%
 
 ---
 
@@ -131,6 +131,7 @@ ht-degree: 100%
       + [도넛 시각화](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
       + [라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [콤보 차트](analysis-workspace/visualizations/combo-charts.md)
       + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [맵 시각화](analysis-workspace/visualizations/map-visualization.md)
       + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
