@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 4f0ce6d2-4ce4-4aa7-907d-efcaab958674
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Analysis Workspace에서 자주 사용하는 모든 마우스 오른쪽 버튼 �
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부입니다. [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
