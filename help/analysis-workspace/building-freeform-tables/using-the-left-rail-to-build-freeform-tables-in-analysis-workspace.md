@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 60611747-80c7-4bd0-88b8-a36fb420d290
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -22,4 +22,4 @@ Analysis Workspace에서 왼쪽 레일을 사용하여 항목을 찾고, 생성�
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부입니다. [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
