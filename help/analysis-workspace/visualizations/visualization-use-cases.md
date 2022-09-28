@@ -4,14 +4,13 @@ description: 베스트셀러 제품을 알아보려면 폴아웃, 플로우, 집
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334096.jpg
 kt: 8062
 exl-id: b1fcbd2f-d03e-4cc1-80ba-f76fe66551e5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 79%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 교육 과정의 일부입니다. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations): Experience League에서 무료로 사용할 수 있습니다.

@@ -4,14 +4,13 @@ description: 이 비디오에서는 Analysis Workspace에서 프로젝트에 영
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334261.jpg
 kt: 8113
 exl-id: d2d1ff79-0fcc-4de5-872d-8547ed48cf98
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/area.html?lang=ko#)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 교육 과정의 일부입니다. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations): Experience League에서 무료로 사용할 수 있습니다.

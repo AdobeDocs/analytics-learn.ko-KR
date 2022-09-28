@@ -4,14 +4,13 @@ description: 이 시각화를 사용하면 차원에 대한 여러 지표 간의
 feature: Visualizations
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
 exl-id: 6c9aa05b-ada3-489c-832f-bf9438dd3572
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '87'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/scatterplot.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 교육 과정의 일부입니다. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations): Experience League에서 무료로 사용할 수 있습니다.

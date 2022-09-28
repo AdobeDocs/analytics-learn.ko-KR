@@ -7,10 +7,10 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '127'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '129'
+ht-degree: 84%
 
 ---
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 이 비디오는 [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
+> 이 비디오는 교육 과정의 일부입니다. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations): Experience League에서 무료로 사용할 수 있습니다.

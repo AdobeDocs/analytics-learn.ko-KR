@@ -4,14 +4,13 @@ description: 구성 요소 드롭다운을 통해 호환되는 구성 요소의
 feature: Components
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 332601.jpg
 kt: 7477
 exl-id: e63c845f-7160-4fb4-9161-a513797e753a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '114'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '139'
+ht-degree: 85%
 
 ---
 
@@ -20,3 +19,7 @@ ht-degree: 100%
 구성 요소 드롭다운을 통해 호환되는 구성 요소의 목록에서 선택하여 분석을 빌드할 수 있습니다. 필요한 항목을 찾지 못한 경우 드롭다운에서 바로 새 구성 요소를 만들 수도 있습니다. 고급 사용 사례가 추가되면 이러한 공백은 드롭 영역으로 계속 작동합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332601/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 이 비디오는 교육 과정의 일부입니다. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations): Experience League에서 무료로 사용할 수 있습니다.

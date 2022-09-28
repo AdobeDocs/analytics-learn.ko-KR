@@ -2,16 +2,15 @@
 title: Analysis Workspace의 히스토그램 시각화
 description: 히스토그램을 사용하면 방문자, 방문 횟수 및 현재 히트 수에 걸쳐 지표의 배포를 시각화하여 고/저가치 세그먼트를 파악할 수 있습니다.
 feature: Visualizations
-doc-type: feature video
 thumbnail: 23725.jpg
 kt: 1909
 role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
-source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 80%
 
 ---
 
@@ -22,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 교육 과정의 일부입니다. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations): Experience League에서 무료로 사용할 수 있습니다.
