@@ -7,10 +7,10 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '134'
-ht-degree: 100%
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 84%
 
 ---
 
@@ -26,4 +26,9 @@ ht-degree: 100%
 
 >[!INFO]
 >
-> 이 비디오는 [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
+> 이 비디오는 다음 두 가지 교육 과정의 일부입니다.
+>
+> * [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+> * [사용자 지정 세그먼테이션 및 날짜로 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+>
+> Experience League에서 둘 다 무료로 이용할 수 있습니다!
