@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
 source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 82%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/freeform-overview.html)를 참조하십시오.
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부입니다. [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
