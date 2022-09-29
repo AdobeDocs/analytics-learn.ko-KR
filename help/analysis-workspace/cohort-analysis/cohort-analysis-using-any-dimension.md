@@ -2,7 +2,6 @@
 title: 모든 차원을 사용한 집단 분석
 description: '[사용자 정의 집단 차원] 옵션을 사용하면 시간 이외의 차원을 사용하여 집단을 분석할 수 있습니다. 마케팅 채널, 캠페인 지역, 제품 페이지별로 집단을 분석하여 차원 항목별로 유지 또는 이탈이 어떻게 변경되는지 더 잘 이해할 수 있습니다.'
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '100'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '126'
+ht-degree: 82%
 
 ---
 
@@ -25,3 +24,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2): Experience League에서 무료로 사용할 수 있습니다.

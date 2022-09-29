@@ -7,10 +7,10 @@ kt: 2361
 role: Admin, Architect
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
-source-git-commit: e04bfe38ba95485180e1f5e2587d6e26518c339b
-workflow-type: ht
-source-wordcount: '84'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 80%
 
 ---
 
@@ -21,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration): Experience League에서 무료로 사용할 수 있습니다.

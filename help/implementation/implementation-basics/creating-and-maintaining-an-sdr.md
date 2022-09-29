@@ -8,10 +8,10 @@ thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 88%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 샘플 Excel 템플릿을 [다운로드](assets/aa-implementation-playbook.xlsx)하여 디지털 속성에 대한 요구 사항 및 데이터 수집 설계를 문서화하십시오.
 
 이 비디오에 제공된 Excel 문서를 [다운로드](assets/geometrixx-clothiers-brd-sdr.xlsx)하거나 관련 [비즈니스 요구 사항 문서 비디오](creating-a-business-requirements-document.md)를 시청하십시오).
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [Analytics 구현 가이드](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1): Experience League에서 무료로 사용할 수 있습니다.

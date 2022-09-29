@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 34545.jpg
 kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
-source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: ht
-source-wordcount: '72'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 75%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing): Experience League에서 무료로 사용할 수 있습니다.

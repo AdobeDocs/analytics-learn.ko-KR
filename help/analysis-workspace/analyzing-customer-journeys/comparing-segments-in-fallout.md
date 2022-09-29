@@ -11,10 +11,10 @@ kt: 2278
 role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '62'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '88'
+ht-degree: 75%
 
 ---
 
@@ -25,3 +25,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2): Experience League에서 무료로 사용할 수 있습니다.

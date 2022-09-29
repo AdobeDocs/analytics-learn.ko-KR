@@ -8,10 +8,10 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 83%
+source-wordcount: '121'
+ht-degree: 80%
 
 ---
 
@@ -25,4 +25,8 @@ ht-degree: 83%
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부입니다. [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 다음 두 가지 교육 과정의 일부입니다.
+> * [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+> * [사용자 지정 세그먼테이션 및 날짜로 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+>
+> Experience League에서 둘 다 무료로 이용할 수 있습니다!

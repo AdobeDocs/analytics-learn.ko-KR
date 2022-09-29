@@ -1,8 +1,7 @@
 ---
 title: 집단 테이블 설정
-description: '다음은 보존 또는 이탈 보기를 맞춤화할 수 있는 몇 가지 집단 테이블 설정입니다. 이 비디오에서 강조하는 이들 설정을 확인하십시오. '
+description: 다음은 보존 또는 이탈 보기를 맞춤화할 수 있는 몇 가지 집단 테이블 설정입니다. 이 비디오에서 강조하는 이들 설정을 확인하십시오.
 feature: Visualizations
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
-source-wordcount: '119'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 84%
 
 ---
 
@@ -33,3 +32,7 @@ ht-degree: 100%
 평균 행은 개별 [!UICONTROL 집단] 행보다는 [!UICONTROL 보존] 또는 [!UICONTROL 이탈]을 전체적으로 조회할 때 특히 유용합니다.
 
 [!UICONTROL 집단] 분석에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2): Experience League에서 무료로 사용할 수 있습니다.

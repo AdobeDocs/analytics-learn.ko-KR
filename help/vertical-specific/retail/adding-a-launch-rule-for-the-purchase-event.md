@@ -10,10 +10,10 @@ kt: 3593
 role: Developer, Data Engineer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '71'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 82%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 이 비디오는 사이트의 구매 내역을 추적하기 위해 [!DNL Experience Platform Launch]에서 제품 문자열 [!UICONTROL 확장 기능]을 사용하는 방법을 보여 줍니다(분석에서 [!UICONTROL 매출], [!UICONTROL 주문] 및 [!UICONTROL 단위] [!UICONTROL 지표] 발생).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [Analytics 구현 가이드](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1): Experience League에서 무료로 사용할 수 있습니다.

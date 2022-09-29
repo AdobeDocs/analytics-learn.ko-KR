@@ -2,7 +2,6 @@
 title: Analysis Workspace에서 교차 탭 분석을 사용하여 기본 마케팅 기여도 탐색
 description: Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수 있는 방법은 여러 가지가 있습니다. 이 비디오에서는 작업 영역에서 교차 탭 분석을 사용하여 마케팅 채널 보고서에서 보다 세부적인 통찰력을 도출하는 방법을 집중적으로 다룹니다.
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '288'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 92%
 
 ---
 
@@ -38,5 +37,8 @@ Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수
 * 3:20 - 교차 탭 차원은 드롭 시 자동으로 동적이며, 이는 시간이 지남에 따라 값이 변경될 수 있음을 의미합니다. 이러한 분석의 경우 정적 열을 대신 가져오는 것이 좋습니다. 이 비디오의 재생 시간 6:33부터 시작되는 [자유 형식 테이블의 행 및 열 설정](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)에서 동적 열에 대해 자세히 알아보십시오.
 * 4:30 - 열 설정을 하나씩 업데이트하지 않고 일괄 업데이트할 수 있습니다. 비디오 재생 시간 8:45부터 시작되는 [자유 형식 테이블의 행 및 열 설정](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)에서 자세히 알아보십시오.
 
-
 이 항목에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 과정의 일부입니다 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2): Experience League에서 무료로 사용할 수 있습니다.
