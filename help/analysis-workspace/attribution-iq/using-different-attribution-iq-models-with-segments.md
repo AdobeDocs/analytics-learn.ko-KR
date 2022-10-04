@@ -8,9 +8,9 @@ role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
 source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ ht-degree: 84%
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [사용자 지정 세그먼테이션 및 날짜로 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [사용자 정의 세분화 및 날짜를 통해 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
 
