@@ -10,9 +10,9 @@ thumbnail: 341449.jpg
 kt: 9860
 exl-id: ebe9e66f-30a3-40b8-bd29-1572620a4fdb
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Data Warehouse는 외부 Adobe Analytics의 데이터를 대중화하고 결합�
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
