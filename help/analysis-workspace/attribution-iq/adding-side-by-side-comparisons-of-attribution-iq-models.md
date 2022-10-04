@@ -12,9 +12,9 @@ role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 75%
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
