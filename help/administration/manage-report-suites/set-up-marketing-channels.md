@@ -10,9 +10,9 @@ thumbnail: 340789.jpg
 kt: 9623
 exl-id: 986707b8-3af4-4157-9afb-4ff95cb8705a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 81%
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
