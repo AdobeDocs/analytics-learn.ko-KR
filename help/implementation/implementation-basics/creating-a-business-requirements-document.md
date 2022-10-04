@@ -9,9 +9,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -27,4 +27,4 @@ Adobe Analytics에서 캡처하고 분석할 동작 데이터를 정의하는 �
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [Analytics 구현 가이드](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [안내식 Analytics 구현](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
