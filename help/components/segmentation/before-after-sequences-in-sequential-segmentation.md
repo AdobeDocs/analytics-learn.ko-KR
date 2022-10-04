@@ -7,9 +7,9 @@ thumbnail: 25400.jpg
 role: User
 level: Beginner
 exl-id: 2f305779-9a19-4603-8be7-3a5e3bf634ab
-source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '90'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
@@ -20,10 +20,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25400/?quality=12)
 
-## 관련 비디오
-
-[Adobe Analytics의 순차적 세분화](sequential-segmentation.md)
-
-## 추가 정보
-
 이 항목에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-sequential-build.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 [사용자 정의 세분화 및 날짜를 통해 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
