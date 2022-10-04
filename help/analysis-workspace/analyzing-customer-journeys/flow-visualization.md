@@ -9,9 +9,9 @@ thumbnail: 346063.jpg
 kt: 2279
 exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 81%
 
 >[!VIDEO](https://video.tv.adobe.com/v/346063/?quality=12&learn=on)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ko-kr)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ko)를 참조하십시오.
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
