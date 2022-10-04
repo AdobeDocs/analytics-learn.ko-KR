@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 84%
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [Analytics 구현 가이드](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [안내식 Analytics 구현](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
