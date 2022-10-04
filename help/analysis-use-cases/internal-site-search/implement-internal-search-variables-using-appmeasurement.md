@@ -9,9 +9,9 @@ thumbnail: 333604.jpg
 kt: 7996
 exl-id: 379c1a3d-2fd0-40d9-8736-05bd0f0c29c8
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 74%
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [내부 사이트 검색 구현 및 측정](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [내부 사이트 검색 구현 및 측정](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
