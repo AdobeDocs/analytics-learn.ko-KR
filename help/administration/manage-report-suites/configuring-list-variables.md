@@ -9,9 +9,9 @@ thumbnail: 339450.jpg
 kt: 9527
 exl-id: cb073b69-cf1b-4602-82d0-7fcc180a6e5d
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '138'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ eVar(전환 변수)에 한 번에 두 개 이상의 값을 입력해야 하는 �
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
