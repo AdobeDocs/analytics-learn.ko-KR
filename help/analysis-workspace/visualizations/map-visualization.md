@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -34,4 +34,4 @@ ht-degree: 88%
 
 >[!INFO]
 >
-> 이 비디오는 교육 과정의 일부입니다. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
