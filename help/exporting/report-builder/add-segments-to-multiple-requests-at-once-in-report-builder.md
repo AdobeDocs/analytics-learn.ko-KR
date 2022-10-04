@@ -9,9 +9,9 @@ thumbnail: 25445.jpg
 kt: 2344
 exl-id: db5b7623-d863-4ecd-9902-8b20f6aea257
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '116'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 79%
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
