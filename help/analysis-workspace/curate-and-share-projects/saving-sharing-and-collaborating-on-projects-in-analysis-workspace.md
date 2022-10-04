@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ ht-degree: 74%
 
 >[!INFO]
 >
-> 이 비디오는 여러 교육 과정의 일부입니다 [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 및 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 및 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
 
