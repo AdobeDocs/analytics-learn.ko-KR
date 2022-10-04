@@ -10,9 +10,9 @@ thumbnail: 341273.jpg
 kt: 2295
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Analysis Workspace 프로젝트를 공유하려고 하지만, 포함했던 세�
 
 >[!INFO]
 >
-> 이 비디오는 과정의 일부입니다 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing): Experience League에서 무료로 사용할 수 있습니다.
+> 이 비디오는 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
