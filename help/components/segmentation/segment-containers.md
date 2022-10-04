@@ -7,9 +7,9 @@ thumbnail: 25401.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: ht
-source-wordcount: '90'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -21,3 +21,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ko)를 참조하십시오.
+
+>[!INFO]
+>
+> 이 비디오는 [사용자 정의 세분화 및 날짜를 통해 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
