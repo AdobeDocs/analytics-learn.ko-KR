@@ -1,27 +1,23 @@
 ---
-title: Adobe Analysis Workspace가 비즈니스를 변경시키는 방법
-landing-page-description: Analysis Workspace를 사용하여 애드혹 분석, 유연한 분석, 집단 분석 및 폴아웃 분석을 수행하는 방법에 대해 알아봅니다.
-description: Analysis Workspace는 Adobe Analytics의 새롭고 사용하기 쉬운 인터페이스입니다. Analysis Workspace를 통해 Ad hoc Analysis, 유연한 분석, 집단 분석 및 폴아웃 분석을 수행할 수 있습니다. 또한 분석 작업 환경을 회사 내 모든 사람과 공유할 수 있으며 드래그 앤 드롭 기능을 통해 모든 사람이 데이터를 손쉽게 분석하고 신속하게 통찰력을 얻을 수 있습니다.
+title: Adobe Analysis Workspace을 사용하여 비즈니스 변경
+description: Ad Hoc, 집단 및 폴아웃과 같이 Analysis Workspace에서 사용할 수 있는 분석 유형에 대해 알아봅니다. 드래그 앤 드롭 기능을 사용하여 데이터를 쉽고 빠르게 분석할 수 있습니다.
 feature: Workspace Basics
-topics: null
-activity: understand
-doc-type: value video
-team: Technical Marketing
-kt: 4382
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
+kt: 4382
+thumbnail: 31501.jpg
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
-source-git-commit: f08de1c175fc5d77d574b8abd9ad3e826661237d
+source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 0%
 
 ---
 
-# Adobe Analysis Workspace가 비즈니스를 변경시키는 방법
+# Adobe Analysis Workspace을 사용하여 비즈니스 변경
 
-[!UICONTROL Analysis Workspace]는 Adobe Analytics의 새롭고 사용하기 쉬운 인터페이스입니다. [!UICONTROL Analysis Workspace]를 사용하면 [!UICONTROL Ad hoc Analysis], [!UICONTROL 유연한 분석], [!UICONTROL 집단 분석] 및 [!UICONTROL 폴아웃 분석]을 수행할 수 있습니다. 또한 분석 작업 환경을 회사 내 모든 사람과 공유할 수 있으며 드래그 앤 드롭 기능을 통해 모든 사람이 데이터를 손쉽게 분석하고 신속하게 통찰력을 얻을 수 있습니다.
+에서 사용할 수 있는 분석 유형에 대해 알아봅니다. [!DNL Analysis Workspace], 예 [!DNL Ad Hoc],[!DNL Cohort], 및 [!DNL Fallout]. 드래그 앤 드롭 기능을 사용하여 데이터를 쉽고 빠르게 분석할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12)
 
-Adobe Analysis Workspace에 대한 자세한 내용은 [여기](https://www.adobe.com/kr/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)를 참조하십시오.
+[Analysis Workspace Adobe에 대해 자세히 알아보기](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&amp;mv=search)

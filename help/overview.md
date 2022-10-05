@@ -1,6 +1,6 @@
 ---
 title: Analytics 비디오 및 튜토리얼
-description: 'Adobe Analytics를 최대한 활용하십시오. 이 튜토리얼을 사용하여 Analytics의 기능을 숙지하고 비즈니스의 이점을 누리십시오. 이 콘텐츠는 관리자, 데이터 분석가, 마케터, 개발자 및 아키텍트에게 적합합니다. '
+description: Adobe Analytics를 최대한 활용하십시오. 이 자습서를 통해 Analytics의 기능을 학습하고 비즈니스에 대한 이점을 얻을 수 있습니다. 이 콘텐츠는 관리자, 데이터 분석가, 마케터, 개발자 및 아키텍트에게 적합합니다.
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 80%
 
 ---
 
@@ -19,9 +19,10 @@ ht-degree: 100%
 
 # Analytics 튜토리얼
 
-[!DNL Adobe Analytics]를 최대한 활용하십시오. 이 튜토리얼을 사용하여 Analytics의 기능을 숙지하고 비즈니스의 이점을 누리십시오. 이 콘텐츠는 관리자, 데이터 분석가, 마케터, 개발자 및 아키텍트에게 적합합니다.
+[!DNL Adobe Analytics]를 최대한 활용하십시오. 이 자습서를 통해 Analytics의 기능을 학습하고 비즈니스에 대한 이점을 얻을 수 있습니다. 이 콘텐츠는 관리자, 데이터 분석가, 마케터, 개발자 및 아키텍트에게 적합합니다.
 
 시작하려면:
+
 * 최신 업데이트 및 기능에 대한 자세한 내용은 아래의 **&quot;새로운 기능&quot;** 섹션을 참조하십시오.
 * **직원 선택**&#x200B;은 당사가 가장 좋아하는 콘텐츠 중 일부를 강조 표시합니다.
 * **왼쪽 내비게이션**&#x200B;에서 주제 및 하위 항목별로 내용 탐색
@@ -31,14 +32,11 @@ ht-degree: 100%
 
 ## 새로운 기능
 
-* **[Adobe Analytics 모바일 스코어카드 빌더(비디오)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *[!DNL Analysis Workspace]에서 만든 모바일 스코어카드를 만들고 공유하여 경영진 사용자를 지원하는 방법에 대해 알아보십시오.*
-
 * **[Adobe Analytics 모바일 스코어카드 앱](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *모바일 스코어카드 애플리케이션을 다운로드하고 [!DNL Analysis Workspace]에서 만든 모바일 스코어카드를 보는 방법에 대해 알아보십시오.*
 
 * **[작업 영역의 주석(비디오)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace]의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작으로 날짜 또는 날짜 범위에 주석을 달아 선 차트, 표 등에서 표시되는 내용을 사용자에게 보다 명확하게 알릴 수 있습니다.*
+   *[!DNL Analysis Workspace]의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등을 사용하여 날짜 또는 날짜 범위에 주석을 답니다. 따라서 사용자에게 라인 차트, 표 등에서 불일치가 표시되는 이유를 알려줍니다.*
 
 ## 직원 선택
 
