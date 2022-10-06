@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -30,6 +30,8 @@ ht-degree: 80%
 
 또한 과정 섹션에서 역할 및 기술 수준별로 선별된 학습 경험이 제공됩니다. Adobe ID로 로그인하고 상단 탐색에서 **학습 > 추천 과정**&#x200B;으로 이동하기만 하면 됩니다.
 
+<div id="whats-new-section">
+
 ## 새로운 기능
 
 * **[Adobe Analytics 모바일 스코어카드 앱](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -37,6 +39,10 @@ ht-degree: 80%
 
 * **[작업 영역의 주석(비디오)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
    *[!DNL Analysis Workspace]의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등을 사용하여 날짜 또는 날짜 범위에 주석을 답니다. 따라서 사용자에게 라인 차트, 표 등에서 불일치가 표시되는 이유를 알려줍니다.*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## 직원 선택
 
@@ -83,6 +89,8 @@ ht-degree: 80%
   </td>
 </tr>
 </table>
+
+</div>
 
 ## 추가 리소스
 
