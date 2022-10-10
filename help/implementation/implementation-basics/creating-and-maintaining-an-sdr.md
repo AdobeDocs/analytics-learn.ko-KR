@@ -1,5 +1,5 @@
 ---
-title: SDR(솔루션 디자인 참조) 문서 만들기 및 유지 관리
+title: 솔루션 디자인 참조(SDR) 문서 생성 및 유지 관리
 description: 솔루션 디자인 참조(SDR) 문서는 디지털 속성에 대한 Analytics의 비즈니스 요구 사항 및 데이터 수집 설계를 위한 블루프린트입니다. 분석 솔루션의 소스로 이 문서를 만들고 유지하는 방법에 대해 알아보십시오.
 feature: Implementation Basics
 role: Developer, Data Engineer
@@ -8,13 +8,13 @@ kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
 source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# SDR(솔루션 디자인 참조) 문서 만들기 및 유지 관리{#create-and-maintain-a-solution-design-reference-document}
+# 솔루션 디자인 참조(SDR) 문서 생성 및 유지 관리{#create-and-maintain-a-solution-design-reference-document}
 
 솔루션 디자인 참조(SDR) 문서는 디지털 속성에 대한 Analytics의 비즈니스 요구 사항 및 데이터 수집 설계를 위한 블루프린트입니다. 분석 솔루션의 소스로 이 문서를 만들고 유지하는 방법에 대해 알아보십시오.
 
