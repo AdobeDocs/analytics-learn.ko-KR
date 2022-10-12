@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: ac000e8726196b07934f05fcbcdc8f0eb0530f55
-workflow-type: ht
-source-wordcount: '2418'
-ht-degree: 100%
+source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
+workflow-type: tm+mt
+source-wordcount: '2426'
+ht-degree: 99%
 
 ---
 
@@ -135,6 +135,7 @@ ht-degree: 100%
       + [라인 시각화에 추세선 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [맵 시각화](analysis-workspace/visualizations/map-visualization.md)
       + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [주요 지표 요약 시각화](analysis-workspace/visualizations/key-metric-summary.md)
       + [텍스트 시각화](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [산포도 시각화](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [트리맵 시각화](analysis-workspace/visualizations/treemap-visualization.md)
@@ -354,6 +355,7 @@ ht-degree: 100%
       + [모바일 스코어카드에 대한 시각화](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [사용자 정의 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 대시보드 인앱 경험](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
+      + [사용자 지정 세부 사항 보기 만들기](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + 내보내기 {#exporting}
    + UI에서 {#from-the-ui}
       + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
