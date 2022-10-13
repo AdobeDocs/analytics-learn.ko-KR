@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
 workflow-type: tm+mt
 source-wordcount: '2426'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -355,7 +355,7 @@ ht-degree: 99%
       + [모바일 스코어카드에 대한 시각화](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [사용자 정의 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 대시보드 인앱 경험](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
-      + [사용자 지정 세부 사항 보기 만들기](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [사용자 정의 상세 보기 만들기](additional-tools/analytics-dashboards/create-custom-detail-views.md)
 + 내보내기 {#exporting}
    + UI에서 {#from-the-ui}
       + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)

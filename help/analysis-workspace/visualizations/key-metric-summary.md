@@ -20,4 +20,4 @@ Analysis Workspace의 콤보 차트 시각화에 대해 알아봅니다. 주요 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=ko-KR)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=ko)를 참조하십시오.
