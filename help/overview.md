@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
+source-git-commit: 3cf17558385944871209a801463e013663d58b3a
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 100%
@@ -41,7 +41,12 @@ ht-degree: 100%
    *[!DNL Analysis Workspace]의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등으로 날짜 또는 날짜 범위에 주석을 추가합니다. 이 주석은 막대 차트, 표 등에서 표시되는 특이 사항을 사용자에게 알려 줍니다.*
 
 </div>
-
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 <div id="staff-picks-section">
 
 ## 직원 선택
