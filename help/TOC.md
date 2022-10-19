@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -46,8 +46,8 @@ ht-degree: 99%
    + UI 맞춤화 {#customizing-the-ui}
       + [Adobe Analytics의 사용자 환경 설정](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [차원 및 지표 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Analysis Workspace에서 맞춤형 색상 팔레트 사용](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [맞춤형 팔레트를 정의하기 위한 색상 스포이드 확장](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
+      + [Analysis Workspace에서 사용자 정의 색상 팔레트 사용](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
+      + [사용자 정의 팔레트를 정의하기 위한 색상 스포이드 확장](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
       + [Reports and Analytics에서 메뉴 맞춤화](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [Adobe Analytics의 보안 강화](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Analysis Workspace를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
@@ -65,9 +65,9 @@ ht-degree: 99%
       + [Analysis Workspace 랜딩 페이지 업데이트](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [새 Analysis Workspace 프로젝트 제작](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [처음부터 새로 작업 영역 프로젝트 빌드](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
-      + [Analysis Workspace에서 맞춤형 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
+      + [Analysis Workspace에서 사용자 정의 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace의 표준 템플릿](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [맞춤형 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
+      + [사용자 정의 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [데이터를 Analysis Workspace 프로젝트에 포함시키는 방법 이해](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics의 기본 지표](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace의 구성 요소 관리](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
@@ -78,7 +78,7 @@ ht-degree: 99%
       + [Analysis Workspace을 위한 7가지 팁 및 요령](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [Analysis Workspace의 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics 학습 여정을 계속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
-   + 새 Analysis Workspace 프로젝트 탐색 {#navigating-workspace-projects}
+   + Workspace 프로젝트 탐색 {#navigating-workspace-projects}
       + [Analysis Workspace에서 첫 번째 프로젝트 시작하기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspace의 교육용 튜토리얼 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace에 복사 및 삽입](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -112,7 +112,7 @@ ht-degree: 99%
       + [자유 양식 표의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [자유 양식 표 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [Analysis Workspace에서 정적 행 재정렬](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [자유 양식 표에서 Attribution Attribution IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ko)
+      + [자유 양식 표에서 Attribution IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ko)
       + [Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴 사용](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
       + [계속 Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analysis Workspace에서 교차 판매 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -182,7 +182,7 @@ ht-degree: 99%
       + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [내 프로젝트에서 재사용 가능한 날짜 범위 적용](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Analysis Workspace에서 기간 및 비교 사용](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
-      + [맞춤형 기간 생성](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
+      + [사용자 정의 기간 생성](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace의 날짜 비교](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [트렌드에 대한 이전 월 및 연도 비교 추가](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 프로젝트 선별 및 공유 {#curate-and-share-projects}
@@ -199,11 +199,11 @@ ht-degree: 99%
       + [교차 탭 분석을 사용하여 기본 마케팅 기여도 탐색](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Attribution IQ 모델의 나란히 비교 추가](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
       + [계산된 지표의 Attribution IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
-      + [자유 양식 표에서 Attribution Attribution IQ 사용](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [자유 양식 표에서 Attribution IQ 사용](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [Attribution IQ 패널 사용](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
       + [Attribution IQ의 알고리즘 모델](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
-      + [Attribution IQ의 맞춤형 룩백 윈도우](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
+      + [Attribution IQ의 사용자 정의 룩백 윈도우](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + 집단 분석 {#cohort-analysis}
       + [Analysis Workspace의 집단 분석](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
       + [데이터 이해하기 - 집단 테이블](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
@@ -291,7 +291,7 @@ ht-degree: 99%
       + [Launch Analytics 확장에서 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 전역 변수 구성](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 쿠키 설정 구성](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Launch Analytics 확장 기능을 구성하는 동안 맞춤형 코드 사용](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
+      + [Launch Analytics 확장 기능을 구성하는 동안 사용자 정의 코드 사용](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [데이터 레이어를 사용하여 Launch를 통해 페이지 이름 및 기타 변수 설정](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
       + [Launch에서 구현 플러그인 추가](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [Adobe Analytics Extension에서 doPlugin 사용](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
@@ -305,7 +305,7 @@ ht-degree: 99%
       + [성공 이벤트에 대한 Experience Platform Launch 규칙 생성](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
       + [단계 및 제작에 Experience Platform Launch 라이브러리 게시](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + JavaScript 사용 {#using-javascript}
-      + [태그 관리자 없이 맞춤형 링크 추적](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
+      + [태그 관리자 없이 사용자 정의 링크 추적](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch를 사용하지 않을 때 AppMeasurement 업데이트](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + 확인 및 문제 해결 {#validating-and-troubleshooting}
       + [Adobe Experience Cloud Debugger를 사용하여 구현 검사](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
@@ -395,7 +395,7 @@ ht-degree: 99%
       + [Analytics 사이트 고객 여정 프로필 생성](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [활성화 및 보고를 위한 Analytics 세그먼트 생성](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [Adobe Analytics를 사용하여 Advertising Cloud 알림 생성](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Advertising Cloud 데이터를 사용하여 Analytics 맞춤형 지표 만들기](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Advertising Cloud 데이터를 사용하여 Analytics 사용자 정의 지표 만들기](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Advertising Cloud 사이트 시작 보고서 생성](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Advertising Cloud 대시보드 생성](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc 분석 {#ad-hoc-analytics}
@@ -428,7 +428,7 @@ ht-degree: 99%
    + 구현 {#implementation}
       + [모바일 앱 관리 설정](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [Experience Platform SDK를 사용하여 라이프사이클 지표 초기화 및 보기](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
-      + [추적 작업 (예: 맞춤형 링크)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
+      + [추적 작업 (예: 사용자 정의 링크)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [추적 상태 (예: 페이지 또는 화면)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
       + [iOS Swift 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ko)
       + [iOS Objective-C 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ko)
