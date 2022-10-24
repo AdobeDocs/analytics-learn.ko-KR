@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
-workflow-type: ht
+source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
+workflow-type: tm+mt
 source-wordcount: '2429'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 100%
 
 + [Analytics 튜토리얼](overview.md)
 + Analytics 소개 {#intro-to-analytics}
-   + Adobe Analytics를 통해 얻을 수 있는 이점은 무엇입니까? {#what-can-aa-do-for-me}
    + [분석이란?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + [Adobe Analysis Workspace가 비즈니스를 변경시키는 방법](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-   + [데이터 그 이상. 고객 인텔리전스](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-   + [Adobe Sensei 및 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-   + [고객 사용 사례 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-   + [고객 사용 사례 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-   + [고객 사용 사례 - Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-   + [Summit 2019 슈퍼 세션 - 여행 및 접대](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-   + [Adobe Summit 2019 슈퍼 세션 - 리테일](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-   + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + Adobe Analytics를 통해 얻을 수 있는 이점은 무엇입니까? {#what-can-aa-do-for-me}
+      + [Adobe Analysis Workspace가 비즈니스를 변경시키는 방법](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [데이터 그 이상. 고객 인텔리전스](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Adobe Sensei 및 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+      + [고객 사용 사례 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+      + [고객 사용 사례 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+      + [고객 사용 사례 - Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+      + [Summit 2019 슈퍼 세션 - 여행 및 접대](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [Adobe Summit 2019 슈퍼 세션 - 리테일](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [Summit 2019 슈퍼 세션 - 하이 테크](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + 전략 및 사고 리더십{#strategy}
       + [1부 - 효율성 향상을 위한 간단한 방법](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [2부 - 효율성 향상을 위한 간단한 방법](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
