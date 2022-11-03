@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Analytics 튜토리얼
-user-guide-description: Adobe Analytics를 위한 비디오 및 튜토리얼 모음입니다.
+user-guide-description: Adobe Analytics용 비디오 자습서를 보고 데이터를 최대한 활용하는 방법을 배웁니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
-workflow-type: ht
-source-wordcount: '2429'
-ht-degree: 100%
+source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+workflow-type: tm+mt
+source-wordcount: '2437'
+ht-degree: 99%
 
 ---
 
