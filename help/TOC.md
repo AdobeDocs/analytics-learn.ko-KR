@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics용 비디오 자습서를 보고 데이터를 최대한 활용하는 방법을 배웁니다.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2437'
-ht-degree: 99%
+source-wordcount: '2388'
+ht-degree: 97%
 
 ---
 
@@ -44,15 +44,11 @@ ht-degree: 99%
       + [전환 변수 소개 (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ko)
       + [전환 이벤트 소개](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ko)
    + UI 맞춤화 {#customizing-the-ui}
-      + [Adobe Analytics의 사용자 환경 설정](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Analysis Workspace 사용자 환경 설정 사용자 지정](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [차원 및 지표 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Analysis Workspace에서 사용자 정의 색상 팔레트 사용](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [사용자 정의 팔레트를 정의하기 위한 색상 스포이드 확장](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-      + [Reports and Analytics에서 메뉴 맞춤화](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Adobe Analytics의 보안 강화](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [Analysis Workspace를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
+      + [Reports and Analytics에서 메뉴 사용자 지정](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Adobe Analytics의 보안 개선](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Analysis Workspace 프로젝트를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [Analysis Workspace의 다크 모드 확장](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
    + 도움말 보기 {#getting-help}
       + [Analysis Workspace 제품 내 팁](intro-to-analytics/getting-help/in-product-tips.md)
       + [제품 내 지원 티켓 제출](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -63,15 +59,11 @@ ht-degree: 99%
       + [Analysis Workspace 개요](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [새 랜딩 페이지 탐색](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace 랜딩 페이지 업데이트](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [새 Analysis Workspace 프로젝트 제작](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [처음부터 새로 작업 영역 프로젝트 빌드](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [Analysis Workspace에서 사용자 정의 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Analysis Workspace의 표준 템플릿](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [사용자 정의 템플릿을 사용하여 신규 Analysis Workspace 사용자 활성화](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [데이터를 Analysis Workspace 프로젝트에 포함시키는 방법 이해](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics의 기본 지표](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace의 구성 요소 관리](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [구성 요소 관리자 사용](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [Analysis Workspace에서 보고서 세트 선택](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Analysis Workspace 성능 지표 보기](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 팁 및 요령 {#tips-and-tricks}

@@ -8,22 +8,22 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
 # Analysis Workspace에서 맞춤형 템플릿 제작 및 관리 {#create-and-manage-custom-templates-in-analysis-workspace}
 
-이 비디오를 통해 사용자와 팀이 특정 보고서 세트에서 시작할 수 있도록 Analysis Workspace에서 맞춤형 템플릿을 제작하는 방법에 대해 알아보십시오.
+사용자 및 팀이 사전 정의된 보고서 세트에서 시작할 수 있도록 기본 제공 템플릿을 사용하고 Analysis Workspace에서 사용자 지정 템플릿을 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
-[!UICONTROL Adobe 표준 템플릿]이 있으면 좋지만 때로는 사용자 자신만의 고유한 템플릿을 원할 때도 있습니다. 이제 프로젝트를 자신만의 고유한 맞춤형 템플릿으로 만들 수 있습니다. 새로운 사용자가 속도를 높이고 즐겨 찾는 대시보드/프로젝트를 찾거나 팀 간에 대시보드를 공유할 수 있도록 지원하기가 더욱 쉬워졌습니다.
+Analysis Workspace에는 분석을 신속하게 시작할 수 있도록 사전 정의된 여러 템플릿이 포함되어 있습니다. 그것은, 때때로 여러분은 단지 자신만의 템플릿을 원하기도 합니다. 프로젝트를 고유한 사용자 지정 템플릿에 만드는 방법을 알아봅니다. 새로운 사용자가 신속하게 최신 정보를 얻을 수 있고, 즐겨 사용하는 대시보드/프로젝트를 찾을 수 있으며, 여러 팀 간에 대시보드를 공유할 수 있습니다.
 
-표준 + 맞춤형 템플릿에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ko)를 참조하십시오.
+표준 및 사용자 지정 템플릿에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ko).
 
 >[!INFO]
 >
