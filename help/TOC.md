@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2388'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -44,10 +44,10 @@ ht-degree: 98%
       + [전환 변수 소개 (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ko)
       + [전환 이벤트 소개](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ko)
    + UI 맞춤화 {#customizing-the-ui}
-      + [Analysis Workspace 사용자 환경 설정 사용자 지정](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Analysis Workspace 사용자 환경 설정 맞춤화](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [차원 및 지표 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Reports and Analytics에서 메뉴 사용자 지정](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Adobe Analytics의 보안 개선](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [Reports and Analytics에서 메뉴 맞춤화](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [Adobe Analytics의 보안 강화](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Analysis Workspace 프로젝트를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 도움말 보기 {#getting-help}
       + [Analysis Workspace 제품 내 팁](intro-to-analytics/getting-help/in-product-tips.md)
