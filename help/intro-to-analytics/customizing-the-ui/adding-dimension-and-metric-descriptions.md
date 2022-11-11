@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics에서 차원 및 지표 설명 추가
-description: Adobe Analytics에서 차원 및 지표에 컨텍스트를 추가하는 방법을 알아봅니다.
+description: Adobe Analytics에서 차원 및 지표에 컨텍스트를 추가하는 방법을 알아봅니다
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 25453.jpg
 kt: 2352
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
-source-git-commit: 01812bf314ee0ba4fda322d08c27b282dfca7db2
-workflow-type: ht
+source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
+workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
 

@@ -1,24 +1,22 @@
 ---
 title: Analysis Workspace 프로젝트를 Adobe Analytics의 랜딩 페이지로 설정
-description: 이 비디오는 Analysis Workspace의 다양한 측면을 Adobe Analytics의 랜딩 페이지로 설정하여 워크플로를 간소화하는 방법을 보여 줍니다.
+description: 초보 사용자를 workspace analysis 프로젝트 데이터에 쉽게 입력하는 효과적인 방법에 대해 알아봅니다.
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2363
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25459.jpg
+kt: 2364
 exl-id: dc3adde2-be62-4c78-a047-849dd50a118a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
+workflow-type: tm+mt
+source-wordcount: '50'
+ht-degree: 40%
 
 ---
 
 # Analysis Workspace 프로젝트를 Adobe Analytics의 랜딩 페이지로 설정 {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
 
-이 비디오는 [!UICONTROL Analysis Workspace]의 다양한 측면을 Adobe Analytics의 랜딩 페이지로 설정하여 워크플로를 간소화하는 방법을 보여 줍니다.
+초보 사용자를 workspace analysis 프로젝트 데이터에 쉽게 입력하는 효과적인 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)

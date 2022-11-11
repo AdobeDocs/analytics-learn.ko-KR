@@ -1,24 +1,22 @@
 ---
-title: Reports and Analytics에서 메뉴 맞춤화
-description: 이 비디오는 Analytics에서 비즈니스를 위해 메뉴를 맞춤화하는 방법에 대해 안내합니다.
+title: Reports & Analytics에서 메뉴 사용자 지정
+description: 조직의 사용자를 위해 Reports & Analytics 메뉴를 사용자 지정하는 방법을 알아봅니다.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2365
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 333035.jpg
+kt: 2365
 exl-id: e07dd703-0e68-473c-a764-145019bf671f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '40'
-ht-degree: 100%
+source-git-commit: 1b57a173b65903c83ccee4a0ea127568b51b4a93
+workflow-type: tm+mt
+source-wordcount: '43'
+ht-degree: 0%
 
 ---
 
-# [!DNL Reports & Analytics]에서 메뉴 맞춤화 {#customizing-the-menu-in-reports-analytics}
+# 메뉴 사용자 지정 [!DNL Reports & Analytics] {#custome-the-menu-in-reports-analytics}
 
-이 비디오는 [!DNL Analytics]에서 비즈니스를 위해 메뉴를 맞춤화하는 방법에 대해 안내합니다.
+사용자 지정하는 방법 알아보기 [!DNL Reports & Analytics] 조직에 있는 사용자를 위한 메뉴입니다. 이것은 사용자가 가장 자주 사용하는 보고서를 찾는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25457/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12)
