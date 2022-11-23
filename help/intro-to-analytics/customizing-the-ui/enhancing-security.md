@@ -1,24 +1,23 @@
 ---
-title: Adobe Analytics의 보안 강화
-description: Adobe Analytics는 최신 보안 표준을 따릅니다. 조직에서 강력한 암호 및 IP 로그인 제한 사항과 같은 보안 기능을 확장하려는 경우 이 비디오를 통해 그 방법을 확인할 수 있습니다.
+title: 보안 강화
+description: Adobe Analytics에 대한 액세스를 제어하기 위한 회사 설정의 보안 관리자 설정에 대해 알아봅니다.
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics의 보안 강화 {#enhancing-security-in-adobe-analytics}
+# 보안 강화 {#enhance-security}
 
-Adobe Analytics는 최신 보안 표준을 따릅니다. 조직에서 강력한 암호 및 IP 로그인 제한 사항과 같은 보안 기능을 확장하려는 경우 이 비디오를 통해 그 방법을 확인할 수 있습니다.
+Adobe Analytics에 대한 액세스를 제어하기 위한 회사 설정의 보안 관리자 설정에 대해 알아봅니다. 여기에는 강력한 암호, 암호 만료와 복구 기능 및 이메일 도메인 제한 사항이 포함됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)

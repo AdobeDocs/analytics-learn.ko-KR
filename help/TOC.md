@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
-workflow-type: ht
-source-wordcount: '2388'
-ht-degree: 100%
+source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+workflow-type: tm+mt
+source-wordcount: '2382'
+ht-degree: 99%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 100%
       + [Analysis Workspace 사용자 환경 설정 맞춤화](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [차원 및 지표 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [Reports and Analytics에서 메뉴 맞춤화](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [Adobe Analytics의 보안 강화](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [보안 강화](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Analysis Workspace 프로젝트를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 도움말 보기 {#getting-help}
       + [Analysis Workspace 제품 내 팁](intro-to-analytics/getting-help/in-product-tips.md)
@@ -71,7 +71,7 @@ ht-degree: 100%
       + [Analysis Workspace의 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics 학습 여정을 계속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Workspace 프로젝트 탐색 {#navigating-workspace-projects}
-      + [Analysis Workspace에서 첫 번째 프로젝트 시작하기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [템플릿을 사용하여 프로젝트 만들기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspace의 교육용 튜토리얼 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace에 복사 및 삽입](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [목차 생성](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
