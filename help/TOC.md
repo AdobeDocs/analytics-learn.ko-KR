@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
 workflow-type: tm+mt
-source-wordcount: '2382'
-ht-degree: 99%
+source-wordcount: '2383'
+ht-degree: 98%
 
 ---
 
@@ -55,13 +55,13 @@ ht-degree: 99%
       + [Adobe Analytics에서 도움말 보기](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 기본 사항 {#analysis-workspace-basics}
-      + [Analysis Workspace 소개](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace 빠른 소개](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 개요](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [새 랜딩 페이지 탐색](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace 랜딩 페이지 업데이트](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [처음부터 새로 작업 영역 프로젝트 빌드](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
-      + [Analysis Workspace에서 사용자 정의 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [데이터를 Analysis Workspace 프로젝트에 포함시키는 방법 이해](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Analysis Workspace에서 맞춤형 템플릿 제작 및 관리](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
+      + [데이터가 Analysis Workspace 프로젝트에 어떻게 전달되는지 이해하기](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics의 기본 지표](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace의 구성 요소 관리](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Analysis Workspace에서 보고서 세트 선택](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
