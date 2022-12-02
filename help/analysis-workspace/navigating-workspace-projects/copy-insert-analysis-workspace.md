@@ -1,26 +1,21 @@
 ---
-title: Analysis Workspace에 복사 및 삽입
-description: '[복사] + [삽입]을 사용하면 한 패널 또는 프로젝트에서 다른 패널 또는 프로젝트에 시각화를 복사하고 프로젝트 간 전체 패널을 복사할 수 있습니다.'
+title: 패널 및 시각화 복사 및 삽입
+description: Analysis Workspace에서 패널 및 시각화를 복사하고 삽입하는 방법을 알아봅니다
 feature: Panels
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1698
 role: User
 level: Beginner
+kt: 1698
+thumbnail: 23230.jpg
 exl-id: 972d49a3-af5e-4f57-bb50-90b6b16bc7d8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '75'
-ht-degree: 100%
+source-git-commit: 980e3069b31ee572366e269143d2f45387f2b682
+workflow-type: tm+mt
+source-wordcount: '54'
+ht-degree: 0%
 
 ---
 
-# Analysis Workspace에 복사 및 삽입 {#copy-and-insert-in-analysis-workspace}
+# 패널 및 시각화 복사 및 삽입 {#copy-and-insert-panels-and-visualizations}
 
-[복사] + [삽입]을 사용하면 한 패널 또는 프로젝트에서 다른 패널 또는 프로젝트에 시각화를 복사하고 프로젝트 간 전체 패널을 복사할 수 있습니다.
+Analysis Workspace에서 패널 및 시각화를 복사하고 삽입하는 방법을 알아봅니다. 이는 현재 프로젝트를 구체화하거나 새로운 프로젝트에서 헤드 시작을 얻기 위한 시간 절약 기술입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12)
-
-이 기능을 사용하여 논리적인 데이터 스토리 및 프로젝트에 분석을 구성하거나 템플릿에서 복사하여 시작해 볼 수 있습니다.
+>[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)

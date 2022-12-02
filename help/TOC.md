@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
-ht-degree: 97%
+source-wordcount: '2377'
+ht-degree: 96%
 
 ---
 
@@ -72,18 +72,18 @@ ht-degree: 97%
       + [Adobe Analytics 학습 여정을 계속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Workspace 프로젝트 탐색 {#navigating-workspace-projects}
       + [템플릿을 사용하여 프로젝트 만들기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Analysis Workspace의 교육용 튜토리얼 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Analysis Workspace에 복사 및 삽입](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
-      + [목차 생성](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [교육 자습서 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [패널 및 시각화 복사 및 삽입](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [목차 만들기](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
+      + [마우스 오른쪽 단추를 클릭하여 작업 영역 효율성 향상하기](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [키보드 단축키](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Analysis Workspace의 주석](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [주석](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [메뉴 바](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [프로젝트 관리](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [Analysis Workspace에서 작업 실행 취소](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [Analysis Workspace에서 밀도 보기](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [Zero 상태 개선](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [왼쪽 레일에서 필터(태그) 사용](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [작업 실행 취소](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [보기 밀도](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [제로 상태 개선](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
+      + [필터 사용](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + 패널 사용 {#using-panels}
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
