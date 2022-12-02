@@ -6,10 +6,10 @@ kt: 11550
 role: User
 level: Beginner
 thumbnail: 3412023.jpg
-source-git-commit: b5a7cc88fff9e6502a7158fe51d1f68bc4612c01
+source-git-commit: c2f8a60d6508557dd04ac835f096209a0b945cf4
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
+source-wordcount: '64'
+ht-degree: 40%
 
 ---
 
@@ -17,4 +17,8 @@ ht-degree: 0%
 
 Analysis Workspace의 패널에 세그먼트를 적용하기 위한 몇 가지 팁과 전략을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24032/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 이 비디오는 [사용자 정의 세분화 및 날짜를 통해 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
