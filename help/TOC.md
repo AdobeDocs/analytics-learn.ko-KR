@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
+source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
 workflow-type: tm+mt
-source-wordcount: '2377'
-ht-degree: 96%
+source-wordcount: '2372'
+ht-degree: 95%
 
 ---
 
@@ -152,12 +152,11 @@ ht-degree: 96%
       + [Journey IQ - 크로스 디바이스 분석](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + 세그먼트 적용 {#applying-segments}
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [Analysis Workspace에서 세그먼트 사용](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [Ad Hoc (임시) 세그먼트](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ko)
+      + [임시 세그먼트 적용](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [세그먼트에서 다양한 Attribution IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ko)
       + [패널에 사용할 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [Analysis Workspace에서 세그먼트를 Dimension으로 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [세그먼트를 사용하여 Analysis Workspace의 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 지표 {#metrics}
       + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
