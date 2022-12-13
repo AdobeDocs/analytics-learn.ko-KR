@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
+source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
 workflow-type: tm+mt
-source-wordcount: '2372'
+source-wordcount: '2363'
 ht-degree: 95%
 
 ---
@@ -78,11 +78,7 @@ ht-degree: 95%
       + [마우스 오른쪽 단추를 클릭하여 작업 영역 효율성 향상하기](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [키보드 단축키](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [주석](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [메뉴 바](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-      + [프로젝트 관리](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [작업 실행 취소](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
       + [보기 밀도](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [제로 상태 개선](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [필터 사용](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + 패널 사용 {#using-panels}
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
