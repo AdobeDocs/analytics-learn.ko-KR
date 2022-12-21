@@ -1,6 +1,6 @@
 ---
 title: 키보드 단축키 사용
-description: Analysis Workspace에서 키보드 단축키를 사용하는 방법 알아보기
+description: Analysis Workspace에서 키보드 단축키를 사용하는 방법을 알아봅니다
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -8,9 +8,9 @@ kt: 2031
 thumbnail: 23984.jpg
 exl-id: f344469b-b925-4978-918f-5204f6f10094
 source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
