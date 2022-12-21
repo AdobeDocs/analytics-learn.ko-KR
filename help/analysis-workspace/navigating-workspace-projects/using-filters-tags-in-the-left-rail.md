@@ -1,5 +1,5 @@
 ---
-title: 필터 사용(태그)
+title: 필터(태그) 사용
 description: Analysis Workspace에서 필터(태그)를 사용하는 방법을 알아봅니다
 feature: Workspace Basics
 role: User
@@ -8,15 +8,15 @@ kt: 4845
 thumbnail: 32959.jpg
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
 source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
-# 필터 사용(태그)
+# 필터(태그) 사용
 
-Analysis Workspace에서 태그라고 하는 필터를 사용하는 방법을 알아봅니다. 이러한 기능은 프로젝트를 효율적으로 구축할 수 있도록 시간을 절약할 수 있는 기술입니다.
+Analysis Workspace에서 필터(태그)를 사용하는 방법을 알아봅니다. 프로젝트를 효율적으로 빌드하는 데 도움이 되는 시간 절약 기술입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
 
