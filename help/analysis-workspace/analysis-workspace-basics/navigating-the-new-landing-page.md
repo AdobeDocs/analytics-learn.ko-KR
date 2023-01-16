@@ -1,5 +1,5 @@
 ---
-title: 새 Analysis Workspace 랜딩 페이지로 이동합니다
+title: 새로운 Analysis Workspace 랜딩 페이지 탐색
 description: 새로운 Analytics 랜딩 페이지와 해당 기능을 최대한 활용하는 방법에 대해 알아봅니다.
 feature: Analysis Workspace
 role: User
@@ -8,13 +8,13 @@ kt: 10295
 thumbnail: 334278.jpg
 exl-id: bb141630-a441-4049-afe0-5f9de2a33089
 source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '44'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-# 새 Analysis Workspace 랜딩 페이지로 이동합니다
+# 새로운 Analysis Workspace 랜딩 페이지 탐색
 
 새로운 Analytics 랜딩 페이지와 해당 기능을 최대한 활용하는 방법에 대해 알아봅니다.
 
