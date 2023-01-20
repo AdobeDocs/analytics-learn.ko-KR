@@ -1,7 +1,7 @@
 ---
 title: Advertising Analytics에서 검색 엔진에 추적 템플릿 구현
 description: 이 비디오는 Advertising Analytics에서 지원되는 검색 엔진에 추적 템플릿을 구현하는 단계를 설명합니다. 추적 템플릿 구현은 데이터를 수집하여 Adobe Analytics에 전달하는 중요한 단계입니다.
-feature: Advertising Cloud Integration
+feature: Advertising Integration
 topics: null
 activity: implement
 doc-type: feature video
@@ -11,9 +11,9 @@ topic: Integrations
 role: Admin
 level: Intermediate
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: ht
-source-wordcount: '101'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
