@@ -1,24 +1,24 @@
 ---
-title: Analysis Workspace의 자유 형식 테이블 자동 빌드
+title: 빈 프로젝트에 쉽게 드래그하여 놓기
 description: 구성 요소를 빈 프로젝트, 패널 또는 자유 형식 테이블에 직접 놓으면 권장 형식으로 테이블이 자동으로 빌드됩니다.
 feature: Freeform Tables
 thumbnail: 40855.jpg
-kt: 6308
+kt: 11754
 role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 83%
 
 ---
 
-# Analysis Workspace의 자유 형식 테이블 자동 빌드
+# 빈 프로젝트에 쉽게 드래그하여 놓기
 
 구성 요소를 빈 프로젝트, 패널 또는 자유 형식 테이블에 직접 놓으면 권장 형식으로 테이블이 자동으로 빌드됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40855/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
 
 >[!INFO]
 >

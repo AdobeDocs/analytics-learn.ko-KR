@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: ht
+source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+workflow-type: tm+mt
 source-wordcount: '2363'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -94,15 +94,14 @@ ht-degree: 100%
    + 자유 양식 표 빌드 {#building-freeform-tables}
       + [데이터 이해하기 - 자유 양식 표](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 Analysis Workspace에서 자유 양식 표 빌드](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [Analysis Workspace에서 자유 양식 표 자동 빌드](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [빈 프로젝트에 쉽게 드래그하여 놓기](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [자유 양식 표에서 차원 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [자유 양식 표에서 지표 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [자유 양식 표의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [자유 양식 표 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [Workspace 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [Analysis Workspace에서 정적 행 재정렬](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [자유 양식 표에서 Attribution IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ko)
-      + [Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴 사용](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
-      + [계속 Analysis Workspace에서 마우스 오른쪽 버튼 클릭 메뉴](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analysis Workspace에서 교차 판매 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [자유 양식 표 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Analysis Workspace의 시간 분할 차원](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
