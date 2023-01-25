@@ -1,5 +1,5 @@
 ---
-title: 자유 형식 테이블에서 차원을 사용하여 작업
+title: 자유 형식 테이블에서 Dimension 작업
 description: 추가, 정렬, 필터링, 다른 차원별로 분류 등 자유 형식 테이블에서 차원을 사용하는 작업에 대해 알아봅니다.
 feature: Dimensions
 thumbnail: 40179.jpg
@@ -7,14 +7,14 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# 자유 형식 테이블에서 차원을 사용하여 작업
+# 자유 형식 테이블에서 Dimension 작업
 
 추가, 정렬, 필터링, 다른 차원별로 분류 등 자유 형식 테이블에서 차원을 사용하는 작업에 대해 알아봅니다.
 

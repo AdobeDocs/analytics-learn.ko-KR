@@ -1,5 +1,5 @@
 ---
-title: 왼쪽 레일을 사용하여 Analysis Workspace에서 자유 형식 테이블 작성
+title: 왼쪽 레일을 사용하여 Analysis Workspace에서 자유 형식 테이블 만들기
 description: Analysis Workspace에서 왼쪽 레일을 사용하여 항목을 찾고, 생성하고, 자유 형식 테이블에 추가하는 방법에 대해 알아봅니다.
 feature: Freeform Tables
 thumbnail: 40089.jpg
@@ -7,14 +7,14 @@ kt: 6161
 role: User
 level: Beginner
 exl-id: 60611747-80c7-4bd0-88b8-a36fb420d290
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 100%
+ht-degree: 73%
 
 ---
 
-# 왼쪽 레일을 사용하여 Analysis Workspace에서 자유 형식 테이블 작성
+# 왼쪽 레일을 사용하여 Analysis Workspace에서 자유 형식 테이블 만들기
 
 Analysis Workspace에서 왼쪽 레일을 사용하여 항목을 찾고, 생성하고, 자유 형식 테이블에 추가하는 방법에 대해 알아봅니다.
 
