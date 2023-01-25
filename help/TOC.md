@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
 ht-degree: 97%
@@ -98,6 +98,7 @@ ht-degree: 97%
       + [자유 형식 테이블에서 차원 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [자유 형식 테이블에서 지표 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [자유 형식 테이블 총계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [자유 형식 테이블 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [마우스 오른쪽 단추를 클릭하여 작업 영역 효율성 향상하기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [정적 행 순서 바꾸기](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -105,7 +106,6 @@ ht-degree: 97%
       + [크로스셀 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [자유 형식 표 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [차원 시간 분할](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [자유 형식 테이블 총계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + 시각화 {#visualizations}
       + [Analysis Workspace의 데이터 시각화](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
