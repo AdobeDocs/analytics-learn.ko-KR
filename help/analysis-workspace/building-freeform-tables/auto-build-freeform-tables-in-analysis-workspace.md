@@ -1,5 +1,5 @@
 ---
-title: 빈 프로젝트에 쉽게 드래그하여 놓기
+title: 빈 프로젝트로 손쉽게 드래그 앤 드롭
 description: 구성 요소를 빈 프로젝트, 패널 또는 자유 형식 테이블에 직접 놓으면 권장 형식으로 테이블이 자동으로 빌드됩니다.
 feature: Freeform Tables
 thumbnail: 40855.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
 source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# 빈 프로젝트에 쉽게 드래그하여 놓기
+# 빈 프로젝트로 손쉽게 드래그 앤 드롭
 
 구성 요소를 빈 프로젝트, 패널 또는 자유 형식 테이블에 직접 놓으면 권장 형식으로 테이블이 자동으로 빌드됩니다.
 
