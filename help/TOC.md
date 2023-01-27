@@ -94,7 +94,7 @@ ht-degree: 97%
    + 자유 양식 표 빌드 {#building-freeform-tables}
       + [데이터 이해 - 자유 형식 테이블](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 자유 형식 테이블을 만듭니다](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [빈 프로젝트에 쉽게 드래그하여 놓기](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [빈 프로젝트로 손쉽게 드래그 앤 드롭](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [자유 형식 테이블에서 차원 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [자유 형식 테이블에서 지표 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
