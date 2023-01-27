@@ -1,26 +1,22 @@
 ---
-title: Adobe Analytics를 사용하여 Advertising Cloud 알림 생성
-description: Adobe Analytics 알림을 사용하여 Advertising 유료 미디어 캠페인을 모니터하는 방법
+title: Adobe Analytics을 사용하여 Advertising Cloud 경고 만들기
+description: Adobe Analytics 경고의 기능을 탭하여 Advertising Cloud 유료 미디어 캠페인을 모니터링하는 방법을 알아봅니다.
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35118.jpg
-kt: 5475
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35118.jpg
+kt: 5475
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
-workflow-type: ht
-source-wordcount: '49'
-ht-degree: 100%
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
+workflow-type: tm+mt
+source-wordcount: '52'
+ht-degree: 0%
 
 ---
 
-# Adobe Analytics를 사용하여 Advertising Cloud 알림 생성
+# Adobe Analytics을 사용하여 Advertising Cloud 경고 만들기
 
-Adobe Analytics 알림을 사용하여 Advertising Cloud 유료 미디어 캠페인을 모니터하는 방법
+Adobe Analytics 경고의 기능을 탭하여 Advertising Cloud 유료 미디어 캠페인을 모니터링하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)

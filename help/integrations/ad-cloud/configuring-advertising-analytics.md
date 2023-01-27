@@ -1,26 +1,23 @@
 ---
 title: Adobe Analytics에서 Advertising Analytics 구성
-description: 이 비디오에서는 Advertising Analytics를 활용하도록 보고서 세트를 구성하는 방법, 유료 검색 계정을 설정하는 방법 및 Advertising Analytics의 세부 정보 보고에 대한 내용을 세밀하게 검토합니다.
+description: Advertising Analytics을 활용하도록 보고서 세트를 구성합니다.
 feature: Advertising Integration
-topics: null
-activity: setup
-doc-type: feature video
-team: Technical Marketing
-kt: 1642
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 23119.jpg
+kt: 1642
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 27%
 
 ---
 
-# Adobe Analytics에서 [!DNL Advertising Analytics] 구성 {#configuring-advertising-analytics-in-adobe-analytics}
+# 구성 [!DNL Advertising Analytics] Adobe Analytics {#configuring-advertising-analytics-in-adobe-analytics}
 
-이 비디오에서는 [!DNL Advertising Analytics]를 활용하도록 [!UICONTROL 보고서 세트]를 구성하는 방법, 유료 검색 계정을 설정하는 방법 및 [!DNL Advertising Analytics]의 세부 정보 보고에 대한 내용을 세밀하게 검토합니다.
+구성 방법에 대한 높은 수준의 검토 [!UICONTROL 보고서 세트] 를 [!DNL Advertising Analytics], 유료 검색 계정을 설정하는 방법 및 [!DNL Advertising Analytics].
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 
