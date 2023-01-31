@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -93,18 +93,18 @@ ht-degree: 97%
       + [다음/이전 및 페이지 요약 작업 영역 패널 및 보고서](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 자유 양식 표 빌드 {#building-freeform-tables}
       + [데이터 이해 - 자유 형식 테이블](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [왼쪽 레일을 사용하여 자유 형식 테이블을 만듭니다](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [왼쪽 레일을 사용하여 자유 형식 테이블 만들기](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [빈 프로젝트로 손쉽게 드래그 앤 드롭](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [자유 형식 테이블에서 차원 작업](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [자유 형식 테이블에서 지표 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [자유 형식 테이블에서 지표를 사용하여 작업](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-      + [자유 형식 테이블 총계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+      + [자유 형식 테이블 합계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [자유 형식 테이블 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [마우스 오른쪽 단추를 클릭하여 작업 영역 효율성 향상하기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
+      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [정적 행 순서 바꾸기](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [자유 형식 테이블에서 Attribution IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ko)
       + [크로스셀 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
-      + [자유 형식 표 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [자유 형식 테이블 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [차원 시간 분할](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 시각화 {#visualizations}
       + [Analysis Workspace의 데이터 시각화](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
