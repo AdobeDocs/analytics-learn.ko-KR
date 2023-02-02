@@ -1,6 +1,6 @@
 ---
-title: Advertising Cloud 마케팅 채널을 사용한 보고서
-description: Advertising Cloud 뷰스루 및 클릭스루 입력 데이터가 Adobe Analytics 마케팅 채널과 작동하는 방식을 알아봅니다.
+title: Advertising Cloud 마케팅 채널을 사용하여 보고
+description: Advertising Cloud 뷰스루 및 클릭스루 입력 데이터가 Adobe Analytics 마케팅 채널을 사용하여 작동하는 방식에 대해 알아보십시오.
 feature: Advertising Integration
 topic: Integrations
 role: User
@@ -9,14 +9,14 @@ thumbnail: 35115.jpg
 kt: 5472
 exl-id: e879f628-99e9-41ab-a711-d9e6e1b22d16
 source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
 # Advertising 마케팅 채널을 사용하여 보고
 
-Advertising Cloud 뷰스루 및 클릭스루 항목 데이터가 Adobe Analytics에서 작동하는 방식을 알아봅니다 [!UICONTROL 마케팅 채널].
+Advertising Cloud 뷰스루 및 클릭스루 입력 데이터가 Adobe Analytics [!UICONTROL 마케팅 채널]을 사용하여 작동하는 방식에 대해 알아보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
