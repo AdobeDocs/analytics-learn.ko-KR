@@ -2,26 +2,22 @@
 title: Analytics 데이터 수집 방법
 description: 페이지에서 Adobe Analytics의 보고서로 데이터를 가져오는 방법은 무엇입니까? 이 비디오는 방법을 보여 줍니다.
 feature: Analytics Basics
-topics: null
-activity: understand
-doc-type: feature video
-team: Technical Marketing
 kt: 3565
 role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '65'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
-# [!DNL Analytics] 데이터 수집 방법
+# 방법 [!DNL analytics] 데이터가 검색됨
 
 페이지에서 Adobe Analytics의 보고서로 데이터를 가져오는 방법은 무엇입니까? 이 비디오는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)
 
 >[!INFO]
 >
