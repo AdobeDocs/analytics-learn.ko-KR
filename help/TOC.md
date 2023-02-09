@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2344'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -107,37 +107,37 @@ ht-degree: 96%
       + [자유 형식 테이블 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [차원 시간 분할](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 시각화 {#visualizations}
-      + [Analysis Workspace의 데이터 시각화](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
+      + [Analysis Workspace에서의 데이터 시각화](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
       + [시각화 사용 사례](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [시각화할 데이터 선택](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [시각화할 데이터 선택하기](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [데이터 시각화](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [작업 공간에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [영역 및 스택 영역 시각화](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [막대 및 스택 시각화](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [작업 영역에서 구성 요소 드롭다운 사용하기](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [영역 및 영역 누적 시각화](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [막대 및 막대 누적 시각화](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [글머리 기호 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [도넛 시각화](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
       + [라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [콤보 차트](analysis-workspace/visualizations/combo-charts.md)
-      + [선 시각화에 트렌드 라인 추가](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [라인 시각화에 추세선 추가하기](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [맵 시각화](analysis-workspace/visualizations/map-visualization.md)
-      + [요약 번호 및 요약 변경 사항 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [주요 지표 요약 시각화](analysis-workspace/visualizations/key-metric-summary.md)
       + [텍스트 시각화](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [산포도 시각화](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [트리맵 시각화](analysis-workspace/visualizations/treemap-visualization.md)
       + [벤 다이어그램 시각화](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [누적 평균 함수를 사용하여 지표 평활 적용](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [누적 평균 함수를 사용하여 지표 스무딩 적용하기](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [유연한 레이아웃](analysis-workspace/visualizations/flexible-layouts.md)
       + [시각화에서 크기/축 변경](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [Dimension 그래프 라이브 연결](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [세부기간 전환](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Analysis Workspace의 내부 연결](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [시각화 다시 정렬 및 크기 조정](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
+      + [차원 그래프 라이브 링크](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [세부 기간 토글](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Analysis Workspace에서의 내부 연결](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+      + [시각화 재정렬 및 크기 조정](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [시각화 범례 맞춤화](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 누적 시각화](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [테이블 및 시각화 데이터 소스 설정](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [표 및 시각화 데이터 소스 설정](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [시간 분할 히트맵 빌드](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + 고객 여정 분석 {#analyzing-customer-journeys}
       + [폴아웃 시각화 만들기](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
