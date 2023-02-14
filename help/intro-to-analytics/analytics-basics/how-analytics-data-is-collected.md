@@ -6,14 +6,14 @@ kt: 3565
 role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 53db4c11ce54076099f1d38e2005103a2fe82d72
 workflow-type: ht
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
-# [!DNL analytics] 데이터 수집 방법
+# Analytics 데이터 수집 방법
 
 페이지에서 Adobe Analytics의 보고서로 데이터를 가져오는 방법은 무엇입니까? 이 비디오는 방법을 보여 줍니다.
 
