@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: ht
-source-wordcount: '2344'
-ht-degree: 100%
+source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
+workflow-type: tm+mt
+source-wordcount: '2349'
+ht-degree: 99%
 
 ---
 
@@ -342,6 +342,7 @@ ht-degree: 100%
       + [사용자 정의 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 대시보드 인앱 경험](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [사용자 정의 상세 보기 만들기](additional-tools/analytics-dashboards/create-custom-detail-views.md)
+      + [Analytics 대시보드의 데이터 스토리](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + 내보내기 {#exporting}
    + UI에서 {#from-the-ui}
       + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
