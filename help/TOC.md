@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2349'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -342,7 +342,7 @@ ht-degree: 99%
       + [사용자 정의 날짜 범위 적용](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 대시보드 인앱 경험](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
       + [사용자 정의 상세 보기 만들기](additional-tools/analytics-dashboards/create-custom-detail-views.md)
-      + [Analytics 대시보드의 데이터 스토리](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
+      + [Analytics 대시보드에 대한 데이터 스토리](additional-tools/analytics-dashboards/data-stories-for-analytics-dashboards.md)
 + 내보내기 {#exporting}
    + UI에서 {#from-the-ui}
       + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
@@ -435,7 +435,7 @@ ht-degree: 99%
       + [Web SDK를 사용하여 내부 검색 변수 구현](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
       + [Web SDK 변수를 Adobe Analytics에 매핑](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [내부 사이트 검색 보고서 구성](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
-   + [마켓 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
+   + [시장 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다](retired-courses/retire-fundamentals-for-business-users-course.md)
