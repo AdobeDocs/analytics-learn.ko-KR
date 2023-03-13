@@ -10,9 +10,9 @@ thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '330'
+ht-degree: 88%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 100%
 * Adobe Analytics의 상위 5가지 팁 (예: 드롭다운 생성 방법)
 * Attribution IQ 사용 방법
 
-그런 다음 긴 이메일을 작성하거나 다른 회의를 준비하는 대신 사용자를 쉽게 안내할 수 있습니다. 사용자 교육에 대한 추가 팁과 요령은 사용자 교육 간소화 및 시간 단축에 대한 [Adobe 챔피언 Thomas Edward Buckley의 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ko){target=&quot;_blank&quot;}를 확인하십시오.
+그런 다음 긴 이메일을 작성하거나 다른 회의를 준비하는 대신 사용자를 쉽게 안내할 수 있습니다. 사용자 교육에 대한 추가 팁과 요령은 다음을 확인하십시오 [Adobe 챔피언 Thomas Edward Buckley의 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ko){target="_blank"} 사용자 교육을 단순화하고 시간을 단축하는 데 대한 모든 것을 다룹니다.
 
-또한 Adobe Experience League에는 수많은 [비디오 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target=&quot;_blank&quot;}과 [무료 교육 과정](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target=&quot;_blank&quot;}이 있습니다. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우, 반드시 나만의 동영상을 녹화하십시오. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
+또한, 다량의 (예, 다량의) [비디오 자습서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"} on Adobe Experience League, as well as [free courses](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우, 반드시 나만의 동영상을 녹화하십시오. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
 
 ## 작성자
 

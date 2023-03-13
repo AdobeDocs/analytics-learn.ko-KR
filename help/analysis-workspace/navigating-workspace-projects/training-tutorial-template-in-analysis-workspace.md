@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace의 교육용 튜토리얼 템플릿
-description: 'Analysis Workspace 교육용 튜토리얼은 작업 영역에서 첫 번째 분석을 구축하기 위한 일반적인 용어와 단계를 안내합니다. '
+description: Analysis Workspace 교육용 튜토리얼은 작업 영역에서 첫 번째 분석을 구축하기 위한 일반적인 용어와 단계를 안내합니다.
 feature: Panels
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

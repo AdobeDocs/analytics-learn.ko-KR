@@ -10,9 +10,9 @@ thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '1805'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1803'
+ht-degree: 99%
 
 ---
 
@@ -101,7 +101,7 @@ Adobe Analytics로 태그가 지정되지 않은 경우에도 모든 디지털 �
 >
 >Adobe Analytics에서 사이트 이름/속성 차원을 만듭니다. Adobe Analytics에 사이트 이름/앱 이름을 식별하는 전용 차원(일반적으로 eVar)이 있으면 세그먼트화, 문제 해결, 가상 보고서 세트 생성 등이 가능합니다. 이점은 특히 여러 사이트를 하나의 (글로벌) 보고서 세트로 결합할 경우 무한합니다. 중요한 것은 개발 팀이 모든 페이지 로드(s.t 호출/trackState) 및 모든 사용자 정의 이벤트(s.tl 호출/trackAction)를 포함하여 속성 차원에서 항상 이 값을 설정하도록 하는 것입니다. 처리 규칙은 이러한 값을 적절하고 일관되게 설정하는 데 유용한 도구가 될 수 있습니다.
 
-[Doug Moore{target=&quot;_blank&quot;}의 이 비디오](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html)를 통해 구현 플레이북 작성에 대한 자세히 알아보십시오.
+[Doug Moore의 이 비디오 보기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} 구현 플레이북 작성에 대한 자세한 정보입니다.
 
 ## 작성자
 

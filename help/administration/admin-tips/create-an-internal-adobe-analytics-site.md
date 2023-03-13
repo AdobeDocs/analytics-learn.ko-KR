@@ -10,15 +10,15 @@ thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '300'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '298'
+ht-degree: 92%
 
 ---
 
 # 내부 Adobe Analytics 사이트 만들기 (Confluence 또는 기타)
 
-**내용:** [이 팁](create-basic-videos-and-training.md){target=&quot;_blank&quot;}의 권장 사항에 유의하여 교육용 문서를 생성했다면 하드 드라이브에 보관할 수 없습니다. 모든 사용자가 공유하고 볼 수 있는 중앙 위치, 즉 이러한 모든 문서를 게시하고 다양한 버전을 유지할 수 있는 내부 Adobe Analytics 사이트(Confluence 또는 기타)를 만드십시오.
+**내용:** 에서 권장 사항을 유념한 경우 [이 팁](create-basic-videos-and-training.md){target="_blank"} 교육 문서를 만들려면 하드 드라이브에 보관할 수 없습니다. 모든 사용자가 공유하고 볼 수 있는 중앙 위치, 즉 이러한 모든 문서를 게시하고 다양한 버전을 유지할 수 있는 내부 Adobe Analytics 사이트(Confluence 또는 기타)를 만드십시오.
 
 **이유:** 단일 공유 저장소를 설정하면 모든 신규 사용자를 직접 안내하고 모든 문서의 최신 버전에 대한 신뢰할 수 있는 단일 소스를 제공할 수 있습니다. 최적의 버전 관리 및 공동 작업이 가능합니다.
 
