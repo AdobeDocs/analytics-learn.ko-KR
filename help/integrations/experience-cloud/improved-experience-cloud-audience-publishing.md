@@ -1,6 +1,7 @@
 ---
 title: 향상된 Experience Cloud 대상 게시
 landing-page-description: 게시 대상자(세그먼트)를 학습하고 보다 신속하게 이용할 수 있도록 합니다.
+short-description: Learn publish audiences (segments) and make them available faster than ever.
 description: Experience Cloud 대상 게시가 개선되었습니다. 이제 6배 더 빠르게 대상(세그먼트)을 게시하여 사용할 수 있으므로, 현재 지연 시간을 48시간에서 약 8시간으로 단축할 수 있으며 트래픽 및 세그먼트 크기에 따라 더 빨리 사용할 수 있습니다.
 feature: Experience Cloud Integration
 topics: null
@@ -12,9 +13,9 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
-source-wordcount: '165'
+source-git-commit: 3b037de31160f7741cc10429ea4e97864f2863a8
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
