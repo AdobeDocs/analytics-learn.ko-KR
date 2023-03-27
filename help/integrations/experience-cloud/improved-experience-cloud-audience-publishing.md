@@ -13,8 +13,8 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
-source-git-commit: 3b037de31160f7741cc10429ea4e97864f2863a8
-workflow-type: tm+mt
+source-git-commit: c2728e42ffe14d738d440ac74293285ba54e37b8
+workflow-type: ht
 source-wordcount: '165'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Experience Cloud 대상 게시가 개선되었습니다. 이제 6배 더 빠르게 대상([!UICONTROL 세그먼트])을 게시하여 사용할 수 있으므로, 현재 지연 시간을 48시간에서 약 8시간으로 단축할 수 있으며 트래픽 및 [!UICONTROL 세그먼트] 크기에 따라 더 빨리 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 또한 한 번에 게시할 수 있는 [!UICONTROL 세그먼트] 수가 [!UICONTROL 보고서 세트]당 20개에서 75개로 증가했습니다.
 자세한 내용은 Analytics 도움말의 [Experience Cloud에 세그먼트 게시](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html)를 참조하십시오.
