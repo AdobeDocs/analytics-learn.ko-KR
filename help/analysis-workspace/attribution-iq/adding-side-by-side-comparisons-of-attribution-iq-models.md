@@ -11,8 +11,8 @@ kt: 1705
 role: User
 level: Intermediate
 exl-id: 3c259132-250a-4579-a4d8-344e0b0055f1
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '90'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 이 비디오에서는 두 모델의 숫자 간 퍼센트 차이를 표시하는 자동 생성 열을 포함하여 여러 [!DNL Attribution IQ models]을 빠르게 비교하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)
 
 >[!INFO]
 >
