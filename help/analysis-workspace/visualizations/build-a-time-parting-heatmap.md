@@ -7,8 +7,8 @@ kt: 2813
 role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 비헤이비어의 히트맵 [!UICONTROL 시각화]를 생성하여 시간 분할 분석을 다음 수준으로 이끄는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)
 
 >[!INFO]
 >
