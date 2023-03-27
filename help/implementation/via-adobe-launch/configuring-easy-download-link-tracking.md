@@ -10,8 +10,8 @@ kt: 1844
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '173'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Adobe [!DNL Experience Platform Launch]의 Adobe Analytics [!UICONTROL 확장 기능]에서 몇 번의 클릭만으로 컴퓨터에 비 브라우저 파일을 다운로드하는 다운로드 링크를 추적할 수 있습니다. 이 비디오를 통해 그 설정 방법을 알아볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 백서, 설명서, 오디오 또는 비디오 파일, 또는 기타 문서에 관계없이 브라우저에서 열리지 않는 파일을 다운로드할 수 있는 링크가 사이트에 있을 수 있습니다. 최소한 링크가 텍스트 파일처럼 브라우저에서 열리더라도, 페이지에서 [!DNL Analytics] 코드를 추적에 사용할 수는 없습니다. 따라서 다운로드 파일에 대한 링크를 추적해야 합니다.
 
