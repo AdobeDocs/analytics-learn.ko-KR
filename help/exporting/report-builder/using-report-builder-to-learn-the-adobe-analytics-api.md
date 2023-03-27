@@ -10,8 +10,8 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '274'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Report Builder]는 우리 모두가 알고 있고 자주 사용하는 프로그램입니다. 그렇다면 [!UICONTROL Report Builder]에 대해 알고 있는 정보를 사용하여 Adobe Analytics 스킬 세트를 더욱 발전시킬 수 있다면 어떨까요? 이 비디오에서는 [!UICONTROL Report Builder] 요청을 디버깅하고 이를 사용하여 나만의 [!DNL Analytics] API 쿼리를 구축하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **업데이트**: [!UICONTROL Report Builder]에서 데이터를 요청하는 방법이 약간 업데이트되었습니다. 이 비디오의 방법을 계속 사용할 수 있지만, 디버거에서는 정보가 약간 달라집니다.
 
