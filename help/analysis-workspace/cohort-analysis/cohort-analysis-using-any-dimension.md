@@ -10,8 +10,8 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 사용자 정의 [!UICONTROL 집단] [!UICONTROL 차원] 옵션을 사용하면 시간 이외의 [!UICONTROL 차원]을 사용하여 [!UICONTROL 집단]을 분석할 수 있습니다. 마케팅 채널, 캠페인 지역, 제품 페이지별로 [!UICONTROL 집단]을 분석하여 [!UICONTROL 차원] 항목별로 [!UICONTROL 유지] 또는 [!UICONTROL 이탈]이 어떻게 변경되는지 더 잘 이해할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.
 
