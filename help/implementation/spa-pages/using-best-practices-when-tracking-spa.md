@@ -11,8 +11,8 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '1313'
 ht-degree: 100%
 
@@ -88,7 +88,7 @@ SPA 페이지에 새 콘텐츠가 로드되거나 SPA 페이지에서 작업을 
 
 이벤트 발생 방법 및 시기에 대한 자세한 내용은 위에서 참조된 페이지 및 문서를 참조하십시오. 구현에서 동일한 이벤트 이름을 사용할 필요가 없습니다. 사용된 메서드에 대한 기능 사용 사례는 각 메서드의 권장 모범 사례로 이해해야 합니다. 다음 비디오는 사용자 정의 이벤트를 수신하는 [!DNL Experience Platform Tags]에서 샘플 SPA 페이지와 샘플 코드를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## [!DNL Experience Platform Tags]에서 s.t() 또는 s.tl() 실행 {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ SPA로 작업 시 [!DNL Analytics]를 이해하는 데 필요한 중요 개념�
 
 다음 비디오는 Tags에서 `s.t()` 또는 `s.tl()`을 트리거하는 위치와 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## 변수 지우기 {#clear-variables}
 
@@ -114,7 +114,7 @@ SPA로 작업 시 [!DNL Analytics]를 이해하는 데 필요한 중요 개념�
 
 다음 비디오는 [!DNL Tags]에서 변수를 지우는 위치 및 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## 추가 고려 사항 {#additional-considerations}
 
