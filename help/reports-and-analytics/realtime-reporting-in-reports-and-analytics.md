@@ -10,8 +10,8 @@ kt: 2360
 role: User
 level: Beginner
 exl-id: 6e434bce-b7da-4ced-94bd-0ad30711fa2c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오는 Adobe가 Adobe Analytics에서 수행한 [!UICONTROL Reports &amp; Analytics]의 [!UICONTROL 실시간 보고서]에 대한 몇 가지 업데이트를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
