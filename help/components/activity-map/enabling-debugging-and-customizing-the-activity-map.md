@@ -8,8 +8,8 @@ kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 [!UICONTROL Activity Map]이 Adobe Analytics 확장 기능에 배포되는 방식을 활성화하고, 디버깅하고, 맞춤화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
 >[!INFO]
 >
