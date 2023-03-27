@@ -10,8 +10,8 @@ kt: 2479
 role: User
 level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL 집단 테이블]은 [!UICONTROL 유지]와 [!UICONTROL 이탈]이라는 두 가지 분석 유형을 제공합니다. [!UICONTROL 유지]는 시간이 지남에 따라 유지되는 사용자 수를, [!UICONTROL 이탈] 옵션은 손실되는 사용자 수를 나타냅니다(1 - 유지).
 
->[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.
 
