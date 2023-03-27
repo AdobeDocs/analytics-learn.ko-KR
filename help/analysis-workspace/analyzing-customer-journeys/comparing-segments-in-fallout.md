@@ -11,8 +11,8 @@ kt: 2278
 role: User
 level: Beginner
 exl-id: 64097031-55a3-458b-bf5b-18ed4babb956
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 이 비디오는 Analysis Workspace의 다양한 세그먼트 간에 주요 워크플로를 비교하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=ko)를 참조하십시오.
 
