@@ -7,8 +7,8 @@ level: Beginner
 thumbnail: 33634.jpg
 kt: 4108
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: 953ba61db6f3fb50ab4caa57c402ec6f75b7831f
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 이 비디오를 통해 프로젝트를 직접 저장하고 내보내고, 다른 수신자에게 프로젝트를 전송하고, 다른 사용자를 초대하여 프로젝트에서 공동 작업을 수행하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html)를 참조하십시오.
 
