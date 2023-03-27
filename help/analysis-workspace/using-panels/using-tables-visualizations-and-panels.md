@@ -10,8 +10,8 @@ kt: 4103
 role: User
 level: Beginner
 exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717,a273d1a8-3b58-4bf2-b683-638d26a1cc4e
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 이 비디오에서는 Analysis Workspace 프로젝트의 기본 요소, 즉 패널, 표 및 시각화를 사용하는 방법에 대해 알아봅니다. 이들 요소는 데이터가 칠해지는 캔버스입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
 자세한 내용은 [패널](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ko) 및 [시각화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ko)에 대한 설명서를 참조하십시오.
 
