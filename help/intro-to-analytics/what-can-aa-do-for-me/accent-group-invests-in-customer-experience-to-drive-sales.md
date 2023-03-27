@@ -10,8 +10,8 @@ kt: 4386
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 호주에서 가장 큰 신발 소매점인 [!DNL Accent Group]은 물리적 및 디지털 접점에 걸쳐 우수한 고객 경험을 제공함으로써 판매 및 전환을 확대합니다. [!DNL Accent Group]이 Adobe Experience Cloud를 사용하여 원활한 디지털 경험을 생성하는 방법을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
