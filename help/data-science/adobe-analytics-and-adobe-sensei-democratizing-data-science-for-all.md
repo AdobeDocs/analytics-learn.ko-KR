@@ -10,8 +10,8 @@ kt: 2339
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 32f5ad95-1995-494f-9857-165bb81ae04f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Adobe Analytics의 Adobe Sensei 머신 러닝 및 AI 기술을 통해 비즈니스 사용자가 데이터를 최신 상태로 유지하고 중요할 때 실용적으로 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)
