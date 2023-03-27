@@ -10,8 +10,8 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 다음은 [!UICONTROL 보존] 또는 [!UICONTROL 이탈] 보기를 맞춤화할 수 있는 몇 가지 ¨ 설정입니다. 이 비디오에서 강조하는 이들 설정을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 [!UICONTROL 집단 테이블]에 대한 맞춤화 옵션에는 다음과 같은 기능이 포함됩니다.
 
