@@ -13,8 +13,8 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '148'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 이 사용 사례에서는 우편 번호를 가져오도록 시스템을 구성하고, 가져온 우편 번호를 시장 내 또는 시장 외로 분류하고, 지리 기반 마케팅 캠페인의 효과를 볼 수 있도록 Analysis Workspace에서 이 데이터를 사용해 보겠습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 이 사용 사례와 관련된 추가 정보는 다음 설명서 항목을 참조하십시오.
 
