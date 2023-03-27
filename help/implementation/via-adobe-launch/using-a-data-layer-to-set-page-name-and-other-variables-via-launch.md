@@ -7,8 +7,8 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '324'
 ht-degree: 100%
 
@@ -37,7 +37,7 @@ _데이터 레이어_&#x200B;는 개발자가 디지털 웹 페이지에 추가�
 
 다음 비디오는 이 과정에 대해 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >
