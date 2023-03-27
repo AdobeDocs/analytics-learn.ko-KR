@@ -11,8 +11,8 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '174'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 작업은 모바일 앱에서 발생하는 이벤트입니다. 이 비디오에서는 trackAction API를 사용하여 작업을 추적하고 측정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 사이트의 모든 비화면 로드 작업을 추적하는 데 사용해야 하는 API입니다. 화면이 나타나면 trackState를 사용하여 페이지 뷰의 횟수를 트리거합니다. 그렇지 않은 경우 trackAction을 사용하여 작업과 관련된 변수를 보냅니다.
 
