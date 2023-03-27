@@ -7,8 +7,8 @@ role: User
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL 글머리 기호] 그래프는 분석 목표에 대한(또는 초과) 진행 상황을 표시하는 유용한 방법입니다. 조직의 성공을 시각화할 수 있는 다른 방법을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=ko)를 참조하십시오.
 
