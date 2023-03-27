@@ -12,8 +12,8 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: 4487a376-90fe-4952-92e1-c2333ae88a75
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 [!UICONTROL Analysis Workspace]용 [!DNL Magento Marketing and Commerce] 템플릿을 소개합니다. 이는 [!DNL Magento] 사용자를 대상으로 하지만 모든 온라인 소매점에서 활용할 수 있습니다. 여기에는 판매 개선에 도움이 되는 상거래 활동에 대한 소매점을 위해 미리 제작된 인사이트가 포함됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12&learn=on)
