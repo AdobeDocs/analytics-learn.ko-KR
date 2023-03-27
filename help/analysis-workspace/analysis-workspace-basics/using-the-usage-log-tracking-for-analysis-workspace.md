@@ -11,8 +11,8 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 이 비디오는 사용자의 Adobe Analytics를 사용을 더 잘 이해하는 데 도움이 되는 [!DNL Workspace] 프로젝트에서 [!UICONTROL 사용 로그 추적] 프로젝트를 사용하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
 [!DNL Workspace] 추적 옵션은 다음과 같습니다.
 
