@@ -7,8 +7,8 @@ kt: 2300
 role: User
 level: Beginner
 exl-id: 763c9504-0692-4d56-ba5e-a3af7e2e607a
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 Adobe Analytics의 세분화를 사용하여 데이터를 쪼개어 분석합니다. 이 비디오는 세그먼트 빌더를 안내하고 기본 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)
 
 >[!INFO]
 >
