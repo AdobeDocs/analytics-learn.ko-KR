@@ -6,8 +6,8 @@ kt: 4110
 role: User
 level: Beginner
 exl-id: 8f8f597f-bc43-4baf-8c5c-f1dd869bef82
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 이 비디오에서는 Analysis Workspace에서 생산성을 향상시키고 시간을 절약하기 위한 4가지 팁을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12&learn=on)
 
 >[!INFO]
 >
