@@ -11,8 +11,8 @@ topic: Integrations
 role: User
 level: Intermediate
 exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '72'
 ht-degree: 100%
 
@@ -22,5 +22,5 @@ ht-degree: 100%
 
 [!UICONTROL Ad Hoc Analysis] 프로젝트 전환기는 한 번의 버튼 클릭으로 [!UICONTROL Ad Hoc Analysis] (AHA) 프로젝트를 [!UICONTROL Analysis Workspace] 프로젝트로 원활하게 전환합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12&learn=on)
 
