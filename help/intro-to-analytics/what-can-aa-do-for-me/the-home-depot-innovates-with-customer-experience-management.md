@@ -10,8 +10,8 @@ kt: 4387
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 97221e6f-24c6-4d03-a0b9-69e1944bb775
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 1000억 달러 규모의 기업 내에서 70억 달러 규모를 차지하고 있는 전자 상거래 사이트인 [!DNL HomeDepot.com]은 적합한 고객 경험을 보장함으로써 경쟁에서 앞서가고 있습니다. [!DNL Home Depot]가 Adobe 솔루션을 사용하여 개인 맞춤화된 쇼핑 경험으로 브랜드 충성도 및 고객 만족도를 창출하는 방법을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31506/?quality=12&learn=on)
