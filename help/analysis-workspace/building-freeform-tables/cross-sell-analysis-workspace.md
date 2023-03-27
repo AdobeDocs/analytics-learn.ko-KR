@@ -7,8 +7,8 @@ kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 이 비디오를 통해 Analysis Workspace에서 크로스셀 보고서를 작성하고 이를 여러 값의 차원 또는 분류로 확장하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
 
 >[!INFO]
 >
