@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 525d6e2c4828f9fda07cf389b5e8e58331e494de
+source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
 workflow-type: tm+mt
-source-wordcount: '2349'
+source-wordcount: '2354'
 ht-degree: 100%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 100%
       + [Analysis Workspace의 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics 학습 여정을 계속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Workspace 프로젝트 탐색 {#navigating-workspace-projects}
+      + [Analysis Workspace의 데이터 사전](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [템플릿을 사용하여 프로젝트 만들기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [교육 튜토리얼 템플릿](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [Analysis Workspace에서 폴더 사용](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
