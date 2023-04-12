@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 01a70b931120a5ea8cd82ffd1c91369e3fa041cd
+source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
 workflow-type: tm+mt
-source-wordcount: '2354'
-ht-degree: 100%
+source-wordcount: '2361'
+ht-degree: 99%
 
 ---
 
@@ -67,6 +67,7 @@ ht-degree: 100%
       + [Analysis Workspace 성능 지표 보기](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 팁 및 요령 {#tips-and-tricks}
       + [Analysis Workspace을 위한 7가지 팁 및 요령](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
+      + [마우스 오른쪽 단추를 클릭하여 보다 효율적인 워크플로우를 위한 팁과 트릭](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Analysis Workspace의 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics 학습 여정을 계속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + Workspace 프로젝트 탐색 {#navigating-workspace-projects}
