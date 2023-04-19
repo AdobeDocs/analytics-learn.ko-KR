@@ -7,7 +7,7 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL 세그먼트 빌더]의 새로운 [!UICONTROL 개별 카운트] 연산자를 통해 모든 [!UICONTROL 차원]에서 고유 항목 수에 따라 세그먼트화할 수 있습니다. 5개 이상의 페이지를 조회한 방문 또는 단일 주문 내에서 5개 이상의 제품을 구매한 히트를 필터링할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 이 기능을 이보다 더 훌륭하게 만들 수는 없을 것입니다. :)
 
