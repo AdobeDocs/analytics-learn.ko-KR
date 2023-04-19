@@ -10,7 +10,7 @@ kt: 2856
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Experience Platform Launch 및 Adobe Analytics 확장 기능을 처음 사용하는 경우 이 비디오를 통해 [!DNL Analytics] 확장 기능에서의 쿠키 설정 여부 및 방법을 파악할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=12&learn=on)
 
 이 설정에 대한 자세한 내용은 [설명서](https://docs.adobelaunch.com/extension-reference/web/adobe-analytics-extension#cookies)를 참조하십시오.
