@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2369'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -309,7 +309,7 @@ ht-degree: 99%
       + [Analysis Workspace에서 세그먼트 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=ko)
       + [Analysis Workspace에서 차원으로 세그먼트 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ko)
       + [세그먼트를 사용하여 Analysis Workspace에서 데이터 제한](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ko)
-      + [세그먼트 빌더와 빠른 세그먼트 간의 차이](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
+      + [세그먼트 빌더와 빠른 세그먼트의 차이점](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
       + [순차적인 세분화](components/segmentation/sequential-segmentation.md)
       + [순차적인 세분화 전/후 시퀀스](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [개별 차원 카운트에 대한 세분화](components/segmentation/segmentation-on-distinct-dimension-counts.md)
