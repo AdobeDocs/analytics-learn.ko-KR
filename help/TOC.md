@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
-workflow-type: ht
-source-wordcount: '2369'
-ht-degree: 100%
+source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+workflow-type: tm+mt
+source-wordcount: '2391'
+ht-degree: 99%
 
 ---
 
@@ -86,6 +86,7 @@ ht-degree: 100%
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ko)
+      + [Adobe Analytics 기여도 분석 패널 및 전환 확인 기간 이해](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Analysis Workspace의 미디어 동시 뷰어 패널](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [미디어 재생 소요 시간 패널](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=ko)
       + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -154,12 +155,14 @@ ht-degree: 100%
       + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace에서 세그먼트를 사용하여 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [고객 여정 세그먼트 작성](analysis-workspace/applying-segments/building-customer-journey-segments.md)
    + 지표 {#metrics}
       + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [자유 양식 표에서 지표 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko)
       + [Analysis Workspace에서 참여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [안녕 Excel, 안녕 계산된 지표](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 차원 {#dimensions}
       + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [트래픽 변수 소개 (속성)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -182,6 +185,7 @@ ht-degree: 100%
       + [예약 및 다운로드 가능한 프로젝트](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace에서 프로젝트 공유하기](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Analysis Workspace의 보기 전용 프로젝트](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [보기 전용 공유 기능 잠금 해제](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [교차 탭 분석을 사용하여 기본 마케팅 기여도 탐색](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Attribution IQ 모델의 나란히 비교 추가](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
