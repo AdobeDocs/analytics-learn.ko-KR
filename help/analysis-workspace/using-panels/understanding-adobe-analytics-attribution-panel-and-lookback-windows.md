@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 2%
 
 ---
@@ -82,7 +82,7 @@ in **속성**&#x200B;를 사용하면 개인, 여러 개인 또는 시간에 따
 
 Adobe 정의 **전환 확인 기간** 터치 포인트를 포함하도록 전환에서 다시 확인해야 하는 시간의 양입니다. 첫 번째 상호 작용에 더 많은 크레딧을 제공하는 속성 모델은 서로 다른 전환 확인 기간을 볼 때 더 큰 차이를 보입니다.&quot;
 
-* **방문 전환 확인 기간**: 전환이 발생했을 때 방문 시작 부분까지 되돌아봅니다
+* **방문 전환 확인 기간**: 전환이 발생했을 때 방문 시작 부분까지 되돌아봅니다.
 * **방문자 전환 확인 기간**: 현재 날짜 범위 달의 1일까지의 모든 방문을 다시 봅니다.
 * **사용자 지정 전환 확인 기간**: 보고 날짜 범위 넘어 속성 기간을 최대 까지 확장할 수 있습니다 **90일**.
 
