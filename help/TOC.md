@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
+source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2404'
 ht-degree: 98%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 98%
       + [모든 차원을 사용한 집단 분석](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [코호트 테이블을 이용한 대기 시간 분석](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [코호트 테이블의 롤링 보존 계산](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
+      + [집단 분석을 사용하여 고객 행동 이해](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + 음성 분석 {#voice-analytics}
       + [Voice Assistant 앱 데이터 관리 및 추적 방법](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [음성 지원 디바이스 간의 차이점 이해](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
