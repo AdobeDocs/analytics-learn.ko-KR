@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2397'
+ht-degree: 98%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [내부 Adobe Analytics 사이트 만들기](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [글로벌 보고서 세트 사용](administration/admin-tips/use-a-global-report-suite.md)
       + [뉴스 및 공지 사항 프로젝트 만들기](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [경영진 요약 대시보드를 통한 성공 촉진](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
