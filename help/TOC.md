@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 1c4c7876ad5f4cfe6c41ff6a8cbf72fa9e787173
+source-git-commit: b11a329ca3f5c676aea08c7037e5ee87003edfe6
 workflow-type: tm+mt
-source-wordcount: '2404'
-ht-degree: 98%
+source-wordcount: '2434'
+ht-degree: 97%
 
 ---
 
@@ -128,6 +128,7 @@ ht-degree: 98%
       + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [주요 지표 요약 시각화](analysis-workspace/visualizations/key-metric-summary.md)
       + [텍스트 시각화](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [단어 초과 - 텍스트 시각화 및 설명 사용](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [산포도 시각화](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [트리맵 시각화](analysis-workspace/visualizations/treemap-visualization.md)
       + [벤 다이어그램 시각화](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -322,6 +323,7 @@ ht-degree: 98%
       + [세분화에서의 차원 모델](components/segmentation/dimension-models-in-segmentation.md)
       + [세분화에서의 모든 연산자 동일](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider 웨비나 - 고객 세분화 전략](components/segmentation/customer-segmentation-strategies.md)
+      + [세그먼테이션을 사용하여 새로운 인사이트를 발견하기만 하면 됩니다.](components/segmentation/segmentation-to-discover-new-insights.md)
    + 계산된 지표 {#calculated-metrics}
       + [계산된 지표의 근사 카운트 개별 함수](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [계산된 지표의 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ko)
@@ -332,6 +334,7 @@ ht-degree: 98%
       + [계산된 지표 - 지표 선택기](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace에서 빠르게 계산된 지표](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [계산된 지표에서 차원 사용](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
+      + [계산된 지표를 사용하여 데이터 분석을 한 차원 끌어옵니다](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 분류 {#classifications}
       + [분류 개요](components/classifications/overview-of-classifications.md)
       + [분류 규칙 빌더 사용](components/classifications/using-the-classification-rule-builder.md)
