@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 17%
@@ -34,7 +34,7 @@ ht-degree: 17%
 1. 최초 방문은 둘 다에 대한 재방문보다 약간 높은 비율로 전환되며, 11.6%와 11.4%입니다.
 1. 2021년과 비교하여 전환율은 두 세그먼트 모두에서 감소했습니다.
 
-![방문 횟수 테이블](assets/visits-table.png)
+![방문 횟수 테이블](assets/cohort1.png)
 
 ## 2부: 집단 분석 - 방문 식용 배열 글로벌 Prod
 
@@ -70,14 +70,14 @@ ht-degree: 17%
 1) 가장 많이 사용하는 달은 2월과 5월입니다
 1) 매월 사이트를 재방문하는 최대 1,000명의 방문자가 있습니다
 
-![2022년 유지 테이블](assets/2022-retention-table.png)
+![2022년 유지 테이블](assets/cohort2.png)
 
 **2021년:**
 
 1) 고정 비율이 높은 개월 + 1개월에는 4월, 1월 및 3월이 포함됩니다
 1) 가장 많이 사용하는 달은 2월과 5월입니다
 
-![2021년 유지 테이블](assets/2021-retention-table.png)
+![2021년 유지 테이블](assets/cohort3.png)
 
 **작업 항목:**
 
@@ -128,7 +128,7 @@ ht-degree: 17%
 
 체크아웃 중에 사용자가 계정을 만들 수 있도록 사이트 사용자 경험을 조사합니다.
 
-![집단 테이블 4](assets/cohort-table-4.png)
+![집단 테이블 4](assets/cohort4.png)
 
 ## 4부: 사용자 지정 Dimension 집단
 
@@ -156,7 +156,7 @@ ht-degree: 17%
 1) Product2
 1) Product 3 — 평균 보존과 비교하여 더 높은 보존 비율로 더 높은 성능을 발휘하는 경우가 많습니다.
 
-![집단 테이블 5](assets/cohort-table-5.png)
+![집단 테이블 5](assets/cohort5.png)
 
 ## 결론
 
