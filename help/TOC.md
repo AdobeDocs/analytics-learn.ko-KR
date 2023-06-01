@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
+source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2444'
+ht-degree: 96%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
       + [시각화 사용 사례](analysis-workspace/visualizations/visualization-use-cases.md)
       + [시각화할 데이터 선택하기](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [데이터 시각화 플레이북](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [데이터 시각화](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [작업 영역에서 구성 요소 드롭다운 사용하기](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [영역 및 영역 누적 시각화](analysis-workspace/visualizations/area-and-area-stacked.md)
@@ -181,6 +182,7 @@ ht-degree: 97%
       + [Analysis Workspace에서 프로젝트 저장, 공유 및 공동 작업 수행](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
+      + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis Workspace에서 CSV 및 PDF로 내보내기](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
