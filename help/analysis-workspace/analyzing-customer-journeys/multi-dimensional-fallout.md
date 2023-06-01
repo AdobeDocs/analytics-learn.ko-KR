@@ -11,9 +11,9 @@ kt: 2277
 role: User
 level: Beginner
 exl-id: 927b5fe0-1eb5-404c-8439-a5dbacd3c640
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -25,9 +25,5 @@ Analysis Workspace의 [!DNL Fallout]을 사용하면 단계 및 워크플로의 
 >[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
 
 이 강력한 기능을 사용하면 조사할 사용자 단계를 더욱 유연하게 정의할 수 있습니다.
-
->[!INFO]
->
-> 이 비디오는 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/configuring-interdimensional-fallout.html?lang=ko)를 참조하십시오.

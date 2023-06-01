@@ -7,9 +7,9 @@ kt: 2813
 role: User
 level: Beginner
 exl-id: 1bf591a4-fdce-4053-80d4-a9cd87e04ec6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '50'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 비헤이비어의 히트맵 [!UICONTROL 시각화]를 생성하여 시간 분할 분석을 다음 수준으로 이끄는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)
-
->[!INFO]
->
-> 이 비디오는 [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

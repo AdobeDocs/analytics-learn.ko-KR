@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

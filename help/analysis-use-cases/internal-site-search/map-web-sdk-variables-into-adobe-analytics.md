@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
-source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '133'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,3 @@ ht-degree: 100%
 자동으로 Adobe Analytics로 매핑된 Web SDK 변수 목록의 경우 이 [설명서](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html)를 참조하십시오.
 
 **참고:** 처리 규칙 설정 시 “a.x.[your schema]” 변수가 드롭다운 창으로 자동으로 이동하지 않을 수 있습니다. 자동으로 이동하지 않아도 걱정하지 마십시오. 형식에 따라 변수를 입력한 다음 contextData 변수로 추가하기만 하면 됩니다. 하나 또는 두 개의 변수를 추가한 다음에는 나머지가 느리게 로드될 수도 있습니다.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 및 [내부 사이트 검색 구현 및 측정](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 83%
 
 ---
 
@@ -21,10 +21,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-이 기능은 기존의 여러 요청에 대한 [!UICONTROL 보고서 세트], [!UICONTROL 날짜 범위], [!UICONTROL 세부 기간] 및 [!UICONTROL 세그먼트] 편집을 위한 기능에 추가됩니다. 마우스 오른쪽 버튼 클릭 메뉴 또는 [관리] 창의 “[!UICONTROL 일괄 편집]”을 통해 여러 요청을 일괄 편집할 수 있습니다.
+이 기능은 기존의 여러 요청에 대한 [!UICONTROL 보고서 세트], [!UICONTROL 날짜 범위], [!UICONTROL 세부 기간] 및 [!UICONTROL 세그먼트] 편집을 위한 기능에 추가됩니다. 마우스 오른쪽 버튼 클릭 메뉴 또는 &quot;&quot;에서 요청을 일괄 편집할 수 있습니다[!UICONTROL 복수 편집]관리 창에서 &quot;&quot;를 클릭합니다.
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=ko)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

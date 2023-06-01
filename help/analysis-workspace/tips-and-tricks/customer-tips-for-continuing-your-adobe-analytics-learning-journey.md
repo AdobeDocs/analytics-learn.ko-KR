@@ -7,9 +7,9 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,3 @@ ht-degree: 100%
 | 고객:<br>Sam Liss | Equinox의 분석 엔지니어 |
 |------------|------------|
 | ![Sam Liss](assets/samliss.jpg) | **다른 분석 제품에서 Adobe Analytics로 전환할 때의 팁** <br> “여러분이 다른 분석 플랫폼에서 Adobe Analytics로 전환한 사용자라면 여러분은 더욱 세밀한 맞춤화가 가능한 거버넌스, 뛰어난 보안, 그리고 풍부한 마케팅과 데이터 플랫폼 통합의 세계로 뛰어들게 될 겁니다. [!UICONTROL 자유 형식 테이블] 및 [!UICONTROL 플로우] 시각화와 여러분이 다른 분석 플랫폼에서 경험한 것에는 어떤 차이점이 있는지 알려 드리겠습니다.”<br><br>[Sam의 팁 알아보기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
-
->[!INFO]
->
-> 이 비디오는 [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,4 @@ Adobe Analytics 구현에서 [!DNL contextData] 변수를 사용할 때 데이�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ko)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en)를 참조하십시오.

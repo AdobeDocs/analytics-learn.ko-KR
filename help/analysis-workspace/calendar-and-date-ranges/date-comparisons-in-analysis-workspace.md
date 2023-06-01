@@ -7,9 +7,9 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
@@ -23,12 +23,3 @@ ht-degree: 100%
 날짜 비교는 현재의 Analysis Workspace 표에 깊이를 더할 수 있는 간편한 방법이며, 이를 통해 기록 성능의 관점에서 현재의 데이터를 입력할 수 있습니다.
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=ko)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 다음 두 가지 교육 과정의 일부입니다.
->
-> * [자유 형식 테이블, 분석의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [사용자 정의 세분화 및 날짜를 통해 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
->
-> 두 교육 과정 모두 Experience League에서 무료로 제공됩니다!

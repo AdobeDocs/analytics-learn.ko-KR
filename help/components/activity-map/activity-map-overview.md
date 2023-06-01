@@ -7,9 +7,9 @@ kt: 2349
 role: User
 level: Beginner
 exl-id: c1751182-bf6d-441b-9ffa-d9d40de20bb9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/activity-map.html?lang=ko)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

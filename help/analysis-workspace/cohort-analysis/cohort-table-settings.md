@@ -10,9 +10,9 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '119'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,3 @@ ht-degree: 100%
 평균 행은 개별 [!UICONTROL 집단] 행보다는 [!UICONTROL 보존] 또는 [!UICONTROL 이탈]을 전체적으로 조회할 때 특히 유용합니다.
 
 [!UICONTROL 집단] 분석에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ko)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

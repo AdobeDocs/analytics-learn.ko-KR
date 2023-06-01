@@ -10,9 +10,9 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12&learn=on)
 
 다양한 태그에서 실행되는 작업을 확인하고, 변수의 친숙한 이름을 로드하고, 고급 사용 사례의 결과를 내보내는 방법에 대해 학습하게 됩니다.
-
->[!INFO]
->
-> 이 비디오는 [안내식 Analytics 구현](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

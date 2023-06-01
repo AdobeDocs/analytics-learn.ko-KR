@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25452.jpg
 kt: 2353
 exl-id: 79599c6d-eb3e-438a-8e24-45b286d54071
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ Adobe Analytics [!UICONTROL 데이터 피드]를 사용하면 원시 클릭스�
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=ko#)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

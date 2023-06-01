@@ -7,9 +7,9 @@ kt: 6225
 role: User
 level: Beginner
 exl-id: 976119f0-16b7-4d36-8d0e-0a552c83a614
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 Analysis Workspace의 자유 형식 테이블 설정에 대해 알아보고, 이것이 해당 테이블로 들어오는 데이터에 영향을 미치는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40382/?quality=12&learn=on)
-
->[!INFO]
->
-> 이 비디오는 [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

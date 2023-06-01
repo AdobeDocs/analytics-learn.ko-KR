@@ -11,9 +11,9 @@ kt: 6278
 role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
 
 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html)에서 자세히 알아보십시오.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics 데이터 내보내기 및 대중화](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

@@ -6,9 +6,9 @@ kt: 3568
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8ea4295b-c374-4f89-b0aa-2fd09376c689
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '82'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 어느 시점에서 Adobe Analytics에 대한 도움이 필요할 수 있습니다. 이 비디오는 도움이 필요할 때 간편하게 사용할 수 있는 몇 가지 훌륭한 리소스를 소개합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)
-
->[!INFO]
->
-> 이 비디오는 [안내식 Analytics 구현](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

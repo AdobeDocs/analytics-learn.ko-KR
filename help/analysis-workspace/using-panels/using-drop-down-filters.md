@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,4 @@ ht-degree: 100%
 
 드롭다운은 프로젝트 및 패널을 통합하는 데도 유용합니다. 예를 들어 국가별 보고를 제공하는 프로젝트의 여러 버전이 있는 경우 이제 해당 프로젝트를 단일 프로젝트로 축소하고 사용자가 전환할 수 있는 국가 드롭다운을 추가할 수 있습니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ko)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [사용자 정의 세분화 및 날짜를 통해 데이터 필터링](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)를 참조하십시오.

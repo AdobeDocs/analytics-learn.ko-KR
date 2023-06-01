@@ -7,9 +7,9 @@ kt: 1908
 role: User
 level: Beginner
 exl-id: acc44e46-1fd1-45ca-ad4b-485ff6fff5b5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 콘텐츠 표를 작성하고 보다 효과적인 데이터 스토리를 전달할 때에도 내부 연결을 사용할 수 있습니다. 이제 새로운 하이퍼링크 기능을 통해 프로젝트 간 연결을 사용할 수 있습니다.
-
->[!INFO]
->
-> 이 비디오는 [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

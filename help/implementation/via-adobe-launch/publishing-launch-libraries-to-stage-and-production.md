@@ -6,9 +6,9 @@ kt: 3595
 role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
@@ -18,7 +18,3 @@ ht-degree: 100%
 개발 서버에서 구현을 완료한 후 스테이징 환경으로 이동하여 구현을 테스트한 다음, 이를 프로덕션 환경으로 이동해야 합니다. 이 비디오는 이러한 과정을 단계별로 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
-
->[!INFO]
->
-> 이 비디오는 [안내식 Analytics 구현](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

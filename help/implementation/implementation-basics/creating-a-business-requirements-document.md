@@ -7,9 +7,9 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '115'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ Adobe Analytics에서 캡처하고 분석할 동작 데이터를 정의하는 �
 샘플 Excel 템플릿을 [다운로드](assets/aa-implementation-playbook.xlsx)하여 디지털 속성에 대한 요구 사항 및 데이터 수집 설계를 문서화하십시오.
 
 이 비디오에 제공된 Excel 문서를 [다운로드](assets/geometrixx-clothiers-brd-sdr.xlsx)하거나 관련 [솔루션 디자인 참조 비디오](creating-and-maintaining-an-sdr.md)를 시청하십시오).
-
->[!INFO]
->
-> 이 비디오는 [안내식 Analytics 구현](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

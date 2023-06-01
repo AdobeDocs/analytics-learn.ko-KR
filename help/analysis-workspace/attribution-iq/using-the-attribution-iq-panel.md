@@ -11,9 +11,9 @@ kt: 1667
 role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '103'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
 
 Analysis Workspace의 [!DNL Attribution IQ] [!UICONTROL 패널]은 열 가지의 규칙 기반 [!DNL attribution models]을 시각적으로 빠르게 비교할 수 있는 방법입니다. 각 모델이 [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] 및 [!DNL Flow Diagram]을 사용하여 차원에 영향을 주는 방법에 대해 알아보십시오. [!DNL Attribution] [!UICONTROL 패널]은 보다 정교한 속성 분석을 위한 좋은 시작점입니다.
-
->[!INFO]
->
-> 이 비디오는 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

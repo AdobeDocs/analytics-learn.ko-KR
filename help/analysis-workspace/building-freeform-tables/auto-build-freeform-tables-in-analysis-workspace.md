@@ -7,9 +7,9 @@ kt: 11754
 role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
-source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '62'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 구성 요소를 빈 프로젝트, 패널 또는 자유 형식 테이블에 직접 놓으면 권장 형식으로 테이블이 자동으로 빌드됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
-
->[!INFO]
->
-> 이 비디오는 [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

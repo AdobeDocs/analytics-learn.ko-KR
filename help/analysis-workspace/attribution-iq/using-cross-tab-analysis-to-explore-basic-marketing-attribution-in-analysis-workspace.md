@@ -10,9 +10,9 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,3 @@ Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수
 * 4:30 - 열 설정을 하나씩 업데이트하지 않고 일괄 업데이트할 수 있습니다. 비디오 재생 시간 8:45부터 시작되는 [자유 형식 테이블의 행 및 열 설정](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)에서 자세히 알아보십시오.
 
 이 항목에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!

@@ -7,9 +7,9 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -31,8 +31,4 @@ ht-degree: 100%
 * 정렬 (6:49)
 * 차원을 필터로 사용 (8:30)
 * 분류 (9:48)
-* 등급, 시간, 트렌드 보고서 (13:11)
-
->[!INFO]
->
-> 이 비디오는 [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
+* 등급, 시간, 트렌드 보고서(13:11)

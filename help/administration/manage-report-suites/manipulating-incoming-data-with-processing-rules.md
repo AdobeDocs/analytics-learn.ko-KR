@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 339440.jpg
 kt: 9529
 exl-id: 630864be-b60e-4ed0-b675-77bd20567ec1
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '149'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/339440/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ko)를 참조하십시오.
-
->[!INFO]
->
-> 이 비디오는 [Adobe Analytics의 보고서 세트 구성 및 관리](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 교육 과정의 일부로, Experience League에서 무료로 제공됩니다!
