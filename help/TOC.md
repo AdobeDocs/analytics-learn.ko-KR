@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
 workflow-type: tm+mt
-source-wordcount: '2444'
+source-wordcount: '2443'
 ht-degree: 96%
 
 ---
@@ -87,7 +87,6 @@ ht-degree: 96%
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ko)
-      + [Adobe Analytics 속성 패널 및 전환 확인 기간 이해](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Analysis Workspace의 미디어 동시 뷰어 패널](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [미디어 재생 소요 시간 패널](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=ko)
       + [드롭다운 필터 사용](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -236,6 +235,7 @@ ht-degree: 96%
       + [내부 Adobe Analytics 사이트 만들기](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [글로벌 보고서 세트 사용](administration/admin-tips/use-a-global-report-suite.md)
       + [뉴스 및 공지 사항 프로젝트 만들기](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [실행 요약 대시보드를 사용하여 성공을 유도합니다.](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
