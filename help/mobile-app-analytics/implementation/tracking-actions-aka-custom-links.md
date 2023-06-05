@@ -11,10 +11,10 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 4d467928756950074620388645523021b21fb0d5
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 이 데이터는 `contextData`로 제공되며 [!UICONTROL 처리 규칙]을 사용하여 해당 `contextData` 변수에서 모바일 데이터를 가져와 [!DNL eVars], [!DNL Props], 이벤트 등으로 매핑해야 한다는 것을 의미하기도 합니다. Adobe Analytics에서.
 
-trackAction에 대한 자세한 내용은 [설명서](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference)를 참조하십시오.
+trackAction에 대한 자세한 내용은 [설명서](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-user-actions-for-adobe-analytics)를 참조하십시오.
