@@ -3,9 +3,9 @@ title: 효율성과 셀프서비스 향상을 위한 간단한 방법 - 2부
 description: 분석 팀이 현재 직면한 주요 문제와 기본 제공 전략을 사용하여 이를 극복하기 위한 권장 사항에 대해 설명합니다.
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '730'
 ht-degree: 100%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 100%
 **2부: 기본 제공 전략**
 
 이 문서에서는 분석 팀이 현재 직면한 주요 문제와 기본 제공 전략을 사용하여 이를 극복하기 위한 권장 사항에 대해 설명합니다. 1부는 [여기](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)로 이동하십시오.
-
-Adobe Analytics 플랫폼 외부의 효과적인 솔루션에 대한 자세한 내용은 [여기](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)를 클릭하십시오.
 
 ## 효율성의 핵심: 기본 제공 전략
 
@@ -93,7 +91,5 @@ Adobe Analytics 플랫폼 외부의 효과적인 솔루션에 대한 자세한 �
 ## Adobe 2.0 보고 API
 
 보고 API를 활용하여 표준 보고서를 [!UICONTROL 작업 영역]에서 예약된 보고서 및 대시보드로 이동합니다. 또한 [!UICONTROL Analysis Workspace]를 사용하여 API 요청을 빌드합니다.
-
-도구 내 전략에 대한 이 문서가 도움이 되었기를 바랍니다. Adobe Analytics 플랫폼 외부에서 효율성을 높이는 효과적인 솔루션에 대한 자세한 내용을 보려면 [여기](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)를 클릭하십시오.
 
 [고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

@@ -7,10 +7,10 @@ level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 96%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 _데이터 레이어_&#x200B;는 개발자가 디지털 웹 페이지에 추가하는 JavaScript 오브젝트의 프레임워크입니다. Analytics 솔루션은 궁극적으로 데이터 레이어를 사용하여 보고서를 채웁니다. [!DNL Experience Platform Tags]가 포함된 태그 관리 시스템은 데이터 레이어를 읽고, 값을 변수에 매핑하고, 해당 데이터를 디지털 경험 솔루션에 전송하는 중개 시스템입니다.
 
-[Experience Cloud 설명서](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ko)에서 데이터 레이어에 대한 추가 정보를 검토하고 블로그 [데이터 레이어: 유행어부터 모범 사례까지](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice)를 참조하십시오.
+에서 데이터 계층에 대한 추가 정보 검토 [Experience Cloud 설명서](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ko).
 
 ## 데이터 레이어, [!DNL Experience Platform Tags] 및 Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
