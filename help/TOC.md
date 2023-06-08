@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 2fc695b576b9334aff52fe7a8eb4e88ab38a4b71
+source-git-commit: 0e99202f5861310370cba2753339e8a9a45d6804
 workflow-type: tm+mt
-source-wordcount: '2443'
+source-wordcount: '2438'
 ht-degree: 96%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 96%
       + [Analytics 주기 이해](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics 데이터 수집 방법](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [Adobe Analytics에 로그인](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [Analytics UI 소개](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [보고서 세트 이해 및 생성](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [기본 방문자 지표 이해](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ko)
       + [트래픽 변수 소개 (속성)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ko)
