@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: e4975a7fad9eb42ab4d2bbad99efb73cabea564e
+source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
 workflow-type: tm+mt
-source-wordcount: '2445'
-ht-degree: 96%
+source-wordcount: '2451'
+ht-degree: 97%
 
 ---
 
@@ -95,6 +95,7 @@ ht-degree: 96%
       + [패널의 세그먼트 선택](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [다음/이전 및 페이지 요약 작업 영역 패널 및 보고서](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [속성 패널 및 전환 확인 기간 이해](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + 자유 양식 표 빌드 {#building-freeform-tables}
       + [데이터 이해 - 자유 형식 테이블](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 자유 형식 테이블 만들기](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -337,7 +338,7 @@ ht-degree: 96%
       + [계산된 지표 - 지표 선택기](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace에서 빠르게 계산된 지표](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [계산된 지표에서 차원 사용](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [계산된 지표를 사용하여 데이터 분석을 한 차원 높입니다.](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [계산된 지표로 데이터 분석 수준을 한 차원 끌어올리기](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 분류 {#classifications}
       + [분류 개요](components/classifications/overview-of-classifications.md)
       + [분류 규칙 빌더 사용](components/classifications/using-the-classification-rule-builder.md)
