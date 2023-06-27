@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: f5027defc8853b3d66d8383bccba5928c8ea25aa
+source-git-commit: f9ef44adb364df5373c64cda4cead5f0a4da5eb9
 workflow-type: tm+mt
-source-wordcount: '2451'
+source-wordcount: '2446'
 ht-degree: 97%
 
 ---
@@ -84,6 +84,8 @@ ht-degree: 97%
       + [주석](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [보기 밀도](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [필터 사용](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+   + 실시간 보고서 {#real-time-reports}
+      + [실시간 보고](analysis-workspace/real-time-reports/realtime-reporting.md)
    + 패널 사용 {#using-panels}
       + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -217,8 +219,6 @@ ht-degree: 97%
       + [Voice 앱의 오류율 감소 및 성공률 향상](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [Voice Assistant의 사용자 비헤이비어 이해](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [사용자의 음성 여정 이해](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Reports and Analytics의 실시간 보고](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 관리 {#administration}
    + 주요 관리 기술 {#key-admin-skills}
       + [자율 커뮤니티를 만들기](administration/key-admin-skills/empowered-community.md)
