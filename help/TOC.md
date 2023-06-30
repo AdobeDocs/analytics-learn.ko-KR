@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
+source-git-commit: 5f49401fd82602a7d6c046a33623698c4eb45397
 workflow-type: tm+mt
 source-wordcount: '2446'
 ht-degree: 96%
@@ -333,8 +333,8 @@ ht-degree: 96%
       + [계산된 지표 - 함수](components/calculated-metrics/calculated-metrics-functions.md)
       + [계산된 지표 - 구현 불가 지표](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [계산된 지표 - 분할된 지표](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [계산된 지표 - 지표 선택기](components/calculated-metrics/calculated-metrics-metric-selector.md)
-      + [Analysis Workspace에서 빠르게 계산된 지표](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace의 빠른 계산된 지표](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [계산된 지표 관리](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [계산된 지표의 근사 카운트 개별 함수](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [계산된 지표의 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ko)
       + [계산된 지표에서 차원 사용](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
