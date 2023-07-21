@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
+source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2451'
 ht-degree: 96%
 
 ---
@@ -162,6 +162,7 @@ ht-degree: 96%
       + [Analysis Workspace에서 세그먼트를 사용하여 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [고객 여정 세그먼트 작성](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [고객 여정 세그먼트 작성 - 2부](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 지표 {#metrics}
       + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko)
@@ -185,7 +186,7 @@ ht-degree: 96%
       + [Analysis Workspace에서 프로젝트 저장, 공유 및 공동 작업 수행](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis Workspace에서 CSV 및 PDF로 내보내기](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
