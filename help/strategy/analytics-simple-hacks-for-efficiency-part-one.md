@@ -1,9 +1,12 @@
 ---
 title: 효율성과 셀프서비스 향상을 위한 간단한 방법 - 1부
 description: 분석 팀이 현재 직면한 주요 문제와 Adobe Analytics UI 외부의 전략을 사용하여 이를 극복하기 위한 권장 사항에 대해 설명합니다.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: 1181bfa62c5ec3d465aec5d1293e927c2c56f288
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 100%

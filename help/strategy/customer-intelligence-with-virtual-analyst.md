@@ -1,9 +1,12 @@
 ---
 title: Virtual Analytics 및 Segment IQ를 통해 고객 인텔리전스 마스터하기
 description: 인공 지능과 머신 러닝(AI/ML) 사용의 중요성에 대해 알아봅니다. Virtual Analyst 및 Segment IQ를 사용하여 예외 항목을 감지하고 이상치를 방지하며 ROI를 극대화하는 글로벌 고객의 실제 성공 사례를 확인하고 이점에 대해 알아보십시오.
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%

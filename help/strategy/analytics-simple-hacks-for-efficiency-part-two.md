@@ -1,9 +1,12 @@
 ---
 title: 효율성과 셀프서비스 향상을 위한 간단한 방법 - 2부
 description: 분석 팀이 현재 직면한 주요 문제와 기본 제공 전략을 사용하여 이를 극복하기 위한 권장 사항에 대해 설명합니다.
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 100%
