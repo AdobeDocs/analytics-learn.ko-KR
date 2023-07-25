@@ -1,20 +1,21 @@
 ---
 title: 전환 이벤트 소개
-description: '이 비디오는 전환 “이벤트” 또는 사이트에서의 전환(예: 주문, 등록, 양식 작성 등)을 추적하는 데 도움이 되는 변수에 대해 소개합니다.'
+description: Adobe Analytics에서 성공 이벤트라고도 하는 전환 이벤트의 기본 사항에 대해 알아봅니다. 디지털 속성에서 전환을 측정하며 보고서에서 지표로 사용됩니다.
 feature: Metrics
 kt: 3578
 role: User
 level: Beginner
+thumbnail: 28764.jpg
 exl-id: 3f2876fe-d7da-47d3-a23d-0d8f790f7f5b
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 28e6e043ac050c0c3b51be1f47e3088915d63075
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
 # 전환 이벤트 소개
 
-이 비디오는 전환 “이벤트” 또는 사이트에서의 전환(예: 주문, 등록, 양식 작성 등)을 추적하는 데 도움이 되는 변수에 대해 소개합니다.
+에서 성공 이벤트라고도 하는 전환 이벤트의 기본 사항에 대해 알아봅니다. [!DNL Adobe Analytics]. 디지털 속성에서 전환을 측정하며 보고서에서 지표로 사용됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)

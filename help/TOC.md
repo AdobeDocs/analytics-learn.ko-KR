@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
+source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
-source-wordcount: '2451'
-ht-degree: 96%
+source-wordcount: '2448'
+ht-degree: 95%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 96%
       + [보다 효율적인 워크플로를 위한 마우스 오른쪽 버튼 클릭 팁 및 요령](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Analysis Workspace의 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [Adobe Analytics 학습 여정을 계속하기 위한 고객 팁](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
-      + [동적 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [다이내믹 드롭다운 필터 만들기](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + Workspace 프로젝트 탐색 {#navigating-workspace-projects}
       + [Analysis Workspace의 데이터 사전](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [템플릿을 사용하여 프로젝트 만들기](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
@@ -165,10 +165,10 @@ ht-degree: 96%
       + [고객 여정 세그먼트 작성 - 2부](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 지표 {#metrics}
       + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko)
+      + [프로젝트에 차원 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [자유 양식 표에서 지표 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko)
-      + [Analysis Workspace에서 참여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace에서 기여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Excel 님, 안녕하세요 계산된 지표입니다.](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 차원 {#dimensions}
       + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
@@ -186,7 +186,7 @@ ht-degree: 96%
       + [Analysis Workspace에서 프로젝트 저장, 공유 및 공동 작업 수행](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis Workspace에서 CSV 및 PDF로 내보내기](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
