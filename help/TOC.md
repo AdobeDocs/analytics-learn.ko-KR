@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 95%
       + [Analysis Workspace의 구성 요소 관리](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [Analysis Workspace에서 보고서 세트 선택](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Analysis Workspace 성능 지표 보기](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
-      + [보트 보고서 만들기](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
+      + [봇 보고서 만들기](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + 팁 및 요령 {#tips-and-tricks}
       + [Analysis Workspace을 위한 7가지 팁 및 요령](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [보다 효율적인 워크플로를 위한 마우스 오른쪽 버튼 클릭 팁 및 요령](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -97,8 +97,8 @@ ht-degree: 95%
       + [패널의 세그먼트 선택](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [다음/이전 및 페이지 요약 작업 영역 패널 및 보고서](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
-      + [속성 패널 및 전환 확인 기간 이해](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
-   + 자유 양식 표 빌드 {#building-freeform-tables}
+      + [속성 패널 및 전환 기간 이해하기](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+   + 자유 형식 테이블 구축 {#building-freeform-tables}
       + [데이터 이해 - 자유 형식 테이블](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 자유 형식 테이블 만들기](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [빈 프로젝트로 손쉽게 드래그 앤 드롭](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
@@ -133,7 +133,7 @@ ht-degree: 95%
       + [요약 번호 및 요약 변경 시각화](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [주요 지표 요약 시각화](analysis-workspace/visualizations/key-metric-summary.md)
       + [텍스트 시각화](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [단어 이상 - 텍스트 시각화 및 설명 사용](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+      + [텍스트 시각화 및 설명을 사용하여 말 그 이상의 것 전달하기](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [산포도 시각화](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [트리맵 시각화](analysis-workspace/visualizations/treemap-visualization.md)
       + [벤 다이어그램 시각화](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -161,15 +161,15 @@ ht-degree: 95%
       + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace에서 세그먼트를 사용하여 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
-      + [고객 여정 세그먼트 작성](analysis-workspace/applying-segments/building-customer-journey-segments.md)
-      + [고객 여정 세그먼트 작성 - 2부](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
+      + [고객 여정 세그먼트 구축](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [고객 여정 세그먼트 구축 - 2부](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 지표 {#metrics}
       + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [프로젝트에 차원 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [자유 양식 표에서 지표 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko)
       + [Analysis Workspace에서 기여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
-      + [Excel 님, 안녕하세요 계산된 지표입니다.](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [Excel을 대신할 계산된 지표](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 차원 {#dimensions}
       + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [트래픽 변수 소개 (속성)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -186,14 +186,14 @@ ht-degree: 95%
       + [Analysis Workspace에서 프로젝트 저장, 공유 및 공동 작업 수행](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Analysis Workspace의 모든 사용자와 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [Analysis Workspace에서 CSV 및 PDF로 내보내기](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [예약 및 다운로드 가능한 프로젝트](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace에서 프로젝트 공유하기](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Analysis Workspace의 보기 전용 프로젝트](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [보기 전용 공유 기능 잠금 해제](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [보기 전용 공유 기능 사용](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [교차 탭 분석을 사용하여 기본 마케팅 기여도 탐색](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Attribution IQ 모델의 나란히 비교 추가](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
@@ -238,14 +238,14 @@ ht-degree: 95%
       + [내부 Adobe Analytics 사이트 만들기](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [글로벌 보고서 세트 사용](administration/admin-tips/use-a-global-report-suite.md)
       + [뉴스 및 공지 사항 프로젝트 만들기](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [실행 요약 대시보드를 사용하여 성공을 유도합니다.](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [경영진 요약 대시보드로 성공 촉진](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
    + 사용자 관리 {#user-management}
       + [Adobe Analytics에 관리자 추가](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [Admin Console에서 보고서 세트 액세스 제한](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [사용자 에셋을 다른 사용자에게 전송](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [사용자 자산을 다른 사용자에게 전송](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [로그인 문제를 방지하기 위해 연결된 IMS ID 확인](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 보고서 세트 관리 {#manage-report-suites}
       + [일반 계정 설정 구성 방법](administration/manage-report-suites/configuring-general-account-settings.md)
@@ -285,7 +285,7 @@ ht-degree: 95%
       + [사이트에서 데이터 레이어 사용](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + Experience Platform Launch를 통해 {#via-adobe-launch}
       + [Experience Platform Launch를 사용하여 웹 사이트에서 Experience Cloud 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ko)
-      + [Analytics Launch 확장의 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Analytics Launch 확장 기능의 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Analytics용 라이브러리 관리 구성](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 전역 변수 구성](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
@@ -328,7 +328,7 @@ ht-degree: 95%
       + [세분화에서의 차원 모델](components/segmentation/dimension-models-in-segmentation.md)
       + [세분화에서의 모든 연산자 동일](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider 웨비나 - 고객 세분화 전략](components/segmentation/customer-segmentation-strategies.md)
-      + [이제 세그먼트를 기다리십시오. 세그먼테이션을 사용하여 새로운 인사이트 발견](components/segmentation/segmentation-to-discover-new-insights.md)
+      + [Wait a segment… 세분화를 사용하여 새로운 인사이트 발견](components/segmentation/segmentation-to-discover-new-insights.md)
    + 계산된 지표 {#calculated-metrics}
       + [계산된 지표 빌더 개요](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [계산된 지표 - 구현 불가 지표](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
