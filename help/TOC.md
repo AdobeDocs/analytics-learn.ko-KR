@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2448'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -168,7 +168,7 @@ ht-degree: 98%
       + [프로젝트에 차원 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [자유 양식 표에서 지표 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko)
-      + [Analysis Workspace에서 기여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [Analysis Workspace에서 참여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Excel을 대신할 계산된 지표](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 차원 {#dimensions}
       + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
