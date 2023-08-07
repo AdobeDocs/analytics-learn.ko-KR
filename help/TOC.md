@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
-workflow-type: ht
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
+workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -332,14 +332,14 @@ ht-degree: 100%
    + 계산된 지표 {#calculated-metrics}
       + [계산된 지표 빌더 개요](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [계산된 지표 - 구현 불가 지표](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [계산된 지표 - 분할된 지표](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [계산된 지표 - 세그먼트화된 지표](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [계산된 지표 - 함수](components/calculated-metrics/calculated-metrics-functions.md)
-      + [계산된 지표의 근사 고유 개수 함수](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Analysis Workspace의 빠른 계산된 지표](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [계산된 메트릭의 근사 카운트 개별 함수](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Analysis Workspace에서 빠르게 계산된 지표](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [계산된 지표 관리](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [계산된 지표의 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=ko)
       + [계산된 지표에서 차원 사용](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [계산된 지표로 데이터 분석 수준을 한 차원 끌어올리기](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [계산된 지표를 사용하여 데이터 분석을 다음 수준으로 수행](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 분류 {#classifications}
       + [분류 개요](components/classifications/overview-of-classifications.md)
       + [분류 규칙 빌더 사용](components/classifications/using-the-classification-rule-builder.md)
