@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: ht
-source-wordcount: '2448'
-ht-degree: 100%
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+workflow-type: tm+mt
+source-wordcount: '2458'
+ht-degree: 99%
 
 ---
 
@@ -126,6 +126,7 @@ ht-degree: 100%
       + [글머리 기호 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [도넛 시각화](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
+      + [히스토그램을 통한 인사이트 잠금](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [콤보 차트](analysis-workspace/visualizations/combo-charts.md)
       + [라인 시각화에 추세선 추가하기](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 100%
       + [산포도 시각화](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [트리맵 시각화](analysis-workspace/visualizations/treemap-visualization.md)
       + [벤 다이어그램 시각화](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [누적 평균 함수를 사용하여 지표 스무딩 적용하기](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [누적 평균 함수를 사용하여 지표 스무딩 적용](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [유연한 레이아웃](analysis-workspace/visualizations/flexible-layouts.md)
       + [시각화에서 크기/축 변경](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [차원 그래프 라이브 링크](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [세부 기간 토글](analysis-workspace/visualizations/granularity-toggle.md)
+      + [시각화를 위한 세부기간 설정](analysis-workspace/visualizations/granularity-toggle.md)
       + [Analysis Workspace에서의 내부 연결](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [시각화 재정렬 및 크기 조정](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [시각화 범례 맞춤화](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 100%
       + [글로벌 보고서 세트 사용](administration/admin-tips/use-a-global-report-suite.md)
       + [뉴스 및 공지 사항 프로젝트 만들기](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [경영진 요약 대시보드로 성공 촉진](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [운영 대시보드 만들기](administration/admin-tips/create-operational-dashboards.md)
    + 회사 설정 {#company-settings}
       + [이메일 도메인 제한 적용](administration/company-settings/enforce-email-domain-restrictions.md)
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
