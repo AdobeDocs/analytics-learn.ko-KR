@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
+source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
 workflow-type: tm+mt
-source-wordcount: '2465'
+source-wordcount: '2457'
 ht-degree: 99%
 
 ---
@@ -143,9 +143,7 @@ ht-degree: 99%
       + [시각화에서 크기/축 변경](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [차원 그래프 라이브 링크](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [시각화를 위한 세부기간 설정](analysis-workspace/visualizations/granularity-toggle.md)
-      + [Analysis Workspace에서의 내부 연결](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [프로젝트 내부 또는 외부 링크](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
-      + [시각화 재정렬 및 크기 조정](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [시각화 범례 맞춤화](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 누적 시각화](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [표 및 시각화 데이터 소스 설정](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
