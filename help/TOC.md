@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2457'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -126,7 +126,7 @@ ht-degree: 99%
       + [글머리 기호 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [도넛 시각화](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
-      + [히스토그램을 통한 인사이트 잠금](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [막대 그래프를 사용하여 인사이트 확보](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [콤보 차트](analysis-workspace/visualizations/combo-charts.md)
       + [라인 시각화에 추세선 추가하기](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -142,7 +142,7 @@ ht-degree: 99%
       + [유연한 레이아웃](analysis-workspace/visualizations/flexible-layouts.md)
       + [시각화에서 크기/축 변경](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [차원 그래프 라이브 링크](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [시각화를 위한 세부기간 설정](analysis-workspace/visualizations/granularity-toggle.md)
+      + [세부 기간을 설정하여 시각화](analysis-workspace/visualizations/granularity-toggle.md)
       + [프로젝트 내부 또는 외부 링크](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [시각화 범례 맞춤화](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 누적 시각화](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
@@ -412,7 +412,7 @@ ht-degree: 99%
    + [중요한 순간에 Adobe Analytics 머신 러닝 및 AI 사용](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Analysis Workspace에서 예외 항목 탐지](data-science/anomaly-detection-in-analysis-workspace.md)
    + [Analysis Workspace의 기여도 분석](data-science/contribution-analysis-workspace.md)
-   + [지능형 알림](data-science/intelligent-alerts.md)
+   + [지능형 경고](data-science/intelligent-alerts.md)
    + [Adobe Analytics 및 Adobe Sensei - 모두를 위한 데이터 과학 민주화](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
 + Vertical-Specific {#vertical-specific}
    + 하이 테크 {#high-tech}
