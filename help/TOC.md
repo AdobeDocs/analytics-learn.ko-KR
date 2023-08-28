@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
+source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
 workflow-type: tm+mt
-source-wordcount: '2457'
+source-wordcount: '2450'
 ht-degree: 99%
 
 ---
@@ -114,13 +114,11 @@ ht-degree: 99%
       + [자유 형식 테이블 필터](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [차원 시간 분할](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 시각화 {#visualizations}
-      + [Analysis Workspace에서의 데이터 시각화](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
-      + [시각화 유형](analysis-workspace/visualizations/visualization-types.md)
+      + [시각화 유형 및 개요](analysis-workspace/visualizations/visualization-types.md)
       + [시각화 사용 사례](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [시각화할 데이터 선택하기](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [데이터 시각화 플레이북](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [데이터 시각화](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [작업 영역에서 구성 요소 드롭다운 사용하기](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Workspace에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [영역 및 영역 누적 시각화](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [막대 및 막대 누적 시각화](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [글머리 기호 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
