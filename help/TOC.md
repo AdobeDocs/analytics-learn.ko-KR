@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2450'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -118,7 +118,7 @@ ht-degree: 99%
       + [시각화 사용 사례](analysis-workspace/visualizations/visualization-use-cases.md)
       + [데이터 시각화 플레이북](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [데이터 시각화](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [Workspace에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [Workspace에서 구성 요소 드롭다운 사용](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [영역 및 영역 누적 시각화](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [막대 및 막대 누적 시각화](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [글머리 기호 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
