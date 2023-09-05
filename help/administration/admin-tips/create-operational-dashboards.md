@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-08-18T00:00:00Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
-source-git-commit: 4ee8c50c4dc8c7e1e0901e97eb768093b3e2b19b
-workflow-type: tm+mt
-source-wordcount: '1150'
+source-git-commit: 15e9c1c1722cbf6476b8035540d1973aaf095f86
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -57,7 +57,7 @@ FAQ가 포괄적으로 여겨지면 회사와 공유하여 광범위한 액세�
 
 FAQ 대시보드 형태에 대한 일부 스크린샷은 다음과 같습니다.
 
-![스크린샷 1](assets/screenshot-1.png)
+![스크린샷 1](assets/screenshot-1_v2.png)
 
 ![낮은 트래픽 FAQ1](assets/low-traffic-faq.png)
 
