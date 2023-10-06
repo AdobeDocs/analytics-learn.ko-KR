@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2435'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -320,11 +320,11 @@ ht-degree: 97%
       + [세그먼트를 차원으로 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=ko)
       + [세그먼트를 사용하여 데이터 제한](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=ko)
       + [세그먼트 빌더와 빠른 세그먼트의 차이점](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-      + [순차적인 세분화](components/segmentation/sequential-segmentation.md)
+      + [순차적 세분화](components/segmentation/sequential-segmentation.md)
       + [순차적 세분화 전/후 시퀀스](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [개별 차원 카운트에 대한 세분화](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [세분화에서의 Dimension 모델](components/segmentation/dimension-models-in-segmentation.md)
-      + [세분화에서의 &quot;다음 중 1개 이상의 항목과 같음&quot; 연산자](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [세분화에서의 차원 모델](components/segmentation/dimension-models-in-segmentation.md)
+      + [세분화에서의 모든 연산자 동일](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider 웨비나 - 고객 세분화 전략](components/segmentation/customer-segmentation-strategies.md)
       + [Wait a segment… 세분화를 사용하여 새로운 인사이트 발견](components/segmentation/segmentation-to-discover-new-insights.md)
    + 계산된 지표 {#calculated-metrics}
