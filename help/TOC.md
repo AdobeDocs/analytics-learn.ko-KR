@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: ht
+source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
+workflow-type: tm+mt
 source-wordcount: '2435'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -324,7 +324,7 @@ ht-degree: 100%
       + [순차적 세분화 전/후 시퀀스](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [개별 차원 카운트에 대한 세분화](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [세분화에서의 차원 모델](components/segmentation/dimension-models-in-segmentation.md)
-      + [세분화에서의 모든 연산자 동일](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [세분화에서 &quot;다음 중 1개 이상의 항목과 같음&quot; 사용](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider 웨비나 - 고객 세분화 전략](components/segmentation/customer-segmentation-strategies.md)
       + [Wait a segment… 세분화를 사용하여 새로운 인사이트 발견](components/segmentation/segmentation-to-discover-new-insights.md)
    + 계산된 지표 {#calculated-metrics}
