@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
-workflow-type: ht
-source-wordcount: '2435'
-ht-degree: 100%
+source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+workflow-type: tm+mt
+source-wordcount: '2436'
+ht-degree: 98%
 
 ---
 
@@ -276,9 +276,9 @@ ht-degree: 100%
       + [Analytics 관리 로그 개요](administration/logs/overview-of-analytics-admin-logs.md)
 + 구현 {#implementation}
    + Implementation 기본 사항 {#implementation-basics}
-      + [보고서 세트 이해 및 생성](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko)
-      + [처리 규칙을 사용하여 contextData 변수를 속성 및 eVar에 매핑](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [Analytics Tracking Server 및 보고서 세트를 식별하는 방법](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [보고서 세트의 이해 및 생성](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko)
+      + [처리 규칙을 사용하여 contextData 변수를 prop 및 eVar에 매핑](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [Analytics 추적 서버 및 보고서 세트 ID를 식별하는 방법](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [비즈니스 요구 사항 문서 생성](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR 제작 및 유지 관리](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform Launch를 통해 {#via-adobe-launch}
