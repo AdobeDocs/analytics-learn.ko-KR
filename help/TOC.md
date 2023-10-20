@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -344,8 +344,8 @@ ht-degree: 99%
    + 가상 보고서 세트 {#virtual-report-suites}
       + [가상 보고서 세트 개요](components/virtual-report-suites/virtual-report-suites.md)
       + [구성 요소 큐레이션](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [가상 보고서 세트에서 방문 맞춤화](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [모든 이벤트에 대한 새 방문 시작](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+      + [가상 보고서 세트에서 방문 사용자 정의](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [모든 이벤트에서 새로운 방문 시작](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Activity Map 개요](components/activity-map/activity-map-overview.md)
       + [Adobe Analytics Activity Map 활성화, 디버깅 및 맞춤화](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
