@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: ht
-source-wordcount: '2429'
-ht-degree: 100%
+source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
+workflow-type: tm+mt
+source-wordcount: '2428'
+ht-degree: 99%
 
 ---
 
@@ -362,9 +362,9 @@ ht-degree: 100%
    + UI에서 {#from-the-ui}
       + [Analysis Workspace에서 CSV로 내보내기](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Data Warehouse 소개](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Data Warehouse 내보내기](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [SFTP를 통해 Data Warehouse 요청 전송](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [Tableau Data Extract의 Data Warehouse 보고서 전송](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [타블로 데이터 추출에서 데이터 웨어하우스 보고서 보내기](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 데이터 피드 {#data-feeds}
       + [데이터 피드 관리 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [데이터 피드 인증 키 다운로드](exporting/data-feeds/download-the-data-feed-authentication-key.md)
