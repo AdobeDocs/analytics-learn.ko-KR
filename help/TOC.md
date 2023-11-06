@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2428'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -211,7 +211,7 @@ ht-degree: 99%
       + [모든 차원을 사용한 집단 분석](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [코호트 테이블을 이용한 대기 시간 분석](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [코호트 테이블의 롤링 보존 계산](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-      + [집단 분석을 사용하여 고객 행동 이해](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
+      + [집단 분석을 사용하여 고객 비헤이비어 이해](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + 음성 분석 {#voice-analytics}
       + [Voice Assistant 앱 데이터 관리 및 추적 방법](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [음성 지원 디바이스 간의 차이점 이해](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -364,7 +364,7 @@ ht-degree: 99%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 내보내기](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [SFTP를 통해 Data Warehouse 요청 전송](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [타블로 데이터 추출에서 데이터 웨어하우스 보고서 보내기](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [Tableau Data Extract의 Data Warehouse 보고서 전송](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 데이터 피드 {#data-feeds}
       + [데이터 피드 관리 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [데이터 피드 인증 키 다운로드](exporting/data-feeds/download-the-data-feed-authentication-key.md)
@@ -386,7 +386,7 @@ ht-degree: 99%
       + [Audience Analytics - AAM 세그먼트를 Analytics에 통합](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + Target {#target}
       + [Analysis Workspace의 A4T(Analytics for Target) 패널](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
-      + [A4T 패널을 사용하여 자동 타겟 활동 분석](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
+      + [A4T 패널을 사용하여 자동 타겟팅 활동 분석](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [Advertising Analytics 구성](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [검색 엔진에 추적 템플릿 구현](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
