@@ -1,22 +1,22 @@
 ---
-title: Analysis Workspace에서 참여도 지표 사용
-description: 이 간단한 트릭을 사용하여 Analysis Workspace에서 언제든지 참여도 지표를 얻을 수 있습니다.
+title: 기여도 지표 만들기
+description: 기여도 지표를 만들고 사용하는 방법을 알아봅니다. [!DNL Analysis Workspace].
 feature: Metrics
 thumbnail: 41266.jpg
-kt: 6355
 role: User
 level: Beginner
+kt: 6355
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 967f28c033267520d041b3fb5c9b432a3d6afdb7
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 36%
 
 ---
 
-# Analysis Workspace에서 참여도 지표 사용
+# 기여도 지표 만들기
 
-이 간단한 트릭을 사용하여 Analysis Workspace에서 언제든지 참여도 지표를 얻을 수 있습니다.
+기여도 지표를 만들고 사용하는 방법을 알아봅니다. [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
