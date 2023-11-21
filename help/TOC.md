@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: ht
-source-wordcount: '2428'
-ht-degree: 100%
+source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
+workflow-type: tm+mt
+source-wordcount: '2425'
+ht-degree: 99%
 
 ---
 
@@ -170,8 +170,8 @@ ht-degree: 100%
       + [Analysis Workspace에서 참여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Excel을 대신할 계산된 지표](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 차원 {#dimensions}
-      + [Analysis Workspace에서 프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
-      + [트래픽 변수 소개 (속성)](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
+      + [프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
+      + [트래픽 변수(props) 소개](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [전환 변수 소개 (eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [자유 양식 표에서 차원 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ko)
    + 일정 및 기간 {#calendar-and-date-ranges}
