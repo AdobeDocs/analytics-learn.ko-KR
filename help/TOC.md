@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2425'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -172,7 +172,7 @@ ht-degree: 99%
    + 차원 {#dimensions}
       + [프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [트래픽 변수(props) 소개](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-      + [전환 변수 소개 (eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [전환 변수 소개(eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [자유 양식 표에서 차원 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ko)
    + 일정 및 기간 {#calendar-and-date-ranges}
       + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
@@ -324,7 +324,7 @@ ht-degree: 99%
       + [순차적 세분화 전/후 시퀀스](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [개별 차원 카운트에 대한 세분화](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [세분화에서의 차원 모델](components/segmentation/dimension-models-in-segmentation.md)
-      + [세분화에서 “다음 중 1개 이상의 항목과 같음” 사용](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [세분화에서 “다음 중 하나 이상의 항목과 같음” 사용](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider 웨비나 - 고객 세분화 전략](components/segmentation/customer-segmentation-strategies.md)
       + [Wait a segment… 세분화를 사용하여 새로운 인사이트 발견](components/segmentation/segmentation-to-discover-new-insights.md)
    + 계산된 지표 {#calculated-metrics}
