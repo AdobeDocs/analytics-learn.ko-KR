@@ -1,24 +1,20 @@
 ---
-title: Analytics Launch 확장 기능의 기본 구성
-description: 이 비디오는 Launch의 Analytics 확장 기능을 기본 사이트로 빠르게 구성하는 방법을 보여 줍니다.
+title: Experience Platform 태그의 Analytics 확장 기본 구성
+description: 이 비디오는 기본 사이트에 대한 Experience Platform 태그에서 Analytics 확장의 빠른 구성을 보여 줍니다.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
 kt: 3586
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
-# Analytics용 [!DNL Experience Platform Launch] 확장 기능의 기본 구성
+# Experience Platform 태그의 Analytics 확장 기본 구성
 
-이 비디오는 [!DNL Experience Platform Launch]의 [!DNL Analytics] 확장 기능을 기본 사이트로 빠르게 구성하는 방법을 보여 줍니다.
+이 비디오는 기본 사이트에 대한 Experience Platform 태그에서 Analytics 확장의 빠른 구성을 보여 줍니다. 자세한 설명서는 다음을 참조하십시오. [Adobe Analytics 확장 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ko-KR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)

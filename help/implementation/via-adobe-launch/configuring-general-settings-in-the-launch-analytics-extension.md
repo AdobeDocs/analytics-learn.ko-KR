@@ -1,32 +1,21 @@
 ---
-title: Launch Analytics 확장 기능에서 일반 설정 구성
-description: Adobe에서 제공하는 Launch 및 Adobe Analytics 확장 기능을 처음 사용하는 경우 이 비디오는 추적 서버 설정 등 구성의 일반 설정 부분과 관련하여 도움이 될 수 있습니다.
+title: Experience Platform 태그에서 Analytics 확장에 대한 일반 설정 구성
+description: 추적 서버 설정을 포함하여 Adobe 태그의 Analytics 확장에 대한 일반 구성 옵션에 대해 알아봅니다.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '126'
-ht-degree: 100%
+source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 1%
 
 ---
 
-# [!DNL Launch Analytics] [!UICONTROL 확장 기능]에서 [!UICONTROL 일반] 설정 구성 {#configuring-general-settings-in-the-launch-analytics-extension}
+# Experience Platform 태그에서 Analytics 확장에 대한 일반 설정 구성 {#configuring-general-settings-in-the-launch-analytics-extension}
 
-Experience Platform Launch 및 Adobe Analytics [!UICONTROL 확장 기능]을 처음 사용하는 경우 이 비디오는 추적 서버 설정 등 구성의 [!UICONTROL 일반] 설정 부분과 관련하여 도움이 될 수 있습니다.
+추적 서버 설정을 포함하여 Adobe 태그의 Analytics 확장에 대한 일반 구성 옵션에 대해 알아봅니다. 자세한 설명서는 다음을 참조하십시오. [Adobe Analytics 확장 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ko-KR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)
 
-이 사용 사례와 관련된 추가 정보는 다음 설명서 항목을 참조하십시오.
-
-[우편 번호](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=ko)
-
-[분류](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html)
-
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
