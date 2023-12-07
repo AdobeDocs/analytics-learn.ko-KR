@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 63f2bfa9eb45495eb609122164f3a4617575aa8d
+source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
 workflow-type: tm+mt
-source-wordcount: '2260'
-ht-degree: 98%
+source-wordcount: '2264'
+ht-degree: 99%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 98%
       + [올바른 질문을 하고 있습니까?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 관리자 팁 및 모범 사례 {#admin-tips}
       + [구현 플레이북 다운로드](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [데이터 사전 감사](administration/admin-tips/audit-your-data-dictionary.md)
       + [표준화된 이름 지정 규칙 만들기](administration/admin-tips/create-standardized-naming-conventions.md)
       + [표준화된 코드 템플릿 만들기](administration/admin-tips/create-standardized-code-templates.md)
       + [기본 비디오 및 교육 만들기](administration/admin-tips/create-basic-videos-and-training.md)
@@ -281,10 +282,10 @@ ht-degree: 98%
       + [분석 추적 서버 및 보고서 세트 ID를 식별하는 방법](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [비즈니스 요구 사항 문서 생성](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [SDR 제작 및 유지 관리](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + Experience Platform 태그 사용 {#via-adobe-launch}
+   + Experience Platform 태그 {#via-adobe-launch} 사용
       + [Experience Platform Launch를 사용하여 웹 사이트에서 Experience Cloud 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ko)
       + [Analytics 확장의 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Analytics 확장에 대한 라이브러리 관리 구성](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [Analytics 확장 기능에 대한 라이브러리 관리 구성](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [Analytics 확장에 대한 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 전역 변수 구성](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 쿠키 설정 구성](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
