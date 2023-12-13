@@ -1,24 +1,20 @@
 ---
-title: Launch Analytics 확장 기능에서 전역 변수 구성
-description: Adobe에서 제공하는 Launch 및 Adobe Analytics 확장 기능을 처음 사용하는 경우 이 비디오를 통해 전역 변수, 즉 모든 페이지 및 클릭에 설정하고자 하는 값을 설정하는 시점 및 지점을 파악할 수 있습니다.
+title: Analytics 확장에 대한 전역 변수 설정 구성
+description: 기본 웹 사이트용 Analytics 태그 확장에서 전역 변수 설정을 구성하는 방법을 알아봅니다.
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: technical video
-team: Technical Marketing
 kt: 2855
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 73ea8c36-66e3-4800-b0b0-f27e94cb4aaa
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: a7c86bd13b48e2549fe64240397514b84c77b3be
+workflow-type: tm+mt
+source-wordcount: '63'
+ht-degree: 1%
 
 ---
 
-# [!DNL Launch Analytics] [!UICONTROL 확장 기능]에서 [!UICONTROL 전역 변수] 구성 {#configuring-global-variables-in-the-launch-analytics-extension}
+# Experience Platform 태그에서 Analytics 확장에 대한 전역 변수 설정 구성 {#configuring-global-variables-in-the-launch-analytics-extension}
 
-Experience Platform Launch 및 Adobe Analytics [!UICONTROL 확장 기능]을 처음 사용하는 경우 이 비디오를 통해 [!UICONTROL 전역 변수], 즉 모든 페이지 및 클릭에 설정하고자 하는 값을 설정하는 시점 및 지점을 파악할 수 있습니다.
+기본 웹 사이트용 Analytics 태그 확장에서 전역 변수 설정을 구성하는 방법을 알아봅니다. 자세한 설명서는 다음을 참조하십시오. [Adobe Analytics 확장 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ko-KR){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
