@@ -1,20 +1,23 @@
 ---
-title: 전환 변수 소개 (eVar)
-description: 이 비디오에서는 “eVar”로도 알려진 전환 변수에 대해 소개합니다. 또한 트래픽과 전환 변수 간의 차이점 및 이들이 전환 이벤트와 어떤 관련이 있는지 설명합니다.
+title: 전환 변수 소개(eVar)
+description: 전환 이벤트와 관련되며 트래픽 변수와 다른 점을 포함하여 Adobe Analytics에서 전환 변수(eVar)가 사용되는 방법에 대해 알아봅니다.
 feature: Dimensions
 kt: 3577
 role: User
 level: Beginner
+last-substantial-update: 2023-12-14T00:00:00Z
 exl-id: 4f7bedec-efca-46e8-981a-18118982012f
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 73cc929263263065545f6db7b3bebecbf10ddaa3
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 19%
 
 ---
 
 # 전환 변수 소개 ([!DNL eVars])
 
-이 비디오에서는 “[!DNL eVars]”로도 알려진 전환 변수에 대해 소개합니다. 또한 트래픽과 전환 변수 간의 차이점 및 이들이 전환 [!DNL events]와 어떤 관련이 있는지 설명합니다.
+전환 변수(이라고도 함)에 대해 알아봅니다. [!DNL eVars]전환 이벤트와 관련되며 트래픽 변수와 다른 방식을 포함하여 Adobe Analytics에서 사용됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
+
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html)를 참조하십시오.
