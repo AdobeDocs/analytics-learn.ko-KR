@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
 workflow-type: tm+mt
 source-wordcount: '2264'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -284,9 +284,9 @@ ht-degree: 98%
       + [SDR 제작 및 유지 관리](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform 태그 {#via-adobe-launch} 사용
       + [Experience Platform Launch를 사용하여 웹 사이트에서 Experience Cloud 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ko)
-      + [Analytics 확장의 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Analytics 확장 기능의 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [Analytics 확장 기능에 대한 라이브러리 관리 구성](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Analytics 확장에 대한 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [Analytics 확장 기능에 대한 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [Analytics 확장에 대한 전역 변수 설정 구성](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장에서 쿠키 설정 구성](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [Launch Analytics 확장 기능을 구성하는 동안 사용자 정의 코드 사용](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
