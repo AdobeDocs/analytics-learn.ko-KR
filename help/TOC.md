@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
+source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
 workflow-type: tm+mt
-source-wordcount: '2264'
-ht-degree: 99%
+source-wordcount: '2249'
+ht-degree: 98%
 
 ---
 
@@ -34,19 +34,17 @@ ht-degree: 99%
    + 다른 플랫폼에서 전환 {#transitioning-from-other-platforms}
       + [Google Analytics에서 전환](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 기본 사항 {#analytics-basics}
-      + [Reports and Analytics의 [작업 영역에서 시도] 버튼](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [Analytics 주기 이해](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [Analytics 데이터 수집 방법](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
-      + [Adobe Analytics에 로그인](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [보고서 세트 이해 및 생성](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [Adobe Analytics에 로그인합니다](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
+      + [보고서 세트 이해 및 만들기](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [기본 방문자 지표 이해](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=ko)
-      + [트래픽 변수 소개 (속성)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ko)
+      + [트래픽 변수 소개 (prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=ko)
       + [전환 변수 소개 (eVar)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=ko)
       + [전환 이벤트 소개](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=ko)
    + UI 맞춤화 {#customizing-the-ui}
       + [Analysis Workspace 사용자 환경 설정 맞춤화](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [차원 및 지표 설명 추가](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [Reports and Analytics에서 메뉴 맞춤화](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [향상된 보안](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Analysis Workspace 프로젝트를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 도움말 보기 {#getting-help}
