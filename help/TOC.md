@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: ht
-source-wordcount: '2249'
-ht-degree: 100%
+source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+workflow-type: tm+mt
+source-wordcount: '2227'
+ht-degree: 98%
 
 ---
 
@@ -180,17 +180,15 @@ ht-degree: 100%
       + [Analysis Workspace의 날짜 비교](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [트렌드에 대한 이전 월 및 연도 비교 추가](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 프로젝트 선별 및 공유 {#curate-and-share-projects}
-      + [Analysis Workspace에서 프로젝트 저장, 공유 및 공동 작업 수행](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Analysis Workspace에서 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [프로젝트 저장, 공유 및 공동 작업](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [프로젝트 선별 및 공유](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [Analysis Workspace의 모든 사람과 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [모두와 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [Analysis Workspace에서 CSV 및 PDF로 내보내기](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [CSV로 내보내기 및 PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [예약 및 다운로드 가능한 프로젝트](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
-      + [Analysis Workspace에서 프로젝트 공유하기](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
-      + [Analysis Workspace의 보기 전용 프로젝트](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [보기 전용 공유 기능 사용](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [보기 전용 프로젝트 만들기](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [보기 전용 공유 기능 잠금 해제](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [교차 탭 분석을 사용하여 기본 마케팅 기여도 탐색](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Attribution IQ 모델의 나란히 비교 추가](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
