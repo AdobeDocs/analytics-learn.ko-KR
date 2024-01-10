@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
 source-wordcount: '2227'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -185,9 +185,9 @@ ht-degree: 98%
       + [프로젝트에 직접 연결](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [모두와 공유](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [50,000개의 항목을 CSV로 다운로드](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [CSV로 내보내기 및 PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [CSV 및 PDF로 내보내기](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [임베드된 구성 요소 공유](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [보기 전용 프로젝트 만들기](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [읽기 전용 프로젝트 공유](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [보기 전용 공유 기능 잠금 해제](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [교차 탭 분석을 사용하여 기본 마케팅 기여도 탐색](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)

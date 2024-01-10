@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace의 보기 전용 프로젝트
-description: 작업 영역 프로젝트는 "볼 수 있음"으로만 사용자에게 공유할 수 있습니다. 보기 수신자가 공유 프로젝트를 열면 왼쪽 레일이 없고 상호 작용이 제한되어 더욱 제한적인 프로젝트 경험을 수신합니다.
+title: Analysis Workspace에서 읽기 전용 프로젝트 공유
+description: 읽기 전용 Workspace Analysis 프로젝트를 사용자에게 공유하는 방법을 알아보고 이 권한 수준에 사용할 수 있는 기능을 이해합니다.
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,16 +11,16 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
-# Analysis Workspace의 보기 전용 프로젝트
+# Analysis Workspace에서 읽기 전용 프로젝트 공유
 
-작업 영역 프로젝트는 &quot;볼 수 있음&quot;으로만 사용자에게 공유할 수 있습니다. 보기 수신자가 공유 프로젝트를 열면 왼쪽 레일이 없고 상호 작용이 제한되어 더욱 제한적인 프로젝트 경험을 수신합니다.
+읽기 전용 Workspace Analysis 프로젝트를 사용자에게 공유하는 방법을 알아보고 이 권한 수준에 사용할 수 있는 기능을 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
