@@ -1,24 +1,25 @@
 ---
-title: Analytics Launch 확장 기능을 구성하는 동안 사용자 정의 코드 사용
-description: Adobe에서 제공하는 Launch 및 Adobe Analytics 확장 기능을 처음 사용하는 경우 이 비디오를 통해 사용자 정의 코드 창 옵션, 코드 실행 시기 등을 파악할 수 있습니다.
-feature: Launch Implementation
-topics: null
-activity: implement
+title: 의 Adobe Analytics 확장에서 사용자 지정 코드 사용 [!DNL Tags]
+description: 에서 Adobe Analytics 확장을 구성할 때 사용자 지정 코드 편집기를 사용하기 위한 사용 사례 및 기술 고려 사항에 대해 알아봅니다 [!DNL Tags].
+feature: Tags
+topics: Development
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
 role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '77'
-ht-degree: 100%
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 0%
 
 ---
 
-# [!DNL Analytics] [!DNL Launch] 확장 기능을 구성하는 동안 사용자 정의 코드 사용 {#using-custom-code-while-configuring-the-launch-analytics-extension}
+# 의 Adobe Analytics 확장에서 사용자 지정 코드 사용 [!DNL Tags]
 
-Adobe Experience Platform Launch 및 Adobe Analytics [!UICONTROL 확장 기능]을 처음 사용하는 경우 이 비디오를 통해 사용자 정의 코드 창 옵션, 코드 실행 시기 등을 파악할 수 있습니다.
+에서 Adobe Analytics 확장을 구성할 때 사용자 지정 코드 편집기를 사용하기 위한 사용 사례 및 기술 고려 사항에 대해 알아봅니다 [!DNL Tags].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+
+리뷰 [설명서](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) 에 대한 자세한 내용은 <i>doPlugins 함수</i> 이 비디오에서 참조되었습니다.
