@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
 source-wordcount: '2192'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -280,24 +280,24 @@ ht-degree: 94%
       + [SDR 제작 및 유지 관리](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + Experience Platform 태그 {#experience-platform-tags}
       + [태그를 사용하여 웹 사이트에서 Experience Cloud 솔루션 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=ko)
-      + [Analytics 확장 기능의 기본 구성](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [Analytics 확장에서 라이브러리 관리 구성](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [Analytics 확장에서 일반 설정 구성](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [Analytics 확장에서 전역 변수 설정 구성](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [Analytics 확장에서 쿠키 설정 구성](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [Analytics 확장에서 사용자 지정 코드 사용](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [데이터 레이어를 사용하여 변수 설정](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [구현 플러그인 추가](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [Adobe Analytics 확장 기능에서 doPlugin 사용](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
-      + [간편한 다운로드 링크 추적 구성](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
-      + [간편한 종료 링크 추적 구성](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [Analytics 구현을 위한 태그 준비](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [Analytics 구현을 위한 데이터 요소 만들기](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [전역 페이지 로드 규칙 만들기](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [전역 페이지 로드 규칙 유효성 검사](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [특수 페이지에 대한 규칙 만들기](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [성공 이벤트에 대한 규칙 만들기](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [스테이지 및 프로덕션에 태그 라이브러리 게시](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [Analytics 확장 기능의 기본 구성](implementation/experience-platform-tags/basic-configuration-of-the-analytics-tags-extension.md)
+      + [Analytics 확장 기능의 라이브러리 관리 구성](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
+      + [Analytics 확장 기능의 일반 설정 구성](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
+      + [Analytics 확장 기능의 전역 변수 설정 구성](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
+      + [Analytics 확장 기능의 쿠키 설정 구성](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
+      + [Analytics 확장 기능에 사용자 정의 코드 사용](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
+      + [데이터 영역을 사용하여 변수 설정](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
+      + [구현 플러그인 추가](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
+      + [Adobe Analytics 확장 기능에 doPlugin 사용](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [간편한 다운로드 링크 추적 구성](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [간편한 종료 링크 추적 구성](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [Analytics 구현을 위해 태그 준비](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
+      + [Analytics 구현을 위해 에서 데이터 요소 만들기](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
+      + [전역 페이지 로드 규칙 만들기](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
+      + [전역 페이지 로드 규칙 검사](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
+      + [특수 페이지에 대한 규칙 만들기](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
+      + [성공 이벤트에 대한 규칙 만들기](implementation/experience-platform-tags/creating-tags-rules-for-success-events.md)
+      + [스테이지 및 프로덕션에 태그 라이브러리 게시](implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production.md)
    + JavaScript 사용 {#using-javascript}
       + [태그 관리자 없이 사용자 정의 링크 추적](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch를 사용하지 않을 때 AppMeasurement 업데이트](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)

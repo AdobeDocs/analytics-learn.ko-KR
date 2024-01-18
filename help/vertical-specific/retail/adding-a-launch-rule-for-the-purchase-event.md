@@ -1,20 +1,25 @@
 ---
-title: 구매 이벤트에 대한 Launch 규칙 추가
-description: 이 비디오는 사이트의 구매 내역을 추적하기 위해 Launch에서 제품 문자열 확장 기능을 사용하는 방법을 보여 줍니다(분석에서 매출, 주문 및 단위 지표 발생).
-feature: Launch Implementation
+title: Experience Platform에서 구매 이벤트에 대한 규칙 추가 [!DNL tags]
+description: 이 비디오는 의 제품 문자열 확장 기능을 사용하는 방법을 보여 줍니다 [!DNL tags] 를 클릭하여 사이트에서 구매를 추적하면, 분석에서 매출, 주문 및 판매량 지표를 확인할 수 있습니다.
+feature: Tags
+topics: Development
 kt: 3593
 role: Developer, Data Engineer
 level: Beginner
 exl-id: d5f29523-5726-4c49-8ce6-a21c0a7a6c73
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 35%
 
 ---
 
-# [!DNL Purchase] 이벤트에 대한 [!DNL Launch] [!UICONTROL 규칙] 추가
+# Experience Platform에서 구매 이벤트에 대한 규칙 추가 [!DNL tags]
 
 이 비디오는 사이트의 구매 내역을 추적하기 위해 [!DNL Experience Platform Launch]에서 제품 문자열 [!UICONTROL 확장 기능]을 사용하는 방법을 보여 줍니다(분석에서 [!UICONTROL 매출], [!UICONTROL 주문] 및 [!UICONTROL 단위] [!UICONTROL 지표] 발생).
+
+>[!NOTE]
+>
+> 이제 Launch가 **[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12&learn=on)
