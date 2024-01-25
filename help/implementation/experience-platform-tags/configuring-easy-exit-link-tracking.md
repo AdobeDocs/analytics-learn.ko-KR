@@ -1,6 +1,6 @@
 ---
-title: Experience Platform [!DNL tags]에서 간편한 종료 링크 추적 구성
-description: Experience Platform [!DNL tags]의 Adobe Analytics 확장 기능에서 몇 번의 클릭만으로 사이트에서 종료 링크(사이트에서 다른 사이트로 연결되는 링크)를 추적할 수 있습니다. 이 비디오를 통해 그 설정 방법을 알아볼 수 있습니다.
+title: Experience Platform 태그에서 간편한 종료 링크 추적 구성
+description: Experience Platform 태그의 Adobe Analytics 확장 기능에서 몇 번의 클릭만으로 사이트에서 종료 링크(다른 사이트로 이동하는 링크) 추적을 시작할 수 있습니다. 이 비디오를 통해 그 설정 방법을 알아볼 수 있습니다.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,20 +10,16 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: ht
-source-wordcount: '155'
-ht-degree: 100%
+source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+workflow-type: tm+mt
+source-wordcount: '154'
+ht-degree: 75%
 
 ---
 
 # Experience Platform [!DNL tags]에서 간편한 종료 링크 추적 구성
 
 Experience Platform [!DNL tags]의 Adobe Analytics 확장 기능에서 몇 번의 클릭만으로 사이트에서 종료 링크(사이트에서 다른 사이트로 연결되는 링크)를 추적할 수 있습니다. 이 비디오를 통해 그 설정 방법을 알아볼 수 있습니다.
-
->[!NOTE]
->
-> 이제 **[!DNL tags]** 실행
 
 >[!VIDEO](https://video.tv.adobe.com/v/25763/?quality=12&learn=on)
 
