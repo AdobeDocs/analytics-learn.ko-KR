@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
+source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
 workflow-type: tm+mt
-source-wordcount: '2192'
+source-wordcount: '2187'
 ht-degree: 99%
 
 ---
@@ -287,8 +287,7 @@ ht-degree: 99%
       + [Analytics 확장 기능의 쿠키 설정 구성](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Analytics 확장 기능에 사용자 정의 코드 사용](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [데이터 영역을 사용하여 변수 설정](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [구현 플러그인 추가](implementation/experience-platform-tags/adding-implementation-plug-ins-in-tags.md)
-      + [Adobe Analytics 확장 기능에 doPlugin 사용](implementation/experience-platform-tags/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [doPlugins 및 구현 플러그인 사용](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
       + [간편한 다운로드 링크 추적 구성](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [간편한 종료 링크 추적 구성](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Analytics 구현을 위해 태그 준비](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
