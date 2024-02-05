@@ -1,20 +1,26 @@
 ---
 title: 기본 방문자 지표 이해
-description: 페이지 보기 수, 방문 횟수 및 방문자 수입니다. 이 간략한 비디오는 웹 사이트 트래픽을 이해하기 위한 핵심 요소에 대한 몇 가지 기본 정보를 제공합니다.
+description: Adobe Analytics의 페이지 보기 수, 방문 횟수 및 방문자에 대해 알아봅니다. 웹 사이트 트래픽을 이해하는 데 도움이 되는 기본 방문자 지표에 대한 통찰력을 얻으십시오.
 feature: Metrics
 kt: 3575
 role: User
 level: Beginner
 exl-id: efc12fc6-c031-4c50-832a-786c84e76151
-source-git-commit: 4edc6b256cf437bc4eb4aefc95a3ee8e16f16322
+source-git-commit: 5ca8c7350ccda400ebdc52d161b5a6afe69fb333
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 81%
+source-wordcount: '88'
+ht-degree: 11%
 
 ---
 
 # 기본 방문자 지표 이해
 
-[!UICONTROL 페이지 보기 수], [!UICONTROL 방문 횟수], 및 [!UICONTROL 방문자 수]. 이 간략한 비디오는 웹 사이트 트래픽을 이해하기 위한 핵심 요소에 대한 몇 가지 기본 정보를 제공합니다.
+다음에 대해 알아보기 [[!UICONTROL 페이지 보기 수]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL 방문 횟수]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ko-KR), 및 [[!UICONTROL 방문자 수]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ko-KR) Adobe Analytics.
+
+* 이러한 기본 방문 지표에 대한 정의를 확인하고 공통점과 차이점에 대해 알아봅니다.
+
+* 방문자 지표 및 웹 사이트 트래픽과 관련된 다양한 용어(동의어 또는 키워드)에 대해 알아봅니다.
+
+* 샘플 보기 [!UICONTROL 작업 영역] 이러한 지표가 인터페이스에 표시되는 방식을 보여 주는 프로젝트입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
