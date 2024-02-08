@@ -1,6 +1,6 @@
 ---
 title: Experience Platform 태그에서 간편한 종료 링크 추적 구성
-description: Experience Platform 태그의 Adobe Analytics 확장 기능에서 몇 번의 클릭만으로 사이트에서 종료 링크(사이트에서 다른 사이트로 연결되는 링크)를 추적할 수 있습니다. 이 비디오를 통해 그 설정 방법을 알아볼 수 있습니다.
+description: Experience Platform 태그의 Adobe Analytics 확장 기능에서 몇 번의 클릭만으로 사이트에서 종료 링크(다른 사이트로 이동하는 링크)를 추적하는 방법을 알아봅니다.
 feature: Tags
 topics: Development
 activity: implement
@@ -10,10 +10,10 @@ kt: 2273
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
-source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: ht
-source-wordcount: '154'
-ht-degree: 100%
+source-git-commit: 6dd1575364f3bb3cf81c3f5ffb642f3c1043eb8b
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 80%
 
 ---
 
