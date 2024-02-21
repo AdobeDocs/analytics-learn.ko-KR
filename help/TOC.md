@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: ht
-source-wordcount: '2187'
+source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
+workflow-type: tm+mt
+source-wordcount: '2180'
 ht-degree: 100%
 
 ---
@@ -284,7 +284,6 @@ ht-degree: 100%
       + [Analytics 확장 기능의 라이브러리 관리 구성](implementation/experience-platform-tags/configuring-library-management-in-the-tags-analytics-extension.md)
       + [Analytics 확장 기능의 일반 설정 구성](implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.md)
       + [Analytics 확장 기능의 전역 변수 설정 구성](implementation/experience-platform-tags/configuring-global-variables-in-the-tags-analytics-extension.md)
-      + [Analytics 확장 기능의 쿠키 설정 구성](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [Analytics 확장 기능에 사용자 정의 코드 사용](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [데이터 영역을 사용하여 변수 설정](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
       + [doPlugins 및 구현 플러그인 사용](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
