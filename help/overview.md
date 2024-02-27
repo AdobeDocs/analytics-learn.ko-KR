@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+workflow-type: ht
+source-wordcount: '244'
+ht-degree: 100%
 
 ---
 
@@ -30,17 +30,6 @@ ht-degree: 0%
 
 또한 과정 섹션에서 역할 및 기술 수준별로 선별된 학습 경험이 제공됩니다. Adobe ID로 로그인하고 상단 탐색에서 **학습 > 추천 과정**&#x200B;으로 이동하기만 하면 됩니다.
 
-<div id="whats-new-section">
-
-## 새로운 기능
-
-* **[Adobe Analytics 모바일 스코어카드 앱](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *모바일 스코어카드 애플리케이션을 다운로드하고 [!DNL Analysis Workspace]에서 만든 모바일 스코어카드를 보는 방법에 대해 알아보십시오.*
-
-* **[작업 영역의 주석(비디오)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace]의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등으로 날짜 또는 날짜 범위에 주석을 추가합니다. 이 주석은 막대 차트, 표 등에서 표시되는 특이 사항을 사용자에게 알려 줍니다.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
