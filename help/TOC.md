@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 5539caf525f83074f0862eabe5775a1da2d7b5cd
-workflow-type: ht
-source-wordcount: '2180'
-ht-degree: 100%
+source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
+workflow-type: tm+mt
+source-wordcount: '2176'
+ht-degree: 99%
 
 ---
 
@@ -48,7 +48,6 @@ ht-degree: 100%
       + [향상된 보안](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [Analysis Workspace 프로젝트를 랜딩 페이지로 설정](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 도움말 보기 {#getting-help}
-      + [Analysis Workspace 제품 내 팁](intro-to-analytics/getting-help/in-product-tips.md)
       + [제품 내 지원 티켓 제출](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [Adobe Analytics에서 도움말 보기](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
