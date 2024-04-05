@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2176'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -289,7 +289,7 @@ ht-degree: 99%
       + [간편한 다운로드 링크 추적 구성](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
       + [간편한 종료 링크 추적 구성](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [Analytics 구현을 위해 태그 준비](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
-      + [Analytics 구현을 위해 에서 데이터 요소 만들기](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
+      + [Analytics 구현을 위해 데이터 요소 만들기](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [전역 페이지 로드 규칙 만들기](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
       + [전역 페이지 로드 규칙 검사](implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.md)
       + [특수 페이지에 대한 규칙 만들기](implementation/experience-platform-tags/creating-tags-rules-for-special-pages.md)
