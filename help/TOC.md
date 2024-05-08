@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
-workflow-type: ht
-source-wordcount: '2176'
+source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+workflow-type: tm+mt
+source-wordcount: '2179'
 ht-degree: 100%
 
 ---
@@ -240,6 +240,7 @@ ht-degree: 100%
       + [계정의 사용 가능한 기능 보기](administration/company-settings/view-your-accounts-available-features.md)
    + 사용자 관리 {#user-management}
       + [Adobe Analytics에 관리자 추가](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [제품 프로필 만들기](administration/user-management/create-product-profiles.md)
       + [Admin Console에서 보고서 세트 액세스 제한](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [사용자 자산을 다른 사용자에게 전송](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [로그인 문제를 방지하기 위해 연결된 IMS ID 확인](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
