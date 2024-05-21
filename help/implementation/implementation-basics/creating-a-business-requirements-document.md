@@ -7,10 +7,10 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
-workflow-type: ht
-source-wordcount: '115'
-ht-degree: 100%
+source-git-commit: 245a31092b4a9c253eadd843c7b919c4f701d449
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 70%
 
 ---
 
@@ -20,6 +20,6 @@ Adobe Analytics에서 캡처하고 분석할 동작 데이터를 정의하는 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
-샘플 Excel 템플릿을 [다운로드](assets/aa-implementation-playbook.xlsx)하여 디지털 속성에 대한 요구 사항 및 데이터 수집 설계를 문서화하십시오.
+[다운로드](assets/aa_en_BRD_SDR_template.xlsx) 디지털 속성에 대한 요구 사항, 변수 사용 및 할당, 세그먼트 및 데이터 수집 설계를 문서화하기 위한 샘플 Excel 템플릿입니다.
 
-이 비디오에 제공된 Excel 문서를 [다운로드](assets/geometrixx-clothiers-brd-sdr.xlsx)하거나 관련 [솔루션 디자인 참조 비디오](creating-and-maintaining-an-sdr.md)를 시청하십시오).
+관련 비디오 를 시청하여 다음을 만드는 방법 알아보기 [솔루션 디자인 참조 문서](creating-and-maintaining-an-sdr.md).
