@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: ht
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 100%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 100%
    + JavaScript 사용 {#using-javascript}
       + [태그 관리자 없이 사용자 정의 링크 추적](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch를 사용하지 않을 때 AppMeasurement 업데이트](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + 확인 및 문제 해결 {#validating-and-troubleshooting}
-      + [Adobe Experience Cloud Debugger를 사용하여 구현 검사](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + SPA 페이지 {#spa-pages}
-      + [SPA 추적 시 모범 사례 사용](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + 구성 요소 {#components}
    + 세분화 {#segmentation}
       + [세그먼트 빌더 개요](components/segmentation/segment-builder-overview.md)
