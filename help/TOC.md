@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 99%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 99%
       + [Analysis Workspace 성능 지표 보기](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [봇 보고서 만들기](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + 팁 및 요령 {#tips-and-tricks}
+      + [자유 형식 테이블에 하이퍼링크 만들기](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [Analysis Workspace을 위한 7가지 팁 및 요령](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [보다 효율적인 워크플로를 위한 마우스 오른쪽 버튼 클릭 팁 및 요령](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [Analysis Workspace의 생산성 향상을 위한 팁](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 99%
       + [주석](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [보기 밀도](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [필터 사용](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [다중 선택 드롭다운 필터 사용](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + 실시간 보고서 {#real-time-reports}
       + [실시간 보고](analysis-workspace/real-time-reports/realtime-reporting.md)
    + 패널 사용 {#using-panels}
