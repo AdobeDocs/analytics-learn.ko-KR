@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
+source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 100%
+source-wordcount: '2157'
+ht-degree: 99%
 
 ---
 
@@ -339,7 +339,7 @@ ht-degree: 100%
       + [모든 이벤트에서 새로운 방문 시작](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Activity Map 개요](components/activity-map/activity-map-overview.md)
-      + [Adobe Analytics Activity Map 활성화, 디버깅 및 맞춤화](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
+      + [Activity Map 활성화, 디버그 및 사용자 지정](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 추가 도구 {#additional-tools}
    + [Adobe Labs (기술 미리보기)](additional-tools/adobe-labs-technology-previews.md)
    + Analytics 대시보드 {#analytics-dashboards}
