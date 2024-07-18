@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13179
 thumbnail: KT-13179.jpeg
-source-git-commit: 2159759181206c4980ad82c58f1e1a8636143e34
+exl-id: 5396817e-582f-4389-be81-40b8ff8188b2
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
 
 ---
-
 
 # Analysis Workspace에서 읽기 전용 공유의 기능 사용
 
@@ -39,14 +39,14 @@ Adobe Analytics Workspace 프로젝트를 동료와 공유하는 것은 더 나�
 훌륭한 경영진 대시보드는 간단하고 핵심이 되어야 합니다. Analytics 대시보드의 첫 번째 화면에 KPI만 추가하고, 미리 정의된 선택 사항 세트에서 KPI를 한 개의 차원으로 분류하는 선택적 한 수준 드릴다운을 사용합니다. Analytics 대시보드를 통해 경영진에게 원하는 스토리를 전달할 수 있습니다.
 
 상사가 Analytics 대시보드를 직접 사용하지 않더라도 Analytics 대시보드에서 이러한 KPI를 준비하고 있는 상태에서 질문을 받으면 답을 찾으십시오. 여러분은 단지 멋지고 준비가 되어 있는 것처럼 보일 것입니다.
-조직 내에서 Adobe Analytics을 채택할 경우 전체 기능을 가진 모든 사용자가 분석을 위해 Workspace 프로젝트를 생성/수정할 수 있도록 하려고 합니다. 그러나 다양한 기술과 포커스를 가진 사용자가 있습니다. 이들 중 일부는 사전 정의된 일부 작업 영역 프로젝트에서 데이터만 사용하면 되며 Adobe Analytics에서의 경험이 거의 없는 상태에서 추가적인 분석은 수행하지 않습니다. 읽기 전용 프로젝트 또는 분석 대시보드는 데이터에 액세스할 수 있는 사전 정의된 경험이 있는 간단한 인터페이스를 제공합니다.
+조직 내에서 Adobe Analytics을 채택할 때 전체 기능을 가진 모든 사용자가 분석을 위해 Workspace 프로젝트를 생성/수정할 수 있도록 하고자 합니다. 그러나 다양한 기술과 포커스를 가진 사용자가 있습니다. 이들 중 일부는 사전 정의된 일부 작업 영역 프로젝트에서 데이터만 사용하면 되며 Adobe Analytics에서의 경험이 거의 없는 상태에서 추가적인 분석은 수행하지 않습니다. 읽기 전용 프로젝트 또는 분석 대시보드는 데이터에 액세스할 수 있는 사전 정의된 경험이 있는 간단한 인터페이스를 제공합니다.
 
 ## 작성자
 
 이 문서의 작성자:
 
-![라우 레오](assets/leo_headshot.png)
+![레오 라우](assets/leo_headshot.png)
 
-**라우 레오**, Director, MarTech 리드 아시아
+**Leo Lau**, Director, MarTech 리드 아시아
 
 Adobe Analytics 챔피언

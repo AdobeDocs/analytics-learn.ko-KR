@@ -29,6 +29,6 @@ ht-degree: 46%
 1. 백분율 반올림 기능
 1. 테이블 상단에 평균 백분율 행 표시/숨기기 기능
 
-평균 행은 보기에 이상적입니다 [!UICONTROL 유지] 또는 [!UICONTROL 이탈] 개인보다는 전체적 [!UICONTROL 집단] 행.
+평균 행은 개별 [!UICONTROL 집단] 행보다는 전체적으로 [!UICONTROL 유지] 또는 [!UICONTROL 이탈]을 보는 데 이상적입니다.
 
 [!UICONTROL 집단] 분석에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=ko)를 참조하십시오.

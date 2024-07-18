@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# 통합 [!DNL Adobe Analytics] 포함 [!DNL Adobe Audience Manager] 서버측 전달 사용
+# 서버측 전달을 사용하여 [!DNL Adobe Analytics]을(를) [!DNL Adobe Audience Manager]과(와) 통합
 
-보내는 방법 알아보기 [!DNL Adobe Analytics] 데이터 받는 사람 [!DNL Adobe Audience Manager] 서버측 전달을 사용합니다.
+서버측 전달을 사용하여 [!DNL Adobe Analytics] 데이터를 [!DNL Adobe Audience Manager](으)로 보내는 방법을 알아봅니다.
 
 >[!NOTE]
 >
->&quot;[!UICONTROL 시작]&quot; 의 이름이 &quot;(으)로 변경되었습니다.[!UICONTROL 태그]&quot;Experience Cloud 인터페이스에 있어야 합니다. 선택 [!UICONTROL 데이터 수집] 다음에서 [!UICONTROL 응용 프로그램 전환기] 태그를 열고 이 비디오에 포함된 단계를 수행합니다.
+>Experience Cloud 인터페이스에서 &quot;[!UICONTROL Launch]&quot;의 이름이 &quot;[!UICONTROL tags]&quot;(으)로 바뀌었습니다. [!UICONTROL 응용 프로그램 전환기]에서 [!UICONTROL 데이터 수집]을(를) 선택하여 태그를 열고 이 비디오에 포함된 단계를 수행합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

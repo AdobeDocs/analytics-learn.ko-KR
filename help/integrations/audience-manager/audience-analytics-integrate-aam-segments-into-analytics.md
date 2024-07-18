@@ -15,14 +15,14 @@ badgeIntegration: label="통합" type="positive"
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
 source-git-commit: dd8bd00ee533126d77596e33915c666ccb591cd2
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 61%
+source-wordcount: '118'
+ht-degree: 65%
 
 ---
 
 # Audience Analytics: AAM [!DNL Segments]를 [!DNL Analytics]에 통합 {#audience-analytics-integrate-aam-segments-into-analytics}
 
-[!UICONTROL Audience Analytics] 는 Audience Manager에서 로 세그먼트를 공유할 수 있는 통합입니다 [!DNL Analytics] 대상 검색, 세분화 및 최적화를 실시간으로 알릴 수 있습니다.
+[!UICONTROL Audience Analytics]은(는) 실시간으로 Audience Manager의 세그먼트를 [!DNL Analytics]에 공유하여 대상 검색, 세분화 및 최적화를 알릴 수 있는 통합입니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 

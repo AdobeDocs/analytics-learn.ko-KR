@@ -17,8 +17,8 @@ ht-degree: 11%
 
 ---
 
-# 보내기 [!DNL Data Warehouse] SFTP를 통한 보고서
+# SFTP를 통해 [!DNL Data Warehouse] 보고서 보내기
 
-을(를) 만드는 방법 알아보기 [!DNL Data Warehouse] Adobe Analytics에서 요청하고 SFTP 전달을 위해 설정합니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)를 참조하십시오.
+Adobe Analytics에서 [!DNL Data Warehouse] 요청을 만들고 SFTP 배달을 위해 설정하는 방법을 알아봅니다. 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)

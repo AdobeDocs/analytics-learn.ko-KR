@@ -14,10 +14,10 @@ ht-degree: 19%
 
 ---
 
-# 전환 변수 소개 ([!DNL eVars])
+# 전환 변수 소개([!DNL eVars])
 
-전환 변수(이라고도 함)에 대해 알아봅니다. [!DNL eVars]전환 이벤트와 관련되며 트래픽 변수와 다른 방식을 포함하여 Adobe Analytics에서 사용됩니다.
+전환 이벤트와 관련된 방법 및 트래픽 변수와 다른 방법을 포함하여 [!DNL eVars]이라고도 하는 전환 변수가 Adobe Analytics에서 사용되는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/components/dimensions/evar.html)를 참조하십시오.

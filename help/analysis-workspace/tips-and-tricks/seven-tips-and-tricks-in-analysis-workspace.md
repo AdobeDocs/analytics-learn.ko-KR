@@ -96,6 +96,6 @@ Adobe Analytics에서는 많은 양의 데이터를 수집합니다. [!DNL Virtu
 
 [여기를 클릭하여 Experience League에 대한 팁 및 요령 더 알아보기](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
-| 작성자 정보 |  |
+| 작성자 정보 |            |
 |------------|------------|
 | ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser는 Adobe Analytics 제품 관리 팀의 관리자입니다. <br> 관리자로서 Jen은 고객과 대면하여 그들의 비즈니스 요구를 파악하고, <br>배운 내용을 활용하여 Adobe Analytics 제품 로드맵을 알리고, <br>새 제품 기능의 우선 순위를 결정합니다. 현재 위치 이전에 <br>Jen은 Adobe 컨설팅 팀의 수석 컨설턴트였으며, 데이터 시각화, Analysis Workspace 및 [!DNL Report Builder]에서 <br>주제 전문가로 일했습니다. <br><br>그녀의 실제 통찰력을 바탕으로 <br>Analysis Workspace 프로젝트를 더 쉽게 구축하고, 시각화하고, 공유할 수 있도록 다음과 같은 팁 및 요령이 선별되었습니다. |

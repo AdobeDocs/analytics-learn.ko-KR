@@ -9,8 +9,8 @@ level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 25%
+source-wordcount: '209'
+ht-degree: 23%
 
 ---
 
@@ -62,7 +62,7 @@ Analysis Workspace 프로젝트에 입력할 수 있는 다양한 종류 또는 
 <td style="vertical-align: top;">
 
 * 막대
-* 가로 막대형
+* 가로 막대
 * 스택 막대
 * 스택 가로 막대
 * 자유 형식 테이블
@@ -156,4 +156,4 @@ Analysis Workspace 프로젝트에 입력할 수 있는 다양한 종류 또는 
 
 </table>
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)를 참조하십시오.

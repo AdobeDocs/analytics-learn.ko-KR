@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ ht-degree: 100%
 
 * 사용자 온보딩 프로세스 제작:
 
-   비즈니스용 Adobe Analytics 액세스와 관련된 요구 사항 및 프로세스는 무엇입니까? 신규 사용자 온보딩을 위한 요구 사항 및 프로세스를 갖추지 않은 경우 이러한 인프라를 구축하여 확장성을 확보할 수 있습니다.
+  비즈니스용 Adobe Analytics 액세스와 관련된 요구 사항 및 프로세스는 무엇입니까? 신규 사용자 온보딩을 위한 요구 사항 및 프로세스를 갖추지 않은 경우 이러한 인프라를 구축하여 확장성을 확보할 수 있습니다.
 
 * 적절한 사용자 관리 및 액세스 구현:
 
-   보고서 세트, 지표, 차원, 도구, 보고서 및 구성 요소에 대한 사용자 액세스는 Adobe Analytics의 기본이며 [사용자 그룹 관리 프로세스](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=ko-KR)의 핵심 부분입니다. 사용자는 적절한 도구 액세스를 통해 Analysis Workspace 및 Reports &amp; Analytics 내에서 셀프서비스를 자유롭게 사용할 수 있습니다.
+  보고서 세트, 지표, 차원, 도구, 보고서 및 구성 요소에 대한 사용자 액세스는 Adobe Analytics의 기본이며 [사용자 그룹 관리 프로세스](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=ko-KR)의 핵심 부분입니다. 사용자는 적절한 도구 액세스를 통해 Analysis Workspace 및 Reports &amp; Analytics 내에서 셀프서비스를 자유롭게 사용할 수 있습니다.
 
 * 구현 이해:
 
-   사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko-KR)(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ko-KR)(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항은 구현된 내용을 포함해야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
+  사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko-KR)(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ko-KR)(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항은 구현된 내용을 포함해야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
 
 * 보고서 템플릿 사용:
 
-   Adobe Analytics 보고서 템플릿 및 프로젝트는 귀사의 구현, 사용 사례 보고 및 모범 사례에 도구 사용자를 활성화하기 위한 핵심 리소스입니다. 이러한 리소스는 일반적인 비즈니스 관련 질문과 이들 질문을 도구 내에서 가장 잘 답변할 수 있는 방법을 제시할 수 있어야 합니다.
+  Adobe Analytics 보고서 템플릿 및 프로젝트는 귀사의 구현, 사용 사례 보고 및 모범 사례에 도구 사용자를 활성화하기 위한 핵심 리소스입니다. 이러한 리소스는 일반적인 비즈니스 관련 질문과 이들 질문을 도구 내에서 가장 잘 답변할 수 있는 방법을 제시할 수 있어야 합니다.
 
 ## 2. 운영자 및 참여자에 대한 계획 수립
 
 * 커뮤니티 운영자 결정
 
-   자율 커뮤니티는 비즈니스 요구 사항 관리 및 구현을 기반으로 하는 인프라에서 시작됩니다. 따라서 기업의 Adobe Analytics 관리 및 활성화를 관리하는 팀은 일반적으로 사용자 그룹 또는 내부 커뮤니티를 관리하는 데 핵심적인 역할을 합니다.
+  자율 커뮤니티는 비즈니스 요구 사항 관리 및 구현을 기반으로 하는 인프라에서 시작됩니다. 따라서 기업의 Adobe Analytics 관리 및 활성화를 관리하는 팀은 일반적으로 사용자 그룹 또는 내부 커뮤니티를 관리하는 데 핵심적인 역할을 합니다.
 
 * 참여자, 역할 및 책임 정의:
 
@@ -65,7 +65,7 @@ ht-degree: 100%
 
 * [프로젝트 헌장 작성](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx)(템플릿 다운로드):
 
-   프로젝트 헌장은 종종 비즈니스를 내부 자율 커뮤니티를 위한 기회에 맞춰 조정할 수 있는 좋은 방법이 됩니다. 다음 질문에 답함으로써 헌장 초안을 작성하는 데 필요한 정보를 확인할 수 있습니다.
+  프로젝트 헌장은 종종 비즈니스를 내부 자율 커뮤니티를 위한 기회에 맞춰 조정할 수 있는 좋은 방법이 됩니다. 다음 질문에 답함으로써 헌장 초안을 작성하는 데 필요한 정보를 확인할 수 있습니다.
 
    * 해결하고자 하는 문제 진술은 무엇입니까? 커뮤니티 목표는 무엇이며, 좁은 범위 또는 넓은 범위에서 예견되는 사항은 무엇입니까?
    * “내가 얻을 수 있는 이득은 무엇입니까?” 잠재적인 이점 또는 비용, 성공 측정의 기준, 예상되는 위험은 무엇입니까?

@@ -8,8 +8,8 @@ level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
 source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 31%
+source-wordcount: '88'
+ht-degree: 22%
 
 ---
 
@@ -19,6 +19,6 @@ Dimension은 계산된 지표 빌더에서 사용할 수 있으며, 새 지표�
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
-이 기능은 계산된 지표 내 세그먼트 생성 및 사용 워크플로를 간소화합니다.
+이 기능은 계산된 지표 내에서 세그먼트를 만들고 사용하기 위한 워크플로를 간소화합니다.
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ko)를 참조하십시오.

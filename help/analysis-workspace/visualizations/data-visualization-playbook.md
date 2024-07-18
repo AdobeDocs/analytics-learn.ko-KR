@@ -8,20 +8,20 @@ doc-type: Article
 last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-13368
 thumbnail: KT-13368.jpeg
-source-git-commit: 4006d65ebcd6bd59fc4513ca0aeecb94576d0daa
+exl-id: c8cf36c0-b40f-4159-ba86-9392984783e9
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 1%
 
 ---
 
-
 # Adobe Analytics 데이터 시각화 플레이북
 
 데이터 시각화는 예술이면서 과학이기도 하여 다양한 요인에 대한 신중한 고려가 필요하다. 이러한 결정 중 일부를 탐색하는 데 도움이 되도록 데이터 시각화 플레이북을 구성했습니다.
 
 
-[다운로드](assets/adobe-analytics-data-visualization-playbook.pdf) Adobe Analytics 시각화 플레이북
+Adobe Analytics 시각화 플레이북을 [다운로드](assets/adobe-analytics-data-visualization-playbook.pdf)
 
 [![플레이북](assets/data-visualization-playbook-image.png)](assets/adobe-analytics-data-visualization-playbook.pdf)
 
@@ -29,4 +29,5 @@ ht-degree: 1%
 
 ## 작성자
 
-이 문서는 Adobe의 데이터 및 통찰력 비즈니스 컨설턴트인 David Geist가 작성했습니다.
+이 문서는 데이비드 가이스트에 의해 만들어졌어요
+Adobe의 데이터 및 통찰력 비즈니스 컨설턴트.

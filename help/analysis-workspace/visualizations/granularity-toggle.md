@@ -1,5 +1,5 @@
 ---
-title: 시각화를 위한 세부기간 설정
+title: 세부 기간을 설정하여 시각화
 description: 트렌드 시각화 설정에 세부 기간 선택기를 사용하여 데이터 표시 방법을 매우 쉽게 조정할 수 있습니다.
 feature: Visualizations
 thumbnail: 23548.jpg
@@ -10,11 +10,11 @@ exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
 source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# 시각화를 위한 세부기간 설정
+# 세부 기간을 설정하여 시각화
 
 트렌드 시각화 설정에 세부 기간 선택기를 사용하여 데이터 표시 방법을 매우 쉽게 조정할 수 있습니다.
 

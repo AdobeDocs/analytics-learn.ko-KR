@@ -9,12 +9,12 @@ last-substantial-update: 2023-11-21T00:00:00Z
 exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
 source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 20%
+source-wordcount: '52'
+ht-degree: 23%
 
 ---
 
-# 트래픽 변수 소개 ([!UICONTROL Prop])
+# 트래픽 변수([!UICONTROL Props]) 소개
 
 트래픽, 콘텐츠 및 흐름 분석을 포함하여 트래픽 변수의 유형과 Adobe Analytics에서 트래픽 변수가 사용되는 방법을 이해합니다.
 
