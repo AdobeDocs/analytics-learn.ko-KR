@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
+source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
 workflow-type: tm+mt
-source-wordcount: '2166'
+source-wordcount: '2161'
 ht-degree: 99%
 
 ---
@@ -252,7 +252,6 @@ ht-degree: 99%
       + [유료 검색 탐지 구성](administration/manage-report-suites/configure-paid-search-detection.md)
       + [마케팅 채널 설정](administration/manage-report-suites/set-up-marketing-channels.md)
       + [마케팅 채널 처리 규칙 만들기](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [Reports &amp; Analytics의 메뉴 맞춤화](administration/manage-report-suites/customize-menus.md)
       + [처리 규칙을 사용하여 수신 데이터 조작](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [트래픽 변수 구성 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [트래픽 분류 구성](administration/manage-report-suites/configure-traffic-classifications.md)
