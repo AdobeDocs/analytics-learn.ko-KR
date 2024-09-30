@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
+source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
 workflow-type: tm+mt
-source-wordcount: '2161'
-ht-degree: 99%
+source-wordcount: '2160'
+ht-degree: 96%
 
 ---
 
@@ -379,18 +379,18 @@ ht-degree: 99%
    + Target {#target}
       + [Analysis Workspace의 A4T(Analytics for Target) 패널](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [A4T 패널을 사용하여 자동 타겟팅 활동 분석](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Ad Cloud {#ad-cloud}
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [Advertising Analytics 구성](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [검색 엔진에 추적 템플릿 구현](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
-      + [Advertising Cloud DSP 통합을 위한 Analytics 소개](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
-      + [실행 전 Campaign Analysis 생성](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [Advertising Cloud 마케팅 채널을 사용한 보고하기](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
-      + [Analytics 사이트 고객 여정 프로필 생성](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
-      + [활성화 및 보고를 위한 Analytics 세그먼트 생성](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
-      + [Adobe Analytics를 사용하여 Advertising Cloud 알림 생성](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
-      + [Advertising Cloud 데이터를 사용하여 Analytics 사용자 정의 지표 만들기](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [Advertising Cloud 사이트 시작 보고서 생성](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
-      + [Advertising Cloud 대시보드 생성](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
+      + [Adobe Advertising DSP 통합 소개](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
+      + [실행 전 캠페인 분석 만들기](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
+      + [Advertising DSP 마케팅 채널에 대한 보고서](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [Analytics 사이트 여정 프로필 생성](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
+      + [활성화 및 보고를 위한 Analytics 세그먼트 만들기](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
+      + [Adobe Analytics을 사용하여 Advertising DSP 경고 만들기](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
+      + [Advertising DSP 데이터를 사용하여 Analytics 사용자 지정 지표 만들기](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
+      + [Advertising DSP 사이트 시작 보고서 만들기](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [Advertising DSP 대시보드 만들기](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc 분석 {#ad-hoc-analytics}
       + [프로젝트 전환기를 사용하여 Ad Hoc Analysis에서 Analytics Workspace로 프로젝트 이동](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
