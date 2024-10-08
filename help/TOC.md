@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
+source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2164'
 ht-degree: 96%
 
 ---
@@ -363,6 +363,7 @@ ht-degree: 96%
       + [데이터 피드 ID 찾기](exporting/data-feeds/find-your-data-feed-id.md)
       + [데이터 피드 작업 다시 실행](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
+      + [통합 문서 업그레이드 및 일정 조정](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [Report Builder에서 여러 요청에 세그먼트를 한 번에 추가](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder의 예외 항목 탐지](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [요청 간 지표 편집](exporting/report-builder/edit-metrics-across-requests.md)
