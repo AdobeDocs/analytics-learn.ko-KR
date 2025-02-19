@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
 source-wordcount: '2164'
 ht-degree: 96%
@@ -87,7 +87,7 @@ ht-degree: 96%
    + 실시간 보고서 {#real-time-reports}
       + [실시간 보고](analysis-workspace/real-time-reports/realtime-reporting.md)
    + 패널 사용 {#using-panels}
-      + [Analysis Workspace에서 표, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
+      + [Analysis Workspace에서 테이블, 시각화 및 패널 사용](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace의 빠른 인사이트 패널](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [Attribution IQ 패널 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=ko-KR)
       + [Analysis Workspace의 미디어 동시 뷰어 패널](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
@@ -124,7 +124,7 @@ ht-degree: 96%
       + [글머리 기호 그래프 시각화](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [도넛 시각화](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [히스토그램 시각화](analysis-workspace/visualizations/histogram-visualization.md)
-      + [막대 그래프를 사용하여 인사이트 확보](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [히스토그램을 사용하여 인사이트 확보](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [라인 시각화](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [콤보 차트](analysis-workspace/visualizations/combo-charts.md)
       + [라인 시각화에 추세선 추가하기](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -144,7 +144,7 @@ ht-degree: 96%
       + [프로젝트 내부 또는 외부 링크](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [시각화 범례 맞춤화](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 누적 시각화](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [표 및 시각화 데이터 소스 설정](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
+      + [테이블 및 시각화 데이터 소스 설정](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [시간 분할 히트맵 빌드](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + 고객 여정 분석 {#analyzing-customer-journeys}
       + [폴아웃 시각화 만들기](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
@@ -165,14 +165,14 @@ ht-degree: 96%
       + [기본 방문자 지표 이해](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [프로젝트에 차원 및 지표 추가](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=ko-KR)
       + [전환 이벤트 소개](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [자유 양식 표에서 지표 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko-KR)
+      + [자유 양식 테이블에서 지표 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=ko-KR)
       + [Analysis Workspace에서 참여도 지표 사용](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [Excel을 대신할 계산된 지표](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 차원 {#dimensions}
       + [프로젝트에 차원 및 지표 추가](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [트래픽 변수(props) 소개](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [전환 변수 소개(eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [자유 양식 표에서 차원 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ko-KR)
+      + [자유 양식 테이블에서 차원 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ko-KR)
    + 일정 및 기간 {#calendar-and-date-ranges}
       + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [내 프로젝트에서 재사용 가능한 날짜 범위 적용](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
@@ -194,7 +194,7 @@ ht-degree: 96%
       + [교차 탭 분석을 사용하여 기본 마케팅 기여도 탐색](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [Attribution IQ 모델의 나란히 비교 추가](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
       + [계산된 지표의 Attribution IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
-      + [자유 양식 표에서 Attribution IQ 사용](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
+      + [자유 양식 테이블에서 Attribution IQ 사용](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [Attribution IQ 패널 사용](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
       + [Attribution IQ의 알고리즘 모델](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
@@ -204,7 +204,7 @@ ht-degree: 96%
       + [데이터 이해하기 - 집단 테이블](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [코호트 테이블 개요](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [코호트 테이블 설정](analysis-workspace/cohort-analysis/cohort-table-settings.md)
-      + [코호트 표를 이용한 이탈 분석](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
+      + [코호트 테이블을 이용한 이탈 분석](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
       + [모든 차원을 사용한 집단 분석](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [코호트 테이블을 이용한 대기 시간 분석](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [코호트 테이블의 롤링 보존 계산](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
