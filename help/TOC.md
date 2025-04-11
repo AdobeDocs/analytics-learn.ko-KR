@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -247,21 +247,21 @@ ht-degree: 96%
       + [사용자 자산을 다른 사용자에게 전송](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [로그인 문제를 방지하기 위해 연결된 IMS ID 확인](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 보고서 세트 관리 {#manage-report-suites}
-      + [일반 계정 설정 구성 방법](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [일반 계정 설정 구성](administration/manage-report-suites/configuring-general-account-settings.md)
       + [캘린더 설정 맞춤화](administration/manage-report-suites/customize-calendar-settings.md)
-      + [유료 검색 탐지 구성](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [유료 검색 감지 구성](administration/manage-report-suites/configure-paid-search-detection.md)
       + [마케팅 채널 설정](administration/manage-report-suites/set-up-marketing-channels.md)
       + [마케팅 채널 처리 규칙 만들기](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [처리 규칙을 사용하여 수신 데이터 조작](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [트래픽 변수 구성 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [트래픽 변수(Prop) 구성](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [트래픽 분류 구성](administration/manage-report-suites/configure-traffic-classifications.md)
       + [계층 변수 구성](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [Admin Console에서 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [이벤트 및 변수 구성](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [전환 분류 구성](administration/manage-report-suites/configure-conversion-classifications.md)
       + [목록 변수 구성](administration/manage-report-suites/configuring-list-variables.md)
       + [검색 방법 구성](administration/manage-report-suites/configure-finding-methods.md)
       + [내부 URL 필터 설정](administration/manage-report-suites/set-internal-url-filters.md)
-      + [주소 및 우편번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
+      + [우편 번호 설정 구성](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [타임스탬프 옵션 설정 활성화](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [Analytics에서 보트 규칙 구성](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + 데이터 거버넌스 및 GDPR {#data-governance-and-gdpr}
