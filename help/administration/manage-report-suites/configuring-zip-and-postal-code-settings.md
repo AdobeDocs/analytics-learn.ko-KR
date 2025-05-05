@@ -25,6 +25,6 @@ ht-degree: 100%
 
 이 비디오에서는 [!UICONTROL 우편 번호] 설정을 구성하여 이러한 지역 데이터에 기반하여 분석을 수행하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35009/?quality=12&learn=on&captions=kor)
 
 [!UICONTROL 우편 번호] 설정에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=ko)를 참조하십시오.

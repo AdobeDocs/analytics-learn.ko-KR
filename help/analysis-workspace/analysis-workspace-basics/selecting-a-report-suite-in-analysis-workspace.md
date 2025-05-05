@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 보고서 세트를 선택하기 위한 몇 가지 팁을 얻으십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428542/?quality=12&learn=on&captions=kor)

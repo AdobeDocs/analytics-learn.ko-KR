@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # 교육기관용 Adobe Analytics 커리큘럼
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443864/?quality=12&learn=on&captions=kor)
 
 ## Analytics 교육 과정 콘텐츠
 

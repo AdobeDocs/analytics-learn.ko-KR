@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # 자율 커뮤니티를 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341116/?quality=12&learn=on&captions=kor)
 
 자율 커뮤니티는 몇 가지 주목할 만한 특성을 갖고 있습니다. 첫째, Adobe Analytics 관리자의 지원을 받습니다. 둘째, 구현 내에서 비즈니스 요구 사항이 표현되는 방식에 대해 잘 알고 있습니다. 마지막으로, 데이터 중심의 의사 결정을 위해 분석을 자신 있게 사용할 수 있는 수단을 갖추고 있습니다. 많은 기업이 내부 Adobe Analytics 사용자 그룹 또는 보다 공식적인 커뮤니티에서 제공하는 구조에서 혜택을 누리고 있습니다.
 

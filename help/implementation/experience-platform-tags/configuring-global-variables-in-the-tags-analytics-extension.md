@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analytics [!DNL tags] 확장 기능의 전역 변수 설정을 구성하는 방법을 알아봅니다. 설명서 상세 내용은 [Adobe Analytics 확장 기능 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=ko){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427926/?quality=12&learn=on&captions=kor)

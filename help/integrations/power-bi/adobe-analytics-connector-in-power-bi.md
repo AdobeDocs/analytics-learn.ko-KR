@@ -21,7 +21,7 @@ ht-degree: 100%
 
 이 비디오에서는 요청을 생성 및 로드하고, 데이터 형식을 변경하고, [!UICONTROL 시각화]를 구축하고, 온라인 서비스에 게시하는 과정을 통해 Adobe Analytics 커넥터의 전반적인 기능을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33018/?quality=12&learn=on&captions=kor)
 
 ## 추가 리소스 {#additional-resources}
 

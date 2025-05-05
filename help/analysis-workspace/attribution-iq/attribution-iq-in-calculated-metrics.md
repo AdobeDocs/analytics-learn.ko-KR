@@ -20,7 +20,7 @@ ht-degree: 100%
 
 이 비디오는 [!DNL Calculated Metrics]에서 [!DNL Attribution IQ]를 사용하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23140/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30857/?quality=12&learn=on&captions=kor)
 
 이제 계산된 지표는 10가지의 규칙 기반 속성 모델을 모두 지원합니다. 계산된 지표를 사용하면 속성 모델을 비교하여(예: [!UICONTROL 마지막 터치]에서 [!UICONTROL 첫 번째 터치] 빼기) 차이점을 볼 수 있습니다. 하이브리드 모델(예: [!UICONTROL 시간 지연] 50% + [!UICONTROL 첫 번째 터치] 50%)을 생성하거나 주문당 매출 또는 방문당 주문 수와 같은 중요한 전환 지표에 속성을 적용할 수 있습니다.
 

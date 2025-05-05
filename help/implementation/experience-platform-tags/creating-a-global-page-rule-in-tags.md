@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Experience Platform을 사용하여 모든 페이지에서 Adobe Analytics로 보내려는 데이터 포인트에 대한 전역 페이지 규칙을 설정하는 방법을 알아봅니다 [!DNL tags].
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31255/?quality=12&learn=on&captions=kor)

@@ -20,6 +20,6 @@ ht-degree: 100%
 
 사이트에 대한 계층 변수를 설정하고 구성하는 시기와 방법에 대해 알아보십시오. 이 기능은 사이트 페이지의 계층적 보기와 각 노드로 유입되는 트래픽의 양을 표시하는 데 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344369/?quality=12&learn=on&captions=kor)
 
 추가 정보는 [설명서](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=ko)를 참조하십시오.

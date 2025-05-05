@@ -17,6 +17,6 @@ ht-degree: 100%
 
 이 비디오에서는 [!UICONTROL 차원]과 [!UICONTROL 지표], 그 차이점 및 Analysis Workspace에서 표 및 시각화에 차원과 지표를 추가하는 방법에 대해 알아봅니다. 또한 새로운 [!UICONTROL 계산된 지표]를 추가하는 방법도 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33286/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=ko)를 참조하십시오.

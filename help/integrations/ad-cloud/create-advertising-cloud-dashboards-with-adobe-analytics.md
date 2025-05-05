@@ -19,4 +19,4 @@ ht-degree: 100%
 
 라이브 캠페인 모니터링을 위한 Advertising Cloud 대시보드를 만드는 다음과 같은 기술에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/35121/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40954/?quality=12&learn=on&captions=kor)

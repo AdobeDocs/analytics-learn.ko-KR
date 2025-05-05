@@ -17,4 +17,4 @@ ht-degree: 60%
 
 Adobe 시 [!DNL Customer Care]에게 지원 티켓을 제출하는 방법을 제품에서 직접 배정하여 문제 해결을 위한 프로세스를 간소화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430056/?quality=12&learn=on&captions=kor)

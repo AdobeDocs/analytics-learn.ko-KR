@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오는 Analysis Workspace에서 [!UICONTROL 선] 그래프의 Y축 크기를 손쉽게 변경하여 잘못된 데이터 해석을 방지하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30859/?quality=12&learn=on&captions=kor)

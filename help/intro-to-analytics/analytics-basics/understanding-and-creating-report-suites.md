@@ -18,4 +18,4 @@ ht-degree: 100%
 
 이 비디오는 [!UICONTROL 보고서 세트]가 무엇인지 이해하는 데 도움이 되며, 사이트에 들어오는 트래픽을 추적하고 최적화할 수 있도록 인터페이스에서 보고서 세트를 생성하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28773/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31268/?quality=12&learn=on&captions=kor)

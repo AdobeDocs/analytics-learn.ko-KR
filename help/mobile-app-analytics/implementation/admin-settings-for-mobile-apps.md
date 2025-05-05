@@ -22,6 +22,6 @@ ht-degree: 100%
 
 [!UICONTROL 라이프사이클] 구성 요소, [!UICONTROL 위치 추적] 및 [!UICONTROL 백그라운드 히트] 보고를 포함하여 Adobe Analytics에서 모바일 앱 보고를 설정하는 방법에 대해 알아 보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39731/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=ko)를 참조하십시오.

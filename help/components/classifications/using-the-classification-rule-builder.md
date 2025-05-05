@@ -20,4 +20,4 @@ ht-degree: 100%
 
 [!UICONTROL 분류 규칙 빌더]를 사용하여 규칙 기반 [!UICONTROL 분류]를 Adobe Analytics에 자동으로 적용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434376?quality=12&learn=on&captions=kor)

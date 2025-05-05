@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL 시각화 설정]에서 회귀 또는 이동 평균 추세선을 라인 시리즈에 추가하도록 선택하여 데이터에 더 명확한 패턴을 표시할 수 있습니다. 옵션에는 선형, 로그, 지수, 기능, 이차 및 이동 평균이 포함됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/330176/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342846/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=ko#analysis-workspace)를 참조하십시오.
 

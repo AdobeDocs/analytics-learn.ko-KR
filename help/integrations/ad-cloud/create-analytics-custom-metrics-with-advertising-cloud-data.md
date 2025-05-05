@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Analytics에서 Advertising Cloud 데이터를 사용할 때 만드는 유용한 사용자 정의 지표에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/35119/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40950/?quality=12&learn=on&captions=kor)

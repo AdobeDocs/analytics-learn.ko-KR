@@ -21,6 +21,6 @@ ht-degree: 99%
 
 이 비디오에서는 Analysis Workspace를 활용하여 API 2.0 요청을 자동으로 빌드하는 방법을 보여 줍니다. UI를 디버깅하면 JSON 요청을 API 클라이언트에 직접 복사하고 붙여넣어 [!DNL Analytics] 데이터를 반환할 수 있습니다. 이제 Workspace 도움말 > Debugger 활성화로 이동하여 Debugger를 더 쉽게 활성화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328327/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html)를 참조하십시오.

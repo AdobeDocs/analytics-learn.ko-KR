@@ -21,4 +21,4 @@ ht-degree: 100%
 
 사용자 정의 날짜 범위를 적용하여 Analysis Workspace의 모든 지표에 대해 월별 또는 연별 트렌드 비교를 생성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33772/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37192/?quality=12&learn=on&captions=kor)

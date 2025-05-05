@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace는 모든 시계열 [!UICONTROL 시각화] 또는 데이터 테이블에 대한 데이터에서 자동으로 예외 항목을 탐지합니다. 추가적인 노력 없이 “알 수 없는 항목”을 확인할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31297/?quality=12&learn=on&captions=kor)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=ko)를 참조하십시오.

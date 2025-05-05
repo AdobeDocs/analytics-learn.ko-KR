@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Flow]를 사용하여 모바일 앱에서 사용자의 변환 경로를 검색하고 웹과 같은 다른 경험과 비교하는 방법에 대해 알아봅니다. 다단계 프로세스에서 변환을 정의하고 측정하여 모바일 앱의 성공을 유도합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27824/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32090/?quality=12&learn=on&captions=kor)

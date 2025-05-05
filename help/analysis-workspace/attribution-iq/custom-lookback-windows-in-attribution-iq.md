@@ -22,6 +22,6 @@ ht-degree: 100%
 
 사용자 정의 룩백 기간을 사용하면 보고 범위를 넘어 최대 90일까지 속성 기간을 확장하여 보고 범위의 각 전환에 적용할 수 있습니다. 이 옵션을 사용하면 일반적으로 이전 달에 발생한 상호 작용을 처리하여 보고 기간 초에 발생하는 이벤트의 속성 정확도가 높아집니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40044/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ko#lookback-windows)를 참조하십시오

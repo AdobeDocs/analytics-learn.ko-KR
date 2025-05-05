@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Adobe Analytics를 구현할 때와 사이트에서의 활동을 분석할 때 팀에 적합한 인력을 확보하는 것은 매우 중요합니다. 이 비디오는 귀하에게 필요한 다양한 역할에 대해 간략하게 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31273/?quality=12&learn=on&captions=kor)

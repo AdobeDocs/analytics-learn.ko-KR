@@ -19,6 +19,6 @@ ht-degree: 100%
 
 단일 기간 내에서 중요한 지표의 추세를 확인할 수 있도록 해 주는 Analysis Workspace의 주요 지표 요약 시각화에 대해 알아봅니다. 또한 두 기간에 걸쳐 지표의 성능을 비교할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413796/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=ko)를 참조하십시오.

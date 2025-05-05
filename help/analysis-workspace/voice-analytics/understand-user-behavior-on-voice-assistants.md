@@ -21,4 +21,4 @@ ht-degree: 100%
 
 상위 목적, 매개 변수 및 사용자 인증과 같은 주요 [!UICONTROL 지표]를 확인하여 사용자 비헤이비어를 이해하고 통찰력을 얻는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34994/?quality=12&learn=on&captions=kor)

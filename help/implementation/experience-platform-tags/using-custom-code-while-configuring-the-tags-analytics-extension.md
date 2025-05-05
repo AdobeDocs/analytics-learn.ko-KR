@@ -20,6 +20,6 @@ ht-degree: 100%
 
 [!DNL tags]에서 Adobe Analytics 확장 기능을 구성할 때 사용자 정의 코드 편집기를 사용하기 위한 사용 사례 및 기술 고려 사항에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327662/?quality=12&learn=on&captions=kor)
 
 이 비디오에 참조된 <i>doPlugins 기능</i>에 대한 자세한 정보는 [설명서](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=ko)를 검토합니다.

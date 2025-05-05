@@ -18,4 +18,4 @@ ht-degree: 100%
 
 분석가 및 마케터가 Analysis Workspace에서 볼드체, 이탤릭체, 제목, 링크 등 텍스트 시각화(또는 설명)에 편집 내용을 적용할 수 있는 기능에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30898/?quality=12&learn=on&captions=kor)

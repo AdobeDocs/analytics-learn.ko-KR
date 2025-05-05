@@ -17,6 +17,6 @@ ht-degree: 50%
 
 Analysis Workspace의 지표 빌더 개요
 
->[!VIDEO](https://video.tv.adobe.com/v/25411/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32600/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=ko-KR)를 참조하십시오.

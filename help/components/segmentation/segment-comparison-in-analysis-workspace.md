@@ -18,6 +18,6 @@ ht-degree: 100%
 
 마케팅 세그먼트 간 진정한 차이점을 파악하는 것은 항상 어렵고 시간이 오래 걸리는 과정입니다. Adobe Analytics의 Analysis Workspace의 일부인 [!DNL Segment IQ]는 모든 [!UICONTROL 차원] 및 [!UICONTROL 지표]에 걸쳐 두 개의 [!DNL Analytics] [!UICONTROL 세그먼트]를 검사하여 통계적으로 가장 유의미한 차이점을 자동으로 검색함으로써 분석을 간소화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33251/?quality=12&learn=on&captions=kor)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=ko)를 참조하십시오.

@@ -20,7 +20,7 @@ ht-degree: 30%
 
 이 비디오에서는 레퍼러 관련 설정에 대해 알아보고, 레퍼러를 경로 지정 보고서를 향상시키기 위한 내부 레퍼러 또는 레퍼러/참조 도메인 보고서를 향상시키기 위한 외부 레퍼러로 설정하는 방법에 대해 알아봅니다. 자세한 설명서는 [내부 URL 필터](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=ko){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412920/?quality=12&learn=on&captions=kor)
 
 >[!NOTE]
 >
