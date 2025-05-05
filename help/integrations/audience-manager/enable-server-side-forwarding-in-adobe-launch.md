@@ -19,7 +19,7 @@ ht-degree: 1%
 
 # 서버측 전달을 사용하여 [!DNL Adobe Analytics]을(를) [!DNL Adobe Audience Manager]과(와) 통합
 
-서버측 전달을 사용하여 [!DNL Adobe Analytics] 데이터를 [!DNL Adobe Audience Manager](으)로 보내는 방법을 알아봅니다.
+서버측 전달을 사용하여 [!DNL Adobe Analytics] 데이터를 [!DNL Adobe Audience Manager] (으)로 보내는 방법을 알아봅니다.
 
 >[!NOTE]
 >
