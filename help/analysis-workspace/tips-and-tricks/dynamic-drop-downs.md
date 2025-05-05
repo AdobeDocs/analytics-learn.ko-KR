@@ -22,4 +22,4 @@ ht-degree: 84%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420315/?learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html#dynamic-drop-down-filters)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ko#dynamic-drop-down-filters)를 참조하십시오.

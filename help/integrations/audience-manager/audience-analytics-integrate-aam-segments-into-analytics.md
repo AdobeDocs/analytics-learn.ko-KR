@@ -28,4 +28,4 @@ ht-degree: 65%
 
 공유 가능한 예시 [!UICONTROL 세그먼트] 데이터에는 서드파티 데이터 공급자의 인구 통계학적 데이터, 광고 서버의 캠페인 데이터(예: 오프사이트 노출 횟수) 및 온보딩된 CRM 데이터가 포함됩니다. 이는 시장에서 DMP와 분석 엔진 간에 처음으로 제품화된 통합입니다.
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ko)를 참조하십시오.

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 표, [!UICONTROL 세그먼트] 또는 [!UICONTROL 계산된 지표]에서는 여러 [!UICONTROL 보고서 세트]의 데이터를 결합할 수 없습니다. 전체론적 데이터 접근 방식에 대한 모범 사례는 모든 히트를 “글로벌 세트”에 전송하는 것입니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=ko)를 참조하십시오.

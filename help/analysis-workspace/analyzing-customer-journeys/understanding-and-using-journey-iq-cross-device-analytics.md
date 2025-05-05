@@ -59,7 +59,7 @@ ht-degree: 100%
 
 ### [!DNL Cross-Device Virtual Report Suite]
 
-CDA는 특별한 종류의 크로스 디바이스 [[!UICONTROL 가상 보고서 세트]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html)를 통해 제공됩니다. 이를 통해 조직에 크로스 디바이스 분석을 도입할 때에도 원래의 디바이스 기반 보고서 세트를 계속 사용할 수 있습니다. CDA VRS 설정 방법은 간단합니다.
+CDA는 특별한 종류의 크로스 디바이스 [[!UICONTROL 가상 보고서 세트]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=ko)를 통해 제공됩니다. 이를 통해 조직에 크로스 디바이스 분석을 도입할 때에도 원래의 디바이스 기반 보고서 세트를 계속 사용할 수 있습니다. CDA VRS 설정 방법은 간단합니다.
 
 VRS 빌더의 첫 번째 단계에서, Adobe에서 CDA가 활성화되도록 구성한 [!UICONTROL 보고서 세트]를 선택합니다.
 
@@ -113,7 +113,7 @@ CDA [!UICONTROL 가상 보고서 세트]에서 몇 가지 사항이 변경되었
 *사람 및 고유 디바이스*
 ![CDA [!UICONTROL 사람 지표]](assets/cda-people-metric.png)
 
-[[!UICONTROL 세그먼트 빌더]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html)에서 [!UICONTROL 방문자] 세그먼트 컨테이너는 [!UICONTROL 사람] 세그먼트 컨테이너로 대체됩니다. CDA VRS를 사용하여 다음과 같은 크로스 디바이스 세그먼트를 생성할 수 있습니다.
+[[!UICONTROL 세그먼트 빌더]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ko)에서 [!UICONTROL 방문자] 세그먼트 컨테이너는 [!UICONTROL 사람] 세그먼트 컨테이너로 대체됩니다. CDA VRS를 사용하여 다음과 같은 크로스 디바이스 세그먼트를 생성할 수 있습니다.
 
 * 한 개 이상의 디바이스를 사용하는 사람
 * 모바일 디바이스에서 여정을 시작하여 나중에 데스크탑 디바이스에서 구매를 수행하는 사람
@@ -135,21 +135,21 @@ CDA [!UICONTROL 가상 보고서 세트]에서 몇 가지 사항이 변경되었
 
 ### 사용자 기반 대상 분석
 
-얼마나 많은 사람들이 내 브랜드와 상호작용하고 있는지 생각해 본 적이 있습니까? 그들이 얼마나 많은 디바이스와 어떤 유형의 디바이스를 사용하고 있는지 파악하고 싶습니까? 그들의 사용은 어떻게 중첩됩니까? CDA VRS를 사용하면 크로스 디바이스 [벤 다이어그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html) 및 사람당 디바이스 개수에 대한 [히스토그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)을 생성할 수 있습니다.
+얼마나 많은 사람들이 내 브랜드와 상호작용하고 있는지 생각해 본 적이 있습니까? 그들이 얼마나 많은 디바이스와 어떤 유형의 디바이스를 사용하고 있는지 파악하고 싶습니까? 그들의 사용은 어떻게 중첩됩니까? CDA VRS를 사용하면 크로스 디바이스 [벤 다이어그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ko) 및 사람당 디바이스 개수에 대한 [히스토그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ko)을 생성할 수 있습니다.
 
 *사용자 기반 대상 분석*
 ![벤 및 히스토그램](assets/cda-venn-and-histogram.png)
 
 ### 크로스 디바이스 [!DNL Flow]
 
-CDA와 Analysis Workspace를 통해 [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html)에 사람들이 시간이 지남에 따라 하나의 디바이스에서 다른 디바이스로 어떻게 이동하는지를 시각화할 수 있습니다. 사람들이 어느 지점에서 여정을 중단하고 어느 지점에서 여정을 계속 수행하는지 확인해 보십시오.
+CDA와 Analysis Workspace를 통해 [[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ko)에 사람들이 시간이 지남에 따라 하나의 디바이스에서 다른 디바이스로 어떻게 이동하는지를 시각화할 수 있습니다. 사람들이 어느 지점에서 여정을 중단하고 어느 지점에서 여정을 계속 수행하는지 확인해 보십시오.
 
 CDA *와*[!DNL Flow]
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### 크로스 디바이스 [!DNL Fallout]
 
-몇 가지 [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html)을 사용하여 사용자가 성공적으로 작업을 완료하기 전에 주어진 일련의 단계를 얼마나 잘 수행하는지 분석할 수 있습니다. 기존 디바이스 기반 분석을 사용할 때에는 이러한 [!DNL Fallout visualizations]에 대한 보기가 제한되어 있다는 점을 알고 계십니까? “폴스루”를 성공적으로 수행하려면 이전 단계와 동일한 브라우저 또는 앱에서 다음 단계를 수행해야 합니다. 디바이스 기반 분석에서는 다른 디바이스에서 다음 단계를 성공적으로 완료하는 사용자를 볼 수 없습니다.
+몇 가지 [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ko)을 사용하여 사용자가 성공적으로 작업을 완료하기 전에 주어진 일련의 단계를 얼마나 잘 수행하는지 분석할 수 있습니다. 기존 디바이스 기반 분석을 사용할 때에는 이러한 [!DNL Fallout visualizations]에 대한 보기가 제한되어 있다는 점을 알고 계십니까? “폴스루”를 성공적으로 수행하려면 이전 단계와 동일한 브라우저 또는 앱에서 다음 단계를 수행해야 합니다. 디바이스 기반 분석에서는 다른 디바이스에서 다음 단계를 성공적으로 완료하는 사용자를 볼 수 없습니다.
 
 걱정하지 마십시오. CDA를 사용하면 가능합니다. CDA는 훨씬 유용한 [!DNL Fallout visualizations]을 제공하는 크로스 디바이스 보기를 생성합니다. 결과적으로 정말 중요한 것은 사용자가 궁극적으로 어딘가에서 자신의 작업을 완료했는지 여부입니다.
 
@@ -158,11 +158,11 @@ CDA *와*[!DNL Fallout]
 
 ### [!DNL Cross-Device Attribution IQ]
 
-CDA가 Analysis Workspace 아래에 크로스 디바이스 데이터 레이어를 생성하므로 모든 분석을 크로스 디바이스 관점에서 수행할 수 있습니다. 한 가지 강력한 예는 [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html)입니다. Analysis Workspace의 [!DNL Attribution IQ]를 사용하면 여러 속성 모델을 나란히 비교할 수 있습니다. CDA와 함께 이 기능을 사용하면 다양한 디바이스가 어떻게 성공에 기여하는지 비교할 수 있습니다.
+CDA가 Analysis Workspace 아래에 크로스 디바이스 데이터 레이어를 생성하므로 모든 분석을 크로스 디바이스 관점에서 수행할 수 있습니다. 한 가지 강력한 예는 [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=ko)입니다. Analysis Workspace의 [!DNL Attribution IQ]를 사용하면 여러 속성 모델을 나란히 비교할 수 있습니다. CDA와 함께 이 기능을 사용하면 다양한 디바이스가 어떻게 성공에 기여하는지 비교할 수 있습니다.
 
 예를 들어 휴대폰이 궁극적으로 성공적인 성과를 얻을 수 있는 상호 작용에 첫 번째 디바이스로 사용되는 빈도를 알고자 한다고 가정해 보겠습니다. 이는 휴대폰의 “확보율”을 나타냅니다. CDA와 함께 [!DNL Attribution IQ]를 사용하면 이러한 분석을 수행할 수 있습니다.
 
 CDA *와*[!DNL Attribution IQ]
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-자세한 내용은 [[!DNL Cross-Device Analytics] 도움말 문서](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html)를 참조하십시오.
+자세한 내용은 [[!DNL Cross-Device Analytics] 도움말 문서](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=ko)를 참조하십시오.

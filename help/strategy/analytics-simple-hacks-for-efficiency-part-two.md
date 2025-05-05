@@ -95,4 +95,4 @@ ht-degree: 100%
 
 보고 API를 활용하여 표준 보고서를 [!UICONTROL 작업 영역]에서 예약된 보고서 및 대시보드로 이동합니다. 또한 [!UICONTROL Analysis Workspace]를 사용하여 API 요청을 빌드합니다.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

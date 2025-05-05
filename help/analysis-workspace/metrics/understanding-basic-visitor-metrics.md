@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # 기본 방문자 지표 이해
 
-Adobe Analytics의 [[!UICONTROL 페이지 보기]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL 방문]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ko-KR) 및 [[!UICONTROL 방문자]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ko-KR)에 대해 알아봅니다.
+Adobe Analytics의 [[!UICONTROL 페이지 보기]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=ko), [[!UICONTROL 방문]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ko-KR) 및 [[!UICONTROL 방문자]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ko-KR)에 대해 알아봅니다.
 
 * 이러한 기본 방문 지표에 대한 정의를 확인하고 공통점과 차이점에 대해 알아봅니다.
 

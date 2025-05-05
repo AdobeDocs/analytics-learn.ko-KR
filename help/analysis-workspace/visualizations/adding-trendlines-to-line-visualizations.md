@@ -22,4 +22,4 @@ ht-degree: 100%
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=ko#analysis-workspace)를 참조하십시오.
 
-이동 평균을 내보내거나 한 번에 많은 평균을 표에 추가하려면 계산된 지표를 대신 생성할 수 있습니다. [이 비디오](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html#analysis-workspace)에서 자세히 알아보십시오.
+이동 평균을 내보내거나 한 번에 많은 평균을 표에 추가하려면 계산된 지표를 대신 생성할 수 있습니다. [이 비디오](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=ko#analysis-workspace)에서 자세히 알아보십시오.

@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html#lookback-windows)를 참조하십시오
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ko#lookback-windows)를 참조하십시오
