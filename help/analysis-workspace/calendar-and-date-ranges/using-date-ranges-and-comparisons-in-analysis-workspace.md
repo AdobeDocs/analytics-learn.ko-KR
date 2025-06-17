@@ -19,6 +19,6 @@ ht-degree: 100%
 
 이 비디오에서는 날짜, [!UICONTROL 날짜 범위] 및 날짜 비교를 사용하여 올바른 시간대에 테이블 및 시각화를 맞춤화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33285/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html?lang=ko)를 참조하십시오.

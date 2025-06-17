@@ -21,4 +21,4 @@ ht-degree: 100%
 >
 > 이제 **[!DNL tags]** 실행
 
->[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31254/?quality=12&learn=on&captions=kor)

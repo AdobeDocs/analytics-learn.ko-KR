@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Adobe Analytics를 사용하여 Advertising Cloud 유료 미디어 캠페인을 시작하기 위한 기반을 설정하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/35114/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40940/?quality=12&learn=on&captions=kor)
