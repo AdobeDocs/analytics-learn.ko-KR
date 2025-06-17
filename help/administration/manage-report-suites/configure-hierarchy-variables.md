@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
-추가 정보는 [설명서](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html)를 참조하십시오.
+추가 정보는 [설명서](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html?lang=ko)를 참조하십시오.
