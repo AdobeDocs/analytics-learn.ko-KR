@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
+source-git-commit: ff729de74f29a07316140459a52f589dac7db198
 workflow-type: tm+mt
-source-wordcount: '2160'
-ht-degree: 92%
+source-wordcount: '2167'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 92%
 + [Analytics 튜토리얼](overview.md)
 + Analytics 소개 {#intro-to-analytics}
    + [분석이란?](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + Adobe Analytics를 통해 얻을 수 있는 이점은 무엇입니까? {#what-can-aa-do-for-me}
+   + Adobe Analytics이 무엇을 해줄 수 있습니까? {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace가 비즈니스를 변경시키는 방법](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
       + [데이터 그 이상. 고객 인텔리전스](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei 및 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
@@ -64,7 +64,7 @@ ht-degree: 92%
       + [Analysis Workspace에서 보고서 세트 선택](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [Analysis Workspace 성능 지표 보기](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [봇 보고서 만들기](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
-   + 팁 및 요령 {#tips-and-tricks}
+   + 팁과 트릭 {#tips-and-tricks}
       + [자유 형식 테이블에 하이퍼링크 만들기](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [Analysis Workspace을 위한 7가지 팁 및 요령](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [보다 효율적인 워크플로를 위한 마우스 오른쪽 버튼 클릭 팁 및 요령](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -98,7 +98,7 @@ ht-degree: 92%
       + [Analysis Workspace의 여러 보고서 세트](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [다음/이전 및 페이지 요약 작업 영역 패널 및 보고서](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
       + [속성 패널 및 전환 기간 이해하기](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
-   + 자유 형식 테이블 구축 {#building-freeform-tables}
+   + 자유 양식 표 빌드 {#building-freeform-tables}
       + [데이터 이해 - 자유 형식 테이블](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [왼쪽 레일을 사용하여 자유 형식 테이블 만들기](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [빈 프로젝트로 손쉽게 드래그 앤 드롭](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
@@ -107,7 +107,7 @@ ht-degree: 92%
       + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [자유 형식 테이블 합계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [자유 형식 테이블 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=ko)
+      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [정적 행 순서 바꾸기](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [자유 형식 테이블에서 Attribution IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ko-KR)
       + [크로스셀 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -155,7 +155,7 @@ ht-degree: 92%
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [애드혹 세그먼트 적용](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ko-KR)
-      + [패널의 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=ko)
+      + [패널의 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace에서 세그먼트를 사용하여 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
@@ -173,7 +173,7 @@ ht-degree: 92%
       + [트래픽 변수(props) 소개](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [전환 변수 소개(eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [자유 양식 테이블에서 차원 작업](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=ko-KR)
-   + 일정 및 기간 {#calendar-and-date-ranges}
+   + 달력 및 날짜 범위 {#calendar-and-date-ranges}
       + [Analysis Workspace에서 날짜 사용](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [내 프로젝트에서 재사용 가능한 날짜 범위 적용](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [Analysis Workspace에서 기간 및 비교 사용](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -226,7 +226,7 @@ ht-degree: 92%
       + [Adobe Analytics 기술 언어를 비기술 언어로 번역](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [다양한 분야의 사람들과 일하기](administration/key-admin-skills/working-cross-functionally.md)
       + [올바른 질문을 하고 있습니까?](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + 관리자 팁 및 모범 사례 {#admin-tips}
+   + 관리 팁 및 모범 사례 {#admin-tips}
       + [구현 플레이북 다운로드](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [데이터 사전 감사](administration/admin-tips/audit-your-data-dictionary.md)
       + [표준화된 이름 지정 규칙 만들기](administration/admin-tips/create-standardized-naming-conventions.md)
@@ -273,7 +273,7 @@ ht-degree: 92%
       + [Analysis Workspace에 대한 사용 로그 추적](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 관리 로그 개요](administration/logs/overview-of-analytics-admin-logs.md)
 + 구현 {#implementation}
-   + Implementation 기본 사항 {#implementation-basics}
+   + 구현 기본 사항 {#implementation-basics}
       + [보고서 세트의 이해 및 생성](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko-KR)
       + [처리 규칙을 사용하여 contextData 변수를 속성 및 eVar에 매핑](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [분석 추적 서버 및 보고서 세트 ID를 식별하는 방법](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
@@ -301,7 +301,7 @@ ht-degree: 92%
       + [태그 관리자 없이 사용자 정의 링크 추적](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [Experience Platform Launch를 사용하지 않을 때 AppMeasurement 업데이트](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
 + 구성 요소 {#components}
-   + 세분화 {#segmentation}
+   + 세그먼테이션 {#segmentation}
       + [세그먼트 빌더 개요](components/segmentation/segment-builder-overview.md)
       + [세그먼트 찾기 및 만들기](components/segmentation/finding-and-creating-segments.md)
       + [세그먼트의 롤링 기간](components/segmentation/rolling-date-ranges-in-segments.md)
@@ -333,6 +333,8 @@ ht-degree: 92%
    + 분류 {#classifications}
       + [분류 개요](components/classifications/overview-of-classifications.md)
       + [분류 규칙 빌더 사용](components/classifications/using-the-classification-rule-builder.md)
+      + [분류 세트 소개](components/classifications/introduction-to-classification-sets.md)
+      + [분류 세트 사용](components/classifications/use-classification-sets.md)
    + 가상 보고서 세트 {#virtual-report-suites}
       + [가상 보고서 세트 개요](components/virtual-report-suites/virtual-report-suites.md)
       + [구성 요소 큐레이션](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
@@ -392,7 +394,7 @@ ht-degree: 92%
       + [Advertising DSP 데이터를 사용하여 Analytics 사용자 지정 지표 만들기](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
       + [Advertising DSP 사이트 시작 보고서 만들기](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [Advertising DSP 대시보드 만들기](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad Hoc 분석 {#ad-hoc-analytics}
+   + 애드혹 분석 {#ad-hoc-analytics}
       + [프로젝트 전환기를 사용하여 Ad Hoc Analysis에서 Analytics Workspace로 프로젝트 이동](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Power BI의 Adobe Analytics 커넥터](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
@@ -404,18 +406,18 @@ ht-degree: 92%
    + [Analysis Workspace의 기여도 분석](data-science/contribution-analysis-workspace.md)
    + [지능형 경고](data-science/intelligent-alerts.md)
    + [Adobe Analytics 및 Adobe Sensei - 모두를 위한 데이터 과학 민주화](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ Vertical-Specific {#vertical-specific}
++ Vertical-특정 {#vertical-specific}
    + 하이 테크 {#high-tech}
       + [Summit 2019 슈퍼 세션 - 하이 테크](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.html?lang=ko-KR)
    + 여행 및 접대 {#travel-and-hospitality}
       + [Summit 2019 슈퍼 세션 - 여행 및 접대](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html?lang=ko-KR)
-   + 리테일 {#retail}
+   + 소매 {#retail}
       + [리테일 변수 및 이벤트 소개](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [Launch 규칙에 기본 리테일 변수 및 이벤트 추가](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [구매 이벤트에 대한 Launch 규칙 추가](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [Adobe Summit 2019 슈퍼 세션 - 리테일](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=ko-KR)
-+ Media Analytics {#media-analytics}
-   + Media Analytics 측정 {#measuring-media-analytics}
++ 미디어 분석 {#media-analytics}
+   + 미디어 분석 측정 {#measuring-media-analytics}
       + [미디어 재생 소요 시간 패널](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [Analysis Workspace에서 오디오 소비 템플릿 사용](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 모바일 앱 분석 {#mobile-app-analytics}
@@ -427,7 +429,7 @@ ht-degree: 92%
       + [iOS Swift 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=ko-KR)
       + [iOS Objective-C 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=ko-KR)
       + [Android 앱에서 구현](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=ko-KR)
-   + Mobile Analytics 측정 {#measuring-mobile-analytics}
+   + 모바일 분석 측정 {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 시작하기](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [모바일 여정에서 터치 포인트의 영향](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [채널 간 사용자 비헤이비어 분석](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
