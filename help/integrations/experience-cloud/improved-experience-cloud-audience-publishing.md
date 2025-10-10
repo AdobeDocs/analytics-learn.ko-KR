@@ -27,6 +27,6 @@ Experience Cloud 대상자 게시가 개선되었습니다. 이제 6배 더 빠�
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 또한 한 번에 게시할 수 있는 [!UICONTROL 세그먼트] 수가 [!UICONTROL 보고서 세트]당 20개에서 75개로 증가했습니다.
-자세한 내용은 Analytics 도움말의 [Experience Cloud에 세그먼트 게시](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html)를 참조하십시오.
+자세한 내용은 Analytics 도움말의 [Experience Cloud에 세그먼트 게시](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=ko)를 참조하십시오.
 
-또한 [!UICONTROL 대상자 라이브러리]에 대한 설명은 Experience Cloud 도움말의 [대상자](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html)를 참조하십시오.
+또한 [!UICONTROL 대상자 라이브러리]에 대한 설명은 Experience Cloud 도움말의 [대상자](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=ko)를 참조하십시오.

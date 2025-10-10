@@ -37,4 +37,4 @@ Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수
 * 3:20 - 교차 탭 차원은 삭제할 때 자동으로 동적이며, 이는 시간이 지남에 따라 값이 변경될 수 있음을 의미합니다. 이러한 분석의 경우 정적 열을 대신 가져오는 것이 좋습니다. 비디오의 재생 시간 6:33부터 동적 열에 대해 자세히 알아보기: [자유 형식 테이블의 행 및 열 설정](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - 열 설정을 하나씩 업데이트하지 않고 일괄 업데이트할 수 있습니다. 비디오 :45자유 형식 테이블의 행 및 열 설정[의 8](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)에서 자세히 알아보세요.
 
-이 항목에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html)를 참조하십시오.
+이 항목에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ko)를 참조하십시오.

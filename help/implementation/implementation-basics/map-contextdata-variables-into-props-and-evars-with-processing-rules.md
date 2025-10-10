@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # 처리 규칙을 사용하여 contextData 변수를 속성 및 eVar에 매핑 {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-Adobe Analytics 구현에서 [!DNL contextData] 변수를 사용할 때 데이터가 실제 보고서에 표시되도록 하려면 [!DNL contextData] 변수를 [!UICONTROL 처리 규칙] 인터페이스에서 [!DNL props/eVars]에 매핑해야 합니다. 이 비디오는 이러한 작업을 수행하는 방법을 보여 줍니다. 자세한 문서는 [처리 규칙 개요](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html)를 참조하십시오.
+Adobe Analytics 구현에서 [!DNL contextData] 변수를 사용할 때 데이터가 실제 보고서에 표시되도록 하려면 [!DNL contextData] 변수를 [!UICONTROL 처리 규칙] 인터페이스에서 [!DNL props/eVars]에 매핑해야 합니다. 이 비디오는 이러한 작업을 수행하는 방법을 보여 줍니다. 자세한 문서는 [처리 규칙 개요](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html?lang=ko)를 참조하십시오.
 
 >[!IMPORTANT]
 >

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이제 Analysis Workspace에는 11개의 필터링 기준 및 AND/OR 연산자와 함께 더 많은 필터링 제어가 제공됩니다.
 
-사용 가능한 필터에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en)를 참조하십시오.
+사용 가능한 필터에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=ko)를 참조하십시오.
 
 **참고:** 고급 특수 문자는 Analysis Workspace에서 사용할 수 없습니다.

@@ -126,4 +126,4 @@ Adobe AI 도구는 고객을 대체하기 위한 것이 아니라 고객이 노�
 
 자세한 내용은 [웨비나](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)를 시청하십시오.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

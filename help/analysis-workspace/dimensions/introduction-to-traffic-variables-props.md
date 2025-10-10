@@ -20,4 +20,4 @@ ht-degree: 23%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=ko)를 참조하십시오.

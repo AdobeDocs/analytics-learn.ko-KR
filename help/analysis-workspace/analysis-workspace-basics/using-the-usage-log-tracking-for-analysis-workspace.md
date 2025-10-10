@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## 추가 리소스 {#additional-resources}
 
-* [로그에 대한 추가 정보](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
+* [로그에 대한 추가 정보](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=ko)
 * [데모 대시보드 다운로드](https://adobe.ly/2ygP5ws)
 
 다음 단계: 현재 진행 중인 [!DNL Analytics]에서의 개선 활동을 통해 보다 친화적이고 상세한 UI를 통해 이러한 정보가 곧 제공될 예정입니다.

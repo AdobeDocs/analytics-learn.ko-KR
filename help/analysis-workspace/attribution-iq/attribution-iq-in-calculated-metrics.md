@@ -26,4 +26,4 @@ ht-degree: 100%
 
 ## 추가 리소스 {#additional-resources}
 
-[!DNL Attribution IQ]에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html)를 참조하십시오.
+[!DNL Attribution IQ]에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/overview.html?lang=ko)를 참조하십시오.

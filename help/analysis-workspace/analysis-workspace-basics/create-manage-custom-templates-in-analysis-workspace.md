@@ -23,5 +23,5 @@ ht-degree: 100%
 
 Analysis Workspace에는 분석을 바로 시작하는 데 도움이 되는 몇 가지 사전 정의된 템플릿이 제공됩니다. 그러나, 때로는 사용자 자신만의 고유한 템플릿을 원할 때도 있습니다. 프로젝트를 자신만의 고유한 맞춤형 템플릿으로 만드는 방법에 대해 알아봅니다. 새로운 사용자가 속도를 높이고 즐겨 찾는 대시보드/프로젝트를 찾거나 팀 간에 대시보드를 공유할 수 있도록 지원할 수 있습니다.
 
-표준 및 맞춤형 템플릿에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html)를 참조하십시오.
+표준 및 맞춤형 템플릿에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=ko)를 참조하십시오.
 

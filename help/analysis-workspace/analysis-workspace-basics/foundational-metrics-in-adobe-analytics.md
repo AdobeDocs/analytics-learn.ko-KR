@@ -21,4 +21,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
-설명서에서의 추가 정보는 [페이지 조회수](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html), [방문자](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) 및 [고유 방문자](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html)를 참조하십시오.
+설명서에서의 추가 정보는 [페이지 조회수](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=ko), [방문자](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ko) 및 [고유 방문자](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ko)를 참조하십시오.

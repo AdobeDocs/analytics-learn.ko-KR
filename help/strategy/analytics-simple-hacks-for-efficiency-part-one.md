@@ -89,4 +89,4 @@ ht-degree: 94%
    * 릴리스 및 성공의 소셜화를 지원함으로써 존재감을 구축하십시오.
    * 정규 근무 시간을 사용하여 강사를 교육하고 임시 작업을 줄입니다.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

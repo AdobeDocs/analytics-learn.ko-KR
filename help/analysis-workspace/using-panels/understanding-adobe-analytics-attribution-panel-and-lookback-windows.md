@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Adobe Analytics 속성 패널 및 전환 확인 기간 이해
 
-[속성 패널](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) 및 **전환 확인 기간**&#x200B;에 대해 처음 생각할 때 즉시 &#39;*시간 여행&#39;*&#x200B;의 개념이 떠올랐습니다. 물론 이와 같은 많은 새로운 도구에 대한 일반적인 반응은 너무 복잡해 보이기 때문에 단순히 사용하려고 하는 것을 미루는 것이라는 것도 상기되었습니다.
+[속성 패널](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=ko) 및 **전환 확인 기간**&#x200B;에 대해 처음 생각할 때 즉시 &#39;*시간 여행&#39;*&#x200B;의 개념이 떠올랐습니다. 물론 이와 같은 많은 새로운 도구에 대한 일반적인 반응은 너무 복잡해 보이기 때문에 단순히 사용하려고 하는 것을 미루는 것이라는 것도 상기되었습니다.
 
 솔직히 말해서, 스위치, 패널, 독서대, 손잡이를 모두 살펴보세요.  그리고 진지하게, 그 복잡한 번쩍이는 조명, 호스, 게이지에 대해 이야기 하자... 잠깐!!  지금은 타임머신에 대해 얘기하느라 정신이 없을 때가 아니야 시간이 없어
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 
 **속성**&#x200B;에서 시간이 지남에 따라 개인, 여러 개인 또는 여러 이벤트 중 하나에 의해 이벤트/동작이 발생할 수 있는 방식을 고려하기만 하면 됩니다.
 
-[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en)에 따르면 *속성*&#x200B;은(는) 분석가에게 *Dimension* 항목이 *성공 이벤트*&#x200B;에 대한 크레딧을 받는 방법을 사용자 지정할 수 있는 기능을 제공합니다.
+[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=ko)에 따르면 *속성*&#x200B;은(는) 분석가에게 *Dimension* 항목이 *성공 이벤트*&#x200B;에 대한 크레딧을 받는 방법을 사용자 지정할 수 있는 기능을 제공합니다.
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ ht-degree: 1%
 
 - **사용자 지정**: 크레딧을 받을 사용자를 선택하고 선택합니다.  캠페인입니다!
 
-이러한 속성 모델 및 기타 속성 모델에 대한 자세한 내용을 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)하십시오.
+이러한 속성 모델 및 기타 속성 모델에 대한 자세한 내용을 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ko)하십시오.
 
 이것을 더 흥미롭게 만들기 위해, 시간을 되돌리는 것에 대해 이야기해 봅시다!
 

@@ -156,4 +156,4 @@ Analysis Workspace 프로젝트에 입력할 수 있는 다양한 종류 또는 
 
 </table>
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=ko)를 참조하십시오.

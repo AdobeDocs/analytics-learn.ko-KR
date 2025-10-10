@@ -94,7 +94,7 @@ Adobe Analytics에서는 많은 양의 데이터를 수집합니다. [!DNL Virtu
 >
 >**많이 요청된 기능:** 일부 고객은 프로젝트를 사용자 정의 템플릿으로 저장할 수 있도록 해달라고 요청했습니다. 이제 해당 기능은 즐겨 찾는 기능 중 하나가 되었습니다.
 
-[여기를 클릭하여 Experience League에 대한 팁 및 요령 더 알아보기](https://experienceleague.adobe.com/?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
+[여기를 클릭하여 Experience League에 대한 팁 및 요령 더 알아보기](https://experienceleague.adobe.com/ko?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | 작성자 정보 |            |
 |------------|------------|

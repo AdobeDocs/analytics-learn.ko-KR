@@ -22,4 +22,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-[!UICONTROL Activity Map]을(를) 배포하는 방법에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)를 참조하세요.
+[!UICONTROL Activity Map]을(를) 배포하는 방법에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)를 참조하세요.

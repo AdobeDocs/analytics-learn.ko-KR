@@ -113,4 +113,4 @@ ht-degree: 100%
 
 * 경력 개발 - 자율 커뮤니티는 많은 분석가 팀의 초점을 반응적이고 전술적인 것에서 규범적이고 전략적인 것으로 전환합니다. 이는 커뮤니티 관리 프로젝트 팀의 경력을 개발하는 데 도움이 됩니다.
 
-내부 Adobe Analytics 사용자 그룹 또는 보다 공식적인 “커뮤니티”가 있는 경우 또는 공식적인 커뮤니티에서 작업 중인 경우 [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)에서 귀하의 이야기를 들려 주십시오.
+내부 Adobe Analytics 사용자 그룹 또는 보다 공식적인 “커뮤니티”가 있는 경우 또는 공식적인 커뮤니티에서 작업 중인 경우 [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=ko)에서 귀하의 이야기를 들려 주십시오.

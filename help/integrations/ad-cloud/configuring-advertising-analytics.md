@@ -23,4 +23,4 @@ ht-degree: 37%
 
 ## 추가 리소스 {#additional-resources}
 
-자세한 내용은 [기능 설명서](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html)를 참조하십시오.
+자세한 내용은 [기능 설명서](https://experienceleague.adobe.com/docs/analytics/integration/advertising-analytics/overview.html?lang=ko)를 참조하십시오.

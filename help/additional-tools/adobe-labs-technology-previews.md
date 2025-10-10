@@ -22,4 +22,4 @@ ht-degree: 100%
 
 [!DNL Labs] 프로토타입을 사용하면 비즈니스 사용 사례 및 데이터의 컨텍스트에서 기능을 평가할 수 있습니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=ko)를 참조하십시오.

@@ -47,7 +47,7 @@ _Adobe Analytics Workspace의 운영 대시보드가 커뮤니케이션 및 효�
 
 무한 반복되는 답변에 지치셨나요? 중지! FAQ 대시보드를 만들어 시간을 절약합니다. 질문하기 전에 사용자는 대시보드를 참조하거나 응답에서 빠르게 연결할 수 있습니다.
 
-질문이 콘텐츠와 같이 제목 및 답변/설명으로 사용되면 [텍스트 시각화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)를 만들어 모두를 축소하여 질문만 표시합니다. 관련성(예: 페이지 또는 제품)별로 그룹화하거나 패널을 사용합니다. 단순하게 유지하면서 맨 위 일반적인 쿼리의 우선 순위를 지정합니다.
+질문이 콘텐츠와 같이 제목 및 답변/설명으로 사용되면 [텍스트 시각화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=ko)를 만들어 모두를 축소하여 질문만 표시합니다. 관련성(예: 페이지 또는 제품)별로 그룹화하거나 패널을 사용합니다. 단순하게 유지하면서 맨 위 일반적인 쿼리의 우선 순위를 지정합니다.
 
 긴 이메일을 작성하거나 이전 설명을 다시 검색하는 대신 FAQ 대시보드를 업데이트합니다. 지금 시작하고 시간이 지남에 따라 확장합니다. 하이퍼링크를 사용하여 보고서 내 다른 대시보드나 관련 FAQ를 참조합니다. 필요한 경우 복잡한 컨텍스트를 다른 대시보드에서 FAQ에 연결하여 제공합니다.
 

@@ -137,7 +137,7 @@ Adobe에서 세그먼트(기본적으로 데이터 필터)는 소급 적용되�
 
 >[!IMPORTANT]
 >
->드롭다운 및 자유 형식 분석 사용에 대한 자세한 내용은 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>을 참조하십시오.
+>드롭다운 및 자유 형식 분석 사용에 대한 자세한 내용은 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=ko>을 참조하십시오.
 
 ##### 2.1.2.2. Google Analytics: 대시보드, 사용자 지정 보고서 및 저장된 보고서
 
@@ -267,7 +267,7 @@ Google Analytics에서 확장된 방식으로 데이터를 가져와야 할 때 
 
 이 안내서 외에도 전략을 개선하는 데 도움이 될 수 있는 많은 리소스가 있습니다.
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) - 튜토리얼, 비디오, 설명서 및 커뮤니티 포럼 포함
+* [Adobe Experience League](https://experienceleague.adobe.com/ko#home) - 튜토리얼, 비디오, 설명서 및 커뮤니티 포럼 포함
 * [Adobe 사용자 그룹](https://analytics-augs.adobe.com/) - 사용자가 서로 연결하고 구현을 개선하는 데 도움이 되는 커뮤니티 실행 이벤트의 허브입니다.
 * [Adobe Analytics 사용자 그룹 YouTube 채널](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Adobe Analytics 사용자 그룹 세션을 만들 수 없습니까? 전 세계의 이전 사용자 그룹 세션을 다시 시청하여 동료들이 도구를 사용하는 방법에 대해 자세히 알아보십시오.
 * [채팅 Slack 측정 채널](https://www.measure.chat/) - 전 세계 Adobe Analytics 사용자와 연결하여 업계의 학습 내용을 공유하고, 동료들에게 질문하고, 측정 중심의 관심 그룹에 참여하십시오.

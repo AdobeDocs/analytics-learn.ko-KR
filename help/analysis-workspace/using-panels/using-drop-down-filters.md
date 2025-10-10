@@ -24,4 +24,4 @@ ht-degree: 100%
 
 드롭다운은 프로젝트 및 패널을 통합하는 데도 유용합니다. 예를 들어 국가별 보고를 제공하는 프로젝트의 여러 버전이 있는 경우 이제 해당 프로젝트를 단일 프로젝트로 축소하고 사용자가 전환할 수 있는 국가 드롭다운을 추가할 수 있습니다.
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=ko)를 참조하십시오.
