@@ -19,13 +19,13 @@ ht-degree: 100%
 
 # 자율 커뮤니티를 만들기
 
->[!VIDEO](https://video.tv.adobe.com/v/341116/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 자율 커뮤니티는 몇 가지 주목할 만한 특성을 갖고 있습니다. 첫째, Adobe Analytics 관리자의 지원을 받습니다. 둘째, 구현 내에서 비즈니스 요구 사항이 표현되는 방식에 대해 잘 알고 있습니다. 마지막으로, 데이터 중심의 의사 결정을 위해 분석을 자신 있게 사용할 수 있는 수단을 갖추고 있습니다. 많은 기업이 내부 Adobe Analytics 사용자 그룹 또는 보다 공식적인 커뮤니티에서 제공하는 구조에서 혜택을 누리고 있습니다.
 
 조직 내에 자율 커뮤니티를 만들어 보십시오. 방법은 다음과 같습니다.
 
-## 1. 자율 커뮤니티의 기반이 될 견고한 인프라 구축
+## &#x200B;1. 자율 커뮤니티의 기반이 될 견고한 인프라 구축
 
 * 사용자 온보딩 프로세스 제작:
 
@@ -37,13 +37,13 @@ ht-degree: 100%
 
 * 구현 이해:
 
-  사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko-KR)(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ko-KR)(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항은 구현된 내용을 포함해야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
+  사용자는 일반적으로 [비즈니스 요구 사항 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko-KR)&#x200B;(BRD) 및 [솔루션 디자인 참조 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=ko-KR)&#x200B;(SDR)를 통해 제공되며 구현에서 지원되는 비즈니스 요구 사항에 대한 기준선 지식을 갖추는 것이 좋습니다. 이러한 요구 사항은 구현된 내용을 포함해야 하며 비즈니스 요구 사항, 보고서, eVar, 이벤트 등을 범주별로 정의해야 합니다.
 
 * 보고서 템플릿 사용:
 
   Adobe Analytics 보고서 템플릿 및 프로젝트는 귀사의 구현, 사용 사례 보고 및 모범 사례에 도구 사용자를 활성화하기 위한 핵심 리소스입니다. 이러한 리소스는 일반적인 비즈니스 관련 질문과 이들 질문을 도구 내에서 가장 잘 답변할 수 있는 방법을 제시할 수 있어야 합니다.
 
-## 2. 운영자 및 참여자에 대한 계획 수립
+## &#x200B;2. 운영자 및 참여자에 대한 계획 수립
 
 * 커뮤니티 운영자 결정
 
@@ -61,7 +61,7 @@ ht-degree: 100%
 
 * 염두에 두어야 할 점은 “어떻게 하면 그들이 이점을 얻을 수 있을까?”입니다. 비즈니스 사용 사례 및 우선 순위에 초점을 맞추면 커뮤니티에서의 참여와 성공을 이끌어낼 수 있습니다.
 
-## 3. 커뮤니티 구축을 시작할 도구 사용
+## &#x200B;3. 커뮤니티 구축을 시작할 도구 사용
 
 * [프로젝트 헌장 작성](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx)(템플릿 다운로드):
 
@@ -89,7 +89,7 @@ ht-degree: 100%
 
 * 커뮤니케이션 수단을 사용하여 실행해 보십시오. 귀사의 기술 스택에 따라 커뮤니티를 위한 도구 또는 수단을 선택해야 할 수도 있습니다. 이는 조직에 따라 다르지만 많은 경우 Microsoft Teams가 원활하게 작동합니다.
 
-## 4. 성공 지속을 위한 커뮤니티 유지
+## &#x200B;4. 성공 지속을 위한 커뮤니티 유지
 
 * 시간 예약 – 캘린더에 커뮤니티 회의를 추가하여 시간을 미리 예약하십시오. 가능한 경우 정기 회의는 훌륭한 아이디어이며 콘텐츠 계획을 실행하는 데 도움이 됩니다. 다음은 시작하는 데 도움이 되는 몇 가지 안건 아이디어입니다.
 
@@ -113,4 +113,4 @@ ht-degree: 100%
 
 * 경력 개발 - 자율 커뮤니티는 많은 분석가 팀의 초점을 반응적이고 전술적인 것에서 규범적이고 전략적인 것으로 전환합니다. 이는 커뮤니티 관리 프로젝트 팀의 경력을 개발하는 데 도움이 됩니다.
 
-내부 Adobe Analytics 사용자 그룹 또는 보다 공식적인 “커뮤니티”가 있는 경우 또는 공식적인 커뮤니티에서 작업 중인 경우 [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=ko)에서 귀하의 이야기를 들려 주십시오.
+내부 Adobe Analytics 사용자 그룹 또는 보다 공식적인 “커뮤니티”가 있는 경우 또는 공식적인 커뮤니티에서 작업 중인 경우 [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)에서 귀하의 이야기를 들려 주십시오.

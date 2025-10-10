@@ -18,4 +18,4 @@ ht-degree: 100%
 
 이 비디오는 Analysis Workspace에서 프로젝트 사용자를 도구를 사용하여 작업할 때 특정 세그먼트로 제한하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/329651/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/24038/?quality=12&learn=on)

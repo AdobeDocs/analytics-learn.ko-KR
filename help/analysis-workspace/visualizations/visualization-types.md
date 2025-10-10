@@ -10,7 +10,7 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 23%
+ht-degree: 27%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 23%
 
 Analysis Workspace 프로젝트에 입력할 수 있는 다양한 종류 또는 유형의 시각화에 대해 알아보고 데이터 스토리를 전달합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33223/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
 
 다음은 비디오를 요약한 것으로서, 데이터에 대해 수행하려는 분석의 종류에 따라 프로젝트에 추가할 몇 가지 시각화 및 제안 시각화입니다. 비디오에 설명된 대로, 이 규칙은 어렵고 빠른 규칙이 아니며 다양한 시각화에 익숙해질 때 제안할 수 있는 몇 가지 사항입니다.
 
@@ -137,7 +137,7 @@ Analysis Workspace 프로젝트에 입력할 수 있는 다양한 종류 또는 
 <td style="vertical-align: top;">
 
 * 폴아웃
-* 흐름
+* 플로우
 * 집단
 
   </td>
@@ -156,4 +156,4 @@ Analysis Workspace 프로젝트에 입력할 수 있는 다양한 종류 또는 
 
 </table>
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)를 참조하십시오.

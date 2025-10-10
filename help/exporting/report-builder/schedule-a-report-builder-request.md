@@ -19,6 +19,6 @@ ht-degree: 100%
 
 이 비디오를 통해 [!DNL Report Builder] 통합 문서의 기본 예약을 설정하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/346454/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=ko)를 참조하십시오.

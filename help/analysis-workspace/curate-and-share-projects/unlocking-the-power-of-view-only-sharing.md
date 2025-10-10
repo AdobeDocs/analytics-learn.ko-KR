@@ -47,6 +47,6 @@ Adobe Analytics Workspace 프로젝트를 동료와 공유하는 것은 더 나�
 
 ![레오 라우](assets/leo_headshot.png)
 
-**Leo Lau**, Director, MarTech 리드 아시아
+**Leo Lau**, MarTech 리드 아시아 책임자
 
 Adobe Analytics 챔피언

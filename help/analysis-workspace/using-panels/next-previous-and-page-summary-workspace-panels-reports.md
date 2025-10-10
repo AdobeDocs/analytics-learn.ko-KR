@@ -18,4 +18,4 @@ ht-degree: 100%
 
 기본 제공 보고서의 일부로 패널 유형을 나열할 뿐만 아니라 Analysis Workspace에 다음/이전 및 페이지 요약이라는 두 가지 새로운 패널 유형이 추가되었습니다. 이를 통해 작업 영역은 보다 인기 있는 Reports &amp; Analytics 보고서와 동등해집니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346421/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/342477/?quality=12&learn=on)

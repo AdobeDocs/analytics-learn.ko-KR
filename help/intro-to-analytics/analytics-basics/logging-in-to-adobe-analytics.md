@@ -17,4 +17,4 @@ ht-degree: 100%
 
 이 비디오에서는 [!DNL Analytics]에 접속하여 관리하고 분석을 수행할 수 있도록 로그인 과정을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31271/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12&learn=on)

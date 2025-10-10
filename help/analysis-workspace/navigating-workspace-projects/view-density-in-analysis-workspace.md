@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL 밀도 보기] 설정([!UICONTROL 프로젝트] > [!UICONTROL 프로젝트 정보 및 설정])을 사용하면 왼쪽 레일 및 테이블([!UICONTROL 자유 형식] 및 [!UICONTROL 집단])에 적용된 수직 패딩을 제어할 수 있습니다. [크게] (기본값), [보통], [작게] 간 선택할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/41123/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25963/?quality=12&learn=on)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 새로운 Analytics 랜딩 페이지와 해당 기능을 최대한 활용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346466/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/334278/?quality=12&learn=on)

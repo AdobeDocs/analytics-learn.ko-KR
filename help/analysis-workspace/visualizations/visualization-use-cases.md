@@ -18,6 +18,6 @@ ht-degree: 100%
 
 베스트셀러 제품을 알아보려면 폴아웃, 플로우, 집단 등 시각화 기능의 몇 가지 주요 사용 사례를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415655/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=ko)를 참조하십시오.

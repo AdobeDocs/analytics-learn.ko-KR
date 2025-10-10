@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Adobe Analytics Admin Console에서 몇 가지 권장 사항을 포함하여 [유료 검색 탐지] 섹션의 구성을 안내하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343279/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/339302/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/paid-search-detection.html?lang=ko#section_0C2CFA0AF77B47098BE37CB024665D0D)를 참조하십시오.

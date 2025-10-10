@@ -18,4 +18,4 @@ ht-degree: 100%
 
 지표가 트렌드를 이루는 기간이 길어질수록 해당 지표에 대한 방향적 트렌드를 파악하기 더 어려워집니다. 이를 해결하려면 Analysis Workspace에서 계산된 지표의 누적 평균 함수를 사용하여 지표에 스무딩을 적용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35045/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)

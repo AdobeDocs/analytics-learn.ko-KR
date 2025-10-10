@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Analysis Workspace 프로젝트에서 트리맵 시각화를 추가하고 구성하는 방법에 대해 알아봅니다. 이 시각화는 한 번에 많은 데이터 포인트를 시각적으로 분석하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416857/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=ko)를 참조하십시오.

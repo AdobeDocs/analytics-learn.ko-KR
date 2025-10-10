@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Summit] 2019의 소매 &quot;슈퍼 세션&quot;에서 선별된 클립 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/330389/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/30549/?quality=12&learn=on)

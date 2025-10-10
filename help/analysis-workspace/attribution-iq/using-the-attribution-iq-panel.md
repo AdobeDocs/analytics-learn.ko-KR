@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오에서는 속성 Analysis Workspace 프로젝트를 구성하는 데 좋은 시작점인 [!DNL Attribution IQ] [!UICONTROL 패널]에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33011/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12&learn=on)
 
 Analysis Workspace의 [!DNL Attribution IQ] [!UICONTROL 패널]은 열 가지의 규칙 기반 [!DNL attribution models]을 시각적으로 빠르게 비교할 수 있는 방법입니다. 각 모델이 [!DNL Bar Charts], [!DNL Venn diagrams], [!DNL Histograms], [!DNL Scatter Plots] 및 [!DNL Flow Diagram]을 사용하여 차원에 영향을 주는 방법에 대해 알아보십시오. [!DNL Attribution] [!UICONTROL 패널]은 보다 정교한 속성 분석을 위한 좋은 시작점입니다.

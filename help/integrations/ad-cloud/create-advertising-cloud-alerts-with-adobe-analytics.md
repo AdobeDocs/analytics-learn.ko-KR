@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Adobe Analytics 알림을 사용하여 Advertising Cloud 유료 미디어 캠페인을 모니터링하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/40948/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35118/?quality=12&learn=on)

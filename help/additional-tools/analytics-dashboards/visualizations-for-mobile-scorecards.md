@@ -20,4 +20,4 @@ ht-degree: 100%
 
 모바일 디바이스에서 분석을 조회할 때 적절한 시각화를 사용하는 것이 그 어느 때보다 중요해졌습니다. 이 비디오에서 모바일 스코어카드 프로젝트에 시각화를 추가하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445773/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)

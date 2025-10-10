@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오는 Analysis Workspace의 다양한 세그먼트 간에 주요 워크플로를 비교하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30863/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/24046/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html?lang=ko)를 참조하십시오.

@@ -28,11 +28,11 @@ ht-degree: 100%
 
 비즈니스 사용자, 비즈니스 실무자 또는 기타 유사한 역할을 맡고 있는 경우 Analysis Workspace 사용과 관련된 유용한 기본 지식을 얻으려면 다음 과정을 수강하는 것이 좋습니다.
 
-1. [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.1.workspace)
-1. [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.3)
-1. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2021.1.visualizations)
-1. [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.2)
+1. [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+1. [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+1. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
+1. [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
 
-Experience League에서 [Adobe Analytics](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.1.workspace)와 관련된 추가 과정을 찾아볼 수 있습니다.
+Experience League에서 [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)와 관련된 추가 과정을 찾아볼 수 있습니다.
 
 감사합니다!

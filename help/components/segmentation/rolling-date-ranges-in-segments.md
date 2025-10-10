@@ -15,6 +15,6 @@ ht-degree: 10%
 
 # 세그먼트의 롤링 기간 {#rolling-date-ranges-in-segments}
 
-이 비디오에서는 세그먼트에서 롤링 날짜 범위를 사용하는 방법에 대해 알아보고, &quot;지난 주 내에 구매한 사람&quot; 또는 &quot;지난 60일 내에 내 사이트를 방문한 사람&quot;과 같은 세그먼트를 만들 수 있습니다. 세그먼트에서 사용할 수 있는 롤링 날짜 범위를 만드는 방법에 대한 자세한 설명은 [사용자 지정 날짜 범위 만들기](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=ko-KR)를 참조하세요.
+이 비디오에서는 세그먼트에서 롤링 날짜 범위를 사용하는 방법에 대해 알아보고, &quot;지난 주 내에 구매한 사람&quot; 또는 &quot;지난 60일 내에 내 사이트를 방문한 사람&quot;과 같은 세그먼트를 만들 수 있습니다. 세그먼트에서 사용할 수 있는 롤링 날짜 범위를 만드는 방법에 대한 자세한 설명은 [사용자 지정 날짜 범위 만들기](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html)를 참조하세요.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)

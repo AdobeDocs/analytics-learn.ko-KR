@@ -33,7 +33,7 @@ ht-degree: 85%
 
 그런 다음 긴 이메일을 작성하거나 다른 회의를 준비하는 대신 사용자를 쉽게 안내할 수 있습니다. 사용자 교육에 대한 추가 팁과 요령은 사용자 교육 간소화 및 시간 단축에 대한 [Adobe 챔피언 Thomas Edward Buckley의 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ko){target="_blank"}를 확인하십시오.
 
-또한 Adobe Experience League에는 [비디오 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ko){target="_blank"}과 [무료 강좌](https://experienceleague.adobe.com/ko?lang=en#dashboard/learning){target="_blank"}가 많이 있습니다. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우, 반드시 나만의 동영상을 녹화하십시오. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
+또한 Adobe Experience League에는 수많은 [비디오 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}과 [무료 교육 과정](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}이 있습니다. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우, 반드시 나만의 동영상을 녹화하십시오. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
 
 ## 작성자
 

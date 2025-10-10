@@ -21,4 +21,4 @@ ht-degree: 100%
 
 다양한 음성 지원 디바이스 간의 다양한 성능 및 기능을 이해하여 제품 로드맵의 우선 순위를 매기는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34988/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=12&learn=on)

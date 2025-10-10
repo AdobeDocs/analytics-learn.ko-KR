@@ -17,6 +17,6 @@ ht-degree: 0%
 
 Analysis Workspace에서 계산된 지표를 만들 때 함수를 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33555/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-계산된 지표를 만들 때 [기본](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=ko) 및 [고급](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=ko) 함수를 사용하는 방법에 대한 자세한 내용은 설명서를 참조하세요.
+계산된 지표를 만들 때 [기본](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html) 및 [고급](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html) 함수를 사용하는 방법에 대한 자세한 내용은 설명서를 참조하세요.

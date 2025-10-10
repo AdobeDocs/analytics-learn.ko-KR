@@ -17,4 +17,4 @@ ht-degree: 100%
 
 패널은 Analysis Workspace의 시각화의 컬렉션입니다. 패널을 사용하여 프로젝트의 데이터를 구성하고 비교하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30914/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23388/?quality=12&learn=on)

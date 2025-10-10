@@ -19,6 +19,6 @@ ht-degree: 44%
 
 웹 사이트에서 직접 사용자 활동 데이터를 시각화하는 데 도움이 되는 도구인 Activity Map에 대해 알아봅니다. 페이지 링크에서 클릭 수 또는 기타 지표 수를 바로 확인할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/39684/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/activity-map/activity-map)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map)를 참조하십시오.

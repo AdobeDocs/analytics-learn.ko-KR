@@ -17,7 +17,7 @@ ht-degree: 100%
 
 # 다양한 분야의 사람들과 일하기
 
->[!VIDEO](https://video.tv.adobe.com/v/345455/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
 Adobe Analytics로의 여정은 훌륭한 구현과 함께 시작됩니다. 우리는 모두 “무가치한 데이터를 넣으면 무가치한 결과가 나온다”라는 말을 알고 있습니다. “무가치한 결과”가 나오는 현상을 줄이기 위해 관리자는 시스템에 입력되는 데이터의 모든 세부 정보를 모니터링해야 합니다. 그 말은 관리자가 근무하는 조직의 여러 관련자들로부터 데이터 수집 전략이 영향을 받는다는 의미입니다.
 

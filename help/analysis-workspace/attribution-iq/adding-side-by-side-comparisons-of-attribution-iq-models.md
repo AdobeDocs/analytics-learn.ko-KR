@@ -22,4 +22,4 @@ ht-degree: 100%
 
 이 비디오에서는 두 모델의 숫자 간 퍼센트 차이를 표시하는 자동 생성 열을 포함하여 여러 [!DNL Attribution IQ models]을 빠르게 비교하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327799/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12&learn=on)

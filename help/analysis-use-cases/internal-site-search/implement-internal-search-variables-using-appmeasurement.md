@@ -19,4 +19,4 @@ ht-degree: 100%
 
 이 비디오는 검색어, 결과 수 등을 포함하여 Experience Platform Launch를 사용하여 Adobe Analytics에 대한 내부 사이트 검색 변수를 구현하는 단계를 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413584/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/333604/?quality=12&learn=on)

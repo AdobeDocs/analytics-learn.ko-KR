@@ -19,4 +19,4 @@ ht-degree: 100%
 
 [사용자 관리] 페이지의 보고서 사용자 및 그룹 관리를 통해 사용자와 그룹을 관리하고 보고서, 도구 및 보고서 세트에 대한 액세스 권한을 제어할 수 있습니다. Adobe Analytics의 User Management를 통해 대시보드, 달력 이벤트, 책갈피 등과 같은 사용자 계정 항목을 한 사용자 계정에서 다른 사용자 계정으로 할당할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418515/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)

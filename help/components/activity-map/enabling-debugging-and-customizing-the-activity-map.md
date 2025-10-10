@@ -16,10 +16,10 @@ ht-degree: 0%
 
 ---
 
-# Adobe Analytics [!UICONTROL Activity Map]을(를) 활성화하고, 디버깅하고, 사용자 지정합니다.
+# Adobe Analytics [!UICONTROL Activity Map] 사용, 디버그 및 사용자 지정
 
-Adobe Experience Platform 태그의 Analytics 확장에 [!UICONTROL Activity Map]을(를) 배포하는 방법을 활성화하고, 디버깅하고, 맞춤화하는 방법에 대해 알아봅니다.
+[!UICONTROL Activity Map]이(가) Adobe Experience Platform 태그의 Analytics 확장에 배포되는 방식을 활성화하고, 디버깅하고, 맞춤화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327634?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-[!UICONTROL Activity Map]을 배포하는 방법에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)를 참조하세요.
+[!UICONTROL Activity Map]을(를) 배포하는 방법에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)를 참조하세요.

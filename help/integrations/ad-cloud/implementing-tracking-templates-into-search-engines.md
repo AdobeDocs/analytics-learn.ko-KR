@@ -19,4 +19,4 @@ ht-degree: 100%
 
 [!DNL Advertising Analytics]에서 지원하는 검색 엔진에 추적 템플릿을 구현하는 단계에 대해 알아보십시오. 이는 데이터를 수집하여 Adobe Analytics에 전달하는 중요한 단계입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33294/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)

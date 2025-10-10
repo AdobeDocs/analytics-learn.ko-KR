@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Adobe Analytics 대시보드의 텍스트를 포함하여 세부 정보 보기를 사용자 정의하고 모바일 스코어카드 프로젝트를 통해 관련자들에게 전하고 싶은 스토리를 구체화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413790/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)

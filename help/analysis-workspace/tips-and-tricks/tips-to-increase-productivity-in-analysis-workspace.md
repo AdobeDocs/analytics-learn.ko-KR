@@ -17,4 +17,4 @@ ht-degree: 100%
 
 이 비디오에서는 Analysis Workspace에서 생산성을 향상시키고 시간을 절약하기 위한 4가지 팁을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33281/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12&learn=on)

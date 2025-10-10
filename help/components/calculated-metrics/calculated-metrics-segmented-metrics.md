@@ -17,6 +17,6 @@ ht-degree: 94%
 
 세그먼트를 기반으로 계산된 지표를 생성하여 이에 속하는 방문자, 방문 및 페이지 조회수를 보다 효과적으로 분석할 수 있는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32602/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25409/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/metrics-with-segments.html)를 참조하십시오.

@@ -51,7 +51,7 @@ Adobe AI 도구는 고객을 대체하기 위한 것이 아니라 고객이 노�
 
 1. 데이터 수집은 조직에 따라 다르며 다양한 채널과 매체를 포함할 수 있습니다. 여기에는 OTT 디바이스, 비디오, 기업, 콜 센터, 매장, 소셜 이메일, 웹, 광고, 모바일 앱, 웨어러블, IoT, 음성 지원, 연결된 카드 및 지리/공간이 포함됩니다.
 
-1. 데이터 처리에는 실시간 데이터 수집, 처리 규칙, 대상 신디케이션, 컨텍스트 인식 세션화, 실시간 트리거 및 보기, 플랫폼이 포함됩니다.
+1. 데이터 처리에는 실시간 데이터 수집, 처리 규칙, 대상자 신디케이션, 컨텍스트 인식 세션화, 실시간 트리거 및 보기, 플랫폼이 포함됩니다.
 
 1. 분석 및 머신 러닝에는 세그먼트 IQ, 가상 분석가, 세그먼테이션, Analysis Workspace가 포함됩니다.
 
@@ -86,7 +86,7 @@ Adobe AI 도구는 고객을 대체하기 위한 것이 아니라 고객이 노�
 
 [예외 항목 탐지](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=ko):
 
-* 내장된 예측 알고리즘을 사용하여 존재하는지 몰랐던 데이터의 급증과 급감을 식별하는 데 도움이 됩니다.
+* 기본 제공 예측 알고리즘을 사용하여 존재하는지 몰랐던 데이터의 급증과 급감을 식별하는 데 도움이 됩니다.
 * 계절성, 성장 및 주기성 모델, 휴일 정렬을 포함하여 예외 항목을 식별하는 데 사용되는 28개의 고유한 알고리즘을 사용합니다.
 * 데이터 과학자에 대한 의존도를 줄이고 시민 데이터 과학자의 역량을 강화합니다.
 
@@ -108,7 +108,7 @@ Adobe AI 도구는 고객을 대체하기 위한 것이 아니라 고객이 노�
 [세그먼트 IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=ko):
 
 * 세그먼트 간의 차이점과 중복을 파악하여 세분화 전략에 정보 제공
-* KPI를 주도하는 대상 세그먼트의 주요 특성 파악
+* KPI를 주도하는 대상자 세그먼트의 주요 특성 파악
 * 차원, 지표 및 기타 세그먼트에 걸쳐 공통점을 표시하는 보고서 및 시각화를 몇 초에서 몇 분 이내에 얻을 수 있음
 * 가치가 높은 고객과의 관계 개선
 
@@ -126,4 +126,4 @@ Adobe AI 도구는 고객을 대체하기 위한 것이 아니라 고객이 노�
 
 자세한 내용은 [웨비나](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)를 시청하십시오.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

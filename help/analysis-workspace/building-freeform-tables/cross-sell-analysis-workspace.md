@@ -18,4 +18,4 @@ ht-degree: 100%
 
 이 비디오를 통해 Analysis Workspace에서 크로스셀 보고서를 작성하고 이를 여러 값의 차원 또는 분류로 확장하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/40769/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)

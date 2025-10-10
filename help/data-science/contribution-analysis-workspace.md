@@ -21,7 +21,7 @@ ht-degree: 100%
 
 이 비디오는 [!UICONTROL 기여도 분석]과, 머신 러닝을 사용하여 데이터에서 트렌드에 기여하는 요소를 빠르고 쉽게 설명할 수 있는 기능에 대해 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30865/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12&learn=on)
 
 [!UICONTROL 기여도 분석]은 Adobe Analytics Premium 고객이 Analysis Workspace에서 사용할 수 있습니다.
 

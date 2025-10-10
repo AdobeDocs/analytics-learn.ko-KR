@@ -18,8 +18,8 @@ ht-degree: 20%
 
 이 비디오에서는 [!UICONTROL 자유 형식 테이블]의 두 가지 날짜 비교 기능인 &#39;[!UICONTROL 기간 열 추가]&#39; 및 &#39;[!UICONTROL 기간 비교]&#39;를 활용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30873/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 날짜 비교는 현재 Analysis Workspace 표에 깊이를 더할 수 있는 쉬운 방법이며, 이를 통해 기록 성능의 관점에서 현재 데이터를 쉽게 파악할 수 있습니다.
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison)를 참조하십시오.

@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Attribution IQ]를 사용하면 [!UICONTROL 자유 형식] 열에서 속성 [!UICONTROL 모델]을 10가지의 규칙 기반 모델로 즉시 변경할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33015/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
 
 각각의 속성 [!UICONTROL 모델]은 세분화 및 분류를 완전히 지원하며, 이들 속성 모델을 통해 [!DNL props]를 포함한 모든 차원에 대한 비교를 무제한으로 수행할 수 있습니다.
 

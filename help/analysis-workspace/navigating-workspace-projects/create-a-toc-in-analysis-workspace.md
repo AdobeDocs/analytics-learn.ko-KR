@@ -1,5 +1,5 @@
 ---
-title: Analysis Workspace에서 콘텐츠 표 작성
+title: Analysis Workspace에서 콘텐츠 테이블 작성
 description: 사용자가 프로젝트 내의 패널 및 시각화로 빠르게 이동할 수 있는 링크를 제공하는 Analysis Workspace의 목차에 대해 알아봅니다.
 feature: Panels
 doc-type: feature video
@@ -16,8 +16,8 @@ ht-degree: 21%
 
 ---
 
-# Analysis Workspace에서 콘텐츠 표 작성 {#create-a-table-of-contents-in-analysis-workspace}
+# Analysis Workspace에서 콘텐츠 테이블 작성 {#create-a-table-of-contents-in-analysis-workspace}
 
-사용자가 프로젝트 내의 패널 및 시각화로 빠르게 이동할 수 있는 링크를 제공하는 Analysis Workspace의 목차에 대해 알아봅니다. 자세한 설명서는 [프로젝트 목차](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents)를 참조하십시오.
+사용자가 프로젝트 내의 패널 및 시각화로 빠르게 이동할 수 있는 링크를 제공하는 Analysis Workspace의 목차에 대해 알아봅니다. 자세한 설명서는 [프로젝트 목차](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/35024/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

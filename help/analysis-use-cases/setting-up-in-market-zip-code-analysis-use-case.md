@@ -24,7 +24,7 @@ ht-degree: 100%
 
 이 사용 사례에서는 우편 번호를 가져오도록 시스템을 구성하고, 가져온 우편 번호를 시장 내 또는 시장 외로 분류하고, 지리 기반 마케팅 캠페인의 효과를 볼 수 있도록 Analysis Workspace에서 이 데이터를 사용해 보겠습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35564/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 이 사용 사례와 관련된 추가 정보는 다음 설명서 항목을 참조하십시오.
 

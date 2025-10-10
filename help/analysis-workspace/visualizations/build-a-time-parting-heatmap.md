@@ -18,4 +18,4 @@ ht-degree: 100%
 
 비헤이비어의 히트맵 [!UICONTROL 시각화]를 생성하여 시간 분할 분석을 다음 수준으로 이끄는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35003/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/26991/?quality=12&learn=on)

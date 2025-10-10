@@ -20,4 +20,4 @@ ht-degree: 100%
 
 초보 사용자를 Analysis Workspace 프로젝트 데이터로 쉽게 유도하는 효과적인 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/41101/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12&learn=on)

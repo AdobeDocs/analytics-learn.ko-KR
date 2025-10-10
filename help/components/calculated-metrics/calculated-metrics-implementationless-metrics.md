@@ -21,4 +21,4 @@ ht-degree: 100%
 
 구현을 변경하지 않고도 Adobe Analytics에서 새로운 [!UICONTROL 지표]를 생성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32607/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25407/?quality=12&learn=on)

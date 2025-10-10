@@ -20,7 +20,7 @@ ht-degree: 100%
 
 이 비디오에서는 마케팅 채널에 대한 처리 규칙을 구성하는 방법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/344355/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340792/?quality=12&learn=on)
 
 >[!NOTE]
 >

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 키보드 단축키를 사용하는 방법을 알아봅니다. 프로젝트에서 다양한 작업을 수행하는 데 도움이 되는 시간 절약 기술입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30888/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12&learn=on)

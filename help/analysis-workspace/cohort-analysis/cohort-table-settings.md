@@ -21,7 +21,7 @@ ht-degree: 46%
 
 집단 테이블 설정을 사용하여 보존 또는 이탈 테이블 보기를 맞춤화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430098/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 [!UICONTROL 집단 테이블]에 대한 맞춤화 옵션에는 다음과 같은 기능이 포함됩니다.
 

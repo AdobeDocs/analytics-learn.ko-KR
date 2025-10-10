@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 패널에 세그먼트를 적용하기 위한 몇 가지 팁과 전략을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416222/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3412023/?quality=12&learn=on)

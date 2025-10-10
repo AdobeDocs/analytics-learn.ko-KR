@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Analytics의 관리 섹션 아래에 있는 [기능 액세스 수준 설정 보기]를 통해 귀사에 권한이 부여된 Adobe Analytics 패키지 및 기능에 대한 액세스 수준을 볼 수 있습니다. 여기에는 Activity Map, Advertising Analytics, 경고의 예외 항목 탐지 등이 포함됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418477/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/335742/?quality=12&learn=on)

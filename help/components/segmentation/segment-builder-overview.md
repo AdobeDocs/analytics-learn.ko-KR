@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Adobe Analytics의 세분화를 사용하여 데이터를 쪼개어 분석합니다. 이 비디오는 세그먼트 빌더를 안내하고 기본 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32616/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL 이탈], 성공률/오류율 및 대체 목적과 같은 기능을 사용하여 음성 앱의 개선 가능한 영역을 찾는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327676/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=12&learn=on)

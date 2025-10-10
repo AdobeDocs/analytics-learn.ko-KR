@@ -18,6 +18,6 @@ ht-degree: 23%
 
 기여도 지표를 만들고 [!DNL Analysis Workspace]에서 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429888/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=ko)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)를 참조하십시오.

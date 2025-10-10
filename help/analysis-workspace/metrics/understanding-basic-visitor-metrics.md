@@ -1,6 +1,6 @@
 ---
 title: 기본 방문자 지표 이해
-description: Adobe Analytics의 페이지 보기 수, 방문 횟수 및 방문자에 대해 알아봅니다. 웹 사이트 트래픽을 이해하는 데 도움이 되는 기본 방문자 지표에 대한 통찰력을 얻으십시오.
+description: Adobe Analytics의 페이지 보기 수, 방문 횟수 및 방문자에 대해 알아봅니다. insight에서 웹 사이트 트래픽을 이해하는 데 도움이 되는 기본 방문자 지표를 얻을 수 있습니다.
 feature: Metrics
 kt: 3575
 role: User
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # 기본 방문자 지표 이해
 
-Adobe Analytics의 [[!UICONTROL 페이지 보기]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=ko), [[!UICONTROL 방문]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ko-KR) 및 [[!UICONTROL 방문자]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ko-KR)에 대해 알아봅니다.
+Adobe Analytics의 [[!UICONTROL 페이지 보기]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en), [[!UICONTROL 방문]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=ko-KR) 및 [[!UICONTROL 방문자]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=ko-KR)에 대해 알아봅니다.
 
 * 이러한 기본 방문 지표에 대한 정의를 확인하고 공통점과 차이점에 대해 알아봅니다.
 
@@ -23,4 +23,4 @@ Adobe Analytics의 [[!UICONTROL 페이지 보기]](https://experienceleague.adob
 
 * 인터페이스에 이러한 지표가 표시되는 방법을 보여 주는 샘플 [!UICONTROL Workspace] 프로젝트를 봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31267/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

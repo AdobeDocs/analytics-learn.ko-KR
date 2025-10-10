@@ -19,6 +19,6 @@ ht-degree: 29%
 
 이 비디오에서는 Adobe Analytics 대시보드(모바일 앱)에서 볼 수 있도록 Analysis Workspace에서 &quot;스코어카드&quot;를 만들고 공유하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/38159/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/34544/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ko)를 참조하십시오.

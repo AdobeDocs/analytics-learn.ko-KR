@@ -18,6 +18,6 @@ ht-degree: 13%
 
 트렌드 시각화 설정에 세부 기간 선택기를 사용하여 데이터 표시 방법을 매우 쉽게 조정할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30884/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
 세부기간 설정은 그래프 및 소스 테이블을 모두 조정하므로 테이블을 표시하고 조작하는 단계를 생략할 수 있습니다.

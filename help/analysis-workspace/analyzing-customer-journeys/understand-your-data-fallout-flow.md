@@ -19,6 +19,6 @@ ht-degree: 100%
 
 사용자 여정에서의 통찰력에 대한 효율적인 이해를 위해 경로 지정과 단계 도구가 함께 작동하는 방식에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415650/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/334095/?quality=12&learn=on)
 
 자세한 내용은 [폴아웃](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ko) 및 [플로우](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=ko) 시각화에 대한 설명서를 참조하십시오.

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 이 비디오는 직접 및 최종 단계, 터치 포인트 이름 변경, 무제한 세그먼트 비교 및 시간에 따른 터치 포인트 전환율 트렌드를 포함하여 고객에게 많이 요청된 [!DNL Fallout Visualization]에 대한 업데이트 사항을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30877/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ko)를 참조하십시오.

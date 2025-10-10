@@ -18,6 +18,6 @@ ht-degree: 15%
 
 [!UICONTROL 히스토그램]을 사용하면 방문자, 방문 횟수 및 히트 수에 걸쳐 지표 배포를 시각화하여 고/저가치 세그먼트를 찾을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30885/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ko)를 참조하십시오.

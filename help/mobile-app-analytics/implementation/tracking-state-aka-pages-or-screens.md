@@ -22,6 +22,6 @@ ht-degree: 99%
 
 상태는 앱의 화면 또는 보기를 나타냅니다. 예를 들어 사용자가 홈 페이지에서 뉴스 피드로 이동할 때 애플리케이션에 새 상태가 표시될 때마다 `trackState`를 호출하여 상태 이름([!DNL Analytics]의 페이지 이름)과 추가 데이터를 전송할 수 있습니다. 이 비디오는 방법을 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/328319/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 trackState에 대한 자세한 내용은 [설명서](https://developer.adobe.com/client-sdks/documentation/getting-started/track-events/#track-app-states-and-screens-for-adobe-analytics)를 참조하십시오.

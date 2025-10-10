@@ -21,4 +21,4 @@ ht-degree: 100%
 
 분석가 및 마케터가 [!UICONTROL 시각화] 요구 사항에 맞게 차트에서 레이블을 조정할 수 있는 몇 가지 새로운 기능에 대해 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30901/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23728/?quality=12&learn=on)

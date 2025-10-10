@@ -19,6 +19,6 @@ ht-degree: 100%
 
 이 비디오에서는 Analytics Admin Console에서 “Prop”이라고도 하는 트래픽 변수의 구성에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342185/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/339441/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-var.html?lang=ko)를 참조하십시오.

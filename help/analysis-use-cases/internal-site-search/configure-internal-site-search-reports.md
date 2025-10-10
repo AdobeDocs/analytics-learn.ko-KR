@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 자유 형식 테이블을 만들고 구성하여 사이트의 내부 검색 기능을 분석합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413474/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/333607/?quality=12&learn=on)

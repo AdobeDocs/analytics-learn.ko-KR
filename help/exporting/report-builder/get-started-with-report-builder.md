@@ -19,6 +19,6 @@ ht-degree: 100%
 
 설치, 로그인 및 데이터 요청을 포함한 [!DNL Report Builder] 사용의 기본 사항에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346442/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/342373/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=ko)를 참조하십시오.

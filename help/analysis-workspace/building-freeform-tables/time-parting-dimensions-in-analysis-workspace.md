@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!DNL Time-parting]은 수집한 히트의 타임스탬프를 가져와서 “시간” 또는 “요일”과 같은 더 의미 있는 차원으로 분할합니다. Analysis Workspace에서 이들 차원을 바로 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30906/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/dimensions/time-parting-dimensions.html?lang=ko)를 참조하십시오.

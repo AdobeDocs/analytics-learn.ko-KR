@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Advertising Cloud 차원을 사용하여 보고 및 분석을 위한 세그먼트를 만들 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40946/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)

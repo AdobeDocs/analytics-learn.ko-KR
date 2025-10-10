@@ -18,7 +18,7 @@ ht-degree: 100%
 
 이 비디오는 Chrome의 Adobe Experience Platform Debugger 확장 프로그램을 사용하여 Analysis Workspace의 페이지에서 테이블 및 시각화로의 데이터 흐름을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33282/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12&learn=on)
 
 Adobe Experience Platform Debugger에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=ko-KR)를 참조하십시오.
 

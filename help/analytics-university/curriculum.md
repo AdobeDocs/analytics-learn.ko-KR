@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # 교육기관용 Adobe Analytics 커리큘럼
 
->[!VIDEO](https://video.tv.adobe.com/v/3443864/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Analytics 교육 과정 콘텐츠
 
@@ -42,6 +42,6 @@ Adobe는 자부심을 가지고 이 Analytics 기본 콘텐츠를 귀 대학에 
 
 각 섹션의 끝부분에 특별히 빌드된 활동을 포함하고 있는 이 커리큘럼은 Adobe Analytics 대학 샌드박스 환경과 결합할 수 있습니다.
 
-여기에서 액세스 등록: [Analytics 커리큘럼 등록](https://experienceleague.adobe.com/landing/analytics-university/?lang=ko)
+여기에서 액세스 등록: [Analytics 커리큘럼 등록](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [커리큘럼 PDF 다운로드](assets/Adobe-Analytics-Curriculum_2021.pdf)

@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # 사용자 교육을 단순화하고 시간을 단축하는 방법에 대한 팁과 요령
 
->[!VIDEO](https://video.tv.adobe.com/v/341108/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 조직 내 비즈니스 사용자가 Adobe Analytics에 대해 잘 교육되었는지 확인하는 것은 데이터 기반 의사 결정 문화를 구축하는 데 매우 중요합니다. Adobe Analytics 내에서 정보를 손쉽게 찾을 수 있는 사용자는 간단한 비즈니스 질문에 스스로 답할 수 있으므로 분석가가 까다로운 비즈니스 질문에 답할 수 있는 시간이 보다 많이 확보됩니다. 지식을 공유하면 데이터 민주주의를 주도하고 비즈니스 사용자가 보다 독립적으로 성과 기반 결정을 내릴 수 있습니다.
 

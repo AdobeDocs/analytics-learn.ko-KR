@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [Analytics](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=ko-KR) 및 [Experience Platform 태그](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/client-data-layer/overview.html?lang=ko-KR) 설명서에서 데이터 레이어에 대한 추가 정보를 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/327648/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25899/?quality=12&learn=on)
 
 >[!NOTE]
 >

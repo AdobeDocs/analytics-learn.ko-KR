@@ -65,7 +65,7 @@ ht-degree: 100%
 
 ## [!UICONTROL 빠른 인사이트] 패널
 
-[[!UICONTROL 빠른 인사이트]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=ko)는 Analysis Workspace의 비분석가 및 신규 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있는 지침을 제공합니다. 또한, 표 자체를 만들지 않고도 간단한 질문에 신속하고 쉽게 답변하고자 하는 고급 사용자에게는 탁월한 툴입니다.
+[[!UICONTROL 빠른 인사이트]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=ko)는 Analysis Workspace의 비분석가 및 신규 사용자에게 비즈니스 관련 질문에 빠르고 쉽게 답변할 수 있는 방법을 배울 수 있는 지침을 제공합니다. 또한, 테이블 자체를 만들지 않고도 간단한 질문에 신속하고 쉽게 답변하고자 하는 고급 사용자에게는 탁월한 툴입니다.
 
 ## 변수에 대한 [!UICONTROL 설명] 활용
 
@@ -95,4 +95,4 @@ ht-degree: 100%
 
 보고 API를 활용하여 표준 보고서를 [!UICONTROL 작업 영역]에서 예약된 보고서 및 대시보드로 이동합니다. 또한 [!UICONTROL Analysis Workspace]를 사용하여 API 요청을 빌드합니다.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

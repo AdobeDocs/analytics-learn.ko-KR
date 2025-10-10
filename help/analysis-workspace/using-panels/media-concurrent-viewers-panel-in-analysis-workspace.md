@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Media Analytics 고객은 미디어 동시 뷰어 패널을 사용하여 최대 동시 시청 시간 발생 위치 또는 시청 감소 발생 위치를 파악하여 콘텐츠 품질 및 시청자 참여에 대한 귀중한 통찰력을 제공하고 볼륨/규모에 대한 문제 해결 또는 계획에 도움을 줄 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/342839/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=ko#analysis-workspace)를 참조하십시오.

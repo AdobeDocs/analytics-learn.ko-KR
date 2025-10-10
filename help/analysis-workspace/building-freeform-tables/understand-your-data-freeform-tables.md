@@ -19,6 +19,6 @@ ht-degree: 100%
 
 자유 형식 테이블(피벗 테이블)을 사용하여 중요 인사이트 검색을 위해 데이터를 이해하고 해석합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415659/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/334093/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table.html?lang=ko)를 참조하십시오.

@@ -22,4 +22,4 @@ ht-degree: 58%
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/export/data-warehouse/t-tableau)를 참조하십시오.
+이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau)를 참조하십시오.

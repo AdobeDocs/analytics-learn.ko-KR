@@ -18,4 +18,4 @@ ht-degree: 100%
 
 이 비디오는 Analysis Workspace에서 세그먼트를 차원으로 사용하여 비교하고 시각화하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33247/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 이 비디오는 데이터 거버넌스를 소개하고 데이터 레이블이 GDPR 준비에 어떻게 적합한지 설명합니다. 데이터 거버넌스를 사용한 데이터 레이블에 대한 실습형 예제를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40790/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=ko)를 참조하십시오.

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 이 비디오는 [!UICONTROL Report Builder]를 사용하여 모든 요청에 세그먼트를 한 번에 추가함으로써 시간을 절약할 수 있는 간편한 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40103/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25445/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=ko)를 참조하십시오.

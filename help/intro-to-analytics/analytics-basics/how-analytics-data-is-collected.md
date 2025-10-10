@@ -17,4 +17,4 @@ ht-degree: 100%
 
 페이지에서 Adobe Analytics의 보고서로 데이터를 가져오는 방법은 무엇입니까? 이 비디오는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31272/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/28768/?quality=12&learn=on)
