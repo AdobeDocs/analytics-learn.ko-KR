@@ -17,7 +17,7 @@ ht-degree: 37%
 
 # Adobe Analytics에서 [!DNL Advertising Analytics] 구성 {#configuring-advertising-analytics-in-adobe-analytics}
 
-[!UICONTROL 을(를) 활용하도록 ]보고서 세트[!DNL Advertising Analytics]을(를) 구성하는 방법, 유료 검색 계정을 설정하는 방법 및 [!DNL Advertising Analytics]에 대한 세부 정보 보고에 대한 높은 수준의 검토를 받습니다.
+[!UICONTROL 을(를) 활용하도록 &#x200B;]보고서 세트[!DNL Advertising Analytics]을(를) 구성하는 방법, 유료 검색 계정을 설정하는 방법 및 [!DNL Advertising Analytics]에 대한 세부 정보 보고에 대한 높은 수준의 검토를 받습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12&learn=on)
 
