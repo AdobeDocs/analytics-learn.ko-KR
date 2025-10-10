@@ -23,4 +23,4 @@ Adobe Analytics의 [[!UICONTROL 페이지 보기]](https://experienceleague.adob
 
 * 인터페이스에 이러한 지표가 표시되는 방법을 보여 주는 샘플 [!UICONTROL Workspace] 프로젝트를 봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31267/?quality=12&learn=on&captions=kor)

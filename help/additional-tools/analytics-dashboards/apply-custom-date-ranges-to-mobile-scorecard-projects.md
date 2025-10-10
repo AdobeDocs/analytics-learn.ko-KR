@@ -20,6 +20,6 @@ ht-degree: 100%
 
 이 비디오는 표시하려는 새로운 범위를 선택하고 사용자 정의 날짜 범위를 만드는 등 모바일 디바이스용 분석 프로젝트를 설정할 때 날짜 범위에 대한 다양한 옵션을 관리하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411535/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=ko)를 참조하십시오.

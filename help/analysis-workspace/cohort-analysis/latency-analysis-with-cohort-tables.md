@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL 집단 테이블]의 [!UICONTROL 지연 시간 테이블] 설정을 사용하면 포함 이벤트 전후의 [!UICONTROL 집단] 비헤이비어를 분석할 수 있습니다(표준 [!UICONTROL 집단]은 이벤트 후의 비헤이비어만 표시함). 이 설정은 예를 들어 새 제품 또는 캠페인 출시의 영향을 분석할 때 유용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430195/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.

@@ -19,5 +19,5 @@ ht-degree: 0%
 
 보고서 세트 관리자에서 변수와 이벤트를 구성하여 보고서, 차원 및 지표가 올바른 이름과 비헤이비어를 갖도록 하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31260/?quality=12&learn=on&captions=kor)
 

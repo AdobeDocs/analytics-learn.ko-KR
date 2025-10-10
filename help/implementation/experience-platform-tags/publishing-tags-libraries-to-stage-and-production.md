@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Experience Platform [!DNL tags]에 개발부터 스테이징 및 프로덕션까지 사이트의 분석 코드를 게시하는 방법과 적절한 데이터를 올바르게 수신하기 위한 보고서 세트를 설정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429979/?quality=12&learn=on&captions=kor)

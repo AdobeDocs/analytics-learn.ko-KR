@@ -18,7 +18,7 @@ ht-degree: 63%
 
 추가, 정렬, 필터링, 다른 차원별로 분류 등 자유 형식 테이블에서 차원을 사용하는 작업에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328533/?quality=12&learn=on&captions=kor)
 
 이 비디오에서 다루는 주제 및 재생 시간:
 

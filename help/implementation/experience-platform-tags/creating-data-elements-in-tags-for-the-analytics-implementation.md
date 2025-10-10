@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오는 솔루션 디자인 참조(SDR) 문서에 기술된 변수 및 이벤트를 기반으로 [!DNL tags]에서의 Analytics 구현을 위해 데이터 요소를 생성하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31256/?quality=12&learn=on&captions=kor)

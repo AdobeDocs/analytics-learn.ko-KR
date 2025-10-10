@@ -20,6 +20,6 @@ ht-degree: 100%
 
 이 비디오에서는 검색 엔진, 검색 키워드 및 기타 검색 방법 보고서 및 구성 요소가 전환 이벤트의 속성을 처리하는 방법을 제어하는 설정을 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412932/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=ko)를 참조하십시오.

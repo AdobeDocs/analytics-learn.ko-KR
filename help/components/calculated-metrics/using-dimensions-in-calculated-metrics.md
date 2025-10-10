@@ -17,7 +17,7 @@ ht-degree: 22%
 
 차원은 계산된 지표 빌더에서 사용할 수 있으며 계산된 지표 공식에 추가하여 새 지표를 차원이나 차원 값으로 제한할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33524/?quality=12&learn=on&captions=kor)
 
 이 기능은 계산된 지표 내에서 세그먼트를 만들고 사용하기 위한 워크플로를 간소화합니다.
 

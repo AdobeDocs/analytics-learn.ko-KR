@@ -19,7 +19,7 @@ ht-degree: 100%
 
 데이터 요청에 [!UICONTROL 예외 항목 탐지] [!UICONTROL 지표]를 추가하는 방법과 더불어 창의적인 방법으로 데이터에 그래프를 추가하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33008/?quality=12&learn=on&captions=kor)
 
 [!UICONTROL 예외 항목 탐지 기능]은 통계적 모델링 방법을 사용하여 데이터에서 예상치 않은 트렌드를 자동으로 탐지합니다.
 

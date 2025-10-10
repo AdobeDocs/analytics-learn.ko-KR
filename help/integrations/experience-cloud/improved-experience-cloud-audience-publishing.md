@@ -24,7 +24,7 @@ ht-degree: 100%
 
 Experience Cloud 대상자 게시가 개선되었습니다. 이제 6배 더 빠르게 대상자([!UICONTROL 세그먼트])을 게시하여 사용할 수 있으므로, 현재 지연 시간을 48시간에서 약 8시간으로 단축할 수 있으며 트래픽 및 [!UICONTROL 세그먼트] 크기에 따라 더 빨리 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37037/?quality=12&learn=on&captions=kor)
 
 또한 한 번에 게시할 수 있는 [!UICONTROL 세그먼트] 수가 [!UICONTROL 보고서 세트]당 20개에서 75개로 증가했습니다.
 자세한 내용은 Analytics 도움말의 [Experience Cloud에 세그먼트 게시](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=ko)를 참조하십시오.

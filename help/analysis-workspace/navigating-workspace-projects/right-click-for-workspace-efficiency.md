@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 자주 사용하는 모든 마우스 오른쪽 버튼 클릭 옵션과 이를 사용하는 방법에 대해 알아봅니다. [!UICONTROL 자유 형식 테이블]에서 [!UICONTROL 폴아웃 시각화]까지, 마우스 오른쪽 버튼을 클릭하면 [!DNL Workspace]에서 보다 효율적이고 능숙하게 작업할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327567/?quality=12&learn=on&captions=kor)

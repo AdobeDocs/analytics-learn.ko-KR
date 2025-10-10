@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace에서 [!UICONTROL 집단] 분석 테이블을 작성하는 방법
 
->[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430073/?quality=12&learn=on&captions=kor)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.

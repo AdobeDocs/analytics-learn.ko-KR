@@ -20,6 +20,6 @@ ht-degree: 100%
 
 이 비디오에서는 “Prop”라고도 하는 트래픽 변수 또는 페이지 이름 분류의 구성에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340024/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342935/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/traffic-variables/traffic-classifications.html?lang=ko-KR)를 참조하십시오.

@@ -18,6 +18,6 @@ ht-degree: 100%
 
 [!DNL Ad Hoc], [!DNL Cohort] 및 [!DNL Fallout] 등의 [!DNL Analysis Workspace]에서 사용 가능한 분석 유형에 대해 알아봅니다. 드래그 앤 드롭 기능을 사용하여 데이터를 쉽고 빠르게 분석할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36310/?quality=12&learn=on&captions=kor)
 
 [Adobe Analysis Workspace에 대해 자세히 알아보기](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)

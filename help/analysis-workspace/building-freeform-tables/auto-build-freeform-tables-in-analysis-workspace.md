@@ -18,4 +18,4 @@ ht-degree: 100%
 
 구성 요소를 빈 프로젝트, 패널 또는 자유 형식 테이블에 직접 놓으면 권장 형식으로 테이블이 자동으로 빌드됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3413478/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418552/?quality=12&learn=on&captions=kor)

@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 필터(태그)를 사용하는 방법을 알아봅니다. 프로젝트를 효율적으로 빌드하는 데 도움이 되는 시간 절약 기술입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37041/?quality=12&learn=on&captions=kor)

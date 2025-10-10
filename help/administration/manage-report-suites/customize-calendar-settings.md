@@ -20,4 +20,4 @@ ht-degree: 100%
 
 이 비디오에서는 Adobe Analytics에서 캘린더를 맞춤화하는 방법과 더불어 몇 가지 팁과 요령에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333003/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412859/?quality=12&learn=on&captions=kor)

@@ -19,4 +19,4 @@ ht-degree: 100%
 
 [!DNL Adobe Analytics]에서 차원 및 지표에 컨텍스트를 추가하는 방법을 알아봅니다. 보고서 및 지표에 할당된 이름이 조직의 사용자에게 충분히 명확하지 않은 경우 설명 필드를 사용하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39724/?quality=12&learn=on&captions=kor)

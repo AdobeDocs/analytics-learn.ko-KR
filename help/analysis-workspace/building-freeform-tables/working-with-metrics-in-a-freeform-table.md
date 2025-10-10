@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace의 자유 형식 테이블에서 지표를 사용할 수 있는 다양한 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328568/?quality=12&learn=on&captions=kor)

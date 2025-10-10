@@ -22,7 +22,7 @@ ht-degree: 99%
 
 작업은 모바일 앱에서 발생하는 이벤트입니다. 이 비디오에서는 trackAction API를 사용하여 작업을 추적하고 측정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328311/?quality=12&learn=on&captions=kor)
 
 사이트의 모든 비화면 로드 작업을 추적하는 데 사용해야 하는 API입니다. 화면이 나타나면 trackState를 사용하여 페이지 뷰의 횟수를 트리거합니다. 그렇지 않은 경우 trackAction을 사용하여 작업과 관련된 변수를 보냅니다.
 

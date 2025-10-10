@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Analysis Workspace의 [!DNL Fallout]을 사용하면 단계 및 워크플로의 터치 포인트로 차원과 지표를 혼합하고 일치시킬 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24043/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30892/?quality=12&learn=on&captions=kor)
 
 이 강력한 기능을 사용하면 조사할 사용자 단계를 더욱 유연하게 정의할 수 있습니다.
 

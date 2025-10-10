@@ -20,4 +20,4 @@ ht-degree: 38%
 
 Analysis Workspace의 드롭다운 필터에서 필드를 여러 개 선택하여 사용자가 선택한 필드의 데이터를 표시할 수 있는 옵션에 대해 알아봅니다. 자세한 설명서는 [패널 개요](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments)를 참조하세요.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439940/?learn=on&captions=kor)

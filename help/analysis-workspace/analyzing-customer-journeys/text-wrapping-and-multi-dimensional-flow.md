@@ -23,6 +23,6 @@ ht-degree: 100%
 
 이 비디오는 [!DNL flow visualization]에서 레이블 자르기를 켜고 끄는 방법을 보여 줍니다. 또한 차원을 드래그하여 다차원 [!DNL flow] 분석을 위한 [!DNL flow]에 놓는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30905/?quality=12&learn=on&captions=kor)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ko)를 참조하십시오.

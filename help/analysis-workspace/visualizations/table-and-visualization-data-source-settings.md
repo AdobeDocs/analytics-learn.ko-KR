@@ -18,4 +18,4 @@ ht-degree: 100%
 
 이 비디오에서 설정 전체에서 테이블과 시각화가 연결되는 방식을 확인하고 다양한 분석 사용 사례에서 이러한 설정을 구성하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/336250/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418833/?quality=12&learn=on&captions=kor)

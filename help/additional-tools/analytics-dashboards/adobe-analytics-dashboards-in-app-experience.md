@@ -19,6 +19,6 @@ ht-degree: 28%
 
 이 비디오에서는 Adobe Analytics 대시보드(모바일 앱)를 사용하여 내가 만들었거나 나와 공유된 &quot;스코어카드&quot;에 액세스하고 보는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/38158/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/home.html?lang=ko)를 참조하십시오.

@@ -18,7 +18,7 @@ ht-degree: 100%
 
 필터는 [!DNL freeform table]에 공유되는 데이터 행에 대해 더욱 세밀한 제어를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23232/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30883/?quality=12&learn=on&captions=kor)
 
 이제 Analysis Workspace에는 11개의 필터링 기준 및 AND/OR 연산자와 함께 더 많은 필터링 제어가 제공됩니다.
 

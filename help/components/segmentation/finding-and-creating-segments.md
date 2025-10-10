@@ -18,6 +18,6 @@ ht-degree: 100%
 
 분석을 수행하는 동안 Analysis Workspace의 여러 도구(집단, 폴아웃 및 플로우 등)에서 세그먼트를 만들고 찾는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415645/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-workflow.html?lang=ko)를 참조하십시오.

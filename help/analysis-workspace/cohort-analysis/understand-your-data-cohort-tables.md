@@ -19,6 +19,6 @@ ht-degree: 100%
 
 시간에 따른 사용자 유지에 대해 이해할 수 있도록 집단 테이블을 분석하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334094/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415665/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.

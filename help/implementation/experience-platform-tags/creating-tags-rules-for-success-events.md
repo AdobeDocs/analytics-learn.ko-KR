@@ -18,4 +18,4 @@ ht-degree: 100%
 
 이 비디오는 [!DNL tags] 규칙을 사용하여 사이트에서 전환 이벤트(예: 성공 이벤트)를 추적하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429955/?quality=12&learn=on&captions=kor)

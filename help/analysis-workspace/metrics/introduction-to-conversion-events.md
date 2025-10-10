@@ -18,4 +18,4 @@ ht-degree: 12%
 
 [!DNL Adobe Analytics]에서 성공 이벤트라고도 하는 전환 이벤트의 기본 사항에 대해 알아봅니다. 디지털 속성에서 전환을 측정하며 보고서에서 지표로 사용됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28764/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31264/?quality=12&learn=on&captions=kor)

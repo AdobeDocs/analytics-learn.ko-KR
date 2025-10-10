@@ -18,6 +18,6 @@ ht-degree: 100%
 
 이 비디오에서는 Analysis Workspace에서 [요약 번호] 및 [요약 변경] 시각화를 추가하고 구성하는 방법에 대해 안내합니다. 이들 시각화는 모든 사람이 볼 수 있는 위치에 가장 중요한 지표를 표시할 수 있도록 큰 숫자를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416890/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=ko)를 참조하십시오.

@@ -21,4 +21,4 @@ ht-degree: 100%
 다양한 요소가 Analysis Workspace 내에 있는 프로젝트의 성능에 영향을 줄 수 있습니다. 성능 옵션을 사용하여 네트워크, 브라우저 및 프로젝트 요소를 포함하여 프로젝트의 성능에 영향을 주는 요소를 확인할 수 있습니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335737/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418520/?quality=12&learn=on&captions=kor)

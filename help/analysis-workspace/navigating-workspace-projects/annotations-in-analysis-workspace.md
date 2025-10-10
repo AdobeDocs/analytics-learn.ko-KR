@@ -19,6 +19,6 @@ ht-degree: 100%
 
 작업 영역의 주석을 사용하면 상황별 데이터 뉘앙스와 통찰력을 귀사 전체의 사용자에게 효과적으로 전달할 수 있습니다. 알려진 데이터 문제, 공휴일, 캠페인 시작 등으로 날짜 또는 날짜 범위에 주석을 달아 선 차트, 테이블 등에서 표시되는 내용을 사용자에게 보다 명확하게 알릴 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344393/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=ko)를 참조하십시오.

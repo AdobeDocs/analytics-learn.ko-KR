@@ -19,6 +19,6 @@ ht-degree: 100%
 
 나만의 프로젝트를 빌드할 준비가 되셨나요? 테이블을 구성하는 방법, 시각화를 첨부하는 방법 등을 포함하여 Analytics Workspace 프로젝트를 처음부터 새로 빌드하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334076/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415640/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ko-KR)를 참조하십시오.

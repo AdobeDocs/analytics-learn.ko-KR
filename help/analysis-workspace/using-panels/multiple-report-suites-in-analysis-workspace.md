@@ -21,7 +21,7 @@ ht-degree: 100%
 
 단일 [!DNL Workspace] 프로젝트에서 패널 수준에서 [!UICONTROL 보고서 세트]를 선택하여 여러 [!UICONTROL 보고서 세트]를 분석할 수 있습니다. 이렇게 하면 여러 데이터 세트에서 나란히 패널 분석을 수행할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/32843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37038/?quality=12&learn=on&captions=kor)
 
 >[!TIP]
 >

@@ -19,7 +19,7 @@ ht-degree: 100%
 
 처리 규칙을 사용하여 Web SDK의 분석 변수를 Adobe Analytics에 매핑하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/333606/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413467/?quality=12&learn=on&captions=kor)
 
 ## 추가 정보
 

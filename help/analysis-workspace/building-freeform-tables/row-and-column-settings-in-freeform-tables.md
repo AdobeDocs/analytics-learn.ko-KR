@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace의 자유 형식 테이블 설정에 대해 알아보고, 이것이 해당 테이블로 들어오는 데이터에 영향을 미치는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40382/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328503/?quality=12&learn=on&captions=kor)

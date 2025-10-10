@@ -18,4 +18,4 @@ ht-degree: 100%
 
 자유 형식 테이블에서의 합계에 영향을 미치는 요인과 이를 활성화 및 비활성화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32734/?quality=12&learn=on&captions=kor)

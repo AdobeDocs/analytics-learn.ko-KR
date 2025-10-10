@@ -22,4 +22,4 @@ ht-degree: 100%
 
 모바일 앱 사용자가 터치 포인트의 영향을 받는 방식을 알아보고 [!DNL Attribution IQ]를 사용하여 모바일 앱에서의 활발한 활동을 유발하는 채널이 무엇인지 파악합니다. 모바일 앱에서의 이벤트를 성공적으로 추진하기 위해 필요한 채널이 무엇인지 파악합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27827/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32095/?quality=12&learn=on&captions=kor)

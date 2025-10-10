@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL 플로우] 패스 및 [!UICONTROL 폴아웃]을 살펴보고 가장 일반적인 작업, 이러한 작업의 시퀀스 및 사용자가 여정을 중단하는 시기 및 위치를 식별하여 음성 앱에서의 고객 여정을 이해하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35000/?quality=12&learn=on&captions=kor)

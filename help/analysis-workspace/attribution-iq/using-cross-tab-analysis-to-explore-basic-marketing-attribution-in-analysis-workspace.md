@@ -21,7 +21,7 @@ ht-degree: 79%
 
 Adobe Analytics를 통해 기여도 분석 방법을 한 차원 끌어올릴 수 있는 방법은 여러 가지가 있습니다. 이 비디오에서는 작업 영역에서 교차 탭 분석을 사용하여 마케팅 채널 보고서에서 보다 세부적인 통찰력을 도출하는 방법을 집중적으로 다룹니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327755/?quality=12&learn=on&captions=kor)
 
 **업데이트**: 이 비디오가 게시된 이후 [!DNL Workspace]에서 몇 가지 사항이 개선되었습니다. 그럼에도 불구하고 이 비디오에는 알아 두어야 할 몇 가지 좋은 팁이 포함되어 있으므로 참조하시기 바랍니다.
 

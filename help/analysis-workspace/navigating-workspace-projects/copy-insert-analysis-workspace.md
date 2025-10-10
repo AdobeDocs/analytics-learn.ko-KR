@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 패널 및 시각화를 복사하고 삽입하는 방법을 알아봅니다. 현재 프로젝트를 개선하거나 새 프로젝트를 시작할 때 시간을 절약할 수 있는 기술입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33027/?quality=12&learn=on&captions=kor)

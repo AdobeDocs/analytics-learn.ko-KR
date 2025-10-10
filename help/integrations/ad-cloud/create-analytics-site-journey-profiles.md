@@ -19,4 +19,4 @@ ht-degree: 100%
 
 Adobe Analytics를 사용하여 Advertising 리마케팅을 위한 강력한 사이트 리타겟팅 풀을 만드는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40944/?quality=12&learn=on&captions=kor)

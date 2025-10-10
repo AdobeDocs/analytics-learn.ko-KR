@@ -20,4 +20,4 @@ ht-degree: 19%
 
 검색, 목록 보기, 이름 변경, 삭제, 공유 등을 포함하여 계산된 지표를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423590/?learn=on&captions=kor)

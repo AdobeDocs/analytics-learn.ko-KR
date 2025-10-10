@@ -21,4 +21,4 @@ ht-degree: 100%
 로그 파일은 사용자가 로그인하는 시점, 사용자의 사용, 액세스, 보고서 세트 및 관리 변경을 확인하는 데 도움이 됩니다. 관리 로그는 관리자가 관리 도구에서 수행한 모든 변경을 보고합니다. 이 로그는 세 가지 로그 중 하나의 사용자 정의 보고서에 대한 게이트웨이를 제공합니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335735/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418525/?quality=12&learn=on&captions=kor)

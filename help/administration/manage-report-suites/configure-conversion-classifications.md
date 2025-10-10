@@ -20,6 +20,6 @@ ht-degree: 100%
 
 이 비디오에서는 “eVar”라고도 하는 전환 변수 분류의 구성에 대해 알아봅니다. 이 구성은 제품 및 목록 변수에도 적용됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340078/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342942/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/conversion-classifications.html?lang=ko-KR)를 참조하십시오.

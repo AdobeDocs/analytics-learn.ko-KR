@@ -18,6 +18,6 @@ ht-degree: 100%
 
 세그먼트 작성 시 히트, 방문 및 방문자 컨테이너는 세그먼트에 포함될 데이터의 양을 제어합니다. 이 비디오에서는 컨테이너를 사용하는 방법을 배우고 각 컨테이너 유형의 몇 가지 예를 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429105/?quality=12&learn=on&captions=kor)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ko)를 참조하십시오.

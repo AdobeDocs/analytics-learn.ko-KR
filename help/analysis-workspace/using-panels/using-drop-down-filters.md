@@ -18,7 +18,7 @@ ht-degree: 100%
 
 이 비디오에서는 Analysis Workspace에서 드롭다운 필터를 사용하여 패널의 내용을 동적으로 변경하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30913/?quality=12&learn=on&captions=kor)
 
 이제 패널 드롭 영역에 드롭다운 필터링 기능이 있습니다. 드롭다운 필터를 사용하면 분석가 및 최종 사용자가 제어된 필터를 통해 데이터와 상호 작용할 수 있습니다. 구성 요소 유형에서 드롭다운 필터를 생성한 다음 드롭다운에서 항목 간에 전환하여 패널 콘텐츠를 필터링할 수 있습니다. 추가 제어를 위해 단일 패널에 여러 드롭다운을 추가할 수도 있습니다.
 

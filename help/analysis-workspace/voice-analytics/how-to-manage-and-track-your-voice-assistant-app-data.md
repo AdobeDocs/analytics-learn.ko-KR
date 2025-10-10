@@ -21,4 +21,4 @@ ht-degree: 100%
 
 맞춤형 대시보드를 작성하여 간편하고, 유연하고, 직관적이고, 시각적인 방식으로 음성 지원 앱의 성능을 관리 및 추적하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27224/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34970/?quality=12&learn=on&captions=kor)

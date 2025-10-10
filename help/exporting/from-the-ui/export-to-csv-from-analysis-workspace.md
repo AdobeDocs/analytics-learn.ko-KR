@@ -19,4 +19,4 @@ ht-degree: 24%
 
 Excel 및 기타 BI 도구의 분석을 위해 전체 프로젝트 또는 개별 테이블을 CSV로 내보내는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429879/?quality=12&learn=on&captions=kor)
