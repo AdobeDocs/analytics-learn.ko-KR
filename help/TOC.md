@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 88%
+source-wordcount: '2176'
+ht-degree: 87%
 
 ---
 
@@ -107,7 +107,7 @@ ht-degree: 88%
       + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [자유 형식 테이블 합계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [자유 형식 테이블 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=ko)
+      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [정적 행 순서 바꾸기](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [자유 형식 테이블에서 Attribution IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ko-KR)
       + [크로스셀 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -155,7 +155,7 @@ ht-degree: 88%
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [애드혹 세그먼트 적용](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ko-KR)
-      + [패널의 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=ko)
+      + [패널의 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace에서 세그먼트를 사용하여 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
@@ -336,6 +336,7 @@ ht-degree: 88%
       + [분류 세트 소개](components/classifications/introduction-to-classification-sets.md)
       + [분류 세트 사용](components/classifications/use-classification-sets.md)
       + [분류 세트 데이터 가져오기 메서드](components/classifications/classification-sets-data-import-methods.md)
+      + [분류가 작업 내역을 설정합니다.](components/classifications/classification-sets-job-history.md)
    + 가상 보고서 세트 {#virtual-report-suites}
       + [가상 보고서 세트 개요](components/virtual-report-suites/virtual-report-suites.md)
       + [구성 요소 큐레이션](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
