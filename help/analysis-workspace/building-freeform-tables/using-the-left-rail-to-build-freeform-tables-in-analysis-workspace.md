@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Analysis Workspace에서 왼쪽 레일을 사용하여 항목을 찾고, 생성하고, 자유 형식 테이블에 추가하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475915/?captions=kor&quality=12&learn=on)
