@@ -20,4 +20,4 @@ ht-degree: 0%
 
 분류 세트 데이터를 업로드 및 다운로드하는 작업 내역을 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476034/?captions=kor&learn=on&enablevpops)
