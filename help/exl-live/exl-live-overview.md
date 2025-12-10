@@ -93,4 +93,4 @@ Experience League LIVE 에피소드를 놓치셨나요? 문제 없습니다. 이
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 살펴보시기 바랍니다.
+>기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 살펴보시기 바랍니다.

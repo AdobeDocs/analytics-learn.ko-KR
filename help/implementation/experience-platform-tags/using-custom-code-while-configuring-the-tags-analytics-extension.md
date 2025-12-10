@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-이 비디오에 참조된 <i>doPlugins 기능</i>에 대한 자세한 정보는 [설명서](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html)를 검토합니다.
+이 비디오에 참조된 <i>doPlugins 기능</i>에 대한 자세한 정보는 [설명서](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=ko)를 검토합니다.
