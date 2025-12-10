@@ -6,11 +6,11 @@ topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Intermediate
 badgeIntegration: label="통합" type="positive"
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 520c7d01a2d0238d53fcace4b5a2bc41fb76abee
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 1%
@@ -25,4 +25,4 @@ ht-degree: 1%
 >
 >&quot;[!UICONTROL Launch]&quot; 이름이 Experience Cloud 인터페이스에서 &quot;[!UICONTROL tags]&quot;(으)로 바뀌었습니다. [!UICONTROL 응용 프로그램 전환기]에서 [!UICONTROL 데이터 수집]을(를) 선택하여 태그를 열고 이 비디오에 포함된 단계를 수행합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34740?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

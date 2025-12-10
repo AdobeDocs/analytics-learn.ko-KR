@@ -2,13 +2,13 @@
 title: Analytics 비디오 및 튜토리얼
 description: Adobe Analytics를 최대한 활용합니다. 이 튜토리얼을 사용하여 Analytics의 기능을 학습하고 비즈니스의 이점을 누리십시오. 이 콘텐츠는 관리자, 데이터 분석가, 마케터, 개발자 및 아키텍트에게 적합합니다.
 feature: Analytics Basics
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%

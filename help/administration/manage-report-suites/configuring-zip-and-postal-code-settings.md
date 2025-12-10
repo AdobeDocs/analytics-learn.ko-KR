@@ -11,10 +11,10 @@ author: Doug Moore
 team: Technical Marketing
 kt: 2679
 topic: Administration
-role: Admin, Architect
+role: Admin, Developer
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 이 비디오에서는 [!UICONTROL 우편 번호] 설정을 구성하여 이러한 지역 데이터에 기반하여 분석을 수행하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35009/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 [!UICONTROL 우편 번호] 설정에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=ko)를 참조하십시오.

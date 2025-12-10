@@ -4,10 +4,10 @@ description: '이 비디오는 기본 리테일 변수 및 이벤트(예: 제품
 feature: Tags
 topics: Development
 kt: 3592
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: cfddf957-20ca-4393-8a32-597f8a74a15f
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 3%
@@ -22,4 +22,4 @@ ht-degree: 3%
 >
 > 이제 **[!DNL tags]** 실행
 
->[!VIDEO](https://video.tv.adobe.com/v/31251/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12&learn=on)
