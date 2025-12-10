@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!DNL Summit] 2019의 여행 및 호스피탈리티 “슈퍼 세션”에서 선별된 클립 보기
 
->[!VIDEO](https://video.tv.adobe.com/v/31442/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330397/?captions=kor&quality=12&learn=on)
