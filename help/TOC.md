@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
-workflow-type: ht
-source-wordcount: '2176'
-ht-degree: 100%
+source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+workflow-type: tm+mt
+source-wordcount: '2177'
+ht-degree: 99%
 
 ---
 
@@ -107,7 +107,7 @@ ht-degree: 100%
       + [자유 형식 테이블의 행 및 열 설정](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [자유 형식 테이블 합계](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [자유 형식 테이블 빌더 사용](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=ko)
+      + [작업 영역 효율성을 위해 마우스 오른쪽 버튼 클릭](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [정적 행 순서 바꾸기](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [자유 형식 테이블에서 Attribution IQ 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=ko-KR)
       + [크로스셀 분석](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -155,7 +155,7 @@ ht-degree: 100%
       + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [애드혹 세그먼트 적용](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ko-KR)
-      + [패널의 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=ko)
+      + [패널의 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [Analysis Workspace에서 세그먼트를 사용하여 데이터 제한](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace의 빠른 세그먼트](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
@@ -362,7 +362,7 @@ ht-degree: 100%
       + [SFTP를 통해 Data Warehouse 요청 전송](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [Tableau Data Extract의 Data Warehouse 보고서 전송](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 데이터 피드 {#data-feeds}
-      + [데이터 피드 관리 UI](exporting/data-feeds/data-feeds-management-ui.md)
+      + [데이터 피드 만들기 및 관리](exporting/data-feeds/data-feeds-management-ui.md)
       + [데이터 피드 인증 키 다운로드](exporting/data-feeds/download-the-data-feed-authentication-key.md)
       + [데이터 피드 ID 찾기](exporting/data-feeds/find-your-data-feed-id.md)
       + [데이터 피드 작업 다시 실행](exporting/data-feeds/rerun-a-data-feed-job.md)
