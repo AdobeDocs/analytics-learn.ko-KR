@@ -1,12 +1,10 @@
 ---
-source-git-commit: fd9f28514f1afa5fce3c11b7a089a0b792fe1279
+source-git-commit: f14c54baeb4378f4a613a650d6b9474d613159ab
 workflow-type: tm+mt
-source-wordcount: '9'
+source-wordcount: '7'
 ht-degree: 0%
 
 ---
-# analytics-learn.en
+# 보관됨
 
-Analytics를 위한 공동 작업 자습서 및 지원 자료
-
-[foo] (bar)
+이 리포지토리가 <https://github.com/Adobe-Enterprise-Docs/analytics-learn.en>(으)로 마이그레이션되었습니다.
