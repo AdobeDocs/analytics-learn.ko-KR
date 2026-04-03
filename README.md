@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Analytics를 위한 공동 작업 튜토리얼 및 지원 자료
 
-[foo](bar)
+[foo] (bar)
