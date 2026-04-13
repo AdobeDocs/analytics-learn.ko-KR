@@ -1,5 +1,5 @@
 ---
-title: 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다.
+title: 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다
 description: 다양한 이유로 인해 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다.
 feature: Workspace Basics
 role: User
@@ -7,16 +7,15 @@ level: Beginner
 doc-type: article
 kt: 9167
 hide: true
-hidefromtoc: true
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
-source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
 ---
 
-# 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다.
+# 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다
 
 다음을 포함하는 다양한 이유로 인해 이 과정이 삭제되었습니다.
 

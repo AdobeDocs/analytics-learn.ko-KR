@@ -4,7 +4,7 @@ user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통�
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
 workflow-type: tm+mt
 source-wordcount: '2177'
 ht-degree: 99%
@@ -448,6 +448,6 @@ ht-degree: 99%
       + [Web SDK 변수를 Adobe Analytics에 매핑](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [내부 사이트 검색 보고서 구성](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [시장 내 우편번호 분석 설정](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics 대학 커리큘럼](analytics-university/curriculum.md)
-+ [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다](retired-courses/retire-fundamentals-for-business-users-course.md)
++ {hide-from-toc}[Analytics 대학 커리큘럼](analytics-university/curriculum.md)
++ {hide-from-toc}[Experience League LIVE](exl-live/exl-live-overview.md)
++ {hide-from-toc}[비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다.](retired-courses/retire-fundamentals-for-business-users-course.md)
