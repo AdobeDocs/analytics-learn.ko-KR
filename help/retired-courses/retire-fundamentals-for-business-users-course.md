@@ -1,5 +1,5 @@
 ---
-title: 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다.
+title: 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다
 description: 다양한 이유로 인해 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다.
 feature: Workspace Basics
 role: User
@@ -7,16 +7,15 @@ level: Beginner
 doc-type: article
 kt: 9167
 hide: true
-hidefromtoc: true
 exl-id: 0d7f8185-817c-4474-9655-a867beb7d454
-source-git-commit: a4cfd7ce71ff32976451b52fc51fe9c56a3dad9c
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
 
 ---
 
-# 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다.
+# 비즈니스 사용자를 위한 Analytics 기본 사항이 삭제되었습니다
 
 다음을 포함하는 다양한 이유로 인해 이 과정이 삭제되었습니다.
 
@@ -28,11 +27,11 @@ ht-degree: 100%
 
 비즈니스 사용자, 비즈니스 실무자 또는 기타 유사한 역할을 맡고 있는 경우 Analysis Workspace 사용과 관련된 유용한 기본 지식을 얻으려면 다음 과정을 수강하는 것이 좋습니다.
 
-1. [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.1.workspace)
-1. [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.3)
-1. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2021.1.visualizations)
-1. [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.2)
+1. [Analysis Workspace 시작하기](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
+1. [자유 형식 테이블, Analysis의 기초](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+1. [시각화를 사용하여 데이터 스토리 전달](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
+1. [고객 여정의 디지털 터치 포인트에 대한 가치 부여](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
 
-Experience League에서 [Adobe Analytics](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.1.workspace)와 관련된 추가 과정을 찾아볼 수 있습니다.
+Experience League에서 [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)와 관련된 추가 과정을 찾아볼 수 있습니다.
 
 감사합니다!

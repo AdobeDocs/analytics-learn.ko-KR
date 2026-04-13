@@ -5,12 +5,11 @@ type: Event
 role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
-hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '190'
+ht-degree: 100%
 
 ---
 
@@ -93,4 +92,4 @@ Experience League LIVE 에피소드를 놓치셨나요? 문제 없습니다. 이
 
 >[!TIP]
 >
->기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/ko#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 살펴보시기 바랍니다.
+>기타 학습 방법에 대해서는 당사의 무료 [교육 과정](https://experienceleague.adobe.com/#dashboard/learning)과 개별적인 [튜토리얼](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=ko-KR)을 살펴보시기 바랍니다.
