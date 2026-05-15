@@ -9,9 +9,23 @@ doc-type: feature video
 thumbnail: 335739.jpg
 kt: KT-8436
 exl-id: d5f7e2a7-ef6e-415e-a59f-1315edba4d8e
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/r-WSGtneKgP95gC4ZzlmLOUPSNIiCzYhyPTsWd0SOmM
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: ede9f3ba-4ee4-4497-9d8e-e9da5848bda0
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: 138
 ht-degree: 100%
 
 ---
@@ -20,4 +34,4 @@ ht-degree: 100%
 
 데이터 피드를 만들면 Adobe에서 원시 데이터 파일을 보낼 위치와 각 파일에 포함할 내용을 알 수 있습니다. Analytics에서 데이터 피드에 대한 SFTP 지원을 사용할 수 있습니다. 유효한 RSA 또는 DSA 공개 키를 포함하려면 SFTP 호스트, 사용자 이름 및 대상 사이트가 필요합니다. 피드를 만들 때 적절한 공개 키를 다운로드할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418493/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/3418493/?captions=kor&quality=12&learn=on)

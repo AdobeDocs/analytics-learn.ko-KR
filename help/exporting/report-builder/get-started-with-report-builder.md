@@ -8,9 +8,22 @@ doc-type: feature video
 thumbnail: 342373.jpg
 kt: 9872
 exl-id: d7b81d6d-1b8a-4796-ae13-3359d5949457
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/UfS7b5aUQ-g-E0ZvS2UJ1FJY0oXjIT0ZXUX5ITwQP6I
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2:
+  - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '42'
+source-wordcount: 53
 ht-degree: 100%
 
 ---
@@ -19,6 +32,6 @@ ht-degree: 100%
 
 설치, 로그인 및 데이터 요청을 포함한 [!DNL Report Builder] 사용의 기본 사항에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/346442/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/346442/?captions=kor&quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/home.html?lang=ko)를 참조하십시오.

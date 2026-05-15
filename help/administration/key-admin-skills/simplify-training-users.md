@@ -9,16 +9,34 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+  - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+  - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '906'
-ht-degree: 100%
+source-wordcount: 926
+ht-degree: 95%
 
 ---
 
 # 사용자 교육을 단순화하고 시간을 단축하는 방법에 대한 팁과 요령
 
->[!VIDEO](https://video.tv.adobe.com/v/341108/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/341108/?captions=kor&quality=12&learn=on)
 
 조직 내 비즈니스 사용자가 Adobe Analytics에 대해 잘 교육되었는지 확인하는 것은 데이터 기반 의사 결정 문화를 구축하는 데 매우 중요합니다. Adobe Analytics 내에서 정보를 손쉽게 찾을 수 있는 사용자는 간단한 비즈니스 질문에 스스로 답할 수 있으므로 분석가가 까다로운 비즈니스 질문에 답할 수 있는 시간이 보다 많이 확보됩니다. 지식을 공유하면 데이터 민주주의를 주도하고 비즈니스 사용자가 보다 독립적으로 성과 기반 결정을 내릴 수 있습니다.
 
@@ -57,7 +75,7 @@ ht-degree: 100%
 
 ## 다른 사용자를 교육하도록 사용자 교육
 
-모든 부서에는 일반적으로 Adobe Analytics에 대한 고급 지식을 갖춘 사용자가 한 명 있습니다. 그들의 전문성을 활용하고 그들과 협력하여 “Adobe Analytics 부서 리더”로 만드십시오. 이러한 지원 수준을 만들면 사용자가 기술을 향상시키고, 조직에서 Adobe Analytics에 더 많은 투자를 하게 하고, 보다 까다로운 고급 질문에 시간을 할애할 수 있습니다.
+모든 부서에는 일반적으로 Adobe Analytics에 대한 고급 지식을 갖춘 사용자가 한 명 있습니다. 그들의 전문성을 활용하고 그들과 협력하여 &quot;Adobe Analytics 부서 리더&quot;가 되십시오. 이 지원 수준을 만들면 사용자가 기술을 향상시키고, 조직에서 Adobe Analytics에 더 많은 투자를 하게 하고, 보다 까다로운 고급 질문에 시간을 할애할 수 있습니다.
 
 * 부서 리더가 고급 사용자가 되도록 시간을 투자하여 모든 질문에 편안하게 답변하고 부서의 신규 사용자를 돕게 할 수 있습니다. 이번에 투자한 시간은 결국에는 큰 이익이 될 것입니다.
 * 부서의 모든 질문이 부서 리더를 통해 전달되어야 한다는 기대 내용을 설정해야 합니다. 그들이 질문에 대답할 수 없다면 그때 도움을 주십시오.

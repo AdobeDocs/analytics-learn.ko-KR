@@ -8,18 +8,31 @@ level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
-source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
+TQID: https://experienceleague.adobe.com/ZXiYDVRqaJbxICzAiFkS9XuUKlyiAKs7-ucZ3qKR-xI
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 99%
+source-wordcount: 1091
+ht-degree: 94%
 
 ---
 
 # 올바른 질문을 하고 있습니까?
 
->[!VIDEO](https://video.tv.adobe.com/v/346460/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/346460/?captions=kor&quality=12&learn=on)
 
-_전부입니다._ _어떤 데이터를 추적하고 싶으십니까?라는 질문에 관련자가 가장 많이 답하는 것 중 하나가 이것입니다._ 가능한 모든 요소를 기록하는 것보다 _실행 가능한 데이터 포인트_&#x200B;를 식별하고 수집하는 것이 더 가치 있을 수 있습니다. 이러한 데이터 포인트를 효율적으로 식별하려면 기본 플랜과 관련자와의 창의적인 토론이 필요합니다.
+_전부입니다._ _어떤 데이터를 추적하고 싶으십니까?_&#x200B;라는 질문에 관련자가 가장 많이 답하는 것 중 하나입니다. 가능한 모든 요소를 기록하는 것보다 _실행 가능한 데이터 포인트_&#x200B;를 식별하고 수집하는 것이 더 유용할 수 있습니다. 이러한 데이터 포인트를 효율적으로 식별하려면 기본 플랜과 관련자와의 창의적인 토론이 필요합니다.
 
 ## 관련 데이터 수집
 
