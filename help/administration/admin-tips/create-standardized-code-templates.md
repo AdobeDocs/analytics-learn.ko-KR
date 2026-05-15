@@ -9,10 +9,16 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 100%
+source-wordcount: 366
+ht-degree: 87%
 
 ---
 
@@ -34,7 +40,7 @@ ht-degree: 100%
 * 설정 방법에 대한 세부 정보입니다. 여기에서 필요한 데이터 레이어 오브젝트와 해당 구문 및 구성해야 하는 TMS 규칙과 규칙 설정의 세부 정보를 지정할 수 있습니다.
 * 확인해야 할 테스트 사례는 QA와 성공적인 테스트 사례에서 확인할 수 있는 모든 변수에 포함되어 있습니다. 개발자가 이 개선 사항을 테스트할 때 성공적인 구현에 포함되어야 하는 사항을 간략히 설명합니다.
 
-이상적으로 이 문서는 속성 이름, 페이지 이름 지정 규칙 등과 같은 기본 사항을 업데이트하는 다음 사이트에 대해서만 조정하면 됩니다. 매번 쓸데없는 시간을 허비할 필요 없이 더 많은 시간을 절약할 수 있습니다.
+이상적으로, 이 문서는 속성 이름, 페이지 이름 지정 규칙 등과 같은 기본 사항을 업데이트하는 다음 사이트에 대해서만 조정하면 됩니다. 매번 쓸데없는 시간을 허비할 필요 없이 더 많은 시간을 절약할 수 있습니다.
 
 ## 작성자
 

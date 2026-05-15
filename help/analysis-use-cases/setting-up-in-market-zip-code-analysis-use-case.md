@@ -13,10 +13,17 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+TQID: https://experienceleague.adobe.com/he18ji-ykj6IXCMTnTJN-OifTrt7VnQRUPfEgdpmVNg
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 100%
+source-wordcount: 161
+ht-degree: 97%
 
 ---
 
@@ -24,7 +31,7 @@ ht-degree: 100%
 
 이 사용 사례에서는 우편 번호를 가져오도록 시스템을 구성하고, 가져온 우편 번호를 시장 내 또는 시장 외로 분류하고, 지리 기반 마케팅 캠페인의 효과를 볼 수 있도록 Analysis Workspace에서 이 데이터를 사용해 보겠습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/35564/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 이 사용 사례와 관련된 추가 정보는 다음 설명서 항목을 참조하십시오.
 
@@ -32,4 +39,4 @@ ht-degree: 100%
 
 [[!UICONTROL 분류]](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ko)
 
-[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ko)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=ko-KR)

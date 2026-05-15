@@ -7,15 +7,21 @@ level: Beginner
 thumbnail: 30368.jpg
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
+TQID: https://experienceleague.adobe.com/I4ALRhhmc7lnzqsm3vuiMGDKVx3NMt6kQ-rDLRB7N-0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: a5b0e28e-686f-409c-8733-7a2b13fe13c2id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79eid: dcae653e-62c6-4cc8-84e6-ee110b848296id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 20%
+source-wordcount: 88
+ht-degree: 34%
 
 ---
 
 # Analysis Workspace에서 첫 번째 프로젝트 시작
 
-처음부터 또는 템플릿을 활용하여 새 Analysis Workspace 프로젝트를 만드는 방법을 알아봅니다. 템플릿을 사용하면 분석을 시작할 수 있으며, 템플릿은 즉시 사용할 수 있고 회사에서 만든 프로젝트를 통해 사용할 수 있습니다. 자세한 설명서는 [Analysis Workspace에서 프로젝트 만들기](https://experienceleague.adobe.com/ko/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)를 참조하십시오.
+처음부터 또는 템플릿을 활용하여 새로운 Analysis Workspace 프로젝트를 만드는 방법을 알아봅니다. 템플릿을 사용하면 분석을 시작할 수 있으며, 템플릿은 즉시 사용할 수 있고 회사에서 만든 프로젝트를 통해 사용할 수 있습니다. 자세한 설명서는 [Analysis Workspace에서 프로젝트 만들기](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429817/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)

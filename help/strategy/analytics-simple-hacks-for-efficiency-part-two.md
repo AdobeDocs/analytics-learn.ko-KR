@@ -6,9 +6,16 @@ role: Admin, Leader
 level: Intermediate
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
+TQID: https://experienceleague.adobe.com/SkJMjCi7-X6-6Xcogk3NsqStw7AzipqL-FE50tZwDR4
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: a421fb65-2c82-457a-921c-28c46b697a39id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7id: f73667dc-d296-4875-8975-ac3fdc3adc42id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2: id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: eb853e43-1634-4181-adf2-a44d64395ec3id: ef60b66e-5984-4336-ba72-6d978b1b6f87id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: 760
 ht-degree: 100%
 
 ---
@@ -95,4 +102,4 @@ ht-degree: 100%
 
 보고 API를 활용하여 표준 보고서를 [!UICONTROL 작업 영역]에서 예약된 보고서 및 대시보드로 이동합니다. 또한 [!UICONTROL Analysis Workspace]를 사용하여 API 요청을 빌드합니다.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

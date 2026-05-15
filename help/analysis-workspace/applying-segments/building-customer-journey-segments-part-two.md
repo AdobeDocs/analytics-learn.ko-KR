@@ -4,13 +4,18 @@ description: 2부에서는 고객의 구매 여정을 이해하고 콘텐츠를 
 feature: Segmentation
 role: User
 level: Experienced
-last-substantial-update: 2023-07-21T00:00:00Z
+last-substantial-update: 2023-07-21T00:00:00.000Z
 jira: KT-13476
 thumbnail: KT-13476.jpeg
 exl-id: 2db73010-5cd0-4454-a4ba-fc1667a50cba
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/YrOglocGHw94rFe3i5EejfNtsy3NDqqeHM7ZS-6t18s
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b3f03848-ae12-48b2-8aab-cad18567eb32
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: b4dd41a7-ccf8-4e9d-918e-acaab534a307id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1997'
+source-wordcount: 2004
 ht-degree: 0%
 
 ---

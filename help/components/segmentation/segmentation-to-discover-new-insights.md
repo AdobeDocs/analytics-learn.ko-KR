@@ -5,22 +5,29 @@ feature: Segmentation
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13268
 thumbnail: KT-13268.jpeg
 exl-id: 7743debd-57d8-4c79-a332-187180fc9701
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/SqW3fb-f-er2nTJ1FbayhC4MjiYvrU5iEj5UvzfHiqU
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6id: b3f03848-ae12-48b2-8aab-cad18567eb32id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2: id: a544b409-2610-410d-a842-474ac1d0d54eid: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06id: dcae653e-62c6-4cc8-84e6-ee110b848296id: e38cbddc-1633-4cd5-bed5-9f289f2a6029id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '812'
-ht-degree: 1%
+source-wordcount: 878
+ht-degree: 7%
 
 ---
 
 # 이제 세그먼트를 기다려 주세요. 세그먼트를 사용하여 Analysis Workspace에서 새로운 인사이트 발견
 
-새로운 Adobe Analytics 사용자든 숙련된 프로든 간에 Analysis Workspace 프로젝트에서 세그먼트를 상당히 활용합니다. [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=ko)에서 설명한 대로 &quot;세그먼트를 사용하면 특성 또는 웹 사이트 상호 작용에 따라 방문자의 하위 집합을 식별할 수 있습니다.&quot; 이 기능의 기본 결과는 사용자, 방문 또는 사이트 히트 그룹을 격리하는 의미이지만, 본인과 같은 예리한 정신의 분석가는 이 도구를 사용하여 창의력을 발휘하고 사이트 활동에 대한 통찰력을 얻을 수 있는 새로운 방법을 찾을 수 있습니다. 가능한 옵션 목록은 광범위하므로 주저하지 말고 직접 만들어 조직 또는 Experience League의 [Adobe Analytics 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko) 또는 [Slack](https://www.measure.chat/) 커뮤니티와 같은 커뮤니티의 온라인#Measure 다른 사용자와 공유해 보십시오.
+새로운 Adobe Analytics 사용자든 숙련된 프로든 간에 Analysis Workspace 프로젝트에서 세그먼트를 상당히 활용합니다. [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en)에서 설명한 대로 &quot;세그먼트를 사용하면 특성 또는 웹 사이트 상호 작용에 따라 방문자의 하위 집합을 식별할 수 있습니다.&quot; 이 기능의 기본 결과는 사용자, 방문 또는 사이트 히트 그룹을 격리하는 의미이지만, 본인과 같은 예리한 정신의 분석가는 이 도구를 사용하여 창의력을 발휘하고 사이트 활동에 대한 통찰력을 얻을 수 있는 새로운 방법을 찾을 수 있습니다. 가능한 옵션 목록은 광범위하므로 주저하지 말고 직접 만들어 조직 또는 Experience League의 [Adobe Analytics 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) 또는 [Slack](https://www.measure.chat/) 커뮤니티와 같은 커뮤니티의 온라인#Measure 다른 사용자와 공유해 보십시오.
 
-세그먼트를 만드는 방법에 대한 빠른 새로 고침이 필요한 경우 Analysis Workspace에서 [세그먼트 빌더](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=ko) 사용에 대한 Experience League 설명서를 확인하십시오.
+세그먼트를 만드는 방법에 대한 빠른 새로 고침이 필요한 경우 Analysis Workspace에서 [세그먼트 빌더](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en) 사용에 대한 Experience League 설명서를 확인하십시오.
 
 ## 세그먼트 비교 및 대비
 
@@ -30,7 +37,7 @@ Analysis Workspace에서는 &quot;[세그먼트 비교](https://experienceleague
 
 그러나 홈 키 통찰력을 최종 사용자에게 제공하기 위해 전체 비교 패널이 필요하지 않은 경우가 있습니다. 감사하게도 일부 기능은 표준 패널에서도 비교할 수 있습니다.
 
-[벤 다이어그램 시각화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ko)를 사용하면 빠른 비교를 만들어 겹치는 세션, 주문, 사용자 등을 마우스로 가리키고 확인할 수 있습니다. 사용자 지정 세그먼트 2-3개 사이에 있어야 합니다. 겹치는 섹션 중 하나를 마우스 오른쪽 버튼으로 클릭하여 세그먼트를 빠르게 작성할 수도 있습니다.
+[벤 다이어그램 시각화](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=ko)를 사용하면 빠른 비교를 만드는 데 도움이 되며, 이를 통해 2-3개의 사용자 지정 세그먼트 간에 겹치는 세션, 주문, 사용자 등을 마우스로 가리키고 확인할 수 있습니다. 겹치는 섹션 중 하나를 마우스 오른쪽 버튼으로 클릭하여 세그먼트를 빠르게 작성할 수도 있습니다.
 
 ![세그먼트 02](assets/s02.png)
 
@@ -78,7 +85,7 @@ Analysis Workspace에서는 &quot;[세그먼트 비교](https://experienceleague
 
 ![세그먼트 12](assets/s12.png)
 
-세그먼트를 사용하여 새로운 통찰력을 찾을 수 있는 가능성은 무한합니다! 이것은 단순히 시작점에 불과합니다. 직접 몇 가지 시도를 해보고 발견한 내용을 커뮤니티에 알려주십시오. Experience League의 [Adobe Analytics 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=ko) 또는 [#MeasureSlack](https://www.measure.chat/) 커뮤니티.
+세그먼트를 사용하여 새로운 통찰력을 찾을 수 있는 가능성은 무한합니다! 이것은 단순히 시작점에 불과합니다. 직접 몇 가지 시도를 해보고 발견한 내용을 커뮤니티에 알려주십시오. Experience League의 [Adobe Analytics 커뮤니티](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community) 또는 [#MeasureSlack](https://www.measure.chat/) 커뮤니티.
 
 즐거운 세그먼트화!
 

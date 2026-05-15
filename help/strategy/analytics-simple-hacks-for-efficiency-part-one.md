@@ -6,9 +6,16 @@ role: Admin, Leader
 level: Intermediate
 solution: Analytics
 exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
-source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
+TQID: https://experienceleague.adobe.com/tavjm7si5M73xvfMYmKLLCk6-c3Epjgv2oUtZiklnGE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: a421fb65-2c82-457a-921c-28c46b697a39id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7aid: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+subfeature_v2: id: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d3cdead0-685a-4489-9250-4bb709942f66id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: 727
 ht-degree: 94%
 
 ---
@@ -21,7 +28,7 @@ ht-degree: 94%
 
 ## 분석 팀의 주요 문제
 
-많은 분석 팀이 불균형한 작업 분배로 어려움을 겪고 있습니다. 80%의 분석과 20%의 구현이 혼합되는 것이 아니라 수많은 조직에서 정반대의 상황에 처해 있습니다. 높은 가치의 통찰력을 창출하는 분석을 생성하는 것과는 대조적으로 설정, 보고 및 지원 제공에 대부분의 노력을 기울였습니다.
+많은 분석 팀이 불균형한 작업 분배로 어려움을 겪고 있습니다. 80%의 분석과 20%의 구현이 혼합되는 것이 아니라 수많은 조직에서 정반대의 상황에 처해 있습니다. 높은 가치의 인사이트를 창출하는 분석을 생성하는 것과는 대조적으로 설정, 보고 및 지원 제공에 대부분의 노력을 기울였습니다.
 
 분석 팀은 다양한 이유로 인해 생산성과 효율성이 고갈되고 있습니다. 여기에는 지속적으로 변화하고 발화하는 구현, 데이터에 대한 조직의 신뢰 유지, 분석가 이직률 감소가 포함됩니다. 이직률을 줄임으로써 익숙하지 않은 맞춤형 구현 도구로 작업하도록 새로운 팀원을 교육하는 긴 프로세스를 피할 수 있습니다.
 
@@ -29,9 +36,9 @@ ht-degree: 94%
 
 * **경쟁:** 온라인 및 다중 채널 소매 비즈니스의 경쟁력이 높아집니다.
 * **고객 기대치:** 고객 경험과 마케팅 전략은 점점 더 복잡해지고 있습니다.
-* **데이터 가치:** 경쟁 우위를 확보하기 위한 정확한 데이터와 통찰력의 가치가 점점 더 중요해지고 있습니다.
+* **데이터 가치:** 경쟁 우위를 확보하기 위한 정확한 데이터와 인사이트의 가치가 점점 더 중요해지고 있습니다.
 * **관련자의 기대치:** 비즈니스 파트너, 관련자 및 경영진이 승인 전에 데이터를 요청하는 경우가 점점 늘어나고 있습니다.
-* **프로젝트 관리:** 분석 팀은 정확한 보고서를 생성하고, 새로운 분석가를 온보딩하고, 다음 새로운 통찰력을 발견하는 동시에 끝없는 새로운 기능 스트림에 대한 데이터 수집을 구현하라는 요청에 몰두합니다.
+* **프로젝트 관리:** 분석 팀은 정확한 보고서를 생성하고, 새로운 분석가를 온보딩하고, 다음 새로운 인사이트를 발견하는 동시에 끝없는 새로운 기능 스트림에 대한 데이터 수집을 구현하라는 요청에 몰두합니다.
 
 ## 효율성의 핵심: UI 외부
 
@@ -89,4 +96,4 @@ ht-degree: 94%
    * 릴리스 및 성공의 소셜화를 지원함으로써 존재감을 구축하십시오.
    * 정규 근무 시간을 사용하여 강사를 교육하고 임시 작업을 줄입니다.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보십시오.

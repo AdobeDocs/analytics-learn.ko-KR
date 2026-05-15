@@ -9,10 +9,16 @@ doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
 exl-id: 0fe3b981-0d9b-4f12-a6ca-63a4140f4baf
-source-git-commit: 54f9d15d705cd2d9dfa0fb177d14e2e602e35b7c
+TQID: https://experienceleague.adobe.com/nnAluH2AvqNbWEPk3lbthk-xDl-tnqyW8uHg4Beurq0
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 80%
+source-wordcount: 331
+ht-degree: 78%
 
 ---
 
@@ -26,7 +32,7 @@ ht-degree: 80%
 
 플랫폼(또는 앱의 화면 이름)에서도 페이지 이름을 일관되게 유지하는 것이 가장 좋습니다. 예를 들어 `property:section:sub section:sub sub section:unique page name`을(를) 변수/차원으로 설정할 수 있습니다. 이러한 모든 필드가 데이터 레이어의 별도 필드인 경우 JS 파일/실행에서 직접 페이지 이름을 작성할 수도 있습니다. 이러한 모든 요소를 자체 차원으로 설정함으로써 사이트/앱의 특정 속성이나 영역을 보다 쉽게 분류하고 트래픽과 흐름을 더 잘 이해할 수 있습니다.
 
-이름 지정 규칙과 같은 간단한 것을 포함하여 사용자가 데이터를 더 쉽게 찾고 이해할 수 있도록 해 주는 모든 것이 Adobe Analytics의 사용을 증가시키고 비즈니스에 대한 보다 정확한 통찰력을 제공합니다.
+이름 지정 규칙과 같은 간단한 것을 포함하여 사용자가 데이터를 더 쉽게 찾고 이해할 수 있도록 해 주는 모든 것이 Adobe Analytics의 사용을 증가시키고 비즈니스에 대한 보다 정확한 인사이트를 제공합니다.
 
 ## 작성자
 

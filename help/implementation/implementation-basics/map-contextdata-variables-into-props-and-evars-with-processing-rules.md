@@ -7,21 +7,28 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
+TQID: https://experienceleague.adobe.com/FfazYK7oCVTKjTkshVChipNfUJ-KAQ1gDNazuueUOKE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+subfeature_v2: id: c77ba355-6681-41fe-b719-563d3f507fdbid: df312454-73c4-43f6-a90e-18f5043f074cid: e4f5f438-eabb-4c54-9133-b817e3d125f5id: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c2be0313-b3ae-45e0-b454-d20bf54b23f2id: d3cdead0-685a-4489-9250-4bb709942f66id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 153
 ht-degree: 100%
 
 ---
 
 # 처리 규칙을 사용하여 contextData 변수를 속성 및 eVar에 매핑 {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-Adobe Analytics 구현에서 [!DNL contextData] 변수를 사용할 때 데이터가 실제 보고서에 표시되도록 하려면 [!DNL contextData] 변수를 [!UICONTROL 처리 규칙] 인터페이스에서 [!DNL props/eVars]에 매핑해야 합니다. 이 비디오는 이러한 작업을 수행하는 방법을 보여 줍니다. 자세한 문서는 [처리 규칙 개요](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html?lang=ko)를 참조하십시오.
+Adobe Analytics 구현에서 [!DNL contextData] 변수를 사용할 때 데이터가 실제 보고서에 표시되도록 하려면 [!DNL contextData] 변수를 [!UICONTROL 처리 규칙] 인터페이스에서 [!DNL props/eVars]에 매핑해야 합니다. 이 비디오는 이러한 작업을 수행하는 방법을 보여 줍니다. 자세한 문서는 [처리 규칙 개요](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html)를 참조하십시오.
 
 >[!IMPORTANT]
 >
 >이 문서와 비디오는 Adobe Experience Platform 태그(태그 관리자)를 사용하지 않는 경우 Adobe Analytics의 “AppMeasurement” 구현에 적용됩니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/327641/?quality=12&learn=on&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 

@@ -9,10 +9,17 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2: id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 85%
+source-wordcount: 351
+ht-degree: 84%
 
 ---
 
@@ -33,7 +40,7 @@ ht-degree: 85%
 
 그런 다음 긴 이메일을 작성하거나 다른 회의를 준비하는 대신 사용자를 쉽게 안내할 수 있습니다. 사용자 교육에 대한 추가 팁과 요령은 사용자 교육 간소화 및 시간 단축에 대한 [Adobe 챔피언 Thomas Edward Buckley의 문서](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=ko){target="_blank"}를 확인하십시오.
 
-또한 Adobe Experience League에는 수많은 [비디오 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=ko){target="_blank"}과 [무료 교육 과정](https://experienceleague.adobe.com/ko?lang=en#dashboard/learning){target="_blank"}이 있습니다. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우, 반드시 나만의 동영상을 녹화하십시오. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
+또한 Adobe Experience League에는 수많은 [비디오 튜토리얼](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html){target="_blank"}과 [무료 교육 과정](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}이 있습니다. 회사의 데이터 및 비즈니스 KPI에 특정한 비디오가 필요한 경우, 반드시 나만의 동영상을 녹화하십시오. 하지만 일반적인 교육용 비디오로 충분하다면 시간을 허비할 필요가 없습니다.
 
 ## 작성자
 

@@ -1,25 +1,29 @@
 ---
-title: 분류 세트 데이터 가져오기 메서드
+title: 분류 세트 데이터 가져오기 방법
 description: 분류 세트를 사용하여 분류 데이터를 가져오는 다양한 방법과 관련된 사용 사례에 대해 알아봅니다.
 feature: Classifications
 role: User
 level: Beginner
 doc-type: Feature Video
 duration: 359
-last-substantial-update: 2025-10-15T00:00:00Z
+last-substantial-update: 2025-10-15T00:00:00.000Z
 jira: KT-19411
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+exl-id: 7cd1e443-3a0b-4765-8c3a-0250e9844652
+TQID: https://experienceleague.adobe.com/1isOp5RfCnMZ8w-l1DPHt7pV6bQ7K5rnKbsQdlrBOa4
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 11%
+source-wordcount: 59
+ht-degree: 84%
 
 ---
 
-
-# 분류 세트 데이터 가져오기 메서드
+# 분류 세트 데이터 가져오기 방법
 
 분류 세트를 사용하여 분류 데이터를 가져오는 다양한 방법과 관련된 사용 사례에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475835/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/components/classifications/sets/overview){target="_blank"}를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/en/docs/analytics/components/classifications/sets/overview){target="_blank"}를 참조하십시오.

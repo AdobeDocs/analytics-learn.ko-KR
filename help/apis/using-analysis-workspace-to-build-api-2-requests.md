@@ -10,10 +10,15 @@ kt: 2386
 role: Developer
 level: Experienced
 exl-id: c2bf15d7-4614-4bda-83de-1a45b5f98c7b
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/m8HgqE6eQrnKNot-4zNtwDz2SSmY4Re6EGL19po0QhE
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: c153fd90-23e1-4614-81d3-3cc7571227f7id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 99%
+source-wordcount: 125
+ht-degree: 89%
 
 ---
 
@@ -21,6 +26,6 @@ ht-degree: 99%
 
 이 비디오에서는 Analysis Workspace를 활용하여 API 2.0 요청을 자동으로 빌드하는 방법을 보여 줍니다. UI를 디버깅하면 JSON 요청을 API 클라이언트에 직접 복사하고 붙여넣어 [!DNL Analytics] 데이터를 반환할 수 있습니다. 이제 Workspace 도움말 > Debugger 활성화로 이동하여 Debugger를 더 쉽게 활성화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/328327/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://developer.adobe.com/analytics-apis/docs/2.0/#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.html)를 참조하십시오.
