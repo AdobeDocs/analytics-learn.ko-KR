@@ -37,7 +37,7 @@ ht-degree: 97%
 
 # Adobe Analytics 기술 언어를 비기술 언어로 번역
 
->[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345331/?captions=kor&quality=12&learn=on)
 
 ## 다른 언어로 말하기
 

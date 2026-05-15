@@ -31,6 +31,6 @@ ht-degree: 36%
 
 어떤 제품이 가장 잘 팔리는지 알고 싶으신가요? 폴아웃, 플로우, 집단 등과 같은 시각화를 위한 몇 가지 주요 사용 사례에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334096/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415655/?captions=kor&quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/data-workbench/using/dashboard/visualizations/visualization-types/c-visualization-types.html?lang=ko)를 참조하십시오.

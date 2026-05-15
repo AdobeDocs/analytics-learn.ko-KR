@@ -40,4 +40,4 @@ ht-degree: 100%
 
 Advertising Cloud 뷰스루 및 클릭스루 입력 데이터가 Adobe Analytics [!UICONTROL 마케팅 채널]을 사용하여 작동하는 방식에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40942/?captions=kor&quality=12&learn=on)

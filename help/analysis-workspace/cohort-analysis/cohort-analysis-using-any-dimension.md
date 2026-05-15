@@ -28,6 +28,6 @@ ht-degree: 59%
 
 사용자 정의 [!UICONTROL 집단] [!UICONTROL 차원] 옵션을 사용하면 시간 이외의 [!UICONTROL 차원]을 사용하여 [!UICONTROL 집단]을 분석할 수 있습니다. 마케팅 채널, 캠페인 지역, 제품 페이지별로 [!UICONTROL 집단]을 비교하여 [!UICONTROL 차원] 항목별로 [!UICONTROL 유지]&#x200B;(또는 [!UICONTROL 이탈])가 어떻게 변경되는지 더 잘 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430184/?captions=kor&quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.

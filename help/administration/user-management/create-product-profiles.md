@@ -35,6 +35,6 @@ ht-degree: 61%
 
 Experience Cloud Admin Console에서 Analytics 제품 프로필을 만들어 보고서 세트, 지표, 차원 및 도구에 대한 액세스를 관리합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448814/?captions=kor&learn=on)
 
 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/admin/admin-console/permissions/product-profile)에서 자세히 알아보십시오.

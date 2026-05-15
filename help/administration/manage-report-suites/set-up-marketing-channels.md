@@ -37,7 +37,7 @@ ht-degree: 100%
 
 이 비디오를 통해 Analytics 보고서 세트에서 마케팅 채널 보고서를 구성하는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/340789/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344362/?captions=kor&quality=12&learn=on)
 
 >[!NOTE]
 >
