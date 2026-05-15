@@ -38,12 +38,12 @@ ht-degree: 76%
 
 | 고객:<br>Jason Klapmeier | 3M의 글로벌 분석 기능 리더 |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonklapmeier.jpg) | **계속해서 배우십시오. Adobe Analytics에서 놀라운 경험을 할 수 있습니다.** <br> “Adobe Analytics에 대한 전문 지식이 발달함에 따라 기대할 수 있는 능력을 알려 드리고자 Adobe Analytics의 기능을 극대화하기 위해 활용할 수 있게 된 몇 가지 흥미로운 기능에 대해 소개하려고 합니다. <br><br><ul><li>복잡한 세그먼트를 생성하고,</li><li>가장 중요한 지표를 정의하고,</li><li>나만의 참여 색인을 만들고,</li><li>예측 분석을 탐색할 수 있습니다.”</li></ul><br>[Jason의 팁 알아보기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Incredible-Things-You-Can-Do-in-Adobe-Analytics/td-p/354333) |
+| ![Jason Klapmeier](assets/jasonklapmeier.jpg) | **계속해서 배우십시오. Adobe Analytics에서 놀라운 경험을 할 수 있습니다.** <br> “Adobe Analytics에 대한 전문 지식이 발달함에 따라 기대할 수 있는 능력을 알려 드리고자 Adobe Analytics의 기능을 극대화하기 위해 활용할 수 있게 된 몇 가지 흥미로운 기능에 대해 소개하려고 합니다. <br><br><ul><li>복잡한 세그먼트를 생성하고,</li><li>가장 중요한 지표를 정의하고,</li><li>나만의 참여 색인을 만들고,</li><li>예측 분석을 탐색할 수 있습니다.”</li></ul><br>[Jason의 팁 알아보기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Incredible-Things-You-Can-Do-in-Adobe-Analytics/td-p/354333?profile.language=ko) |
 
 | 고객:<br>Jason Jamnik | Follett Corporation의 분석 관리자 |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **이것은 제가 Adobe Analytics 사용에 있어서 전문가가 되기 위해 사용한 리소스입니다.** <br> “기초 단계에 멈춰 있지 마십시오. Adobe Analytics의 기본 사항을 마스터했다면 여러분은 배움을 계속하여 더욱 복잡한 사용 사례를 수행할 준비가 된 것입니다. 다음은 Follett에서 새로운 분석가가 팀에 합류할 때 알려 주는 팁과 제가 사용한 리소스입니다.&quot;<br><br>[Jason의 팁 읽기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **이것은 제가 Adobe Analytics 사용에 있어서 전문가가 되기 위해 사용한 리소스입니다.** <br> “기초 단계에 멈춰 있지 마십시오. Adobe Analytics의 기본 사항을 마스터했다면 여러분은 배움을 계속하여 더욱 복잡한 사용 사례를 수행할 준비가 된 것입니다. 다음은 Follett에서 새로운 분석가가 팀에 합류할 때 알려 주는 팁과 제가 사용한 리소스입니다.&quot;<br><br>[Jason의 팁 읽기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226?profile.language=ko) |
 
 | 고객:<br>Sam Liss | Equinox의 분석 엔지니어 |
 |------------|------------|
-| ![Sam Liss](assets/samliss.jpg) | **다른 분석 제품에서 Adobe Analytics으로 전환하기 위한 팁** <br> &quot;다른 분석 플랫폼에서 온 경우 더 사용자 정의 가능한 거버넌스, 더 높은 보안, 다양한 마케팅 및 데이터 플랫폼 통합의 세계로 들어가게 됩니다...[!UICONTROL 자유 형식 테이블] 및 [!UICONTROL 흐름] 시각화가 다른 분석 플랫폼에서 경험한 것과 어떻게 다른지 안내해 드리겠습니다.&quot;<br><br>[Sam의 팁 알아보기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
+| ![Sam Liss](assets/samliss.jpg) | **다른 분석 제품에서 Adobe Analytics으로 전환하기 위한 팁** <br> &quot;다른 분석 플랫폼에서 온 경우 더 사용자 정의 가능한 거버넌스, 더 높은 보안, 다양한 마케팅 및 데이터 플랫폼 통합의 세계로 들어가게 됩니다...[!UICONTROL 자유 형식 테이블] 및 [!UICONTROL 흐름] 시각화가 다른 분석 플랫폼에서 경험한 것과 어떻게 다른지 안내해 드리겠습니다.&quot;<br><br>[Sam의 팁 알아보기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312?profile.language=ko) |
