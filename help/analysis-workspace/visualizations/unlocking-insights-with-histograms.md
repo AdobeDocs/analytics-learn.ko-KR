@@ -10,12 +10,9 @@ jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
 TQID: https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc
-product_v2:
-  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1112
@@ -27,7 +24,7 @@ ht-degree: 3%
 
 _평균 이상의 통찰력을 얻기 위해 분석에서 히스토그램의 영향을 알아봅니다. 히스토그램은 고객 행동, 방문자 참여, 기술 성능 및 양식 오류에서 데이터 패턴을 보여 주므로 Adobe Workspace에서 보다 심층적인 통찰력과 정보에 입각한 결정을 내릴 수 있습니다._
 
-바로 뛰어들자. [히스토그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=ko)을 사용해야 합니다. 그 이유를 설명하려고 합니다. 하지만 첫 번째 질문에 답하고 싶습니다. 히스토그램이란 세상에서 무엇일까요? 알겠어요. 대부분의 경우, 수많은 막대기가 올라가는 것을 보면 막대그래프라고 생각할 수 있습니다. 네, 히스토그램은 비슷해 보이지만 확실히 다르네요. 막대 차트는 항목을 비교하는 반면 히스토그램은 변수가 발생한 빈도를 보여줍니다. 한번 보세요. 다음은 바 차트입니다.
+바로 뛰어들자. [히스토그램](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html)을 사용해야 합니다. 그 이유를 설명하려고 합니다. 하지만 첫 번째 질문에 답하고 싶습니다. 히스토그램이란 세상에서 무엇일까요? 알겠어요. 대부분의 경우, 수많은 막대기가 올라가는 것을 보면 막대그래프라고 생각할 수 있습니다. 네, 히스토그램은 비슷해 보이지만 확실히 다르네요. 막대 차트는 항목을 비교하는 반면 히스토그램은 변수가 발생한 빈도를 보여줍니다. 한번 보세요. 다음은 바 차트입니다.
 
 ![막대 차트 1](assets/bar-chart-1.png)
 
