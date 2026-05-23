@@ -27,4 +27,4 @@ ht-degree: 77%
 
 처음부터 시작하고 싶지 않으세요? 미리 작성된 보고서를 사용하여 Workspace에서 분석을 시작하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/334279/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450694/?captions=kor&learn=on)
