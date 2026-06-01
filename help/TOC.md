@@ -3,7 +3,8 @@ user-guide-title: Adobe Analytics 튜토리얼
 user-guide-description: Adobe Analytics에 대한 비디오 튜토리얼을 통해 데이터를 최대한 활용하는 방법을 알아보십시오.
 breadcrumb-title: Analytics 튜토리얼
 solution: Analytics
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 usetq: true
 auto-video-transcripts: true
 source-git-commit: d7b45e224fc1102e669a4d7dd8e963e0eb665ffa
