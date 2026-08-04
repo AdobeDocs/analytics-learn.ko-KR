@@ -27,4 +27,4 @@ ht-degree: 100%
 
 특정 질문에 답변할 수 있는 간단한 세그먼트를 빠르게 만든 다음 저장된 세그먼트 목록이 채워지지 않도록 세그먼트를 삭제하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23978/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31296/?captions=kor&quality=12&learn=on)
