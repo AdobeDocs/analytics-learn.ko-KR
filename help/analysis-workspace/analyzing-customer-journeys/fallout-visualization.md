@@ -36,7 +36,7 @@ ht-degree: 100%
 
 [!DNL Analysis Workspace]에서의 폴아웃 시각화는 디지털 속성에서 고객이 주요 흐름에 빠지거나 빠지는 지점을 탐색하는 데 사용됩니다. 여러 유형의 접점을 추가하는 방법과 이 구성 요소에서 세그먼트를 만들고 사용하는 방법을 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453253/?captions=kor&quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=ko)를 참조하십시오.
 

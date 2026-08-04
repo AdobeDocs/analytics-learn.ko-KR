@@ -39,5 +39,5 @@ ht-degree: 100%
 
 [!UICONTROL Ad Hoc Analysis] 프로젝트 전환기는 한 번의 버튼 클릭으로 [!UICONTROL Ad Hoc Analysis] (AHA) 프로젝트를 [!UICONTROL Analysis Workspace] 프로젝트로 원활하게 전환합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/33292/?captions=kor&quality=12&learn=on)
 
