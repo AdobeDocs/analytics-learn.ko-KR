@@ -34,4 +34,4 @@ ht-degree: 100%
 
 [!UICONTROL Cohorts]를 사용한 행동을 통해 참여 고객의 행동을 식별하고 내 모바일 앱을 지속적으로 사용하게 하는 원동력이 무엇인지를 파악합니다. [!UICONTROL 세그먼트 IQ]의 데이터 과학 알고리즘을 사용하여 세그먼트 간의 차이점과 유사성을 알 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27825/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32085/?captions=kor&quality=12&learn=on)

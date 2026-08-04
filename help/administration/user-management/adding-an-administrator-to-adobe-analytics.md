@@ -32,6 +32,6 @@ ht-degree: 100%
 
 Adobe Admin Console에서 사용자를 관리자로 추가하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327041/?captions=kor&quality=12&learn=on)
 
 [설명서](https://helpx.adobe.com/kr/enterprise/using/admin-console.html)에서 자세히 알아보십시오.
