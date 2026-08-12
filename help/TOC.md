@@ -7,9 +7,9 @@ product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 usetq: true
 auto-video-transcripts: true
-source-git-commit: d7b45e224fc1102e669a4d7dd8e963e0eb665ffa
+source-git-commit: c3fe1c5d91aea129e8ec7b816917ccdcb9abf876
 workflow-type: tm+mt
-source-wordcount: 2607
+source-wordcount: 2614
 ht-degree: 96%
 
 ---
@@ -157,6 +157,7 @@ ht-degree: 96%
   + 세그먼트 적용 {#applying-segments}
     + [Analysis Workspace 프로젝트에 세그먼트 적용](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
     + [애드혹 세그먼트 적용](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+    + [하위 히트 분석을 통한 제품 수준 세그멘테이션](analysis-workspace/applying-segments/product-level-segmentation-with-sub-hit-analysis.md)
     + [세그먼트를 포함하는 다양한 Attribution IQ 모델 사용](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=ko-KR)
     + [패널의 세그먼트 선택](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=ko)
     + [Analysis Workspace에서 차원으로 세그먼트 사용](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
