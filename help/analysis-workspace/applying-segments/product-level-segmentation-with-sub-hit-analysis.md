@@ -22,4 +22,4 @@ Adobe Analytics의 기존 세그먼테이션은 히트 수준으로 제한되는
 
 추가 정보는 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/components/segmentation/sub-hit){target="_blank"}를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497080/?captions=kor&quality=12&learn=on)
