@@ -20,6 +20,6 @@ Adobe Analytics의 기존 세그먼테이션은 히트 수준으로 제한되는
 
 이 비디오에서는 Adobe Analytics의 하위 히트 분석이 보다 세분화된 세분화 기능을 제공하는 방법을 보여 줍니다.
 
-추가 정보는 [설명서](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}를 참조하십시오.
+추가 정보는 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/components/segmentation/sub-hit){target="_blank"}를 참조하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
