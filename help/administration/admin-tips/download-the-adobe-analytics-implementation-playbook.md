@@ -138,7 +138,7 @@ Adobe Analytics로 태그가 지정되지 않은 경우에도 모든 디지털 �
 >
 >Adobe Analytics에서 사이트 이름/속성 차원을 만듭니다. 사이트 이름/앱 이름을 식별하는 전용 차원(일반적으로 eVar)이 Adobe Analytics에 있으면 세그먼트화, 문제 해결, 가상 보고서 세트 생성 등이 가능합니다. 이점은 특히 여러 사이트를 하나의 (전역) 보고서 세트에 결합할 경우 무한합니다. 중요한 것은 개발 팀이 모든 페이지 로드(s.t 호출/trackState) 및 모든 사용자 정의 이벤트(s.tl 호출/trackAction)를 포함하여 속성 차원에서 항상 이 값을 설정하도록 하는 것입니다. 처리 규칙은 이러한 값을 적절하고 일관되게 설정하는 데 유용한 도구가 될 수 있습니다.
 
-[Doug Moore의 이 비디오 보기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} 구현 플레이북 작성에 대한 자세한 정보.
+[Doug Moore의 이 비디오 보기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=ko){target="_blank"} 구현 플레이북 작성에 대한 자세한 정보.
 
 ## 작성자
 

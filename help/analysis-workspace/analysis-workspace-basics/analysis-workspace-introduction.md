@@ -36,4 +36,4 @@ Analysis Workspace가 데이터 초보자 및 전문가를 지원하는 방법�
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-Analysis Workspace 개요 비디오를 보거나 여기 Experience League에서 [무료 입문 과정](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)을 수강하여 이 비디오의 후속 내용을 확인하십시오.
+Analysis Workspace 개요 비디오를 보거나 여기 Experience League에서 [무료 입문 과정](https://experienceleague.adobe.com/?lang=ko&recommended=Analytics-U-1-2020.1.workspace)을 수강하여 이 비디오의 후속 내용을 확인하십시오.

@@ -48,4 +48,4 @@ eVar(전환 변수)에 한 번에 두 개 이상의 값을 입력해야 하는 �
 
 >[!VIDEO](https://video.tv.adobe.com/v/339450/?quality=12&learn=on)
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html)를 참조하십시오.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/conversion-variables/list-var-admin.html?lang=ko)를 참조하십시오.
