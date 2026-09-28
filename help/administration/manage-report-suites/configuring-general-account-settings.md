@@ -45,6 +45,6 @@ ht-degree: 100%
 
 Adobe Analytics를 설정할 때 이러한 설정을 구성하면 데이터가 수집되고 저장되는 방식에 영향을 미칠 수 있습니다. 이 비디오에서는 몇 가지 일반 설정을 다루고 있습니다. 데이터를 더 정확하게 만드는 데 너무 늦은 때란 없으므로 이러한 설정은 구현 후에도 변경할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332330/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411509/?captions=kor&quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/general-acct-settings-admin.html?lang=ko#admin-tools)를 참조하십시오.

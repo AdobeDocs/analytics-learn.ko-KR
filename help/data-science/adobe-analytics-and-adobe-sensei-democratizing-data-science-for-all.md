@@ -45,4 +45,4 @@ ht-degree: 100%
 
 Adobe Analytics의 Adobe Sensei 머신 러닝 및 AI 기술이 비즈니스 사용자가 데이터를 따라잡고, 정말 중요한 때와 곳에서 이를 실질적으로 활용하는 데 어떻게 도움이 되는지 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25838/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/39738/?captions=kor&quality=12&learn=on)

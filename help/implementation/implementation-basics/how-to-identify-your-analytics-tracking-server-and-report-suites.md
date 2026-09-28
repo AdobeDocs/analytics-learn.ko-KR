@@ -62,4 +62,4 @@ Adobe Analytics를 설정하거나 다른 Experience Cloud 솔루션에서 참�
 
 자세한 내용은 아래 비디오를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40900/?captions=kor&quality=12&learn=on)

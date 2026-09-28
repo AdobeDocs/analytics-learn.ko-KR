@@ -41,6 +41,6 @@ ht-degree: 100%
 
 “빠른 세그먼트”는 작업 영역 캔버스에서 직접 사용할 수 있는 간소화된 세분화 환경입니다. 빠른 세그먼트로 사용자는 분석 워크플로에서 나가지 않고 최대 세 가지 규칙으로 접촉식 세그먼트를 작성할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341466/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345340/?captions=kor&quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=zh-Hans)를 참조하십시오.

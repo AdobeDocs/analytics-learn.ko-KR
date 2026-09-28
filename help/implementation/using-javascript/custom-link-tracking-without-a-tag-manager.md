@@ -51,7 +51,7 @@ Adobe Analytics로 데이터를 전송하는 함수에는 두 가지가 있습�
 >
 >이 비디오에서는 Adobe [!DNL Experience Platform Launch]와 같은 태그 관리자를 사용하지 않는 경우 사용자 정의 링크 히트를 코딩하는 방법에 대해 알아봅니다. 구현을 위해 모범 사례 권장 사항인 [!DNL Experience Platform Launch]를 사용하는 것이 좋습니다. 그러나 `s.tl()`에서 코딩해야 하는 경우 방법은 다음과 같습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/34742/?captions=kor&quality=12&learn=on)
 
 ## 샘플 코드 {#sample-code}
 

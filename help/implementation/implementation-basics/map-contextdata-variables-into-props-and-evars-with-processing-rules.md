@@ -58,5 +58,5 @@ Adobe Analytics 구현에서 [!DNL contextData] 변수를 사용할 때 데이�
 >이 문서와 비디오는 Adobe Experience Platform 태그(태그 관리자)를 사용하지 않는 경우 Adobe Analytics의 “AppMeasurement” 구현에 적용됩니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327641/?captions=kor&quality=12&learn=on)
 
