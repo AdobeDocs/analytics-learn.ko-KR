@@ -8,36 +8,51 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+TQID: 'https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79e
+    internal-label: Data Dictionary
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1027
+source-wordcount: '1045'
 ht-degree: 97%
-
 ---
-
 # Adobe Analytics 기술 언어를 비기술 언어로 번역
 
->[!VIDEO](https://video.tv.adobe.com/v/345331/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## 다른 언어로 말하기
 
@@ -49,16 +64,16 @@ ht-degree: 97%
 
 Adobe Analytics의 새로운 사용자를 위한 신규 프로그램의 핵심은 처음부터 활용할 수 있도록 하는 것입니다. 많은 경우 신규 프로그램은 새로운 사용자가 prop과 eVar의 신세계를 처음 접하는 시간이 됩니다. 신규 프로그램은 사용자가 이 도구로 다시 돌아갈 수 있도록 접근 가능하고 밀접하며 기억에 남아야 합니다.
 
-예를 들어 eVar와 할당 방법을 새 분석자에게 설명하는 방법 중 제가 좋아하는 방법은 다음과 같습니다. 저녁 산책을 나와 동네를 걷고 있다고 상상해 보세요. 이런, 껌을 밟았네요. 이제 걷는 내내 껌이 신발 바닥에 붙어 있게 됩니다(eVar처럼 말이죠). 몇 걸음 앞으로 걷다가 다른 껌 조각이 신발에 붙었습니다. 산책이 끝나면 신발을 버려야 겠다고 생각합니다. 무엇 때문에 이런 결정을 내리게 되었나요? 처음 밟았을 때였나요? 나중에 밟았을 때였나요? 아니면 두 번 다 같은 생각을 했나요?
+예를 들어 eVar와 할당 방법을 새 분석자에게 설명하는 방법 중 제가 좋아하는 방법은 다음과 같습니다. 저녁 산책을 나와 동네를 걷고 있다고 상상해 보세요. 이런, 껌을 밟았네요. 이제 걷는 내내 껌이 신발 바닥에 붙어 있게 됩니다(eVar처럼 말이죠). 몇 걸음 앞으로 걷다가 다른 껌 조각이 신발에 붙었습니다. 산책이 끝나면 신발을 버려야겠다고 생각합니다. 무엇 때문에 이런 결정을 내리게 되었나요? 처음 밟았을 때였나요? 나중에 밟았을 때였나요? 아니면 두 번 다 같은 생각을 했나요?
 
 >[!TIP]
 >
 >**설명을 사용하여 구성 요소(차원, 세그먼트, 지표) 이름을 명확하게 지정하십시오.**
->eVar와 prop의 데이터 사전 공유는 조직의 데이터를 민주화하는 좋은 방법이지만 일반적인 사용자가 사용자 정의 변수와 지표/숫자에 의해 만들어진 용법을 모두 기억할 것이라고 기대해서는 안 됩니다. 대신 Adobe Workspace에서는 구성 요소 이름과 설명에 중요한 태그와 상세 정보를 포함시킵니다. 이렇게 하면 사용자는 수백 개의 eVar와 무한한 지표/세그먼트 중에 정확한 지표를 빠르게 찾을 수 있습니다.
+>eVar와 prop의 데이터 사전 공유는 조직의 데이터를 민주화하는 좋은 방법이지만 일반적인 사용자가 사용자 정의 변수와 지표/숫자에 의해 만들어진 용법을 모두 기억할 것이라고 기대해서는 안 됩니다. 대신 Adobe Workspace에서는 구성 요소 이름과 설명에 중요한 태그와 상세 정보를 포함시킵니다. 이렇게 하면 사용자는 수백 개의 eVar와 셀 수 없이 많은 지표/세그먼트 중에서 정확한 지표를 빠르게 찾을 수 있습니다.
 
 ## 팁 2: 일반적인 언어를 찾아라
 
-일하고 있는 업계가 어디이든 Adobe Analytics의 세계를 이해 당사자가 친숙한 어떤 것과 연결할 수 있는 일반적인 언어를 찾아야 합니다.
+어떤 업계에서 일하든, Adobe Analytics의 세계를 이해 당사자에게 친숙한 무언가와 연결해 주는 공통 언어를 찾아야 합니다.
 
 [!DNL The Home Depot]에서 판매자와 매장 관리자는 조회수, 방문 또는 고유 방문자라는 용어가 낯설 수 있습니다. 분석 서버 호출, 세션 둘러보기, 시간 초과, 쿠키에 대해 설명할 수 있지만 물리적인 매장과 고객이 (일반적인 언어를 사용하여) 기억하기 쉽게 할 수도 있습니다. 고유 방문자는 문 앞까지 온 고객이 됩니다. 웹 사이트 방문은 고객이 [!DNL Home Depot] 매장까지 몇 번 왔는지 입니다. 조회수는 고객이 매장 통로를 걷거나 매장 관련 이야기를 하는 행동을 의미합니다.
 
@@ -67,7 +82,7 @@ Adobe Analytics의 새로운 사용자를 위한 신규 프로그램의 핵심�
 >**구현에 일반적인 언어 반영하기**
 >Adobe Analytics UI의 모든 것은 사용자 정의가 가능합니다. 조직이 장바구니로 쇼핑 카트를 사용하고 있다면 카트를 장바구니로 바꿀 수 있습니다.
 >
->주변에서 밀접한 단어를 찾거나 사용자가 자주 실수할 것 같은 단어가 있다면 조직에 맞게 어휘를 만들어 보세요. 더 나은 단어로 표준화하는 일에 솔선수범하도록 하세요. 신규 및 활성화 세션에서 자주 헷갈려 하는 용어를 검토해 사용자가 익숙해질 수 있도록 합니다.
+>비슷한 의미의 용어가 여러 개 혼용되거나 사용자가 자주 헷갈려 하는 용어가 있다면, 조직을 위한 자체 통제 어휘를 만드는 것을 고려해 보세요. 선호하는 용어의 표준화를 추진하는 데 솔선수범하세요. 신규 및 활성화 세션에서 자주 헷갈려 하는 용어를 검토해 사용자가 익숙해질 수 있도록 합니다.
 
 ## 팁 3: 록스타 그룹을 만들어라
 
@@ -78,14 +93,14 @@ Adobe Analytics의 기술적 차이를 빠르게 이해하고 분석에 쉽게 �
 >[!TIP]
 >
 >**주석이 있는 해결책별 작업 영역 템플릿과 지침 만들기**
->Analysis Workspace의 회사 보고서(템플릿)와 텍스트 시각화를 활용해 록스타들이 올바른 방향으로 진행할 수 있게 돕는 맥락적인 가이드를 만듭니다.
+>Analysis Workspace의 회사 보고서(템플릿)와 텍스트 시각화를 활용해 록스타들이 올바른 방향으로 진행할 수 있게 돕는 상황별 가이드를 만듭니다.
 >
 >Analysis Workspace가 가진 유연성으로 더 빠른 분석과 자체 서비스, 자체 지원이 가능한 템플릿을 선보일 수 있습니다. 엄선된 템플릿, 주석 및 내부 Workspace 연결 등의 기능을 결합해 Adobe Analytics의 컨텍스트에 있는 비기술적 사용자에게 효율적이고 접근 가능하며 쉽게 지침을 전달할 수 있습니다.
 
 ## 팁 4: 개방된 커뮤니케이션 채널을 보유하라
 
-이해 당사자가 Adobe Analytics 대시보드를 작성하는 데 도움을 받을 수 있는 다양한 기회를 제공합니다. 이해 당사자가 질문이 있을 때 활용할 수 있도록 운영 시간을 자유롭게 할 수 있고 전문가를 연결시켜 줄 수 있습니다. 또는 안전한 교육 환경에서 이해 당사자가 질문할 수 있는 전화 상담 채널을 만듭니다.
+이해 당사자가 Adobe Analytics 대시보드를 작성하는 데 도움을 받을 수 있는 다양한 기회를 제공합니다. 이해 당사자들이 질문을 가지고 자유롭게 찾아와 전문가와 연결될 수 있도록 자유 상담 시간을 운영할 수 있습니다. 또는 안전한 교육 환경에서 이해 당사자가 질문할 수 있는 전화 상담 채널을 만듭니다.
 
-[!DNL The Home Depot]에서 이해 당사자는 자유로운 운영 시간과 Slack 전화 상담을 좋아했습니다. 이 채널의 시작으로 보고서 작성의 정확도가 올라가고 Adobe Analytics 채택이 증가하는 것을 확인했습니다. 과거에는 전 세계 소매점의 Adobe Analytics 채택률이 5%였습니다!
+[!DNL The Home Depot]에서 이해 당사자는 자유로운 운영 시간과 Slack 전화 상담을 좋아했습니다. 이 채널의 시작으로 보고서 작성의 정확도가 올라가고 Adobe Analytics 채택이 증가하는 것을 확인했습니다. 과거에 우리는 전 세계 소매업체들 가운데 Adobe Analytics 채택 점수 상위 5%에 들기도 했습니다!
 
 Adobe Analytics의 기술 세계를 사용자가 이해할 수 있도록 하는 것은 쉬운 일은 아닙니다. 여기 나오는 팁과 예제를 사용하면 이해 당사자가 자세히 이해할 수 있게 되고 자유 형식 테이블을 작성할 수 있으며 prop과 eVar의 매력에 빠지게 될 것입니다.

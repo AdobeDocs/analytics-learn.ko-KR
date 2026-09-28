@@ -2,7 +2,7 @@
 title: 태그 관리자 없이 사용자 정의 링크 추적
 description: 페이지의 많은 작업에서 추적은 페이지 조회수처럼 취급되지 않습니다. 이 비디오에서는 Experience Platform Launch와 같은 태그 관리자를 사용하지 않는 경우 Analytics에 링크 추적 비콘을 코딩하는 방법에 대해 알아봅니다. 코드를 확인하고 중요한 팁을 알아보십시오.
 feature: Appmeasurement Implementation
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,23 +10,32 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+TQID: 'https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: d2311670-43bd-4c2e-bc98-1da2aaba9cef
+    internal-label: Appmeasurement implementation
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 100%
-
 ---
-
 # 태그 관리자 없이 사용자 정의 링크 추적 {#custom-link-tracking-without-a-tag-manager}
 
 페이지의 많은 작업에서 추적은 페이지 조회수처럼 취급되지 않습니다. 이 비디오에서는 Adobe [!DNL Experience Platform Launch]와 같은 태그 관리자를 사용하지 않는 경우 Analytics에 링크 추적 비콘을 코딩하는 방법에 대해 알아봅니다. 코드를 확인하고 중요한 팁을 알아보십시오.
@@ -36,17 +45,17 @@ ht-degree: 100%
 Adobe Analytics로 데이터를 전송하는 함수에는 두 가지가 있습니다.
 
 1. s.t() - 지정된 페이지 이름에 대한 페이지 조회수를 증가시키며 기타 변수를 설정하는 페이지 조회수 히트인 “추적” 비콘입니다.
-1. s.tl() - “사용자 정의 링크” 히트/비콘이라고도 하며, 페이지 조회수를 증가시키지 않고 pageName 변수를 무시하는 “추적 링크” 비콘입니다. 일반적으로 새 페이지/화면을 로드하지 않는 페이지에서의 소규모 작업 또는 새 페이지를 로드하지 않는 기타 작업을 추적하는 데 사용합니다.
+1. s.tl() - “사용자 지정 링크” 히트/비콘이라고도 하며, 페이지 조회수를 증가시키지 않고 pageName 변수를 무시하는 “추적 링크” 비콘입니다. 일반적으로 새 페이지/화면을 로드하지 않는 페이지에서의 소규모 작업 또는 새 페이지를 로드하지 않는 기타 작업을 추적하는 데 사용합니다.
 
 >[!NOTE]
 >
 >이 비디오에서는 Adobe [!DNL Experience Platform Launch]와 같은 태그 관리자를 사용하지 않는 경우 사용자 정의 링크 히트를 코딩하는 방법에 대해 알아봅니다. 구현을 위해 모범 사례 권장 사항인 [!DNL Experience Platform Launch]를 사용하는 것이 좋습니다. 그러나 `s.tl()`에서 코딩해야 하는 경우 방법은 다음과 같습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34742/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## 샘플 코드 {#sample-code}
 
-다음은 이 비디오에서 사용자 정의 링크에 사용되는 샘플 코드입니다.
+다음은 이 비디오에서 사용자 지정 링크에 사용되는 샘플 코드입니다.
 
 ```JavaScript
 <a href="#" onclick="

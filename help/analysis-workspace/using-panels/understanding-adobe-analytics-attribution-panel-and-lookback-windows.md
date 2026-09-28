@@ -9,29 +9,41 @@ last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
-TQID: https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E
+TQID: 'https://experienceleague.adobe.com/wEcblHB-mKGztUpcNaQQQoexn4pPlAZjeyxLupmlt9E'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1704
+source-wordcount: '1704'
 ht-degree: 1%
-
 ---
-
 # Adobe Analytics 속성 패널 및 전환 확인 기간 이해
 
-[속성 패널](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=ko) 및 **전환 확인 기간**&#x200B;에 대해 처음 생각할 때 즉시 &#39;*시간 여행&#39;*&#x200B;의 개념이 떠올랐습니다. 물론 이와 같은 많은 새로운 도구에 대한 일반적인 반응은 너무 복잡해 보이기 때문에 단순히 사용하려고 하는 것을 미루는 것이라는 것도 상기되었습니다.
+[속성 패널](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) 및 **전환 확인 기간**&#x200B;에 대해 처음 생각할 때 즉시 &#39;*시간 여행&#39;*&#x200B;의 개념이 떠올랐습니다. 물론 이와 같은 많은 새로운 도구에 대한 일반적인 반응은 너무 복잡해 보이기 때문에 단순히 사용하려고 하는 것을 미루는 것이라는 것도 상기되었습니다.
 
 솔직히 말해서, 스위치, 패널, 독서대, 손잡이를 모두 살펴보세요.  그리고 진지하게, 그 복잡한 번쩍이는 조명, 호스, 게이지에 대해 이야기 하자... 잠깐!!  지금은 타임머신에 대해 얘기하느라 정신이 없을 때가 아니야 시간이 없어
 
@@ -56,7 +68,7 @@ ht-degree: 1%
 
 **속성**&#x200B;에서 시간이 지남에 따라 개인, 여러 개인 또는 여러 이벤트 중 하나에 의해 이벤트/동작이 발생할 수 있는 방식을 고려하기만 하면 됩니다.
 
-[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=ko)에 따르면 *속성*&#x200B;은(는) 분석가에게 *Dimension* 항목이 *성공 이벤트*&#x200B;에 대한 크레딧을 받는 방법을 사용자 지정할 수 있는 기능을 제공합니다.
+[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en)에 따르면 *속성*&#x200B;은(는) 분석가에게 *Dimension* 항목이 *성공 이벤트*&#x200B;에 대한 크레딧을 받는 방법을 사용자 지정할 수 있는 기능을 제공합니다.
 
 
 >[!WARNING]
@@ -72,7 +84,7 @@ ht-degree: 1%
 
 **기여도 분석 패널**&#x200B;을 사용하면 몇 가지 다른 사항을 확인할 수 있습니다.  예를 들어 **속성 모델**&#x200B;은(는) *전환*(즉, ❶ **성공 지표**)이 지정된 그룹의 *히트*&#x200B;에 어떻게 분산될 수 있는지 보여줍니다.
 
-간단히 말해, **10명**&#x200B;이(가) **BIG RED 단추**&#x200B;를 눌러 문을 열고 들어오면 **속성 모델**&#x200B;은(는) 해당 단추를 누르기 위해 **10명** 중 &quot;크레딧&quot;을 할당할지 또는 더 나은 방식으로 할당할지 *9&rbrace;크레딧&quot;을 할당할지 알려 줍니다.*
+간단히 말해, **10명**&#x200B;이(가) **BIG RED 단추**&#x200B;를 눌러 문을 열고 들어오면 **속성 모델**&#x200B;은(는) 해당 단추를 누르기 위해 **10명** 중 &quot;크레딧&quot;을 할당할지 또는 더 나은 방식으로 할당할지 *9}크레딧&quot;을 할당할지 알려 줍니다.*
 
 ![단추](assets/button.png)
 
@@ -86,11 +98,11 @@ ht-degree: 1%
   >
   >하지만 오래 실행되고 더 많은 관객을 대상으로 하는 이 전략을 적용할 때 결과를 매우 얇게 퍼트릴 가능성이 있으므로 여기에 주의를 기울이는 것이 좋습니다.
 
-- **U자형**: 이 방법은 *첫 번째 사용자*&#x200B;에게 크레딧의 **40%**&#x200B;을(를) 할당하고 *9&rbrace; 사이의 모든 사람에게 크레딧의&#x200B;**20%**&#x200B;을(를) 확산한 다음&#x200B;**마지막 사용자**&#x200B;까지&#x200B;**40%**&#x200B;을(를) 제공합니다.*&#x200B;이 모델은 *여러 터치포인트*&#x200B;를 포함하는 **긴 전환/판매 주기**&#x200B;가 있는 상황에서 가장 자주 사용됩니다.  이 경우 고객 전환에 기여한 ***처음*** 및 ***마지막*** 마케팅 전략을 주로 강조하는 것이 목표입니다.
+- **U자형**: 이 방법은 *첫 번째 사용자*&#x200B;에게 크레딧의 **40%**&#x200B;을(를) 할당하고 *9} 사이의 모든 사람에게 크레딧의&#x200B;**20%**을(를) 확산한 다음&#x200B;**마지막 사용자**까지&#x200B;**40%**을(를) 제공합니다.*&#x200B;이 모델은 *여러 터치포인트*&#x200B;를 포함하는 **긴 전환/판매 주기**&#x200B;가 있는 상황에서 가장 자주 사용됩니다.  이 경우 고객 전환에 기여한 ***처음*** 및 ***마지막*** 마케팅 전략을 주로 강조하는 것이 목표입니다.
 - **J**-**모양** 및 **역 J**:
-   - **U자형**&#x200B;에 대해 생각해 보십시오. 대신 이 모델은 *마지막 사용자*&#x200B;에게 **60%** 크레딧을 할당하고 *첫 번째*&#x200B;에게 **20%**&#x200B;을 할당한 다음 *나머지&#x200B;**20%**&#x200B;을(를) 중간에*&#x200B;기타 사용자&#x200B;*에 걸쳐 나눕니다*.  **역 J**&#x200B;은(는) 정반대의 작업을 수행합니다.
+  - **U자형**&#x200B;에 대해 생각해 보십시오. 대신 이 모델은 *마지막 사용자*&#x200B;에게 **60%** 크레딧을 할당하고 *첫 번째*&#x200B;에게 **20%**&#x200B;을 할당한 다음 *나머지&#x200B;**20%**을(를) 중간에*&#x200B;기타 사용자&#x200B;*에 걸쳐 나눕니다*.  **역 J**&#x200B;은(는) 정반대의 작업을 수행합니다.
 
-     여기서의 목표는 캠페인의 *시작* 또는 *끝*&#x200B;에서 대부분의 강조점을 두는 것입니다. 하지만 반대쪽 끝의 기여 항목에는 &quot;작은 사람&quot;을 인정하는 동안 여전히 특정 크레딧을 할당하려고 합니다.
+    여기서의 목표는 캠페인의 *시작* 또는 *끝*&#x200B;에서 대부분의 강조점을 두는 것입니다. 하지만 반대쪽 끝의 기여 항목에는 &quot;작은 사람&quot;을 인정하는 동안 여전히 특정 크레딧을 할당하려고 합니다.
 
 - **시간 감소**: 이제 이 시간을 공유하지 않으면 후회할 것입니다. 이 모델은 말 그대로 시간이 지남에 따라 기하급수적으로 감소하는 반감기를 가지고 있습니다!  이 경우 이 모델의 반감기에 대한 *default* 매개 변수는 **7일**&#x200B;입니다.  그런 다음 *초기 접점* 이후 경과되고 고객이 전환될 때를 기준으로 *각&#x200B;**마케팅 채널**,*&#x200B;에 *가중치*&#x200B;을(를) 적용합니다.
 
@@ -98,7 +110,7 @@ ht-degree: 1%
 
 - **사용자 지정**: 크레딧을 받을 사용자를 선택하고 선택합니다.  캠페인입니다!
 
-이러한 속성 모델 및 기타 속성 모델에 대한 자세한 내용을 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=ko)하십시오.
+이러한 속성 모델 및 기타 속성 모델에 대한 자세한 내용을 보려면 [여기를 클릭](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)하십시오.
 
 이것을 더 흥미롭게 만들기 위해, 시간을 되돌리는 것에 대해 이야기해 봅시다!
 

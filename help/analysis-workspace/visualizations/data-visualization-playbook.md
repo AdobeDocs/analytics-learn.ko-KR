@@ -9,22 +9,30 @@ last-substantial-update: 2023-06-01T00:00:00.000Z
 jira: KT-13368
 thumbnail: KT-13368.jpeg
 exl-id: c8cf36c0-b40f-4159-ba86-9392984783e9
-TQID: https://experienceleague.adobe.com/0CECfocXq8dz5EePwF5X8JvBKBErYv96h3yBDXYlr3Q
+TQID: 'https://experienceleague.adobe.com/0CECfocXq8dz5EePwF5X8JvBKBErYv96h3yBDXYlr3Q'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 1%
-
 ---
-
 # Adobe Analytics 데이터 시각화 플레이북
 
 데이터 시각화는 예술이면서 과학이기도 하여 다양한 요인에 대한 신중한 고려가 필요하다. 이러한 결정 중 일부를 탐색하는 데 도움이 되도록 데이터 시각화 플레이북을 구성했습니다.

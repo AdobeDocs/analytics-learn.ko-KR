@@ -9,34 +9,47 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+TQID: 'https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+    internal-label: Alerts
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Privacy
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 926
+source-wordcount: '926'
 ht-degree: 95%
-
 ---
-
 # 사용자 교육을 단순화하고 시간을 단축하는 방법에 대한 팁과 요령
 
->[!VIDEO](https://video.tv.adobe.com/v/341108/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 조직 내 비즈니스 사용자가 Adobe Analytics에 대해 잘 교육되었는지 확인하는 것은 데이터 기반 의사 결정 문화를 구축하는 데 매우 중요합니다. Adobe Analytics 내에서 정보를 손쉽게 찾을 수 있는 사용자는 간단한 비즈니스 질문에 스스로 답할 수 있으므로 분석가가 까다로운 비즈니스 질문에 답할 수 있는 시간이 보다 많이 확보됩니다. 지식을 공유하면 데이터 민주주의를 주도하고 비즈니스 사용자가 보다 독립적으로 성과 기반 결정을 내릴 수 있습니다.
 
@@ -51,7 +64,7 @@ ht-degree: 95%
 * 액세스 권한, 로그인 방법, 비밀번호 또는 이메일 주소 변경과 같은 간단한 사항을 잊지 마십시오.
 * 사용자에게 인터페이스를 안내하고 차원, 지표 및 날짜 범위의 기본 구성 요소를 설명합니다.
 * 페이지 조회수, 방문 횟수 및 방문자 수의 차이점을 설명합니다.
-* Analysis Workspace에서 프로젝트, 자유 형식 테이블 및 시각화를 구축하는 방법의 예를 보여 줍니다.
+* Analysis Workspace에서 프로젝트, 자유 형식 테이블 및 시각화를 작성하는 예를 보여 줍니다.
 * Q&amp;A를 위한 시간을 갖습니다.
 
 ## 녹화 키를 누릅니다.
@@ -60,7 +73,7 @@ ht-degree: 95%
 
 * 대부분 회사의 비디오 커뮤니케이션 도구는 녹화 기능을 제공하며 이는 다음에 예약된 교육 세션에서 녹화 버튼을 누르는 것만큼 간단할 수 있습니다. 이것이 회사 개인정보 처리방침에 부합하는지 확인하거나 녹화를 누르기 전에 참석자에게 카메라를 비활성화하도록 요청하여 정책 준수를 보장하십시오.
 * 회사에서 이 기능을 제공하지 않는 경우 간단한 비디오 편집 기능과 함께 화면 공유 및 웹캠 비디오를 녹화하기 위한 몇 가지 무료 또는 구독 기반 온라인 도구가 있습니다.
-* IT 보안 정책에 따라 비디오를 호스팅할 장소를 찾으십시오. 온라인 도구에는 일반적으로 최종 사용자가 재생할 수 있는 호스팅 기능이 있습니다. 그렇지 않은 경우 회사 서버나 암호로 보호된 비디오 호스팅 사이트를 통해 비디오를 호스팅해야 합니다.
+* IT 보안 정책에 따라 비디오를 호스팅할 장소를 찾으십시오. 온라인 도구에는 일반적으로 최종 사용자가 시청할 수 있도록 하는 호스팅 기능이 있습니다. 그렇지 않은 경우 회사 서버나 암호로 보호된 비디오 호스팅 사이트를 통해 비디오를 호스팅해야 합니다.
 
 ## 일부 사용자를 위한 고급 교육
 
@@ -68,7 +81,7 @@ ht-degree: 95%
 
 * 이러한 세션 또한 기록하고 새 콘텐츠를 만들 때 하나씩 사용할 수 있도록 하십시오.
 * 때때로 구현이 발전함에 따라 콘텐츠를 최신 상태로 유지하기 위해 교육 세션을 업데이트해야 할 수도 있습니다.
-* 구현 및 조직의 구조에 따라 특정 부서 또는 그룹을 대상으로 하는 교육 세션을 만드는 것이 적절할 수 있습니다. 예를 들어 브라우저 및 운영 체제 사용에 대한 교육을 IT 부서에 제공하고 사이트 가용성에 대한 경고를 제공하는 대신 레퍼러, 마케팅 채널 및 가장 많이 방문한 콘텐츠 페이지에 대한 교육을 마케팅 부서에 제공합니다.
+* 구현 및 조직의 구조에 따라 특정 부서 또는 그룹을 대상으로 하는 교육 세션을 만드는 것이 적절할 수 있습니다. 예를 들어 브라우저 및 운영 체제 사용에 대한 교육을 IT 부서에 제공하고 사이트 가용성에 대한 경고를 시연하거나, 레퍼러, 마케팅 채널 및 가장 많이 방문한 콘텐츠 페이지에 대한 교육을 마케팅 부서에 제공할 수 있습니다.
 * 모든 콘텐츠를 직접 만들 필요는 없습니다. Adobe에는 [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=ko) 내에서 사용자에게 제공할 수 있는 우수한 무료 학습 경로와 추가 교육 콘텐츠가 있습니다.
 
 

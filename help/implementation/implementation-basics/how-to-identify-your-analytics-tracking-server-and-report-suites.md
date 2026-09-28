@@ -2,7 +2,7 @@
 title: 분석 추적 서버 및 보고서 세트 ID를 식별하는 방법
 description: Adobe Analytics를 설정하거나 다른 Experience Cloud 솔루션에서 참조할 때 사용 중인 Analytics “추적 서버” 또는 데이터를 보내는 “보고서 세트”를 아는 것이 도움이 되거나 필요한 경우가 많습니다. 이 비디오에서는 Adobe Analytics를 이미 구현했는지 여부에 관계없이 두 값을 모두 찾는 방법을 보여 줍니다.
 feature: Implementation Basics
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,25 +10,34 @@ kt: 2358
 role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-TQID: https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q
+TQID: 'https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 334
+source-wordcount: '334'
 ht-degree: 100%
-
 ---
-
 # 분석 [!DNL tracking server] 및 [!UICONTROL 보고서 세트 ID]를 식별하는 방법 {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 Adobe Analytics를 설정하거나 다른 Experience Cloud 솔루션에서 참조할 때 사용 중인 Analytics “추적 서버” 또는 데이터를 보내는 “[!UICONTROL 보고서 세트]”를 아는 것이 도움이 되거나 필요한 경우가 많습니다. 이 비디오에서는 Adobe Analytics를 이미 구현했는지 여부에 관계없이 두 값을 모두 찾는 방법을 보여 줍니다.
@@ -53,4 +62,4 @@ Adobe Analytics를 설정하거나 다른 Experience Cloud 솔루션에서 참�
 
 자세한 내용은 아래 비디오를 참조하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/40900/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26061/?quality=12&learn=on)

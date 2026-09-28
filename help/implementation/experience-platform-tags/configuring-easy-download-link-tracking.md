@@ -10,29 +10,38 @@ kt: 1844
 role: Developer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
-TQID: https://experienceleague.adobe.com/jiwTP74UMgAXLehSJZ4YRpRa1kcm0BGKnTSzTJkNj7A
+TQID: 'https://experienceleague.adobe.com/jiwTP74UMgAXLehSJZ4YRpRa1kcm0BGKnTSzTJkNj7A'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: df312454-73c4-43f6-a90e-18f5043f074c
+    internal-label: Tags
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Customer experience
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: '138'
 ht-degree: 100%
-
 ---
-
 # Experience Platform [!DNL tags]에서 간편한 다운로드 링크 추적 구성
 
 Experience Platform [!DNL tags]의 Adobe Analytics 확장 기능에서 몇 번의 클릭만으로 사이트에서 다운로드 링크(컴퓨터에 비 브라우저 파일을 다운로드하는 링크)를 추적할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429925/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25762/?quality=12&learn=on)
 
 백서, 설명서, 오디오나 비디오 파일 또는 기타 여러 문서에 관계없이 브라우저에서 열리지 않는 파일을 다운로드할 수 있는 링크가 사이트에 있을 수 있습니다. 이러한 파일에서는 페이지에 추적용 [!DNL Analytics] 코드를 포함할 수 없습니다. 비디오에 설명된 구성을 사용하면 다운로드 파일에 대한 링크를 추적할 수 있습니다.

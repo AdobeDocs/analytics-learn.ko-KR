@@ -10,24 +10,31 @@ kt: 2478
 role: User
 level: Intermediate
 exl-id: 0bb472c0-83e6-44cb-8fca-658355ae3e50
-TQID: https://experienceleague.adobe.com/aGhNUan7Csi-FZ7jjlYDFXibo26PW2iB4mxnXhYIcOk
+TQID: 'https://experienceleague.adobe.com/aGhNUan7Csi-FZ7jjlYDFXibo26PW2iB4mxnXhYIcOk'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Intermediate
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 59%
-
 ---
-
 # 모든 [!UICONTROL 차원]을 사용한 [!UICONTROL 집단] 분석 {#cohort-analysis-using-any-dimension}
 
 사용자 정의 [!UICONTROL 집단] [!UICONTROL 차원] 옵션을 사용하면 시간 이외의 [!UICONTROL 차원]을 사용하여 [!UICONTROL 집단]을 분석할 수 있습니다. 마케팅 채널, 캠페인 지역, 제품 페이지별로 [!UICONTROL 집단]을 비교하여 [!UICONTROL 차원] 항목별로 [!UICONTROL 유지]&#x200B;(또는 [!UICONTROL 이탈])가 어떻게 변경되는지 더 잘 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430184/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=ko)를 참조하십시오.

@@ -1,44 +1,53 @@
 ---
 title: Adobe Analytics의 분류 개요
-description: 분류는 제품, 캠페인, 페이지, 고객 등에 메타데이터(설명 속성)를 추가하는 강력한 방법입니다. 이러한 속성을 통해 유사한 요소를 그룹화하고 데이터를 분류하여 사용자에게 적합한 것과 그렇지 않은 것이 무엇인지 보다 깊이 파악할 수 있으므로 마케팅 및 경험에 대한 노력을 더 잘 이해할 수 있습니다.
+description: 분류는 제품, 캠페인, 페이지, 고객 등에 메타데이터(설명 속성)를 추가하는 강력한 방법입니다. 이러한 속성을 통해 유사한 요소를 그룹화하고 데이터를 분류하여 무엇이 효과가 있고 무엇이 효과가 없는지 더 깊이 파악할 수 있으므로 마케팅 및 경험에 대한 노력을 더 잘 이해할 수 있습니다.
 feature: Classifications
-topics: null
+topics:
 kt: 2350
 role: User
 level: Beginner
 last-substantial-update: 2026-03-13T00:00:00.000Z
 exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
-TQID: https://experienceleague.adobe.com/ZXMD-RZrdhVLtE-6uxaRXqejV1q-BEdnCgd8uXXQcvg
+TQID: 'https://experienceleague.adobe.com/ZXMD-RZrdhVLtE-6uxaRXqejV1q-BEdnCgd8uXXQcvg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: fd307ce7-56f5-4ee3-af68-a7833ff6e85e
+    internal-label: API
+  - id: 00071d55-23eb-5795-a8d9-9d9b784f2791
+    internal-label: Classifications
 subfeature_v2:
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Metadata
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 162
+source-wordcount: '162'
 ht-degree: 83%
-
 ---
-
 # Adobe Analytics의 [!UICONTROL 분류] 개요 {#overview-of-classifications-in-adobe-analytics}
 
 >[!WARNING]
 >
 >보고서 세트 관리자에서 분류를 관리하고 가져오는 기능은 2026년 8월 31일부터 더 이상 사용되지 않습니다. 계속 작동하도록 하려면 전환하고 분류 세트 환경을 사용하십시오.
 
-[!UICONTROL 분류]는 제품, 캠페인, 페이지, 고객 등에 메타데이터(설명 속성)를 추가하는 강력한 방법입니다. 이러한 속성을 통해 유사한 요소를 그룹화하고 데이터를 분류하여 사용자에게 적합한 것과 그렇지 않은 것이 무엇인지 보다 깊이 파악할 수 있으므로 마케팅 및 경험에 대한 노력을 더 잘 이해할 수 있습니다.
+[!UICONTROL 분류]는 제품, 캠페인, 페이지, 고객 등에 메타데이터(설명 속성)를 추가하는 강력한 방법입니다. 이러한 속성을 통해 유사한 요소를 그룹화하고 데이터를 분류하여 무엇이 효과가 있고 무엇이 효과가 없는지 더 깊이 파악할 수 있으므로 마케팅 및 경험에 대한 노력을 더 잘 이해할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40938/?captions=kor&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=ko)를 참조하십시오.
