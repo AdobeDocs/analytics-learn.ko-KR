@@ -9,32 +9,41 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+TQID: 'https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 87%
-
 ---
-
 # 표준화된 코드 템플릿 만들기
 
 **내용:** “기초” 구현(즉, 회사에서 모든 Adobe Analytics 사이트에 대해 필수 KPI를 고려하는 것)의 경우 조직에는 가능한 한 단일 구현 방법이 있어야 합니다. 예를 들어 사이트 간에 동일한 데이터 레이어 구조를 사용하고 동일한 태그 관리자 규칙/사용자 정의 코드를 사용하여 내부 검색 또는 방문자 프로필 정보와 같은 항목을 캡처합니다.
 
 **이유:** 반복 가능하고 확장 가능한 기초 구현을 통해 새로운 요소 또는 사이트/앱을 간소화하고 쉽게 추가할 수 있을 뿐만 아니라 깔끔한 구현과 손쉬운 문제 해결을 수행할 수 있습니다. 또한 균일한 방법을 사용하면 새로운 관리자/개발자가 온라인에 접속하여 작업 내용을 더 쉽게 이해할 수 있습니다.
 
-**방법:** 새로운 사이트 또는 태그 지정 개선 기능이 온라인으로 전환될 때 개발자에게 전달할 단일 형식 템플릿을 채택합니다. 일반적으로 Word 문서는 다음 항목에 대한 개요를 제공할 수 있는 경우에 적합합니다.
+**방법:** 새로운 사이트 또는 태그 지정 개선 기능이 온라인으로 전환될 때 개발자에게 전달할 단일 형식 템플릿을 채택합니다. 일반적으로 다음 항목을 개략적으로 설명하는 데는 Word 문서가 적합합니다.
 
 * 구현 중인 변수, 변수 목적 및 설정 시기. 예:
 

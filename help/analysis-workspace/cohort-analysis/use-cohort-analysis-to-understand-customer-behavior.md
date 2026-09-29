@@ -9,24 +9,34 @@ last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+TQID: 'https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Customer experience
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 10%
-
 ---
-
 # 코호트 분석을 사용하여 고객 비헤이비어 이해
 
 고객 경험과 매출을 향상시키기 위해 기업은 고객 행동을 이해해야 합니다. 집단 분석은 참여 및 유지를 이해하는 데 도움이 되며, 이를 통해 계정 생성 개선 및 대량 구매를 위한 캠페인 생성과 같은 작업을 수행할 수 있습니다.
@@ -145,7 +155,7 @@ ht-degree: 10%
 
 ## 4부: 사용자 정의 Dimension 집단
 
-사용자 지정 Dimension 집단: 시간 기반 집단(기본값)이 아니라 선택한 차원을 기반으로 그룹을 생성합니다. 많은 고객이 시간 이외의 다른 항목으로 집단을 분석하기를 원하며 새로운 사용자 지정 차원 집단 기능은 자신이 선택한 차원을 기준으로 집단을 구축할 수 있는 유연성을 제공합니다. 마케팅·채널,·캠페인,·제품,·페이지,·영역·또는·Adobe·Analytics의·다른·차원과·같은·차원을·사용하여·차원의·다양한·값을·기준으로·유지·변경·방법을·보여·줍니다.￼ 다음
+사용자 지정 Dimension 집단: 시간 기반 집단(기본값)이 아니라 선택한 차원을 기반으로 그룹을 생성합니다. 많은 고객이 시간 이외의 다른 항목으로 집단을 분석하기를 원하며 새로운 사용자 지정 차원 집단 기능은 자신이 선택한 차원을 기준으로 집단을 구축할 수 있는 유연성을 제공합니다. 마케팅 채널, 캠페인, 제품, 페이지, 지역 또는 Adobe Analytics의 다른 차원과 같은 차원을 사용하여 이러한 차원의 다양한 값을 기준으로 유지율이 어떻게 변하는지 보여 줍니다. 다음
 
 사용자 지정 Dimension 집단 세그먼트 정의는 반환 정의의 일부가 아니라 포함 기간의 일부로만 차원 항목을 적용합니다.
 

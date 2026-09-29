@@ -1,51 +1,70 @@
 ---
 title: Analytics 개요
-description: Adobe Analytics를 배우기 전에 분석의 기본 사항 이해
+description: Adobe Analytics를 배우기 전에 분석의 기본 사항을 이해
 feature: Implementation Basics
 role: Developer, Developer, Leader, User
 level: Beginner
 kt: 10454
-thumbnail: null
+thumbnail:
 last-substantial-update: 2022-10-14T00:00:00.000Z
 exl-id: ba2959f0-b667-40f9-bc59-9364a9d83f19
-TQID: https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg
+TQID: 'https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c67272a6-888e-425e-9e97-a87304637eed
+    internal-label: Anomaly Detection
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Machine learning
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 770
+source-wordcount: '770'
 ht-degree: 100%
-
 ---
-
 # 분석이란?{#what-is-analytics}
 
 Adobe Analytics를 배우기 위해 콘텐츠에 몰두하기 전에 “분석이란?”이라는 기본적인 질문에 대한 답을 이해하는 것이 좋습니다. Analytics는 비즈니스 개발 및 혁신, 즉 비즈니스 및 데이터 분석을 추진하기 위한 여러 분야를 포괄하는 광범위한 용어입니다. 둘 사이에는 차이점이 있습니다. 자세히 살펴보겠습니다.
 
 ## 비즈니스 분석의 역할
 
-최근 몇 년 동안 인터넷을 상업적 용도로 사용하고 활용하는 사례가 늘어남에 따라 소비자가 브랜드와 상호 작용하고 참여하는 방식에 대해 조직에서 수집하는 데이터의 양 또한 폭발적으로 증가했습니다. 이전에 빅 데이터라는 용어를 들어본 적이 있다면 이는 비즈니스 분석 영역에 해당됩니다.
+최근 몇 년 동안 인터넷을 상업적 용도로 사용하고 활용하는 사례가 늘어남에 따라 소비자가 브랜드와 상호 작용하고 참여하는 방식에 대해 조직에서 수집하는 데이터의 양 또한 폭발적으로 증가했습니다. 이전에 빅데이터라는 용어를 들어본 적이 있다면 이는 비즈니스 분석 영역에 해당됩니다.
 
 비즈니스 분석은 비즈니스 인텔리전스의 구성 요소이며 전체적인 전략적 위험과 기회에 중점을 둡니다. 이는 기업이 업계에서 경쟁력을 유지하기 위해 보유해야 하는 필수 역량입니다.
 
@@ -54,13 +73,13 @@ Adobe Analytics를 배우기 위해 콘텐츠에 몰두하기 전에 “분석�
 * **설명**: 여기에는 이전 데이터를 사용하여 조직의 비즈니스 추세를 파악하는 작업이 포함됩니다. 예를 들어, 소매업체는 성수기나 휴가철 전에 제품 수요를 예측해야 하며 비즈니스 목표를 달성하기 위해 최적의 재고가 필요합니다.
 * **진단**: 예상치 못한 결과에 대한 이유는 무엇입니까? 비수기에 제품이나 서비스에 대한 수요가 급증한 이유는 무엇입니까? 진단 분석은 수사적 분석의 더 자세한 형식이며 데이터에서 상관 관계를 도출하는 것을 목표로 합니다.
 * **예측**: 가능한 결과 또는 이벤트를 결정하기 위해 이전 데이터를 사용합니다. 머신 러닝(ML)과 인공 지능(AI)은 일반적으로 보다 정확한 예측을 위해 사용됩니다. 고객 이탈은 예측 분석을 실제 적용할 수 있는 사례입니다. 이 분석은 이탈 가능성이 있는 고객의 속성을 식별하는 상관 관계를 찾아 이를 방지하기 위한 조치를 취할 수 있도록 합니다.
-* **규범**: 이것은 원하는 결과에 대한 가능성이 가장 높은 경로를 찾는 것을 목표로 하는 예측 분석의 고급 형식입니다. 이러한 분석 유형은 ML 및 AI 기술도 사용합니다. 소매업체는 규범적 분석을 사용하여 운영 방식을 변경하고 이윤을 향상시킵니다.
+* **규범**: 이것은 원하는 결과에 대한 가능성이 가장 높은 경로를 찾는 것을 목표로 하는 예측 분석의 고급 형식입니다. 이러한 분석 유형은 ML 및 AI 기술도 사용합니다. 소매업체는 처방적 분석을 사용하여 운영 방식을 변경하고 이윤을 향상시킵니다.
 
 ![data-analytics-types](../what-can-aa-do-for-me/assets/data_analytics_types.png)
 
 ## 데이터 분석의 역할
 
-데이터 분석은 비즈니스 분석에 사용되는 것과 동일한 기술을 많이 사용하지만 범위가 더 넓고 기본적으로 보다 전문적입니다. 예를 들어 빅 데이터 분석은 데이터의 품질과 구성을 필요로 합니다. 데이터가 얼마나 효율적으로 정렬, 저장 및 정리됩니까? 데이터 과학자는 데이터 분석 영역에서 일합니다. 이들은 비즈니스 분석가가 프로세스 및 지표를 최적화하기 위해 조직에 정보를 전달하는 데 사용하는 대규모 데이터 세트를 변환합니다. 데이터 과학자는 데이터를 심층 분석하여 추세와 연관성을 파악합니다.
+데이터 분석은 비즈니스 분석에 사용되는 것과 동일한 기술을 많이 사용하지만 범위가 더 넓고 본질적으로 더 기술적입니다. 예를 들어 빅데이터 분석은 데이터의 품질과 구성에 의존합니다. 데이터가 얼마나 효율적으로 정렬, 저장 및 정리됩니까? 데이터 과학자는 데이터 분석 영역에서 일합니다. 이들은 비즈니스 분석가가 프로세스 및 지표를 최적화하기 위해 조직에 정보를 전달하는 데 사용하는 대규모 데이터 세트를 변환합니다. 데이터 과학자는 데이터를 심층 분석하여 추세와 연관성을 파악합니다.
 
 ![data-analytics](../what-can-aa-do-for-me/assets/data_analytics.png)
 
@@ -68,11 +87,11 @@ Adobe Analytics를 배우기 위해 콘텐츠에 몰두하기 전에 “분석�
 
 Adobe Analytics는 고객 여정을 지원하고 데이터 분석을 위한 도구를 제공하는 다중 채널 디지털 경험에서 데이터를 수집하는 강력한 데이터 분석 플랫폼입니다. 일반적으로 마케팅 담당자와 비즈니스 분석가가 비즈니스 분석 용도로 사용하는 플랫폼입니다.
 
-비즈니스 요구 사항, 데이터 디자인 및 데이터 수집은 효과적인 분석 실행을 위한 핵심 요소입니다. 처음에 고객은 웹 및 모바일과 같은 기존 디지털 경험에 대해 주요 고객 여정과 원하는 비즈니스 결과에 대한 데이터를 수집하는 것으로 시작합니다. 데이터는 다음과 같은 질문에 대한 답을 도출합니다.
+비즈니스 요구 사항, 데이터 디자인 및 데이터 수집은 효과적인 분석 활동을 위한 핵심 요소입니다. 처음에 고객은 웹 및 모바일과 같은 기존 디지털 경험에 대해 주요 고객 여정과 원하는 비즈니스 결과에 대한 데이터를 수집하는 것으로 시작합니다. 데이터는 다음과 같은 질문에 대한 답을 도출합니다.
 
 * “방문자에게 인기 있는 콘텐츠 및 콘텐츠 유형은 무엇입니까?”
 * “매출, 예약, 리드 또는 구독과 같은 가치가 높은 전환으로 이어지는 경로는 무엇입니까?”
-* “재방문 고객과 첫 번째 방문 고객에게 어떤 제품, 서비스 또는 콘텐츠를 보여줘야 합니까?”
+* “알려진 방문자와 알려지지 않은 방문자에게 어떤 제품, 서비스 또는 콘텐츠를 보여줘야 합니까?”
 * “디지털 마케팅 채널의 성과는 어떻습니까?”
 
 ![analytics-business-requirements](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
@@ -81,8 +100,8 @@ Adobe Analytics에 데이터 기반이 수집되면 마케팅 담당자와 비�
 
 ![analytics-workspace-project](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 
-시간이 지남에 따라 고객은 CRM, 콜 센터, 오프라인 매장, 음성 도우미 등을 포함한 다른 채널 소스를 통해 기존 웹 및 모바일 데이터를 보강합니다. Adobe Analytics는 대부분의 채널 소스에서 데이터를 캡처하여 강력한 분석 데이터 기반을 구축하는 다양한 방법을 제공합니다.
+시간이 지남에 따라 고객은 CRM, 콜센터, 오프라인 매장, 음성 도우미 등을 포함한 다른 채널 소스를 통해 기존 웹 및 모바일 데이터를 보강합니다. Adobe Analytics는 거의 모든 채널 소스에서 데이터를 캡처하여 강력한 분석 데이터 기반을 구축하는 다양한 방법을 제공합니다.
 
-추가 데이터 세트를 수집하면 머신 러닝 또는 고급 데이터 모델(예: 마케팅 속성 및 예외 항목 탐지)을 사용하는 보다 강화된 유형의 규범적 데이터 분석을 수행할 수 있습니다.
+추가 데이터 세트를 수집하면 머신 러닝 또는 고급 데이터 모델(예: 마케팅 기여도 및 예외 항목 탐지)을 사용하는 보다 고급 유형의 규범적 데이터 분석을 수행할 수 있습니다.
 
-Adobe Analytics의 주요 이점과 기능을 안내하는 Experience League의 튜토리얼에 참여하는 것이 좋습니다.
+Adobe Analytics의 주요 이점과 기능을 안내하는 Experience League의 튜토리얼을 활용해 보시기 바랍니다.

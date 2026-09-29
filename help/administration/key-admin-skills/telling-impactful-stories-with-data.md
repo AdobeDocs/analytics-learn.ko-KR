@@ -8,25 +8,32 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: b7902626-fbce-4333-909f-60878cd3ac99
-TQID: https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io
+TQID: 'https://experienceleague.adobe.com/wqAesWvnsvDZbggAJjOckI10KoyIFpPkL52V4hwy7Io'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 91%
-
 ---
-
 # 데이터를 통해 깊은 인상을 주는 스토리 전달
 
 데이터 스토리텔링은 데이터, 시각화, 묘사를 사용하여 예술과 과학을 하나로 합치는 것입니다.  구성 요소를 활용해 깊은 인상을 주는 데이터 스토리를 만드는 세 가지 부분이 있습니다. 데이터를 통해 효과적으로 스토리를 전달하면 Analytics은 더 많은 대상자가 접근할 수 있게 되고 데이터 기반 결정으로 조직에 더 높은 가치를 가져다 줄 수 있습니다.
@@ -50,7 +57,7 @@ ht-degree: 91%
 
 ## 솔루션 제공
 
-추천 작업과 어떤 결과가 나올 수 있는지 설명합니다.  예상 비용 또는 변경하는 데 필요한 리소스 등에 대해 이해 당사자가 제대로 파악하고 결정할 수 있도록 충분한 정보를 제공했는지 확인합니다. 여기에 가장 효과적인 방법은 최소 하나 이상의 중요 KPI를 통해 가능한 영향력을 정량화하는 것입니다.
+권장되는 조치와 이를 실현하는 데 무엇이 필요한지 전달합니다.  예상 비용 또는 변경하는 데 필요한 리소스 등에 대해 이해 당사자가 제대로 파악하고 결정할 수 있도록 충분한 정보를 제공했는지 확인합니다. 여기에 가장 효과적인 방법은 최소 하나 이상의 중요 KPI를 통해 가능한 영향력을 정량화하는 것입니다.
 
 **Adobe Workspace 팁:** 분류 및/또는 계산된 지표 같은 도구를 사용하여 Adobe Analytics 내에서 직업 가능한 영향력을 정량화(Net Profit 또는 CLV 등 고려)하고 Adobe Workspace 내 요약 번호 또는 변경을 사용하여 멋지게 마무리 합니다!
 

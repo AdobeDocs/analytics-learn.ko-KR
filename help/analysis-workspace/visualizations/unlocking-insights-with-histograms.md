@@ -1,6 +1,6 @@
 ---
 title: 히스토그램을 통한 통찰력 확보, Analytics의 평균 이상
-description: 평균 이상의 인사이트를 얻기 위해 분석에서 히스토그램의 영향을 알아봅니다.
+description: 평균을 넘어서는 인사이트를 얻기 위해 분석에서 히스토그램의 영향을 알아봅니다.
 feature: Visualizations
 role: User
 level: Experienced
@@ -9,20 +9,30 @@ last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 8712b293-4d31-4a2b-ada3-59c20094b1d3
-TQID: https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc
+TQID: 'https://experienceleague.adobe.com/YsHPJO-w7ZhVlI-xuZfF5fYj0q3HQGoypJsUQfoc5oc'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1112
+source-wordcount: '1112'
 ht-degree: 3%
-
 ---
-
 # 히스토그램을 통한 통찰력 확보: Analytics의 평균 이상
 
 _평균 이상의 통찰력을 얻기 위해 분석에서 히스토그램의 영향을 알아봅니다. 히스토그램은 고객 행동, 방문자 참여, 기술 성능 및 양식 오류에서 데이터 패턴을 보여 주므로 Adobe Workspace에서 보다 심층적인 통찰력과 정보에 입각한 결정을 내릴 수 있습니다._

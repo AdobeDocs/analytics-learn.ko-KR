@@ -9,25 +9,34 @@ doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
-TQID: https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0
+TQID: 'https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 301
+source-wordcount: '301'
 ht-degree: 89%
-
 ---
-
 # 내부 Adobe Analytics 사이트 만들기 (Confluence 또는 기타)
 
 **내용:** [이 팁](create-basic-videos-and-training.md){target="_blank"}의 권장 사항에 따라 교육용 문서를 만드는 경우 하드 드라이브에 보관할 수 없습니다. 모든 사용자가 공유하고 볼 수 있는 중앙 위치, 즉 이러한 모든 문서를 게시하고 다양한 버전을 유지할 수 있는 내부 Adobe Analytics 사이트(Confluence 또는 기타)를 만드십시오.

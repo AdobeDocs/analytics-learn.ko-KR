@@ -7,30 +7,41 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-TQID: https://experienceleague.adobe.com/1hc-qwkUbXknyjldMed-IP-mmCW1lnEdMgI8rT1Irgc
+TQID: 'https://experienceleague.adobe.com/1hc-qwkUbXknyjldMed-IP-mmCW1lnEdMgI8rT1Irgc'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Security
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 368
+source-wordcount: '368'
 ht-degree: 76%
-
 ---
-
 # Adobe Analytics 학습 여정을 계속하기 위한 고객 팁
 
-이 문서에서는 Adobe Analytics에서 가장 훌륭한 가치를 얻을 수 있는 팁 및 요령을 소개하는 3명의 Adobe 고객을 만나봅니다.
+이 문서에서는 Adobe Analytics를 최대한 활용하는 방법에 대한 팁과 요령을 알려 주는 3명의 Adobe 고객을 만나봅니다.
 
 ## Adobe Analytics 학습 여정을 계속하는 방법
 
@@ -42,7 +53,7 @@ ht-degree: 76%
 
 | 고객:<br>Jason Jamnik | Follett Corporation의 분석 관리자 |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **이것은 제가 Adobe Analytics 사용에 있어서 전문가가 되기 위해 사용한 리소스입니다.** <br> “기초 단계에 멈춰 있지 마십시오. Adobe Analytics의 기본 사항을 마스터했다면 여러분은 배움을 계속하여 더욱 복잡한 사용 사례를 수행할 준비가 된 것입니다. 다음은 Follett에서 새로운 분석가가 팀에 합류할 때 알려 주는 팁과 제가 사용한 리소스입니다.&quot;<br><br>[Jason의 팁 읽기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226?profile.language=ko) |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **이것은 제가 Adobe Analytics 사용에 있어서 전문가가 되기 위해 사용한 리소스입니다.** <br> “기초 단계에 멈춰 있지 마십시오. Adobe Analytics의 기본 사항을 마스터했다면 여러분은 배움을 계속하여 더욱 복잡한 사용 사례를 수행할 준비가 된 것입니다. 다음은 Follett에서 새로운 분석가가 팀에 합류할 때 알려 주는 팁과 제가 사용한 리소스입니다.&quot;<br><br>[Jason의 팁 읽기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
 
 | 고객:<br>Sam Liss | Equinox의 분석 엔지니어 |
 |------------|------------|

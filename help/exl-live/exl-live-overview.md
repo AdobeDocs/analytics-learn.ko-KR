@@ -6,13 +6,26 @@ role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: 4b4600cb7bae5c546a9e8cd4d7241e334b681387
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '207'
 ht-degree: 100%
-
 ---
-
 # Experience League LIVE
 
 ## 다음 에피소드에 참여하세요!

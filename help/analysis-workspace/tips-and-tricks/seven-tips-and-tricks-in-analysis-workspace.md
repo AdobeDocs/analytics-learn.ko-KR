@@ -10,46 +10,68 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+TQID: 'https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1072
+source-wordcount: '1052'
 ht-degree: 91%
-
 ---
-
 # 맞춤형 분석 프로젝트 제작을 더 빠르고 간편하게 만드는 7가지 팁 및 요령
 
 **Analysis Workspace 스킬 세트를 확장해 보십시오.**
 Analysis Workspace는 더욱 영향력 있는 분석 프로젝트 제작에 도움이 되는 Adobe Analytics의 강력한 도구입니다. 모든 종류의 자유 형식 분석을 수행할 수 있는 다양한 기능 세트와 더불어 이러한 성능과 확장성에 액세스할 수 있는 사용자 경험을 제공합니다.
 
-## 빌드: 올바른 데이터 포인트로 드릴 다운
+## 작성: 올바른 데이터 포인트로 드릴 다운
 
 ### ***팁 1: 프로젝트의 부분에 [!UICONTROL 차원], [!UICONTROL 날짜 범위], [!UICONTROL 세그먼트] 또는 [!UICONTROL 지표]를 드롭***
 
@@ -71,7 +93,7 @@ Analysis Workspace는 더욱 영향력 있는 분석 프로젝트 제작에 도�
 >
 >**유용한 힌트:** 빠른 [!UICONTROL 계산된 지표] 사용 시 최대 2개의 [!UICONTROL 지표] 열을 선택할 수 있습니다. [!UICONTROL 계산된 지표] 빌더를 사용하여 2개 이상의 [!UICONTROL 지표]가 포함된 [!UICONTROL 지표]를 생성할 수 있습니다.
 
-## 시각화: 프로젝트 내 데이터를 현실화하기
+## 시각화: 프로젝트 내 데이터에 생동감 불어넣기
 
 ### ***팁 3: 원하는 위치에 시각화 및 패널 복사 및 삽입***
 
@@ -89,7 +111,7 @@ Analysis Workspace는 더욱 영향력 있는 분석 프로젝트 제작에 도�
 
 >[!VIDEO](https://video.tv.adobe.com/v/30884/?captions=kor&quality=12&learn=on)
 
-## 공유: 다른 사용자가 발견한 내용을 쉽게 사용하고 이해할 수 있도록 지원
+## 공유: 다른 사용자가 결과를 쉽게 사용하고 이해할 수 있도록 지원
 
 ### ***팁 5: 특정 비즈니스 단위에 대해 맞춤형 [!DNL Virtual Report Suite] 생성***
 
@@ -109,7 +131,7 @@ Adobe Analytics에서는 많은 양의 데이터를 수집합니다. [!DNL Virtu
 
 >[!TIP]
 >
->**유용한 힌트:** 몇 가지 방법으로 연결을 통해 독자의 경험을 향상시킬 수 있습니다. 독자에게 프로젝트의 발견 내용 및 권장 사항과 일치하는 일러스트레이션을 지정할 수 있습니다. 또는 콘텐츠 테이블에서 관심 있는 섹션으로 바로 이동하도록 할 수도 있습니다. 귀하의 분석과 관련이 있는 다른 사용자의 프로젝트로 연결할 수도 있습니다.
+>**유용한 힌트:** 몇 가지 방법으로 연결을 통해 독자의 경험을 향상시킬 수 있습니다. 독자에게 프로젝트의 발견 내용 및 권장 사항과 일치하는 일러스트레이션을 지정할 수 있습니다. 또는 목차에서 관심 있는 섹션으로 바로 이동하도록 할 수도 있습니다. 귀하의 분석과 관련이 있는 다른 사용자의 프로젝트로 연결할 수도 있습니다.
 
 ### ***팁 7: 재사용 가능한 사용자 정의 템플릿으로 프로젝트 저장***
 
