@@ -53,7 +53,7 @@ ht-degree: 76%
 
 | 고객:<br>Jason Jamnik | Follett Corporation의 분석 관리자 |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **이것은 제가 Adobe Analytics 사용에 있어서 전문가가 되기 위해 사용한 리소스입니다.** <br> “기초 단계에 멈춰 있지 마십시오. Adobe Analytics의 기본 사항을 마스터했다면 여러분은 배움을 계속하여 더욱 복잡한 사용 사례를 수행할 준비가 된 것입니다. 다음은 Follett에서 새로운 분석가가 팀에 합류할 때 알려 주는 팁과 제가 사용한 리소스입니다.&quot;<br><br>[Jason의 팁 읽기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **이것은 제가 Adobe Analytics 사용에 있어서 전문가가 되기 위해 사용한 리소스입니다.** <br> “기초 단계에 멈춰 있지 마십시오. Adobe Analytics의 기본 사항을 마스터했다면 여러분은 배움을 계속하여 더욱 복잡한 사용 사례를 수행할 준비가 된 것입니다. 다음은 Follett에서 새로운 분석가가 팀에 합류할 때 알려 주는 팁과 제가 사용한 리소스입니다.&quot;<br><br>[Jason의 팁 읽기](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226?profile.language=ko) |
 
 | 고객:<br>Sam Liss | Equinox의 분석 엔지니어 |
 |------------|------------|

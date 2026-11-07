@@ -40,6 +40,6 @@ ht-degree: 100%
 
 [항목을 CSV로 다운로드] 옵션을 사용하면 세그먼트 및 필터가 적용된 자유 형식 테이블의 차원에 대해 최대 50,000개의 항목을 다운로드할 수 있습니다. 페이지 매김 전 UI에 최대 400개의 항목이 계속 표시되지만, 이 옵션을 사용하면 Analysis Workspace 외부에 있는 더 많은 데이터 행에 액세스할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507367/?captions=kor&quality=12&learn=on)
 
 [설명서](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=ko)에서 자세히 알아보십시오.
