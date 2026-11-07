@@ -35,4 +35,4 @@ ht-degree: 100%
 
 모든 페이지에서 수집된 데이터 외에도 특정 페이지에서 수집해야 하는 다른 데이터가 있습니다. 이 비디오는 이러한 데이터와 일반 데이터를 병합하여 Adobe Analytics로 전송하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507501/?captions=kor&quality=12&learn=on)

@@ -42,6 +42,6 @@ ht-degree: 16%
 
 분석에 맞게 구성하는 방법을 포함하여 Adobe Analytics의 실시간 보고서에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507457/?captions=kor&quality=12&learn=on)
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=ko)를 참조하십시오.

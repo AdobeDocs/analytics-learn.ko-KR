@@ -32,4 +32,4 @@ ht-degree: 0%
 
 이 비디오는 가상 보고서 세트의 방문 설정을 사용하여 이벤트를 사용하여 Adobe Analytics에서 새 방문을 트리거하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507550/?captions=kor&quality=12&learn=on)

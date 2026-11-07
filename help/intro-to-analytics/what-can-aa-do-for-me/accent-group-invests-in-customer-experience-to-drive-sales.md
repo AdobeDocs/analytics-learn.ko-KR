@@ -46,4 +46,4 @@ ht-degree: 100%
 
 호주에서 가장 큰 신발 소매점인 [!DNL Accent Group]은 물리적 및 디지털 접점에 걸쳐 우수한 고객 경험을 제공함으로써 판매 및 전환을 확대합니다. [!DNL Accent Group]이 Adobe Experience Cloud를 사용하여 원활한 디지털 경험을 생성하는 방법을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507267/?captions=kor&quality=12&learn=on)

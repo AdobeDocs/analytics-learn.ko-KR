@@ -38,6 +38,6 @@ ht-degree: 52%
 
 [!DNL Data Warehouse]에서 외부 Adobe Analytics의 데이터를 대중화하고 결합할 수 있도록 TDE(타블로 데이터 추출) 파일 형식으로 보고서를 전달하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507431/?captions=kor&quality=12&learn=on)
 
 이 기능에 대한 자세한 내용은 [설명서](https://experienceleague.adobe.com/ko/docs/analytics/export/data-warehouse/t-tableau)를 참조하십시오.
